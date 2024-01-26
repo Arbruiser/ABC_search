@@ -77,7 +77,7 @@ def test_query(query):
 # SCALING UP TO LARGER DOC COLLECTIONS
 #print(sparse_matrix.tocsc())
 #print(sparse_matrix.T)
-#sparse_td_matrix = sparse_matrix.T.tocsr() #makes the matrix ordered by terms, not documents
+sparse_td_matrix = sparse_matrix.T.tocsr() #makes the matrix ordered by terms, not documents
 #print(sparse_td_matrix)
 
 
