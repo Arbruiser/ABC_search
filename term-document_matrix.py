@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 # NEED TO ADD OUR DOCS INSTEAD
-documents = ["This is a silly example",
-             "A better example",
-             "Nothing to see here",
-             "This is a great and long example"]
+with open('sample_static.txt', 'r') as f:
+    content = f.read()
+
+documents = content.split('\n\n')
 
 # Need to have sklearn installed
 from sklearn.feature_extraction.text import CountVectorizer
@@ -62,7 +62,7 @@ sparse_td_matrix = sparse_matrix.T.tocsr() #makes the matrix ordered by terms, n
 def rewrite_token(t):
     return d.get(t, 'sparse_td_matrix[t2i["{:s}"]].todense()'.format(t)) # Make retrieved rows dense
 
-input("Make a query with operands:", user_query)
+user_query = input("Make a query with operands:")
 test_query(str(user_query))
 
 
