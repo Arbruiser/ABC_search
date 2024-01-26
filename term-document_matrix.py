@@ -4,7 +4,7 @@
 with open('sample_static.txt', 'r') as f:
     content = f.read()
 
-documents = content.split('\n\n')
+documents = content.split('\n\n') # makes a list of our docs
 
 # Need to have sklearn installed
 from sklearn.feature_extraction.text import CountVectorizer
@@ -19,14 +19,14 @@ td_matrix = dense_matrix.T   # .T transposes the matrix
 
 terms = cv.get_feature_names_out()
 
-print("\nterm -> IDX mapping:\n") # for testing
-print(cv.vocabulary_) # note the _ at the end
+#print("\nterm -> IDX mapping:\n") # for testing
+#print(cv.vocabulary_) # note the _ at the end
 
 
 # SEARCHING
 t2i = cv.vocabulary_  # shorter notation: t2i = term-to-index
-print("Query: example")
-print(td_matrix[t2i["example"]])
+#print("Query: example")
+#print(td_matrix[t2i["example"]])
 
 
 # QUERY PARSING
@@ -45,7 +45,7 @@ def rewrite_token(t):
 def rewrite_query(query): # rewrite every token in the query
     return " ".join(rewrite_token(t) for t in query.split())
 
-def test_query(query):
+def run_query(query):
     print("Query: '" + query + "'")
     print("Rewritten:", rewrite_query(query))
     print("Matching:", eval(rewrite_query(query))) # Eval runs the string as a Python command
@@ -62,22 +62,22 @@ sparse_td_matrix = sparse_matrix.T.tocsr() #makes the matrix ordered by terms, n
 def rewrite_token(t):
     return d.get(t, 'sparse_td_matrix[t2i["{:s}"]].todense()'.format(t)) # Make retrieved rows dense
 
-user_query = input("Make a query with operands:")
-test_query(str(user_query))
 
+while True:
+	user_query = input("Make a query with operands:")
+	if user_query=="":
+		break
+	run_query(str(user_query))
+	# SHOW RETRIEVED DOCUMENTS
+	hits_matrix = eval(rewrite_query(user_query))
+	print("Matching documents as vector (it is actually a matrix with one single row):", hits_matrix)
+	print("The coordinates of the non-zero elements:", hits_matrix.nonzero())
 
+	hits_list = list(hits_matrix.nonzero()[1])
+	print(hits_list)
 
+	for doc_idx in hits_list:
+		print("Matching doc title:", documents[doc_idx])
 
-# SHOW RETRIEVED DOCUMENTS
-hits_matrix = eval(rewrite_query("NOT example OR great"))
-print("Matching documents as vector (it is actually a matrix with one single row):", hits_matrix)
-print("The coordinates of the non-zero elements:", hits_matrix.nonzero())
-
-hits_list = list(hits_matrix.nonzero()[1])
-print(hits_list)
-
-for doc_idx in hits_list:
-    print("Matching doc:", documents[doc_idx])
-
-for i, doc_idx in enumerate(hits_list):
-    print("Matching doc #{:d}: {:s}".format(i, documents[doc_idx]))
+	for i, doc_idx in enumerate(hits_list):
+    		print("Matching doc #{:d}: {:s}".format(i, documents[doc_idx]))
