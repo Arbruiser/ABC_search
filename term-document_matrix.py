@@ -10,38 +10,17 @@ documents = ["This is a silly example",
 from sklearn.feature_extraction.text import CountVectorizer
 
 
-# Make a matrix of our terms
+# Make a matrix of our terms and convert it to dense
 cv = CountVectorizer(lowercase=True, binary=True)
 sparse_matrix = cv.fit_transform(documents)
-#print("Term-document matrix: (?)\n")
-#print(sparse_matrix)
-
-
 dense_matrix = sparse_matrix.todense()
-#print("Term-document matrix: (?)\n")
-#print(dense_matrix)
-
 
 td_matrix = dense_matrix.T   # .T transposes the matrix
-#print("Term-document matrix:\n")
-#print(td_matrix)
-
-
-#print("\nIDX -> terms mapping:\n")
-#print(cv.get_feature_names_out()) # prints the words in the order they are in the matrix
-
 
 terms = cv.get_feature_names_out()
-#print("First term (with row index 0):", terms[0])
-#print("Third term (with row index 2):", terms[2])
 
-
-print("\nterm -> IDX mapping:\n")
+print("\nterm -> IDX mapping:\n") # for testing
 print(cv.vocabulary_) # note the _ at the end
-
-
-#print("Row index of 'example':", cv.vocabulary_["example"]) # can be used for testing, but we should add input() from the user
-
 
 
 # SEARCHING
@@ -75,16 +54,16 @@ def test_query(query):
 
 
 # SCALING UP TO LARGER DOC COLLECTIONS
-#print(sparse_matrix.tocsc())
+#print(sparse_matrix.tocsc()) # to check different matrices
 #print(sparse_matrix.T)
 sparse_td_matrix = sparse_matrix.T.tocsr() #makes the matrix ordered by terms, not documents
 #print(sparse_td_matrix)
 
-
 def rewrite_token(t):
     return d.get(t, 'sparse_td_matrix[t2i["{:s}"]].todense()'.format(t)) # Make retrieved rows dense
 
-test_query("NOT example OR great")
+input("Make a query with operands:", user_query)
+test_query(str(user_query))
 
 
 
