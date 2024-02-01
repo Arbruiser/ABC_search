@@ -218,3 +218,286 @@ Dr. Osadchiy said a deeper understanding of the relationship between the semen m
 “I wouldn’t be surprised if what is good for the body in general is also good for the semen microbiome,” Dr. Osadchiy added.
 Despite the lack of understanding of the relationship between the semen and gut microbiome, both Dr. Osadchiy and Dr. Gupta recommended prioritizing healthy lifestyle choices to improve sperm quality and motility. These include:
 Dr. Gupta also noted the value of abstaining from alcohol and smoking and following a diet rich in antioxidants and probiotic foods.
+
+https://www.medicalnewstoday.com/articles/migraine-increased-risk-of-ibd-inflammatory-bowel-disease-study
+Migraine linked to increased risk of IBD in new study
+More than 1 billion people around the world have at least one migraine attack each year.
+Previous research shows that migraine can potentially increase a person’s risk for several health issues, including gastrointestinal conditions.
+New research from Seoul National University College of Medicine in South Korea says there may also be a link between migraine and an increased risk for inflammatory bowel disease (IBD).
+More than 1 billion people globally have at least one migraine attack each year.
+Previous studies show that migraine can potentially increase a person’s risk for other conditions, including stroke, heart disease, epilepsy, sleeping issues, and anxiety and depression.
+Migraine has also been linked to some gastrointestinal conditions, including irritable bowel syndrome (IBS).
+Now, researchers from Seoul National University College of Medicine in South Korea say there may also be a link between migraine and an increased risk for irritable bowel disease (IBD), which is an umbrella term that includes Crohn’s disease and ulcerative colitis.
+The study was recently published in the journal Scientific Reports.
+Migraine and IBD: An unsurprising connection
+According to Dr. Brooks D. Cash, professor and chief of the division of Gastroenterology, Hepatology, and Nutrition at UTHealth Houston in Texas, who was not involved in this study, the field of gastroenterology has recognized for many years that migraine has been associated with many chronic gastrointestinal syndromes and diseases.
+“The data in this report supports previous reports of an association between migraine headaches and IBD,” Dr. Cash told Medical News Today.
+Dr. Rudolph Bedford, a board-certified gastroenterologist at Providence Saint John’s Health Center in Santa Monica, CA, who was also not involved in this study, told MNT that the research results were not surprising.
+“[With] inflammatory bowel disease we do see some extra-intestinal manifestations including things involving the eye or ocular findings, which may be neurogenic in nature, so it wasn’t surprising,” Dr. Bedford added.
+This is not the first study to look at a connection between migraine and IBD.
+A study published in March 2021 of people in the United States found a higher prevalence of migraine or severe headaches among adults with IBD than in those without.
+Research published in March 2023 reported an increased prevalence of IBD in people with migraine with and without aura.
+Could migraine increase risk of inflammatory bowel disease?
+For the current study, researchers analyzed data from more than 10 million people through the nationwide healthcare system for South Korean citizens. About 3% of the study population had IBD.
+Through the data, scientists found the incidence of IBD was significantly higher in people who had migraine compared to those who did not.
+Scientists also reviewed the data through subgroups of Crohn’s disease and ulcerative colitis incidences. People with migraine in both subgroups had a higher risk of developing either condition when compared to people without migraine.
+After a migraine diagnosis, researchers found people were at a higher risk of developing Crohn’s disease, with a significant rise after a 5-year follow-up.
+Additionally, within the subgroups, scientists reported that the impact of migraine on the risk of developing ulcerative colitis was more prominent in men than women.
+Study results not definitive
+Based on these findings, the research team suggests that people with migraine be monitored carefully for the development of IBD.
+However, Dr. Cash stated that the data presented do not convincingly support that approach or recommendation.
+“The odds ratios that were reported in this study, which can be thought of as the increased odds of an outcome (e.g., developing IBD) with a given exposure (e.g., migraine headaches), were consistently between one to two, which is not far from definitive and can be easily misinterpreted or misrepresented,” he explained.
+“The results are, at best, suggestive of an association between migraines and IBD, which we were already aware of based on previous research and deserve to be further evaluated. However, the minimal increase in the odds of developing IBD reported in this study is not sufficient to recommend increased monitoring of patients with migraines for the development of Crohn’s disease or ulcerative colitis.”
+– Dr. Brooks D. Cash
+Importance of identifying potential IBD triggers
+Dr. Bedford said it is important to identify potential health issues that may trigger IBD, as a doctor may be able to mitigate the symptoms of IBD if they know what may be associated with it.
+“Migraines can be very debilitating and you may want to identify those people with migraines,” he continued. “We don’t normally question patients with inflammatory bowel disease whether or not they have migraine headaches, so it probably rates as something that should be done more frequently.”
+“These results add to an already relatively robust body of research suggesting that chronic pain syndromes are statistically more common in patients with chronic GI syndromes or diseases,” Dr. Cash said.
+“We do not have enough information or proof yet to establish a causal relationship either way. But this data can be used to explain some therapeutic approaches that may benefit both GI and neurologic symptoms in patients with migraines,” he added.
+Research next steps
+Regarding the next steps for this research, Dr. Cash said that mechanistic data evaluating the possible reasons for these consistent observations of association is needed.
+“Right now, all we have are hypotheses,” he continued. “Are there changes in the gut-brain communication pathways or sensory perceptions in the enteric and central nervous systems? Is the gut microbiome involved? Are there psychological and stress-mediated factors at play?”
+“Once clinical relationships such as these have been identified, we need to move toward trying to explain why those relationships may exist,” Dr. Cash added. “That, in turn, may lead us to develop more targeted and effective therapies that can address multiple symptoms/syndromes.”
+Dr. Bedford suggested researchers look for an association between IBD flares and migraine occurring at the same time. As migraine is associated with serotonin release, he encouraged researchers to examine how the serotonin transporters within the GI tract, small bowel, and colon might play a role.
+“I think just questioning our patients in terms of quality of life issues — is there any way that we can mitigate their migraine headaches, potentially preventing their inflammatory bowel disease flare, or vice versa, is certainly something to look into,” Dr. Bedford said.
+
+https://www.medicalnewstoday.com/articles/long-covid-fatigue-linked-to-malfunctioning-mitochondria
+Long COVID fatigue linked to malfunctioning mitochondria
+At least 65 million people globally have long COVID.
+The most common symptoms of long COVID include post-exertional malaise, cognitive impairment, brain fog, sleep problems, and fatigue, which can have a severe impact on a person’s life.
+Researchers are still unsure why some people develop long COVID and its symptoms while others do not.
+Researchers from the Amsterdam University Medical Center have discovered that the fatigue experienced by those with long COVID has a physical cause.
+At least 65 million people around the world have long COVID, a condition where they continue to experience COVID-19 symptoms for months after their symptoms originally start.
+The most common symptoms of long COVID are fatigue, dizziness, mobility issues, sleep problems, cognitive impairment, and brain fog or inability to concentrate.
+These types of lingering symptoms can have a profound impact on a person’s life. A study published in June 2023 found more than half of people with long COVID reported their work, home, social, and private lives were severely impacted by the symptoms, with fatigue being the main problem.
+Scientists are still unsure as to why some people develop long COVID and its symptoms while others do not.
+Now researchers from the Amsterdam University Medical Center are helping to provide some answers with their new study — recently published in the journal Nature Communications — that found the fatigue experienced by those with long COVID has a physical cause.
+Impact of long COVID fatigue on life quality
+Prof. Michèle van Vugt, professor of internal medicine at the Amsterdam University Medical Center and co-lead author of this study, told Medical News Today she and her colleagues decided to look for a physical cause of the tiredness experienced by people with long COVID because of the impact it has on their lives.
+“Those long COVID patients used to be like you and me totally integrated [into] society with a job, social life, and private life,” Prof. van Vugt explained. “After their COVID infection, for some of them, nothing was left because of their extreme fatigue. And this happened not only in one patient but many more — too many for only [a] psychological cause.”
+Past studies report that fatigue is the most common symptom reported by people who have long COVID.
+A study published in December 2023 found that people with long COVID self-report persistently continuously low levels of health-related quality of life, as well as a high level of disability and declined levels of physical and mental health.
+And research published in April 2023 reported that fatigue caused by long COVID may cause structural changes to the brain.
+Lowered mitochondrial function
+For this study, Prof. van Vugt and her team recruited 25 people with long COVID and 21 healthy control participants. They were all asked to take a cycling test for approximately 15 minutes, that was designed to push them to maximum exertion.
+According to researchers, the cycling test caused a worsening of symptoms in the participants with long COVID, known as post-exertional malaise (PEM), resulting in worsening of fatigue for up to 7 days after.
+Scientists examined blood and muscle tissue samples from all participants both one week before the cycling test and one day after.
+They found various abnormalities in the muscle tissue of the participants with long COVID, including lowered functioning of the mitochondria of the muscle. Known as the “powerhouse of the cell,” mitochondria are responsible for making the energy needed to power the body’s cells.
+“So, the cause of the fatigue is really biological,” Prof. van Vugt explained. “The brain needs energy to think. Muscles need energy to move. This discovery means we can now start to research an appropriate treatment for those with long COVID.”
+Tailored exercises: Good or bad for long COVID?
+Prof. van Vugt said the the research team was surprised by their study’s findings related to muscle tissue abnormalities.
+“However, we [could then] understand much better the symptoms of fatigue in the patients,” she added.
+When asked about the next steps planned for this research, Prof. van Vugt said they plan to examine whether the same muscle alterations can be found in other post-infectious patients to hopefully uncover the cause of these changes in the muscle, leading to proof of concept studies for treatment.
+“Doctors should acknowledge the complaints of long COVID patients and we should advise very carefully about performing tailored exercises. And as researchers, we should support our medical colleagues with our gained knowledge to support patients with their symptoms and in the meantime [try] to discover a biomarker as a diagnostic tool plus finally a treatment.”
+– Prof. Michèle van Vugt
+A condition that is challenging to treat
+MNT also spoke with Dr. David Cutler, a board-certified family medicine physician at Providence Saint John’s Health Center in Santa Monica, CA, about this study. Dr. Cutler was not involved in the research.
+Dr. Cutler commented that the topic of long COVID sparks controversy and strong emotions because it remains poorly defined, difficult to diagnose, and challenging to treat.
+“Despite scientific consensus about its existence, the lack of a definitive diagnostic test and its variable presentation continues to make many skeptical of its existence,” he explained. “As a clinician, [I find that] this [research] is helpful in reassuring long COVID sufferers that what they are experiencing is physically real, and not merely psychological.”
+“Lacking a specific cure for this condition, the most important treatment physicians can provide is reassurance,” Dr. Cutler continued.
+“Patients must be allowed [an] opportunity to present their symptoms to a receptive physician, they must be thoroughly evaluated to exclude other conditions, the diagnosis of long COVID should then be specifically endorsed, patients need to be informed of the generally favorable long-term prognosis, and adequate follow-up provided. This is the basis for optimal reassurance.”
+– Dr. David Cutler
+Regarding fatigue, Dr. Cutler said a program of graded exercise to avoid worsening symptoms seems to be best.
+“However, at this point, the findings of this one study of just 25 patients does not significantly enhance our ability to treat these patients’ complaints of fatigue,” he added. “But it does help to explain their symptoms which aids in reassurance and lessens anxiety. Future research could be aimed at attempts to lessen fatigue with various regimens of exercise, nutritional support, and emotional therapy to ease the suffering of those with long COVID.”
+
+https://www.medicalnewstoday.com/articles/could-statins-help-slow-down-the-development-of-dementia-symptoms
+Could statins help slow down the development of dementia symptoms?
+Statins are a drug that reduces cholesterol in the bloodstream, and while they were initially designed to prevent heart disease and cardiac events, they are increasingly being used to prevent other conditions linked to cholesterol.
+Some researchers believe that the most common forms of dementia may be caused in part by changes to cholesterol metabolism and blood flow to the brain.
+A longitudinal cohort study of older adults with dementia in Sweden has shown that statin use is linked to improved cognition over a period of three years, with some statins performing better than others.
+Every year there are 10 million new dementia cases, according to the World Health Organization (WHO), but few treatment or prevention options available.
+The most common form of dementia is Alzheimer’s disease, which is characterized by a build-up of betamyloid plaques and tau peptide tangles in the brain.
+The second most common cause of dementia is vascular dementia, which is caused when blood vessels in the brain get blocked, reducing blood flow to the region.
+It can occur after a stroke, but individuals do not have to have a stroke to have vascular dementia. It is also possible that Alzheimer’s disease and vascular dementia can co-occur.
+What is cholesterol’s role in dementia?
+High cholesterol is linked to both Alzheimer’s disease and vascular dementia, particularly in men. Researchers hypothesize that cholesterol dysregulation prevents the normal breakdown of cholesterol in the body, leading to levels of low density lipoprotein cholesterol rising to levels that can cause various problems.
+This could lead to atherosclerosis, which can increase the risk of vascular dementia, and it could also dysregulate the take up of the tau protein, which could accelerate its accumulation in the brain, a characteristic of Alzheimer’s disease.
+That is also why statins could help decrease dementia risk in some cases. Statins are a drug that has been used for decades to reduce cholesterol levels in the blood, primarily with the aim of reducing heart disease and resulting cardiac events.
+Dr. Clifford Segil, a neurologist at Providence Saint John’s Health Center in Santa Monica, CA, told Medical News Today:
+“In patients with memory loss one of the most common types of dementia is vascular dementia or multi-infarct dementia and any medication which lowers cardiovascular and cerebrovascular risk factors like a statin, would lower patient’s chances of getting this type of dementia.”
+Do statins help fight dementia symptoms?
+Researchers from Karolinska University Hospital in Stockholm, Sweden, have recently looked at the Swedish Registry for Cognitive/Dementia Disorders (SveDem) to determine if statin use had an impact on cognition in older adults.
+The results of their study are reported in a paper published in the journal Alzheimer’s Research and Therapy.
+They investigated the records of 15,586 individuals with different forms of dementia, with an average age of 79.5 years at diagnosis, 10,869 of whom took statins. Data were collected from 2007, and all patients were followed until death, emigration or end of follow-up.
+Dr. Sara Garcia-Ptacek, assistant professor and neurologist at the Cognitive Clinic, Karolinska University Hospital, lead researcher and lead author of the study, told MNT that “[t]he potential neuroprotective effects of statins have been discussed for a long time.“
+“There were some clinical studies which were negative and some observational studies showing an association with dementia prevention and/or progression. SveDem is the world’s largest clinical dementia cohort and the indication and types of patients receiving statins have changed over time,“ she added. “We wanted to check what the association was between statin use and cognition in patients with Alzheimer’s in the SveDem cohort.”
+Researchers for the SveDem used a mini-mental state examination (MMSE) to evaluate cognition and this data was recorded. Researchers for this paper analysed the scores recorded at baseline and follow-ups. Data from the cohort was disaggregated into the different types of statin taken by participants. Findings were adjusted for demographic characteristics, comorbidities and medications other than statins.
+The researchers found that overall, statin users who took one defined daily dose of statins on average had a 0.63 more MMSE points after 3 years of follow-up compared to those who did not use statins.
+Simvastatin, which was the most prescribed statin in Sweden at the time, was associated with 1.01 more MMSE points after 3 years compared to atorvastatin users. Patients under 79.5 years when diagnosed who took simvastatin had 0.80 more MMSE points compared to younger atorvastatin users after 3 years. Simvastatin users had 1.03 more MMSE points compared to rosuvastatin users after 3 years.
+Statins are safe to take in dementia
+The study confirmed that, despite previous concerns that statins could cause confusion, that they are in fact safe in this group of older patients with dementia, and do not contribute to cognitive decline, said Dr. Segil.
+Dr Garcia-Ptacek said: “Our current hypothesis is that these two things may be simultaneously true: acute changes when starting statins — for example, in brain cholesterol — could potentially cause confusion in sensitive individuals while the long-term effects could be protective. However, this is just an hypothesis which will need to be confirmed in future studies”
+Further research needed to be done to determine the mechanism that could underlie these findings, she explained, adding:
+“We need to examine how statins affect cholesterol, brain cholesterol and brain connectivity, and how the effects change with short or long-term treatment. We need to understand which patients potentially benefit from statins, if at all, in order to design a targeted clinical trial. We need to know how different genotypes (e.g. ApoE) modify this response. ApoE is a cholesterol transporter and the genetic [risk of Alzheimer’s the] allele ApoE4 confers [is higher].”
+Dr. Segil, who was not involved in this research, said he wanted to see more data comparing the different types of statin: “This study investigated three different generic cholesterol-lowering medications, or ‘statins,’ which include rosuvastatin, simvastatin, and atorvastatin. I am intrigued to see long term follow-up in the patients who received these three medications to see if data supports neurologists like me using one of these over another [drug], due to data indicating one statin helps prevent memory loss more than another.“
+“As a family of medications, statins often are not [well] tolerated, and rosuvastatin in clinical practice is better tolerated than atorvastatin, and I would be interested in seeing if rosuvastatin helped patients with memory loss in a follow-up study head to head with atorvastatin,” he pointed out.
+
+https://www.medicalnewstoday.com/articles/stroke-increase-dementia-risk-3-times-higher-in-first-year
+Stroke could increase dementia risk by 80%, new research finds
+Each year, about 15 million people around the world have a stroke.
+Past studies show having a stroke can increase a person’s risk for certain diseases, such as dementia.
+Researchers from McMaster University report having a stroke increases a person’s dementia risk by 80%, even after accounting for other dementia risk factors.
+Scientists also found dementia risk was three times higher in the first year after a stroke.
+Each year, about 15 million people around the world have a stroke — a condition where a blood vessel leading to the brain is blocked or bursts, causing a lack of oxygen to the brain.
+Of that number, researchers estimate about half will live with a permanent or chronic disability, such as paralysis on one side of the body, communication difficulties, memory loss, or problems with gripping or holding items.
+Past studies also show that having a stroke can increase a person’s risk for diseases such as vision issues, depression, post-stroke fatigue, trouble swallowing, cancer, and dementia.
+Now, new research presented at the American Stroke Association’s International Stroke Conference 2024 reports that having a stroke increased a person’s dementia risk by 80%, even after accounting for other dementia risk factors. The findings have yet to be published in a peer-reviewed journal.
+Researchers also found dementia risk was three times higher in the first year after a stroke.
+This risk decreased to a 1.5-times increased risk by five years after a stroke and remained elevated 20 years later.
+What is the link between stroke and dementia?
+During a stroke, the oxygen flow is cut off to the brain. This can result in the death of brain cells, causing dementia. Vascular dementia is a type of dementia caused by reduced blood flow to the brain.
+However, past studies show having a stroke can also increase a person’s risk for another type of dementia, known as Alzheimer’s disease, as well as all-cause dementia.
+Dr. Raed Joundi is an assistant professor at McMaster University in Hamilton, Ontario, Canada, an investigator at the Population Health Research Institute, a joint institute of McMaster University and Hamilton Health Sciences, an adjunct scientist at ICES, and the lead author of this study.
+Dr. Joundi told Medical News Today that the researchers decided to further investigate the link between stroke and increased dementia risk because, with an aging population, more people are experiencing stroke, and an increasing number of people are surviving the consequences of stroke.
+“Cognitive impairment is very common after stroke and may lead to dementia, which lowers quality of life and decreases life expectancy. It is important to show a direct link between stroke and dementia, and investigate the timing of dementia after stroke, to inform the research, planning, and delivery of interventions.”
+– Dr. Joundi
+Increased dementia risk among people who had a stroke
+For this study, Dr. Joundi and his team analyzed data from more than 15 million people in Ontario, Canada through medical databases. About 181,000 people were identified as having either an ischemic stroke (stroke caused by a clot in arteries around the brain) or intracerebral hemorrhage (burst blood vessel in the brain) who survived without dementia for at least 90 days.
+The stroke participants were matched to two different control groups — one of people in the general population who had not had a stroke or heart attack, and another group of people who had had a heart attack but not a stroke.
+Upon analysis, scientists found dementia risk was 80% higher in people who had a stroke when compared to the control group with no heart attack or stroke. The risk for dementia was almost 80% higher in people who had a stroke when compared to the control group who had a heart attack and no stroke.
+“We were able to show that the elevated risk of dementia persisted even after matching to control (comparison) groups with the same age, sex, neighborhood socioeconomic status, and vascular risk factors.
+As stroke imposes a direct injury on the brain, which may have an immediate impact but also long-term impacts on brain function, this result is not entirely surprising but important to confirm through this large and robust analysis.”
+– Dr. Joundi
+Dementia risk 3 times higher in first year after stroke
+Additionally, the researchers discovered dementia risk was almost three times higher in the first year following a stroke. The risk declined to a 1.5-times increased risk by the five-year mark following a stroke and remained elevated 20 years later.
+“We found a three-fold risk of dementia between three and 12 months after stroke,” Dr. Joundi explained. “The first three months after stroke were not included as it is usually too early to make a definitive diagnosis of dementia.”
+“The presence of a higher risk of dementia earlier after stroke is not too surprising, since there is a direct brain injury from the stroke which can impact cognition and daily function, and physicians are following up closer with patients in the first year and therefore more likely to make a diagnosis of dementia,” he continued. “The more surprising aspect was that the increased risk of dementia persisted throughout 20 years of follow-up, compared to matched controls, so there are many indirect mechanisms that may be acting long-term to promote a higher risk of dementia after stroke.”
+Stroke prevention key to reducing dementia risk
+After reviewing this study, Dr. Cheng-Han Chen, a board-certified interventional cardiologist and medical director of the Structural Heart Program at MemorialCare Saddleback Medical Center in Laguna Hills, CA, told MNT that this study demonstrates the elevated risk for stroke victims to develop dementia, a risk that is markedly high, even higher than the risk of developing another stroke.
+“This study highlights the importance of discussing with stroke patients and their family members the increased risk of developing dementia. These patients will need to be monitored carefully for evidence of cognitive decline, and medication and lifestyle modifications should be initiated to reduce their risk.”
+– Dr. Chen
+MNT also discussed the study with Dr. José Morales, a vascular neurologist and neuro-interventional surgeon at Pacific Neuroscience Institute in Santa Monica, CA.
+Dr. Morales said he was surprised by how much higher a dementia risk was found in the study compared to prior studies.
+“It really provides added emphasis on the idea of doing everything we can to prevent stroke, by either primary prevention through lifestyle changes or secondary prevention with medical management to optimize their vascular risk factors,” he added.
+
+https://www.medicalnewstoday.com/articles/rsv-prevention-infants-young-children
+How to prevent RSV in infants and young children, according to experts
+Respiratory syncytial virus (RSV) is a common virus that may cause severe symptoms in infants, young children, and even older adults.
+RSV is the most common cause of infant hospitalizations in high-income countries.
+In 2019, about 1.4 million infants ages 0–6 months globally were hospitalized for episodes of RSV-associated acute lower respiratory infection.
+RSV infection can become serious, but there are ways to protect infants and young children from severe illness.
+Respiratory syncytial virus (RSV) commonly presents with cold-like symptoms, such as a runny nose and cough.
+However, in infants and young children, RSV can be much more severe, leading to hospitalizations and even death. RSV may also cause severe illness among older adults.
+RSV is the most common cause of infant hospitalizations in high-income countries.
+In 2019, about 6.6 million infants ages 0-6 months globally had RSV-associated acute lower respiratory infection episodes, with 1.4 million needing to be hospitalized and 45,700 RSV-attributable overall deaths.
+What can be done to protect infants and small children from severe illness due to RSV? Medical News Today spoke with pediatricians to learn more.
+How does RSV affect a baby?
+According to Dr. Danelle Fisher, a board certified pediatrician and Chair of Pediatrics at Providence Saint John’s Health Center in Santa Monica, CA, while RSV will cause symptoms of the common cold in older children and adults, it may affect infants and young children differently.
+“The younger you are, the more chance you have of this virus causing severe respiratory issues, including wheezing and difficulty breathing,” Dr. Fisher told MNT.
+“A lot of times, even the little babies will go apneic, which means they pause or stop breathing for a little while. The younger you are, the more dangerous it can be.”
+Dr. Mohamed Zebda, a board certified pediatrician at the UH Health Family Care Center and clinical associate professor at the Tilman J. Fertitta Family College of Medicine at the University of Houston, explained to MNT:
+“Most children have had RSV at least once by the age of 2. Many children will have mild symptoms. Common symptoms include cough, congestion, runny nose, and fever.”
+“Infants who are born prematurely, babies who have a history of congenital heart disease, children who are immunocompromised, children who have a history of chronic lung disease, and infants less than 1 year of age have an elevated risk of complications and hospitalization.
+Complications of RSV include bronchiolitis — inflammation and irritation of the small airways that lead to narrowing of the airways — and pneumonia.”
+— Dr. Mohamed Zebda, board certified pediatrician
+How do babies get RSV?
+RSV spreads both through respiratory droplets when a person coughs or sneezes, as well as contaminated surfaces.
+“RSV can spread from person to person, just like colds and other respiratory viruses,” Dr. Kris Bryant, a pediatric infectious diseases physician at Norton Children’s in Louisville, Kentucky, and a member of the American Academy of Pediatrics Committee on Infectious Diseases explained to MNT.
+“The virus can also live on hard surfaces for many hours, and touching a surface contaminated with the virus and then touching the eyes, nose, or mouth is one way infections can occur,” Dr. Bryant continued.
+“RSV can also live on hands for 30 minutes or more, so handwashing is important in reducing the spread of this virus.”
+“RSV is spread when a baby inhales droplets from an infected person’s cough or sneeze,” added Dr. Moses Olorunnisola, a pediatrician with Hackensack Meridian Children’s Health Medical Group in New Jersey.
+“A baby can also contract RSV from direct contact — if an infected person kisses them on the face, for example. Additionally, If a baby touches a toy or surface that is contaminated, and then touches his or her eyes, mouth, or nose, they can contract RSV,” Dr. Olorunnisola continued.
+“The problem with this virus is that it spreads very quickly throughout places where children are,” Dr. Fisher said. “If you have multiple children in the family, oftentimes the older kids who go to preschool, daycare, or elementary school will bring it home to their baby siblings and that is a big mode of transmission.”
+— Dr. Danelle Fisher, board certified pediatrician
+How is RSV treated in babies?
+If an infant contracts RSV, Dr. Olorunnisola told MNT the treatment may depend on the symptoms.
+“Babies may need IV fluids if they are unable to drink adequately and become dehydrated,” he detailed.
+“Saline and nasal suction may also be used if the baby has significant nasal congestion and mucus production. Some babies may need medication to help manage fevers. Some babies also require oxygen and breathing support if they have severe respiratory problems. Overall, the goal is to manage whatever symptoms are present,” Dr. Olorunnisola explained.
+“Antibiotics are not helpful for RSV since RSV is a viral infection and not a bacterial infection,” Dr. Zebda said.
+“RSV symptoms tend to peak (on) day 3-5 of (the) illness and gradually get better. It is important for parents to seek immediate help for any increased work of breathing,” he added.
+How can you reduce a baby’s risk of RSV?
+Dr. Zebda said there are several ways to help minimize a baby’s exposure to RSV.
+“Good hand hygiene can help reduce the spread of RSV,” he explained. “(Make) sure that surfaces, including toys, are disinfected. It is recommended to cover coughs and sneezes. (Make) sure visitors coming to see the baby are not sick. Outside visitors should avoid holding and kissing the baby,” Dr. Zebda noted.
+“To the extent feasible, parents should keep their babies away from people with cold and flu symptoms and avoid crowds during RSV season,” Dr. Bryant added.
+“For my families who have children in day care and preschool, during RSV season, which is usually October through April, I often advise that when these children come home from day care or preschool, the families kind of wash them down,” Dr. Fisher said.
+“They could even do their bath or at the very least washing hands and face and changing clothes can minimize the spread,” Dr. Fisher continued.
+Should you get an RSV vaccine during pregnancy?
+In addition to limiting an infant’s exposure after they are born, the maternal RSV vaccine can protect a newborn from severe illness. baby can be protected from RSV.
+The maternal RSV vaccine is administered during pregnancy and is currently recommended by the Centers for Disease Control and Prevention (CDC) and the American College of Obstetricians and Gynecologists (ACOG).
+“If you are pregnant, you should definitely consider getting the RSV vaccine to help protect your baby from RSV,” Dr. Olorunnisola said.
+“Pregnant individuals at 32 to 36 weeks gestational age during the months of September through January should get the RSV vaccine as their antibodies are passed on to their baby. This will significantly reduce the likelihood that the baby, once born, will get severe disease or be hospitalized from RSV.”
+— Dr. Moses Olorunnisola, a pediatrician
+“The RSV vaccine helps produce maternal antibodies against RSV, and those maternal antibodies are then passed to the baby and help protect the baby,” Dr. Zebda explained.
+“According to the CDC, the RSV vaccine reduces the risk of hospitalization due to RSV by 57%. If you are currently pregnant, it is important to discuss the RSV vaccine with your OB-GYN or current healthcare provider,” Dr. Zebda added.
+Other ways to protect infants from RSV
+Dr. Bryant said that pregnant people unable to receive the maternal RSV vaccine can immunize the baby after birth.
+“Nirsevimab is not a vaccine but rather a monoclonal antibody shot that protects infants against RSV infections that are severe enough to require a healthcare visit or hospitalization,” she explained.
+“Most babies born to people who received the RSV vaccine during pregnancy do not need nirsevimab too,” Dr. Bryant noted.
+Dr. Fisher added the monoclonal antibody shot is given to infants 8 months or younger during RSV season.
+“It floods the baby’s system with antibodies directly against RSV,” Dr. Fisher continued.
+So it’s not a vaccine per se — the baby’s immune system doesn’t have to kick up. But it’s really great passive protection that we love to give these babies. It does not prevent RSV from happening, but it does prevent the most serious complications, including ER visits and hospitalizations — that’s what we’re all about,” she concluded.
+
+https://www.medicalnewstoday.com/articles/black-women-with-high-blood-pressure-before-age-35-have-triple-the-risk-of-a-stroke
+Black women with high blood pressure before age 35 have triple the risk of a stroke
+New research shows that Black women who develop high blood pressure before the age of 35 may have triple the odds of having a stroke
+Black people are more likely to have high blood pressure, owing to a multitude of factors
+Experts say it’s important for both doctors and patients to be aware of this elevated risks and screen accordingly – even for younger women
+The risk can be managed through lifestyle changes and consultation with a doctor
+A new American Heart Association (AHA) preliminary study shows that younger Black women with high blood pressure could have an increased risk of stroke.
+The data, which will be presented next week at the AHA’s International Stroke Conference in Phoenix, analyzed 59,000 Black women in the United States between the ages of 24 and 64 who had not had a stroke.
+After following up with participants, researchers reported that the women who developed high blood pressure before the age of 35 were more than three times as likely to have a stroke.
+The research hasn’t been published yet in a peer-reviewed journal.
+Nonetheless, the study’s lead author told Medical News Today that the findings underline the importance of primary prevention and screening for high blood pressure.
+Strokes can occur in younger people
+Hypertension, or high blood pressure, is more prevalent in Black adults in the United States, so researchers said it wasn’t surprising to find a high incidence in study participants.
+Dr. Hugo Aparicio, the lead study author and an associate professor of neurology at Boston University Chobanian & Avedisian School of Medicine, told Medical News Today that 10% of study participants younger than 45 and nearly 40% aged 45 to 64 had high blood pressure.
+“However, the most concerning finding was that risk of stroke from an early age, such as the second or third decades, appeared to impart the highest risk of a stroke over the period of follow-up,” he explained.
+Experts note that since high blood pressure is a major risk factor for stroke, it stands to reason that younger people with hypertension could have a stroke at a relatively young age.
+“There is often the misconception that this heightened risk of stroke isn’t really apparent until older age and therefore healthcare providers are often less concerned when high blood pressure is identified in younger people,” said Michelle O’Donoghue, an associate professor at Harvard Medical School and McGillycuddy-Logue Distinguished Chair in Cardiology at Brigham and Women’s Hospital in Boston who was not involved in the research.
+“Although the risk of mid-life stroke is relatively low, this study importantly highlights that early onset of hypertension is a very important predictor of this event, and stroke can occur in middle age,” O’Donoghue told Medical News Today.
+Why Black women are affected
+Aparicio said he and his colleagues attempted to account for various factors, including a participant’s region of the country and socioeconomic status, along with risk factors such as excess body weight, smoking, and diabetes.
+Even after accounting for this, the researchers said they still continued to see the elevated risk of stroke with a history of hypertension across age groups.
+“Factors such as psychosocial stressors, or experience with racial discrimination, have been correlated with a higher risk of cardiovascular disease and stroke,” Aparicio said. “Hypertensive disorders or onset associated with pregnancy have also been related to stroke, specifically among Black women, who have higher rates of these pregnancy complications.”
+O’Donoghue points out that Black men and women are undertreated for high blood pressure and cardiovascular disease for reasons that are likely multi-faceted.
+“It can be challenging in many regions to find a primary care doctor for routine health maintenance,” she said. “Challenges with access to medications, challenges with adherence and attending doctors visits are just some of barriers that we don’t spend enough time thinking about in our conversations with patients.”
+A genetic factor that also uniquely affects Black people is lipoprotein (a), a type of cholesterol that’s associated with cardiovascular disease and stroke.
+“We know that average [lipoprotein (a)] levels may be more than threefold higher in Black persons, yet this under-recognized risk factor is rarely being assessed in clinical practice,” O’Donoghue explained.
+Prevention and screening
+While there’s a genetic factor to high blood pressure, other aspects can be controlled to lower one’s risk of developing hypertension, along with heart disease and stroke.
+This strategy can start with a doctor’s visit, where blood pressure tests and screening can help people get a handle on their overall health.
+“Make sure that even mildly elevated blood pressures are tracked and addressed through prevention efforts like changes in diet or exercise, quitting smoking, and developing better sleep habits,” advised Aparicio. “To reduce risk of stroke, also pay attention to managing specific risk factors like excess body weight, abnormal blood cholesterol levels, and elevated blood pressure.”
+Aparicio notes that these findings, along with other data related to Black people and hypertension, underlines the importance for both doctors and patients to pay special attention to screening.
+“Neither hypertension nor risk of stroke should be perceived as [just] problems of older women,” he said. “We also need healthcare policy changes that emphasize, promote, and fund primary prevention because for Black women having a stroke at middle age, it is often too late.”
+
+https://www.medicalnewstoday.com/articles/t-cells-reprogrammed-to-slow-down-and-reverse-aging
+Scientists reprogram T cells to slow down and reverse aging
+Scientists are constantly looking for ways to help slow the aging process.
+Researchers from Cold Spring Harbor Laboratory have discovered that T cells in the body can be reprogrammed to slow down and even reverse aging.
+Using a mouse model, scientists found T cells can be used to fight off another type of cell that contributes to aging.
+Even before Ponce de León supposedly found the Fountain of Youth, humans have always been looking for a way to slow the aging process.
+As the number of centenarians — those who reach their 100th birthday — continues to rise, research and medical innovations are helping people to live longer, healthier lives. However, there are still plenty of new measures and methods for scientists to explore.
+New research from Cold Spring Harbor Laboratory in Cold Spring Harbor, NY, that says the body’s T cells — a type of white blood cell — can be reprogrammed to fight aging.
+Using a mouse model, scientists found that T cells can be used to fend off another type of cell that increases as a person ages and causes inflammation, rendering the aging immune system less effective over time.
+The study was recently published in the journal Nature Aging.
+Using CAR T-cell therapy to reverse aging
+T cells are a type of white blood cell known as lymphocytes. They are an important part of the immune system, helping the body to find and destroy potentially harmful pathogens such as viruses and bacteria.
+T cells are unique in that different T cells are designed to seek and destroy specific pathogens.
+For example, a baby’s T cells will be tasked with remembering different viruses they come in contact with for the first time. Then as the baby grows and becomes older, those same T cells can be used to fight off those same viruses throughout their life.
+T cells are made within the body’s bone marrow. They then move to the thymus gland to further develop. Once mature, T cells travel to the tissues and organs within the lymphatic system and circulate within the bloodstream.
+Over the past few years, researchers have been looking at ways to use T cells to fight certain diseases such as cancer.
+This has led to the development of chimeric antigen receptor (CAR) T-cell therapy — a type of immunotherapy where T cells are taken from a person, altered in the lab, and then infused back into the same person to fight a particular type of cancer.
+Scientists have also been researching the use of CAR T-cell therapy in the treatment of non-cancer diseases such as autoimmune diseases and viral infections like HIV and hepatitis C.
+How do T cells change with age?
+Dr. Corina Amor Vegas, assistant professor at Cold Spring Harbor Laboratory (CSHL) and lead author of this study, said they focused on T cells as a potential way to fight aging because the immune system is really powerful at eliminating damaged cells in younger individuals.
+“Thus, we wondered whether in aging we could redirect and repower the T cells to eliminate the damaged cells that accumulate,” Dr. Amor Vegas told Medical News Today.
+Dr. Amor Vegas referred to these damaged cells as “senescent cells.”
+“Senescent cells are cells in our body that have accumulated a lot of damage and as a result they have stopped doing their normal jobs and instead become very inflammatory. The accumulation of these cells in tissues is really deleterious because it creates a severe proinflammatory microenvironment that prevents the other cells in the tissue from working properly too.”
+— Dr. Corina Amor Vegas, lead study author
+Previous studies have examined the use of senescent cells as a therapeutic target for aging and age-related diseases.
+Eliminating damaged cells led to healthier aging
+For this study, Dr. Amor Vegas and her team found they could use CAR T-cell therapy to eliminate damaged or senescent cells in mice.
+Scientists found the mice treated with CAR T-cell therapy to remove senescent cells became healthier with lower body weight, improved metabolism and glucose tolerance, and increased physical activity.
+“We were very excited to see that the CAR T cells were able to eliminate the senescent cells and drive these effects,” Dr. Amor Vegas said. “We were also really excited about the long-term durability of these effects.”
+“Interestingly, in our work, we saw not only therapeutic effects when we treated aged animals but we also saw preventive effects,” she continued. “Thus, when we treated young animals — once, only in their youth — and we let them age, they aged better.”
+When asked about future plans for this research, D. Amor Vegas said they are interested in the potential implications for the treatment of age-related diseases in humans.
+“Nonetheless it’s a long road and there is still a lot more research that needs to be done to optimize the approach,” she added.
+Implications for healthy aging in humans
+MNT also spoke with Dr. Yi Zhang, director member of the Center for Discovery and Innovation (CDI), professor at Hackensack Meridian School of Medicine at Hackensack Meridian Health in New Jersey, and co-leader of the Cancer-Host-Interaction Program at the Georgetown Lombardi Comprehensive Cancer Center in Washington, DC, about this study.
+Dr. Zhang said that healthy aging will need wise, optimistic, and effective strategies to deal with population aging.
+Currently, Dr. Zhang added, how tissues undergo senescence and how senescent cells trigger harmful inflammation remain poorly defined.
+“(Dr. Amor Vegas’) study discovers an innovative strategy that can be leveraged to not only address these questions but also to facilitate the elimination of senescent cells,” Dr. Zhang explained.
+“In addition, given the fact that CAR T-cell treatment has transformed (the) treatment of cancer in human patients, this study also provides a proof-of-concept that programming T cells with CARs specific to markers associated with senescent cells will find new applications to improving the health of aging humans.”
+“Many efforts have been made to develop small molecule drugs to clear senescent cells, namely senolytic therapies. However, these studies are limited by poorly defined molecular pathways that mediate senescence and its associated chronic inflammatory damage to normal tissues during aging.
+Future research is needed to address this issue. In addition, it is important to investigate how the study using a mouse system can be translated into a senolytic therapy in humans.”
+— Dr. Yi Zhang, director member of the Center for Discovery and Innovation
