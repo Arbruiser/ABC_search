@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 """
+Update: 2024-02-01
+1. Now the search result only returns the first 3 matches.
+2. Added more documents to the corpus. Now is 13.
+
 Update: 2024-01-29
 
 1. Now the search result includes the document's title, link, and the context of the query.
