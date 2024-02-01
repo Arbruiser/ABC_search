@@ -85,13 +85,6 @@ def rewrite_query(query):  # rewrite every token in the query
     return " ".join(rewrite_token(t) for t in query.split())
 
 
-# def run_query(query):
-#     print("Query: '" + query + "'")
-#     # print("Rewritten:", rewrite_query(query))
-#     eval(rewrite_query(query))  # Eval runs the string as a Python command
-#     print()
-
-
 sparse_td_matrix = (
     sparse_matrix.T.tocsr()
 )  # makes the matrix ordered by terms, not documents
@@ -100,7 +93,7 @@ sparse_td_matrix = (
 # QUERY
 while True:
     user_query = input(
-        "Type your query with enter to search. Type nothing with enter to exit."
+        "Hit enter to exit. Your query to search: "
     )
     if user_query == "":
         break
@@ -109,9 +102,14 @@ while True:
     try:
         print("Query: '" + user_query + "'")
         hits_matrix = eval(rewrite_query(user_query))  # the query
+        print("rewritten query:", rewrite_query(user_query)) # for debugging
 
         hits_list = list(hits_matrix.nonzero()[1])
         # print(hits_list)
+
+        # if there are more than 3 matches, limits the showed matches to 3
+        if len(hits_list)>3:
+            hits_list=hits_list[:3]
 
         for doc_idx in hits_list:
             print()
