@@ -20,10 +20,11 @@ Future work:
 
 - Will add more documents to the corpus.
 - Try to rank the documents (maybe by word frequency or other methods).
+- Make logic that will allow searching for multiple words with some unknown words (Arthur)
 
 Challenges:
 - If the query has more than one keyword, try to show the sentence that includes all the keywords.
-- User doesn't have to type "and" or "AND" to use the AND operand. They can just type a space between two keywords.
+???- User doesn't have to type "and" or "AND" to use the AND operand. They can just type a space between two keywords.???
 - Using embedding models to do fuzzy search.
 
 """
@@ -118,7 +119,7 @@ while True:
 
             if len(user_query.split()) == 1:
                 # regex to find the sentence with the query
-                pattern = r"([^.!?]*" + user_query + r"[^.!?]*[.!?])"
+                pattern = r"([^.!?]*" + user_query + r"[^.!?]*[.!?])" # matches the sentence with .!? as delimiters
                 match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
                 print("... " + match.group(0) + " ...")
                 print()
