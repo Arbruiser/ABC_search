@@ -4,6 +4,9 @@ Update: 2024-02-01
 1. Now the search result only returns the first 3 matches.
 2. Added more documents to the corpus. Now is 13.
 
+3. (Arthur) Added Porter stemmer. Now we use stemmed documents for making our matrices. User query is also stemmed. 
+However, we now output unstemmed matching document. The problem is that the exact match might not exist if unstemmed.
+
 Update: 2024-01-29
 
 1. Now the search result includes the document's title, link, and the context of the query.
@@ -37,20 +40,29 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import re
+import nltk
+from nltk.stem import PorterStemmer
+
+stemmer = PorterStemmer() # let's use the basic stemmer
 
 # import the documents
-with open("medical_document.txt", "r") as f:
+with open("medical_document.txt", "r", encoding='utf-8') as f:
     content = f.read()
 
 documents = content.split("\n\n")  # makes a list of our docs
 
-# the https links are the first line of each doc before the first \n
-# the titles are the second line of each doc before the second \n
+
+# Stemming loop
+stemmed_documents = []
+for document in documents:
+    document = document.split() # makes each doc a list of words
+    stemmed_document = " ".join([stemmer.stem(word) for word in document]) # substitutes each word for its stem
+    stemmed_documents.append(stemmed_document)
+
 
 # Get the first line and second line of each doc
 httplinks = []
 titles = []
-
 for i in range(len(documents)):
     httplinks.append(documents[i].split("\n")[0])
     titles.append(documents[i].split("\n")[1])
@@ -61,7 +73,7 @@ for i in range(len(documents)):
     documents[i] = documents[i].replace(titles[i], "")
 
 
-# Make a matrix of our terms and convert it to dense
+# Make a boolean matrix of our terms and convert it to dense
 cv = CountVectorizer(lowercase=True, binary=True)
 sparse_matrix = cv.fit_transform(documents)
 dense_matrix = sparse_matrix.todense()
@@ -98,10 +110,10 @@ sparse_td_matrix = (
 
 # TF-IDF
 tfidf = TfidfVectorizer(lowercase=True, sublinear_tf=True, use_idf=True, norm="l2")
-tf_idf_matrix = tfidf.fit_transform(documents).T.tocsr()
+tf_idf_matrix = tfidf.fit_transform(stemmed_documents).T.tocsr() # using stemmed docs!
+print()
 
-
-def search_gutenberg(query_string):
+def search_start(query_string):
 
     # Vectorize query string
     query_vec = tfidf.transform([query_string]).tocsc()
@@ -144,46 +156,13 @@ def search_gutenberg(query_string):
 # QUERY
 while True:
     user_query = input("Hit enter to exit. Your query to search: ")
+    stemmed_query = stemmer.stem(user_query)
+
     if user_query == "":
         break
 
-    # # SHOW RETRIEVED DOCUMENTS
-    # try:
-    #     print("Query: '" + user_query + "'")
-    #     hits_matrix = eval(rewrite_query(user_query))  # the query
-    #     print("rewritten query:", rewrite_query(user_query))  # for debugging
-
-    #     hits_list = list(hits_matrix.nonzero()[1])
-    #     # print(hits_list)
-
-    #     # if there are more than 3 matches, limits the showed matches to 3
-    #     if len(hits_list) > 3:
-    #         hits_list = hits_list[:3]
-
-    #     for doc_idx in hits_list:
-    #         print()
-    #         print(titles[doc_idx])  # print the title
-    #         print(httplinks[doc_idx])  # print the link
-
-    #         if len(user_query.split()) == 1:
-    #             # regex to find the sentence with the query
-    #             pattern = (
-    #                 r"([^.!?]*" + user_query + r"[^.!?]*[.!?])"
-    #             )  # matches the sentence with .!? as delimiters
-    #             match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
-    #             print("... " + match.group(0) + " ...")
-    #             print()
-    #         else:  # only show the context of the first term in the query
-    #             pattern = r"([^.!?]*" + user_query.split()[0] + r"[^.!?]*[.!?])"
-    #             match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
-    #             print("... " + match.group(0) + " ...")
-    #             print()
-
-    # except:
-    #     print("Invalid query, please try again.")
-    #     print()
     try:
-        search_gutenberg(user_query)
+        search_start(stemmed_query)
     except:
         print("Invalid query, please try again.")
         print()
