@@ -28,7 +28,7 @@ Future work:
 
 Challenges:
 - If the query has more than one keyword, try to show the sentence that includes all the keywords.
-???- User doesn't have to type "and" or "AND" to use the AND operand. They can just type a space between two keywords.???
+- User doesn't have to type "and" or "AND" to use the AND operand. They can just type a space between two keywords.
 - Using embedding models to do fuzzy search.
 
 """
