@@ -139,13 +139,13 @@ def search_start(query_string):
         if len(user_query.split()) == 1:
             # regex to find the sentence with the query
             pattern = (
-                r"([^.!?]*" + user_query + r"[^.!?]*[.!?])"
+                r"([^.!?\n]*" + user_query + r"[^.!?\n]*[.!?\n])"
             )  # matches the sentence with .!? as delimiters
             match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
             print("... " + match.group(0) + " ...")
             print()
         else:  # only show the context of the first term in the query
-            pattern = r"([^.!?]*" + user_query.split()[0] + r"[^.!?]*[.!?])"
+            pattern = r"([^.!?\n]*" + user_query.split()[0] + r"[^.!?\n]*[.!?\n])"
             match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
             print("... " + match.group(0) + " ...")
             print()
@@ -157,7 +157,7 @@ def search_start(query_string):
 while True:
     user_query = input("Hit enter to exit. Your query to search: ")
     stemmed_query = stemmer.stem(user_query)
-
+    print("stemmed query:", stemmed_query)
     if user_query == "":
         break
 
