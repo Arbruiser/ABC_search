@@ -34,6 +34,8 @@ Challenges:
 """
 # import dependencies
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+import numpy as np
 import re
 
 # import the documents
@@ -94,45 +96,94 @@ sparse_td_matrix = (
     sparse_matrix.T.tocsr()
 )  # makes the matrix ordered by terms, not documents
 
+# TF-IDF
+tfidf = TfidfVectorizer(lowercase=True, sublinear_tf=True, use_idf=True, norm="l2")
+tf_idf_matrix = tfidf.fit_transform(documents).T.tocsr()
+
+
+def search_gutenberg(query_string):
+
+    # Vectorize query string
+    query_vec = tfidf.transform([query_string]).tocsc()
+
+    # Cosine similarity
+    hits = np.dot(query_vec, tf_idf_matrix)
+
+    # Rank hits
+    ranked_scores_and_doc_ids = sorted(
+        zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True
+    )
+    ranked_scores_and_doc_ids = ranked_scores_and_doc_ids[:3]
+    # print(ranked_scores_and_doc_ids)
+    # Output result
+    # print("Your query '{:s}' matches the following documents:".format(query_string))
+    # only show the first 3 matches
+   
+    for i, (score, doc_idx) in enumerate(ranked_scores_and_doc_ids):
+        print()
+        print(titles[doc_idx])  # print the title
+        print(httplinks[doc_idx])  # print the link
+
+        if len(user_query.split()) == 1:
+            # regex to find the sentence with the query
+            pattern = (
+                r"([^.!?]*" + user_query + r"[^.!?]*[.!?])"
+            )  # matches the sentence with .!? as delimiters
+            match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
+            print("... " + match.group(0) + " ...")
+            print()
+        else:  # only show the context of the first term in the query
+            pattern = r"([^.!?]*" + user_query.split()[0] + r"[^.!?]*[.!?])"
+            match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
+            print("... " + match.group(0) + " ...")
+            print()
+
+    print()
+
 
 # QUERY
 while True:
-    user_query = input(
-        "Hit enter to exit. Your query to search: "
-    )
+    user_query = input("Hit enter to exit. Your query to search: ")
     if user_query == "":
         break
 
-    # SHOW RETRIEVED DOCUMENTS
+    # # SHOW RETRIEVED DOCUMENTS
+    # try:
+    #     print("Query: '" + user_query + "'")
+    #     hits_matrix = eval(rewrite_query(user_query))  # the query
+    #     print("rewritten query:", rewrite_query(user_query))  # for debugging
+
+    #     hits_list = list(hits_matrix.nonzero()[1])
+    #     # print(hits_list)
+
+    #     # if there are more than 3 matches, limits the showed matches to 3
+    #     if len(hits_list) > 3:
+    #         hits_list = hits_list[:3]
+
+    #     for doc_idx in hits_list:
+    #         print()
+    #         print(titles[doc_idx])  # print the title
+    #         print(httplinks[doc_idx])  # print the link
+
+    #         if len(user_query.split()) == 1:
+    #             # regex to find the sentence with the query
+    #             pattern = (
+    #                 r"([^.!?]*" + user_query + r"[^.!?]*[.!?])"
+    #             )  # matches the sentence with .!? as delimiters
+    #             match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
+    #             print("... " + match.group(0) + " ...")
+    #             print()
+    #         else:  # only show the context of the first term in the query
+    #             pattern = r"([^.!?]*" + user_query.split()[0] + r"[^.!?]*[.!?])"
+    #             match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
+    #             print("... " + match.group(0) + " ...")
+    #             print()
+
+    # except:
+    #     print("Invalid query, please try again.")
+    #     print()
     try:
-        print("Query: '" + user_query + "'")
-        hits_matrix = eval(rewrite_query(user_query))  # the query
-        print("rewritten query:", rewrite_query(user_query)) # for debugging
-
-        hits_list = list(hits_matrix.nonzero()[1])
-        # print(hits_list)
-
-        # if there are more than 3 matches, limits the showed matches to 3
-        if len(hits_list)>3:
-            hits_list=hits_list[:3]
-
-        for doc_idx in hits_list:
-            print()
-            print(titles[doc_idx])  # print the title
-            print(httplinks[doc_idx])  # print the link
-
-            if len(user_query.split()) == 1:
-                # regex to find the sentence with the query
-                pattern = r"([^.!?]*" + user_query + r"[^.!?]*[.!?])" # matches the sentence with .!? as delimiters
-                match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
-                print("... " + match.group(0) + " ...")
-                print()
-            else:  # only show the context of the first term in the query
-                pattern = r"([^.!?]*" + user_query.split()[0] + r"[^.!?]*[.!?])"
-                match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
-                print("... " + match.group(0) + " ...")
-                print()
-
+        search_gutenberg(user_query)
     except:
         print("Invalid query, please try again.")
         print()
