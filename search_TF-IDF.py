@@ -4,8 +4,27 @@ Update: 2024-02-01
 1. Now the search result only returns the first 3 matches.
 2. Added more documents to the corpus. Now is 13.
 
-3. (Arthur) Added Porter stemmer. Now we use stemmed documents for making our matrices. User query is also stemmed. 
-However, we now output unstemmed matching document. The problem is that the exact match might not exist if unstemmed.
+Update: 2024-02-03
+(Arthur) Added Porter stemmer. Now we use stemmed documents for making our matrices. User query is also stemmed. 
+---Now there is a scary for loop that basically splits the documents into stemmed and unstemmed documents. Stemmed is for our TF-IDF search.
+Unstemmed is for showing the context. Now documents is a list of strings, but the for loop in addition to this makes lists of lists where
+each emelement is its own sentence. This is necessary for showing the context because we have to search with our stemmed query in the stemmed 
+matrix, and then take the number of document and sentence and show it in the UNstemmed version. It works. 
+---I also added a toy document about sneezing so that you can play with queries "sneezes", "sneezed", "sneezing" which are all stemmed into 'sneez'
+---I also fixed the issue of our context looking ugly, it was because of new lines that stayed there after the links got deleted.
+---Now we also show the score of the matching doc. We can translate it into plain English with a bunch of if statements
+like "if score>0.3 then "score very high!" and so on.
+--- If the query contains multiple words, the context function will look for ANY of the query words in the text in order 
+and output only the first 3 matches. Try running "sneezing is not an illness". 
+
+Work before the class:
+--- Let user choose if to use Boolean or TF-IDF search. Maybe with the first input asking for B (Boolean) or T (TF-IDF)?  
+--- Can implement indexing of the sentences in the matched document to output the highest scoring sentences first. 
+--- Can implement highlighting the matched word in the sentence in the same fashion as looking for unstemmed docs. We turn each sentence into
+stemmed and unstemmed lists of words. Search for the stemmed query word in the stemmed lists and put *...* around the word from the same number of document
+and the same number of sentence and the same number of word 
+
+
 
 Update: 2024-01-29
 
@@ -49,16 +68,7 @@ stemmer = PorterStemmer() # let's use the basic stemmer
 with open("medical_document.txt", "r", encoding='utf-8') as f:
     content = f.read()
 
-documents = content.split("\n\n")  # makes a list of our docs
-
-
-# Stemming loop
-stemmed_documents = []
-for document in documents:
-    document = document.split() # makes each doc a list of words
-    stemmed_document = " ".join([stemmer.stem(word) for word in document]) # substitutes each word for its stem
-    stemmed_documents.append(stemmed_document)
-
+documents = content.split("\n\n")  # makes a list of our string documents
 
 # Get the first line and second line of each doc
 httplinks = []
@@ -67,11 +77,30 @@ for i in range(len(documents)):
     httplinks.append(documents[i].split("\n")[0])
     titles.append(documents[i].split("\n")[1])
 
-# Remove the httplinks and titles from the documents
+# Remove the httplinks and titles from the documents. Also delete the new lines. 
 for i in range(len(documents)):
-    documents[i] = documents[i].replace(httplinks[i], "")
-    documents[i] = documents[i].replace(titles[i], "")
+    documents[i] = documents[i].replace(httplinks[i], "").replace("\n", " ").strip() # replace remaining newline characters with space.
+    documents[i] = documents[i].replace(titles[i], "").replace("\n", " ").strip() # replace remaining newline characters with space.
 
+
+# Loop where we split the documents into sentences and stem. Brace yourselves.
+stemmed_documents_lists = [] # list of lists
+stemmed_documents = [] # list of strings
+documents_lists = [] # again list of lists
+
+for document in documents:
+    temp_sentences_unstemmed = re.split('([.!?])\s+', document) # here we split the sentences with delimiters being their own elements in the list. However, that's unnecessary now because in our doc each line is a sentence. We don't know if it stays that way, so let's keep it.
+    # next line joins the delimiters with the previous sentence (don't worry about it)
+    sub_doc = [temp_sentences_unstemmed[i] + (temp_sentences_unstemmed[i + 1] if i + 1 < len(temp_sentences_unstemmed) else '') for i in range(0, len(temp_sentences_unstemmed), 2)] 
+    documents_lists.append(sub_doc)
+
+    document = document.split() # split the doc into words to prepare it for stemming
+    stemmed_document = " ".join([stemmer.stem(word) for word in document]) # stem and join the text back
+    stemmed_documents.append(stemmed_document) # this produces a list of strings that we use for TF-IDF
+    temp_sentences_stemmed = re.split('([.!?])\s+', stemmed_document) # the same splitting with .!? as delimiters
+    sub_stemmed_doc = [temp_sentences_stemmed[i] + (temp_sentences_stemmed[i + 1] if i + 1 < len(temp_sentences_stemmed) else '') for i in range(0, len(temp_sentences_stemmed), 2)] 
+    stemmed_documents_lists.append(sub_stemmed_doc) # this now produces a list of our docs, where each doc is a list of sentences. This is only for context.
+ 
 
 # Make a boolean matrix of our terms and convert it to dense
 cv = CountVectorizer(lowercase=True, binary=True)
@@ -111,10 +140,8 @@ sparse_td_matrix = (
 # TF-IDF
 tfidf = TfidfVectorizer(lowercase=True, sublinear_tf=True, use_idf=True, norm="l2")
 tf_idf_matrix = tfidf.fit_transform(stemmed_documents).T.tocsr() # using stemmed docs!
-print()
 
 def search_start(query_string):
-
     # Vectorize query string
     query_vec = tfidf.transform([query_string]).tocsc()
 
@@ -126,43 +153,34 @@ def search_start(query_string):
         zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True
     )
     ranked_scores_and_doc_ids = ranked_scores_and_doc_ids[:3]
-    # print(ranked_scores_and_doc_ids)
-    # Output result
-    # print("Your query '{:s}' matches the following documents:".format(query_string))
-    # only show the first 3 matches
-   
+
     for i, (score, doc_idx) in enumerate(ranked_scores_and_doc_ids):
         print()
-        print(titles[doc_idx])  # print the title
+        print(titles[doc_idx], "--- Its score is:", round(score, 2))  # print the title and score
         print(httplinks[doc_idx])  # print the link
 
-        if len(user_query.split()) == 1:
-            # regex to find the sentence with the query
-            pattern = (
-                r"([^.!?\n]*" + user_query + r"[^.!?\n]*[.!?\n])"
-            )  # matches the sentence with .!? as delimiters
-            match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
-            print("... " + match.group(0) + " ...")
-            print()
-        else:  # only show the context of the first term in the query
-            pattern = r"([^.!?\n]*" + user_query.split()[0] + r"[^.!?\n]*[.!?\n])"
-            match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
-            print("... " + match.group(0) + " ...")
-            print()
-
-    print()
+        # for each sentence in the stem-docs, check if ANY word in the query is in the sentence, print corresponding original sentence
+        count = 0
+        for j, stemmed_sentence in enumerate(stemmed_documents_lists[doc_idx]):
+            if any(word in stemmed_sentence for word in query_string.split()):
+                print("..." + documents_lists[doc_idx][j] + "...")
+                count += 1
+                if count == 3: # limits the number of contexts to 3
+                    break
 
 
 # QUERY
+print("Hit enter to exit.")
 while True:
-    user_query = input("Hit enter to exit. Your query to search: ")
-    stemmed_query = stemmer.stem(user_query)
-    print("stemmed query:", stemmed_query)
+    user_query = input("\nYour query to search: ")
+    stemmed_query = " ".join(stemmer.stem(word) for word in user_query.split())
+
     if user_query == "":
         break
+    
+    print("stemmed query:", stemmed_query) # for debugging
 
     try:
         search_start(stemmed_query)
     except:
         print("Invalid query, please try again.")
-        print()
