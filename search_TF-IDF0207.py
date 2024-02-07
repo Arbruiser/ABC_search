@@ -26,6 +26,7 @@ Work before the class:
 --- Can implement highlighting the matched word in the sentence in the same fashion as looking for unstemmed docs. We turn each sentence into
 stemmed and unstemmed lists of words. Search for the stemmed query word in the stemmed lists and put *...* around the word from the same number of document
 and the same number of sentence and the same number of word 
+
 Update: 2024-02-01
 1. Now the search result only returns the first 3 matches.
 2. Added more documents to the corpus. Now is 13.
