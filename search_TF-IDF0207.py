@@ -2,7 +2,7 @@
 """
 Update: 2024-02-07
 1. Integrate the query function, now the query will ask user to choose between Boolean and TF-IDF search.
-2. Added colorama to highlight the context of the query (only on boolean search result as the TF-IDF search result is bit messy).
+2. Added colorama to highlight the context of the query (only on boolean search result for testing).
 
 Future work:
 - If the word in the query is between quotes, do not stem the word.
