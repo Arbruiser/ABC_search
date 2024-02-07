@@ -13,9 +13,13 @@ Update: 2024-02-07
 
 Update: 2024-02-03
 (Arthur) Added Porter stemmer. Now we use stemmed documents for making our matrices. User query is also stemmed. 
+
 ---Now we also show the score of the matching doc. We can translate it into plain English with a bunch of if statements
 like "if score>0.3 then "score very high!" and so on.
+
 --- If the query contains multiple words, the context function will look for ANY of the query words in the text in order 
 and output only the first 3 matches. Try running "sneezing is not an illness". 
+
+-- Now the scraper can scrape new text data automatically.
 
 Contributed by Artur, Baiyi and Chao.
