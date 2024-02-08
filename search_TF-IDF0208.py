@@ -7,6 +7,10 @@ Update: 2024-02-08
 Bug fixed:
 The top 3 results now will be unique.
 
+Future work:
+Improve the exact match logic. Now it only checks if there are any quote symbols in the query.
+We need the program to match the word between quotes exactly rather than just checking if there are quotes in the query.
+
 Update: 2024-02-07
 1. Integrate the query function, now the query will ask user to choose between Boolean and TF-IDF search.
 2. Added colorama to highlight the context of the query (only on boolean search result for testing).
@@ -235,6 +239,7 @@ def search_with_embeddings(query):
         if idx in seen_doc_indices:
             continue
         else:
+            print()
             print(f"Document: {titles[idx]} - Score: {cosine_scores[idx].item():.4f}")
             print(f"URL: {httplinks[idx]}")
             print(
