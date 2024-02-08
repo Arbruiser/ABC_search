@@ -262,7 +262,9 @@ def query():
         bort = input(
             "Do you want to use Boolean search (b), TF-IDF search?(t) or fuzzy search (s): "
         ).lower()
-        if bort == "b":  # using boolean search
+
+        # using boolean search
+        if bort == "b":
             user_query = input("Hit enter to exit. Your query to search: ")
             if user_query == "":
                 break
@@ -304,6 +306,7 @@ def query():
                     )
                     print()
 
+        # using TF-IDF search
         elif bort == "t":
             user_query = input("Hit enter to exit. Your query to search: ")
             if user_query == "":
@@ -321,6 +324,8 @@ def query():
                     search_with_TFIDF(stemmed_query, exact_match=False)
                 except:
                     print("Invalid query, please try again.")
+
+        # using fuzzy search
         elif bort == "s":
             user_query = input("Hit enter to exit. Your query to search: ")
             if user_query == "":
