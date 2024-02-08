@@ -25,23 +25,28 @@ Update: 2024-02-03
 Unstemmed is for showing the context. Now documents is a list of strings, but the for loop in addition to this makes lists of lists where
 each emelement is its own sentence. This is necessary for showing the context because we have to search with our stemmed query in the stemmed 
 matrix, and then take the number of document and sentence and show it in the UNstemmed version. It works. 
+
 ---I also added a toy document about sneezing so that you can play with queries "sneezes", "sneezed", "sneezing" which are all stemmed into 'sneez'
+
 ---I also fixed the issue of our context looking ugly, it was because of new lines that stayed there after the links got deleted.
+
 ---Now we also show the score of the matching doc. We can translate it into plain English with a bunch of if statements
 like "if score>0.3 then "score very high!" and so on.
---- If the query contains multiple words, the context function will look for ANY of the query words in the text in order 
-and output only the first 3 matches. Try running "sneezing is not an illness". 
+
+--- If the query contains multiple words, the context function will look for ANY of the query words in the text in order and output only the first 3 matches. Try running "sneezing is not an illness". 
 
 Work before the class:
 --- Let user choose if to use Boolean or TF-IDF search. Maybe with the first input asking for B (Boolean) or T (TF-IDF)?  
+
 --- Can implement indexing of the sentences in the matched document to output the highest scoring sentences first. 
+
 --- Can implement highlighting the matched word in the sentence in the same fashion as looking for unstemmed docs. We turn each sentence into
-stemmed and unstemmed lists of words. Search for the stemmed query word in the stemmed lists and put *...* around the word from the same number of document
-and the same number of sentence and the same number of word 
+stemmed and unstemmed lists of words. Search for the stemmed query word in the stemmed lists and put *...* around the word from the same number of document and the same number of sentence and the same number of word 
 
 Update: 2024-02-01
 1. Now the search result only returns the first 3 matches.
-2. Added more documents to the corpus. Now is 13.
+2. 
+3. Added more documents to the corpus. Now is 13.
 
 Update: 2024-01-29
 
@@ -61,13 +66,15 @@ Minor changes:
 
 Future work:
 
-- Will add more documents to the corpus.
-- Try to rank the documents (maybe by word frequency or other methods). Done
-- Make logic that will allow searching for multiple words with some unknown words (Arthur) 
+~- Will add more documents to the corpus.~
+~- Try to rank the documents (maybe by word frequency or other methods). Done~
+~- Make logic that will allow searching for multiple words with some unknown words (Arthur) ~
 
-Challenges:
-- If the query has more than one keyword, try to show the sentence that includes all the keywords. Done
-- User doesn't have to type "and" or "AND" to use the AND operand. They can just type a space between two keywords. Done
-- Using embedding models to do fuzzy search. 
+~Challenges:~
+~- If the query has more than one keyword, try to show the sentence that includes all the keywords. Done~
+
+~- User doesn't have to type "and" or "AND" to use the AND operand. They can just type a space between two keywords. Done~
+
+~- Using embedding models to do fuzzy search.~
 
 Contributed by Artur, Baiyi and Chao.
