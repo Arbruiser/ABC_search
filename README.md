@@ -5,6 +5,8 @@ This search engine is able to perform Boolean search (for higher precison) or TF
 
 Besides the search program, the project also consists of a scraper, which performs automatic scrapping on [MedicalNewsToday](https://www.medicalnewstoday.com/).
 
+Contributed by Artur, Baiyi and Chao.
+
 Major updates:
 
 Update: 2024-02-08
@@ -45,8 +47,7 @@ stemmed and unstemmed lists of words. Search for the stemmed query word in the s
 
 Update: 2024-02-01
 1. Now the search result only returns the first 3 matches.
-2. 
-3. Added more documents to the corpus. Now is 13.
+2. Added more documents to the corpus. Now is 13.
 
 Update: 2024-01-29
 
@@ -68,7 +69,7 @@ Future work:
 
 ~- Will add more documents to the corpus.~
 ~- Try to rank the documents (maybe by word frequency or other methods). Done~
-~- Make logic that will allow searching for multiple words with some unknown words (Arthur) ~
+~- Make logic that will allow searching for multiple words with some unknown words (Arthur)~
 
 ~Challenges:~
 ~- If the query has more than one keyword, try to show the sentence that includes all the keywords. Done~
@@ -77,4 +78,3 @@ Future work:
 
 ~- Using embedding models to do fuzzy search.~
 
-Contributed by Artur, Baiyi and Chao.
