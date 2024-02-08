@@ -34,37 +34,7 @@ Work before the class:
 stemmed and unstemmed lists of words. Search for the stemmed query word in the stemmed lists and put *...* around the word from the same number of document
 and the same number of sentence and the same number of word 
 
-Update: 2024-02-01
-1. Now the search result only returns the first 3 matches.
-2. Added more documents to the corpus. Now is 13.
-
-Update: 2024-01-29
-
-1. Now the search result includes the document's title, link, and the context of the query.
-The result is in below format:
-<Document Title>
-<Document Link>
-... <The sentence includes the query keyword> ...
-Note: The context sentence only include the first keyword in the query.
-
-2. Now if the query is invalid, the program will not crash. Instead, it will print "Invalid query, please try again." and ask for another query.
-
-Minor changes:
-
-1. Cleaned up the code a little bit.
-2. Removed the unnecessary variables and functions.
-
-Future work:
-
-- Will add more documents to the corpus.
-- Try to rank the documents (maybe by word frequency or other methods). Done
-- Make logic that will allow searching for multiple words with some unknown words (Arthur) 
-
-Challenges:
-- If the query has more than one keyword, try to show the sentence that includes all the keywords. Done
-- User doesn't have to type "and" or "AND" to use the AND operand. They can just type a space between two keywords. Done
-- Using embedding models to do fuzzy search. 
-
+Please refer to Readme.md for ancient update logs.
 """
 # import dependencies
 from sentence_transformers import SentenceTransformer, util
@@ -185,7 +155,7 @@ tfidf = TfidfVectorizer(lowercase=True, sublinear_tf=True, use_idf=True, norm="l
 tf_idf_matrix = tfidf.fit_transform(stemmed_documents).T.tocsr()  # using stemmed docs!
 
 
-def search_with_TFIDF(query_string):
+def search_with_TFIDF(query_string, exact_match=False):
     # Vectorize query string
     query_vec = tfidf.transform([query_string]).tocsc()
 
@@ -196,31 +166,6 @@ def search_with_TFIDF(query_string):
     ranked_scores_and_doc_ids = sorted(
         zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True
     )
-    # ranked_scores_and_doc_ids = ranked_scores_and_doc_ids[:3]
-    # seen_doc_indices = set()
-    # unique_docs_found = 0
-    # while unique_docs_found <3:
-    #     for i, (score, doc_idx) in enumerate(ranked_scores_and_doc_ids):
-
-
-    #         while doc_idx not in seen_doc_indices:
-
-    #             print()
-    #             print(
-    #                 titles[doc_idx], "--- Its score is:", round(score, 2)
-    #             )  # print the title and score
-    #             print(httplinks[doc_idx])  # print the link
-
-    #             # for each sentence in the stem-docs, check if ANY word in the query is in the sentence, print corresponding original sentence
-
-    #             for j, stemmed_sentence in enumerate(stemmed_documents_lists[doc_idx]):
-    #                 # if any(word in stemmed_sentence for word in query_string.split()):
-    #                     query_words = set(query_string.split())
-    #                     sentence_words = set(stemmed_sentence.split())
-    #                     if query_words.intersection(sentence_words):
-    #                         print("..." + documents_lists[doc_idx][j] + "...")
-    #                         seen_doc_indices.add(doc_idx)
-    #                         unique_docs_found += 1
 
     seen_doc_indices = set()
     unique_docs_found = 0
@@ -230,20 +175,27 @@ def search_with_TFIDF(query_string):
         # Skip if we've already seen this document
         if doc_idx in seen_doc_indices:
             continue
-        
+
         print("\n" + titles[doc_idx], "--- Its score is:", round(score, 2))
         print(httplinks[doc_idx])  # print the link
-        
+
         # Check for sentence matches
-        for j, sentence in enumerate(stemmed_documents_lists[doc_idx]):
-            query_words = set(query_string.split())
-            sentence_words = set(sentence.split())
-            
-            # If there's an intersection between query words and sentence words
-            if query_words.intersection(sentence_words):
-                print("..." + documents_lists[doc_idx][j] + "...")
-                break  # Break after the first match to avoid printing multiple sentences from the same document
-        
+        if exact_match == False:  # if the query is not an exact match
+            for j, stemmed_sentence in enumerate(stemmed_documents_lists[doc_idx]):
+                if any(word in stemmed_sentence for word in query_string.split()):
+                    print("..." + documents_lists[doc_idx][j] + "...")
+                    break  # Break after the first match to avoid printing multiple sentences from the same document
+
+        else:  # if the query is an exact match
+            for j, sentence in enumerate(documents_lists[doc_idx]):
+                query_words = set(query_string.split())
+                sentence_words = set(sentence.split())
+
+                # Use "in" will match the subword, so we use intersection to match the exact word
+                if query_words.intersection(sentence_words):
+                    print("..." + documents_lists[doc_idx][j] + "...")
+                    break  # Break after the first match to avoid printing multiple sentences from the same document
+
         # Update the tracking variables after processing a document
         seen_doc_indices.add(doc_idx)
         unique_docs_found += 1
@@ -251,11 +203,7 @@ def search_with_TFIDF(query_string):
             break
 
 
-            
-
-
-
-# sentence bert
+# Sentence Bert
 # model = SentenceTransformer("all-MiniLM-L6-v2")
 # model.save(path="all-MiniLM-L6-v2")
 # Load Sentence-BERT model
@@ -355,17 +303,17 @@ def query():
             user_query = input("Hit enter to exit. Your query to search: ")
             if user_query == "":
                 break
-            if '"' in user_query:
+            if '"' in user_query:  # if the query contains quotes, skip the stemming
                 # replace " with space
                 user_query = user_query.replace('"', " ")
-                search_with_TFIDF(user_query)
+                search_with_TFIDF(user_query, exact_match=True)
             else:
                 stemmed_query = " ".join(
                     stemmer.stem(word) for word in user_query.split()
                 )
                 print("stemmed query:", stemmed_query)
                 try:
-                    search_with_TFIDF(stemmed_query)
+                    search_with_TFIDF(stemmed_query, exact_match=False)
                 except:
                     print("Invalid query, please try again.")
         elif bort == "s":

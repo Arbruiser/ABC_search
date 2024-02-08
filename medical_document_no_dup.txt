@@ -1,7 +1,6 @@
 https://www.sneezery.com
 Studies show that sneezing can be funny
 Expers say that sneezing can sometimes be funny. If he sneezed at somebody it's fun for him. However, if she sneezes at him, it will no longer be funny. Sneeze! 
-
 https://www.medicalnewstoday.com/articles/rheumatoid-arthritis-30-minute-aerobic-exercise-help-lower-systolic-blood-pressure
 One 30-minute session of moderate walking can lower the systolic blood pressure of women with rheumatoid arthritis, according to a new study.
 Many people with rheumatoid arthritis also experience high blood pressure, which can lead to cardiovascular issues.
@@ -43,7 +42,6 @@ Does exercise have the same effect on men with RA?
 Asked whether the same results would be observed in male study participants, Dr. Peçanha said, “we don’t know really if that would also happen in men with rheumatoid arthritis. We assume that the effects of exercise are similar between women and men, but that is not always the case.”
 He noted that while women get RA far more often than men, “there is data showing that although men are less affected by rheumatoid arthritis, the risk of future cardiovascular events is higher in men compared to women with RA.”
 Therefore,” he said, “there is a need to investigate interventions that may benefit men with rheumatoid arthritis, and exercise could be a very effective approach.”
-
 https://www.medicalnewstoday.com/articles/how-much-exercise-for-longevity-healthier-life
 How much should you exercise for a longer, healthier life? Study offers clues
 There are many factors when it comes to living a long and healthy life.
@@ -83,7 +81,6 @@ Dr. Chen said this study clearly shows that being able to perform some exercise 
 “(This study) corresponds with other (recent) studies that showed at least a moderate amount of exercise is helpful,” Dr. Chen added. “That it might not be necessary to have a very high degree of exercise to get the health benefits should be the message.”
 Dr. Chen also commented that one of the limitations is that this research was done on a very set population of Finland, which is not necessarily the same as people in the United States.
 “It would be nice to look at data on a more heterogeneous population in the United States,” he added.
-
 https://www.medicalnewstoday.com/articles/why-binge-drinking-is-more-dangerous-for-your-liver-than-daily-alcohol-consumption
 Why binge drinking is more dangerous for your liver than daily alcohol consumption
 Researchers say binge drinking combined with genetic risk can dramatically raise the risk of developing alcohol-related cirrhosis.
@@ -111,7 +108,6 @@ Researchers said that liver disease is among the leading causes of premature dea
 “It is crucial for individuals with a family history of liver disease or those with a genetic predisposition to alcoholism to be aware of the increased risk they face,” said Zagha. “This knowledge can empower individuals to make informed decisions about their alcohol consumption and seek help before irreversible liver damage occurs.”
 Dr. Steven Bell, a senior author of the study and a senior research associate at the University of Cambridge, noted in the press statement that liver disease, and particularly alcohol-related fatalities, has surged since the onset of the COVID-19 pandemic.
 “This study equips us with novel tools that are essential in pinpointing individuals at highest risk, thereby enabling us to direct interventions more effectively toward those who stand to benefit the most,” he said.
-
 https://www.medicalnewstoday.com/articles/psoriasis-and-chronic-inflammation
 Managing chronic inflammation with psoriasis
 Avoiding inflammatory foods:
@@ -144,7 +140,6 @@ Several habits can help reduce inflammation and improve psoriasis symptoms, such
 When to seek medical help
 Anyone experiencing a psoriasis flare who is interested in learning ways to reduce psoriasis symptoms and inflammation may wish to consider speaking with their healthcare team, including their dermatologist.
 They can recommend treatment methods based on symptom severity and provide recommendations for diet and lifestyle changes that may help lower inflammation and reduce psoriasis symptoms. They may also suggest taking vitamins or supplements.
-
 https://www.medicalnewstoday.com/articles/alzheimers-blood-test-detect-early-signs-protein-buildup-in-brain
 Blood test may detect early signs of Alzheimer's in the brain, study suggests
 Alzheimer’s disease is a clinical diagnosis, and there is, as of yet, no single, simple diagnostic test.
@@ -178,7 +173,6 @@ Dr. Clifford Segil, a neurologist at Providence Saint John’s Health Center in 
 – Dr. Segil
 He warned there were risks with the approach proposed:
 “If biomarkers are used millions of people will be diagnosed with Alzheimer’s Disease who may have no memory loss or cognitive impairment. A blood test for tau has no place to be used in a primary care physician’s office or a neurologist’s office in the clinical evaluation of patients with memory loss or cognitive impairment being evaluated for Alzheimer’s dementia. It will diagnose patients with Alzheimer’s dementia who are without memory loss and may never have memory loss.”
-
 https://www.medicalnewstoday.com/articles/semen-microbiome-linked-to-male-infertility
 Semen microbiome linked to male infertility, study finds
 Semen has its own microbiome, and bacterial imbalances may impact sperm count and quality, according to a new study.
@@ -221,7 +215,6 @@ Dr. Osadchiy said a deeper understanding of the relationship between the semen m
 “I wouldn’t be surprised if what is good for the body in general is also good for the semen microbiome,” Dr. Osadchiy added.
 Despite the lack of understanding of the relationship between the semen and gut microbiome, both Dr. Osadchiy and Dr. Gupta recommended prioritizing healthy lifestyle choices to improve sperm quality and motility. These include:
 Dr. Gupta also noted the value of abstaining from alcohol and smoking and following a diet rich in antioxidants and probiotic foods.
-
 https://www.medicalnewstoday.com/articles/migraine-increased-risk-of-ibd-inflammatory-bowel-disease-study
 Migraine linked to increased risk of IBD in new study
 More than 1 billion people around the world have at least one migraine attack each year.
@@ -263,7 +256,6 @@ Regarding the next steps for this research, Dr. Cash said that mechanistic data 
 “Once clinical relationships such as these have been identified, we need to move toward trying to explain why those relationships may exist,” Dr. Cash added. “That, in turn, may lead us to develop more targeted and effective therapies that can address multiple symptoms/syndromes.”
 Dr. Bedford suggested researchers look for an association between IBD flares and migraine occurring at the same time. As migraine is associated with serotonin release, he encouraged researchers to examine how the serotonin transporters within the GI tract, small bowel, and colon might play a role.
 “I think just questioning our patients in terms of quality of life issues — is there any way that we can mitigate their migraine headaches, potentially preventing their inflammatory bowel disease flare, or vice versa, is certainly something to look into,” Dr. Bedford said.
-
 https://www.medicalnewstoday.com/articles/long-covid-fatigue-linked-to-malfunctioning-mitochondria
 Long COVID fatigue linked to malfunctioning mitochondria
 At least 65 million people globally have long COVID.
@@ -302,7 +294,6 @@ Dr. Cutler commented that the topic of long COVID sparks controversy and strong 
 – Dr. David Cutler
 Regarding fatigue, Dr. Cutler said a program of graded exercise to avoid worsening symptoms seems to be best.
 “However, at this point, the findings of this one study of just 25 patients does not significantly enhance our ability to treat these patients’ complaints of fatigue,” he added. “But it does help to explain their symptoms which aids in reassurance and lessens anxiety. Future research could be aimed at attempts to lessen fatigue with various regimens of exercise, nutritional support, and emotional therapy to ease the suffering of those with long COVID.”
-
 https://www.medicalnewstoday.com/articles/stroke-increase-dementia-risk-3-times-higher-in-first-year
 Stroke could increase dementia risk by 80%, new research finds
 Each year, about 15 million people around the world have a stroke.
@@ -339,7 +330,6 @@ After reviewing this study, Dr. Cheng-Han Chen, a board-certified interventional
 MNT also discussed the study with Dr. José Morales, a vascular neurologist and neuro-interventional surgeon at Pacific Neuroscience Institute in Santa Monica, CA.
 Dr. Morales said he was surprised by how much higher a dementia risk was found in the study compared to prior studies.
 “It really provides added emphasis on the idea of doing everything we can to prevent stroke, by either primary prevention through lifestyle changes or secondary prevention with medical management to optimize their vascular risk factors,” he added.
-
 https://www.medicalnewstoday.com/articles/rsv-prevention-infants-young-children
 How to prevent RSV in infants and young children, according to experts
 Respiratory syncytial virus (RSV) is a common virus that may cause severe symptoms in infants, young children, and even older adults.
@@ -395,7 +385,6 @@ Dr. Bryant said that pregnant people unable to receive the maternal RSV vaccine 
 Dr. Fisher added the monoclonal antibody shot is given to infants 8 months or younger during RSV season.
 “It floods the baby’s system with antibodies directly against RSV,” Dr. Fisher continued.
 So it’s not a vaccine per se — the baby’s immune system doesn’t have to kick up. But it’s really great passive protection that we love to give these babies. It does not prevent RSV from happening, but it does prevent the most serious complications, including ER visits and hospitalizations — that’s what we’re all about,” she concluded.
-
 https://www.medicalnewstoday.com/articles/black-women-with-high-blood-pressure-before-age-35-have-triple-the-risk-of-a-stroke
 Black women with high blood pressure before age 35 have triple the risk of a stroke
 New research shows that Black women who develop high blood pressure before the age of 35 may have triple the odds of having a stroke
@@ -428,7 +417,6 @@ This strategy can start with a doctor’s visit, where blood pressure tests and 
 “Make sure that even mildly elevated blood pressures are tracked and addressed through prevention efforts like changes in diet or exercise, quitting smoking, and developing better sleep habits,” advised Aparicio. “To reduce risk of stroke, also pay attention to managing specific risk factors like excess body weight, abnormal blood cholesterol levels, and elevated blood pressure.”
 Aparicio notes that these findings, along with other data related to Black people and hypertension, underlines the importance for both doctors and patients to pay special attention to screening.
 “Neither hypertension nor risk of stroke should be perceived as [just] problems of older women,” he said. “We also need healthcare policy changes that emphasize, promote, and fund primary prevention because for Black women having a stroke at middle age, it is often too late.”
-
 https://www.medicalnewstoday.com/articles/t-cells-reprogrammed-to-slow-down-and-reverse-aging
 Scientists reprogram T cells to slow down and reverse aging
 Scientists are constantly looking for ways to help slow the aging process.
@@ -470,7 +458,6 @@ Currently, Dr. Zhang added, how tissues undergo senescence and how senescent cel
 “Many efforts have been made to develop small molecule drugs to clear senescent cells, namely senolytic therapies. However, these studies are limited by poorly defined molecular pathways that mediate senescence and its associated chronic inflammatory damage to normal tissues during aging.
 Future research is needed to address this issue. In addition, it is important to investigate how the study using a mouse system can be translated into a senolytic therapy in humans.”
 — Dr. Yi Zhang, director member of the Center for Discovery and Innovation
-
 https://www.medicalnewstoday.com/articles/could-statins-help-slow-down-the-development-of-dementia-symptoms
 Could statins help slow down the development of dementia symptoms?
 Statins are a drug that reduces cholesterol in the bloodstream, and while they were initially designed to prevent heart disease and cardiac events, they are increasingly being used to prevent other conditions linked to cholesterol.
@@ -502,7 +489,6 @@ Further research needed to be done to determine the mechanism that could underli
 “We need to examine how statins affect cholesterol, brain cholesterol and brain connectivity, and how the effects change with short or long-term treatment. We need to understand which patients potentially benefit from statins, if at all, in order to design a targeted clinical trial. We need to know how different genotypes (e.g. ApoE) modify this response. ApoE is a cholesterol transporter and the genetic [risk of Alzheimer’s the] allele ApoE4 confers [is higher].”
 Dr. Segil, who was not involved in this research, said he wanted to see more data comparing the different types of statin: “This study investigated three different generic cholesterol-lowering medications, or ‘statins,’ which include rosuvastatin, simvastatin, and atorvastatin. I am intrigued to see long term follow-up in the patients who received these three medications to see if data supports neurologists like me using one of these over another [drug], due to data indicating one statin helps prevent memory loss more than another.“
 “As a family of medications, statins often are not [well] tolerated, and rosuvastatin in clinical practice is better tolerated than atorvastatin, and I would be interested in seeing if rosuvastatin helped patients with memory loss in a follow-up study head to head with atorvastatin,” he pointed out.
-
 https://www.medicalnewstoday.com/articles/some-dementia-cases-caused-by-liver-disease
 Some dementia cases may be caused by liver disease, study finds
 There is currently no cure for cirrhosis of the liver and the disease can increase the risk for complications.
@@ -542,7 +528,6 @@ MNT also spoke with Dr. Anurag Maheshwari, gastroenterologist and hepatologist a
 Dr. Maheshwari commented that the study highlights an important concept, which is that providers who are diagnosing patients with dementia need to be aware that hepatic encephalopathy can mimic dementia.
 “It’s a matter of having better tools and awareness and education … to alert providers about the fact that if patients look like they’re having possible dementia, it may not be dementia — it may be hepatic encephalopathy and that’s something you have to be on the lookout for. The main purpose of the study is to provide better provider education amongst the folks who treat patients with neurocognitive decline but are not dealing with liver disease on a daily basis.”
 — Dr. Anurag Maheshwari, gastroenterologist and hepatologist
-
 https://www.medicalnewstoday.com/articles/increase-in-annual-cardiorespiratory-fitness-by-3-linked-to-35-lower-prostate-cancer-risk
 Higher cardiorespiratory fitness linked to 35% lower risk of prostate cancer
 Better cardiorespiratory health may lower the risk of being diagnosed with prostate cancer, according to a new Swedish study.
@@ -581,7 +566,6 @@ After anybody gets treated for prostate cancer, their PSA levels are regularly m
 – Dr. Ramkishen Narayanan
 He also mentioned that some men are fearful of working on cardiorespiratory fitness for fear of raising testosterone levels that they worry may increase their risk of prostate cancer.
 “There’s a misconception,” explained Dr. Narayanan, “that increasing testosterone will increase your prostate cancer incidence. That’s really been disproven as a misconception. So that’s something that’s important to know.”
-
 https://www.medicalnewstoday.com/articles/type-2-diabetes-medication-may-help-lower-kidney-stone-risk-30-percent
 Type 2 diabetes medication may help lower kidney stone risk by 30%
 The number of people experiencing kidney stones is growing worldwide.
@@ -618,7 +602,6 @@ Dr. Cheng said there are several things that predispose patients to getting kidn
 “Unfortunately, the obesity epidemic has only increased the risk of patients having renal stones,” she continued.
 “Certain food choices, such as too much sugar and too much salt increase the risk of renal stones. It has been found that too much fructose also increases (the) risk of developing kidney stones as well.”— Dr. Jennifer Cheng
 “Not drinking enough water also may increase the risk of renal stones. People are so busy sometimes that they don’t always remember to drink enough. The older you are, the less thirst mechanism you have, and therefore you drink less,” Dr. Cheng added.
-
 https://www.medicalnewstoday.com/articles/ginkgo-biloba-extract-may-speed-up-brain-recovery-stroke
 Ginkgo biloba extract may speed up brain recovery within first weeks after stroke
 A recent preliminary study highlights a promising development in stroke recovery treatment.
@@ -659,7 +642,6 @@ Dr. Morales points out that “Ginkgo biloba has putative mechanisms of action t
 Miller notes that “the improvement in MoCa scores is significant and can offer hope to those [experiencing] the lasting results of acute ischemic stroke.”
 “It would be difficult for a layperson to replicate the results at home, as the injection method is not accessible to most, and ginkgo supplements usually do not have their lactone content standardized or labelled. The content of ginkgo leaves varies greatly depending on how they are harvested,” Miller explained.
 However, it’s important to note that Dr. Morales said, “patients and the public should wait for additional information from this trial and/or subsequent ones before adopting a regimen with over-the-counter gingko biloba supplements, particularly given known ginkgo-related safety issues and drug-drug interactions.”
-
 https://www.medicalnewstoday.com/articles/can-a-daily-dose-of-cinnamon-help-lower-blood-sugar
 Can a daily dose of cinnamon help lower blood sugar?
 Cinnamon, a spice from the inner bark of trees from the genus Cinnamomum, is widely used in cooking.
@@ -703,7 +685,6 @@ Dr. Gupta advised that cinnamon might have a role to play in managing prediabete
 Costa recommended other evidence-based measures to help control prediabetes: “Embracing diets rich in healthy plant-based foods, engaging in guided intermittent fasting, and practicing intuitive and mindful eating can improve nutrition while enhancing overall metabolic health.”
 “Weight loss achieved by combining a healthy, reduced-calorie diet with regular exercise has been shown to be twice as effective as weight loss achieved through diet alone in reversing prediabetic states. Moreover, reducing abdominal fat is essential due to its strong association with insulin resistance,” added Costa.
 Both advised that you should always consult a health professional before taking supplements or making lifestyle changes.
-
 https://www.medicalnewstoday.com/articles/both-too-much-and-too-little-sleep-associated-with-signs-of-dementia-stroke
 Both too much and too little sleep associated with signs of dementia, stroke
 Sleeping for more or less than the optimal duration of 7 to 9 hours is associated with an increased risk of dementia and stroke.
@@ -749,7 +730,6 @@ Dr. Balaji Krishnaiah, Neurology Medical Director at Methodist Le Bonheur Health
 Nevertheless, one of the study’s major limitations was its observational design. Dr. Clocchiatti-Tuozzo said that: “Due to the observational nature of our study, we are precluded from making causal inferences between sleep duration and poor brain health. In addition, the directionality of such a causal relationship remains indeterminate.”
 “The generalizability of our results is limited by the characteristics of the UK Biobank study, which is being conducted in a single European country and may be prone to healthy volunteer bias, where individuals who are willing and able to participate in a study tend to be healthier than the source population,” he added.
 Dr. Morales also noted: “It is a retrospective study using self-reported sleep durations, and the latter may not be reliable data inputs. Future research should incorporate objective measures of sleep duration (rather than self-reported) — and more importantly sleep quality — for correlation with these imaging biomarkers.”
-
 https://www.medicalnewstoday.com/articles/exercise-only-reduces-cognitive-decline-risk-slightly-why-thats-still-important
 Exercise only reduces cognitive decline risk slightly: Why that's still important
 Physical activity might not play as prominent a role in reducing the risk or preventing cognitive decline as previously thought, according to a new study.
@@ -784,7 +764,6 @@ The researchers indicated they did not assess whether studies accounted for prac
 Promoting good brain health
 “When engaging in healthy lifestyle factors for brain health, lifestyle behaviors such as physical activity and cognitive stimulation can help to increase brain blood flow, improve heart health, increase brain activity, and increase brain volumes,” Glatt said
 “Even for individuals with cognitive decline and dementia, adhering to and improving upon multiple lifestyle factors may be able to slow cognitive decline or improve behavioral outcomes such as mood or certain aspects of cognition,” he added. “However, this depends upon multiple individual, biological, and environmental factors, including the specific lifestyle changes the person follows.”
-
 https://www.medicalnewstoday.com/articles/risk-of-lung-cancer-significantly-decreases-after-smoking-is-stopped
 Risk of lung cancer significantly decreases after smoking is stopped
 Stopping smoking reduces cancer risk at any age, especially after 10 years, according to a new study.
@@ -807,7 +786,6 @@ Never too late to quit smoking
 Considering the health effects inclusive of, but not limited to, cancer risk is critical, experts say.
 From the first hour to the first month to the first year of stopping smoking, people experience improvements in respiratory functioning and blood circulation and see their heart attack risk cut in half, among other benefits.
 “This is the most important finding of this study,” Bilchik said. “No matter what age, don’t smoke, and if you do — stop! Also, do not assume that if you have been a long-term smoker, you have no hope. You do and this study supports it.”
-
 https://www.medicalnewstoday.com/articles/bariatric-weight-loss-surgery-is-most-effective-for-blood-pressure-control-study-reports
 Bariatric weight loss surgery is most effective for blood pressure control, study reports
 Researchers say people with obesity who had bariatric surgery had lower blood pressure, better body mass index scores, and used less medication than those who only used drugs to control hypertension
@@ -831,7 +809,6 @@ In a commentary accompanying the published study, Dr. Michael Hall, a professor 
 “In addition to sustained weight loss having a great effect on reducing blood pressure medications, there are additional metabolic effects that result from bariatric surgery,” Dr. Mir Ali, a bariatric surgeon and medical director of MemorialCare Surgical Weight Loss Center at Orange Coast Medical Center in California who was not involved in the research, told Medical News Today. “Not all these effects are well understood and research continues to better comprehend these effects.”
 “If patients have hypertension secondary to obesity, then any way a patient can get to a healthy weight — by diet, exercise, medications, etc. — they are more likely to be able to reduce blood pressure,” Ali added. “Additionally, reducing alcohol and nicotine use, reducing salt intake, proper sleep, reducing stress and regular exercise all have beneficial effects on blood pressure.”
 “Good aerobic exercise can increase your natural nitroglycerin, which is a vasodilating agent,” Dr. Nicole Weinberg, a cardiologist at Providence Saint John’s Health Center in California who was not involved in the research, told Medical News Today. “This causes your blood vessels to dilate and lowers your blood pressure.”
-
 https://www.medicalnewstoday.com/articles/unique-compounds-salmon-lower-cholesterol-heart-disease-risk
 Scientists find compounds in salmon that may lower cholesterol, heart disease risk
 Salmon contains unique compounds that are associated with improved cardiometabolic health indicators, such as lower cholesterol, a new nutrimetabolomic study shows.
@@ -867,7 +844,6 @@ Routhenstein suggested the reason that the non-Mediterranean fish nonetheless qu
 “The diet includes a variety of other fish that have a similar nutritional profile and are associated with numerous health benefits. For instance, sardines and trout are rich in omega-3 fatty acids, particularly EPA and DHA, which are beneficial for heart health. They are also a good source of protein, vitamin D, and calcium,” she noted.
 To Middelmann, who specializes in the Mediterranean diet, it “is about joyfully eating lots of different types of fish and seafood, but also a wide variety of everything else — veggies, legumes, whole grains, fruits, nuts, seeds, olives, eggs, yogurt, cheese, etc. — because it tastes good, makes you feel good, and is nutritious.”
 “I know that doesn’t sound very scientific, but it seems to work pretty well for the folks living in the Mediterranean region,” she added.
-
 https://www.medicalnewstoday.com/articles/2023-in-medicine-artificial-sweeteners-colon-cancer-male-birth-control
 2023 in medicine: Artificial sweeteners, colon cancer, and male birth control
 2023 has witnessed no shortage of medical firsts and breakthroughs but has also seen many alarming headlines. What were some of these intriguing studies and worrying trends? Our editors Andrea Rice, Maria Cohut, and Yasemin Nicola Sakay discuss this year’s stand-out research and health and wellness topics in our December “In Conversation” episode.
@@ -898,7 +874,6 @@ Meanwhile, I had one question on my mind regarding the lack of oral contraceptiv
 “[A] lot of these trials were stopped by the researchers or the funders after they saw that men had a lot of side effects. One of them, for example, was mood disorders like depression. So, my question is, we have something on the market already that causes such side effects, but we’re subjecting millions of women to take these, why can’t men do that? [W]hat do you think is the main reason behind this?”
 In the feature, Prof. Lonny Levin told Medical News Today that female hormonal birth control continues on the market “just because society has come to accept it” by now, but “the side effect bar for a healthy person to take a drug is really high, and it should be.”
 “I would bet that we have the technology and resources to create a male oral contraceptive that is safe with minimal side effects. I mean, if we can manufacture and prove the safety of a COVID-19 vaccine in a short timeframe, certainly, we have the ability, from a science perspective to create this contraceptive,” said Andrea.
-
 https://www.medicalnewstoday.com/articles/in-conversation-why-exercise-is-key-to-living-a-long-and-healthy-life
 In Conversation: Why exercise is key to living a long and healthy life
 What should we do in order to live healthier lives for longer? Research shows there are a few lifestyle interventions that can effectively prolong our life and health span. One of these is exercise, but what kind, and in what combinations, and why does it help add years to our lives? Find out in our latest podcast episode.
@@ -930,7 +905,6 @@ Some of the most common occupations linked to intensive physical activity cited 
 So while all forms of exercise can be good for health, strenuous or intensive physical activity in a work environment could end up compounding the risk of various health conditions.
 And even exercise for leisure can affect aspects of physical health — such as joint integrity — particularly later in life. In our podcast, both Dr. del Pozo Cruz and Eddie emphasized the importance of consulting a trusted healthcare provider, who can advise on the best forms of exercise to engage in on an individual basis.
 To find out more about how and why different forms of exercise can support longevity, and to hear the story of how Edwina became “Iron Gran,” listen to our podcast episode in full below or on your preferred streaming platform.
-
 https://www.medicalnewstoday.com/articles/in-conversation-what-do-we-know-about-the-gut-microbiome-in-ibd
 In Conversation: What do we know about the gut microbiome in IBD?
 Inflammatory bowel disease (IBD) affects millions of people, often severely impacting their day-to-day lives. What role does the gut microbiome play in IBD, and can we harness dietary interventions to manage symptoms? Medical News Today explores this question In Conversation with a researcher and an expert through lived experience.
@@ -954,7 +928,6 @@ Beyond lifestyle interventions, however, it is also important for researchers to
 One promising avenue is research looking at gut immune cells, which play an important role in inflammation and other processes in the gut. Harnessing immune cell activity in the gut may, in the future, help treat different forms of IBD.
 Another potential treatment line that has been receiving attention from researchers, but which is currently only rarely used in clinical settings, is fecal microbiota transplantation. This presupposes the transfer of “good bacteria” into the guts of people with gastrointestinal disorders.
 Find out more about the current research on IBD causes and treatments, and delve into a candid discussion on the real-life impact of IBD by listening to our podcast in full below, or on your preferred streaming platform.
-
 https://www.medicalnewstoday.com/articles/in-conversation-my-podcast-changed-me
 In Conversation: My podcast changed me
 What makes us change? Why is it so difficult to change our minds about things? And what is it that makes us take action and change our behavior? Medical News Today tries to answer these questions while sharing three podcasts that inspired concrete changes in their lives.
