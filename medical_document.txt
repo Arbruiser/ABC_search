@@ -1,6 +1,10 @@
+
+
 https://www.sneezery.com
 Studies show that sneezing can be funny
 Expers say that sneezing can sometimes be funny. If he sneezed at somebody it's fun for him. However, if she sneezes at him, it will no longer be funny. Sneeze! 
+
+
 
 https://www.medicalnewstoday.com/articles/rheumatoid-arthritis-30-minute-aerobic-exercise-help-lower-systolic-blood-pressure
 One 30-minute session of moderate walking can lower the systolic blood pressure of women with rheumatoid arthritis, according to a new study.
@@ -44,6 +48,7 @@ Asked whether the same results would be observed in male study participants, Dr.
 He noted that while women get RA far more often than men, “there is data showing that although men are less affected by rheumatoid arthritis, the risk of future cardiovascular events is higher in men compared to women with RA.”
 Therefore,” he said, “there is a need to investigate interventions that may benefit men with rheumatoid arthritis, and exercise could be a very effective approach.”
 
+
 https://www.medicalnewstoday.com/articles/how-much-exercise-for-longevity-healthier-life
 How much should you exercise for a longer, healthier life? Study offers clues
 There are many factors when it comes to living a long and healthy life.
@@ -84,6 +89,7 @@ Dr. Chen said this study clearly shows that being able to perform some exercise 
 Dr. Chen also commented that one of the limitations is that this research was done on a very set population of Finland, which is not necessarily the same as people in the United States.
 “It would be nice to look at data on a more heterogeneous population in the United States,” he added.
 
+
 https://www.medicalnewstoday.com/articles/why-binge-drinking-is-more-dangerous-for-your-liver-than-daily-alcohol-consumption
 Why binge drinking is more dangerous for your liver than daily alcohol consumption
 Researchers say binge drinking combined with genetic risk can dramatically raise the risk of developing alcohol-related cirrhosis.
@@ -111,6 +117,7 @@ Researchers said that liver disease is among the leading causes of premature dea
 “It is crucial for individuals with a family history of liver disease or those with a genetic predisposition to alcoholism to be aware of the increased risk they face,” said Zagha. “This knowledge can empower individuals to make informed decisions about their alcohol consumption and seek help before irreversible liver damage occurs.”
 Dr. Steven Bell, a senior author of the study and a senior research associate at the University of Cambridge, noted in the press statement that liver disease, and particularly alcohol-related fatalities, has surged since the onset of the COVID-19 pandemic.
 “This study equips us with novel tools that are essential in pinpointing individuals at highest risk, thereby enabling us to direct interventions more effectively toward those who stand to benefit the most,” he said.
+
 
 https://www.medicalnewstoday.com/articles/psoriasis-and-chronic-inflammation
 Managing chronic inflammation with psoriasis
@@ -145,6 +152,7 @@ When to seek medical help
 Anyone experiencing a psoriasis flare who is interested in learning ways to reduce psoriasis symptoms and inflammation may wish to consider speaking with their healthcare team, including their dermatologist.
 They can recommend treatment methods based on symptom severity and provide recommendations for diet and lifestyle changes that may help lower inflammation and reduce psoriasis symptoms. They may also suggest taking vitamins or supplements.
 
+
 https://www.medicalnewstoday.com/articles/alzheimers-blood-test-detect-early-signs-protein-buildup-in-brain
 Blood test may detect early signs of Alzheimer's in the brain, study suggests
 Alzheimer’s disease is a clinical diagnosis, and there is, as of yet, no single, simple diagnostic test.
@@ -178,6 +186,7 @@ Dr. Clifford Segil, a neurologist at Providence Saint John’s Health Center in 
 – Dr. Segil
 He warned there were risks with the approach proposed:
 “If biomarkers are used millions of people will be diagnosed with Alzheimer’s Disease who may have no memory loss or cognitive impairment. A blood test for tau has no place to be used in a primary care physician’s office or a neurologist’s office in the clinical evaluation of patients with memory loss or cognitive impairment being evaluated for Alzheimer’s dementia. It will diagnose patients with Alzheimer’s dementia who are without memory loss and may never have memory loss.”
+
 
 https://www.medicalnewstoday.com/articles/semen-microbiome-linked-to-male-infertility
 Semen microbiome linked to male infertility, study finds
@@ -222,6 +231,7 @@ Dr. Osadchiy said a deeper understanding of the relationship between the semen m
 Despite the lack of understanding of the relationship between the semen and gut microbiome, both Dr. Osadchiy and Dr. Gupta recommended prioritizing healthy lifestyle choices to improve sperm quality and motility. These include:
 Dr. Gupta also noted the value of abstaining from alcohol and smoking and following a diet rich in antioxidants and probiotic foods.
 
+
 https://www.medicalnewstoday.com/articles/migraine-increased-risk-of-ibd-inflammatory-bowel-disease-study
 Migraine linked to increased risk of IBD in new study
 More than 1 billion people around the world have at least one migraine attack each year.
@@ -264,6 +274,7 @@ Regarding the next steps for this research, Dr. Cash said that mechanistic data 
 Dr. Bedford suggested researchers look for an association between IBD flares and migraine occurring at the same time. As migraine is associated with serotonin release, he encouraged researchers to examine how the serotonin transporters within the GI tract, small bowel, and colon might play a role.
 “I think just questioning our patients in terms of quality of life issues — is there any way that we can mitigate their migraine headaches, potentially preventing their inflammatory bowel disease flare, or vice versa, is certainly something to look into,” Dr. Bedford said.
 
+
 https://www.medicalnewstoday.com/articles/long-covid-fatigue-linked-to-malfunctioning-mitochondria
 Long COVID fatigue linked to malfunctioning mitochondria
 At least 65 million people globally have long COVID.
@@ -303,37 +314,6 @@ Dr. Cutler commented that the topic of long COVID sparks controversy and strong 
 Regarding fatigue, Dr. Cutler said a program of graded exercise to avoid worsening symptoms seems to be best.
 “However, at this point, the findings of this one study of just 25 patients does not significantly enhance our ability to treat these patients’ complaints of fatigue,” he added. “But it does help to explain their symptoms which aids in reassurance and lessens anxiety. Future research could be aimed at attempts to lessen fatigue with various regimens of exercise, nutritional support, and emotional therapy to ease the suffering of those with long COVID.”
 
-https://www.medicalnewstoday.com/articles/could-statins-help-slow-down-the-development-of-dementia-symptoms
-Could statins help slow down the development of dementia symptoms?
-Statins are a drug that reduces cholesterol in the bloodstream, and while they were initially designed to prevent heart disease and cardiac events, they are increasingly being used to prevent other conditions linked to cholesterol.
-Some researchers believe that the most common forms of dementia may be caused in part by changes to cholesterol metabolism and blood flow to the brain.
-A longitudinal cohort study of older adults with dementia in Sweden has shown that statin use is linked to improved cognition over a period of three years, with some statins performing better than others.
-Every year there are 10 million new dementia cases, according to the World Health Organization (WHO), but few treatment or prevention options available.
-The most common form of dementia is Alzheimer’s disease, which is characterized by a build-up of betamyloid plaques and tau peptide tangles in the brain.
-The second most common cause of dementia is vascular dementia, which is caused when blood vessels in the brain get blocked, reducing blood flow to the region.
-It can occur after a stroke, but individuals do not have to have a stroke to have vascular dementia. It is also possible that Alzheimer’s disease and vascular dementia can co-occur.
-What is cholesterol’s role in dementia?
-High cholesterol is linked to both Alzheimer’s disease and vascular dementia, particularly in men. Researchers hypothesize that cholesterol dysregulation prevents the normal breakdown of cholesterol in the body, leading to levels of low density lipoprotein cholesterol rising to levels that can cause various problems.
-This could lead to atherosclerosis, which can increase the risk of vascular dementia, and it could also dysregulate the take up of the tau protein, which could accelerate its accumulation in the brain, a characteristic of Alzheimer’s disease.
-That is also why statins could help decrease dementia risk in some cases. Statins are a drug that has been used for decades to reduce cholesterol levels in the blood, primarily with the aim of reducing heart disease and resulting cardiac events.
-Dr. Clifford Segil, a neurologist at Providence Saint John’s Health Center in Santa Monica, CA, told Medical News Today:
-“In patients with memory loss one of the most common types of dementia is vascular dementia or multi-infarct dementia and any medication which lowers cardiovascular and cerebrovascular risk factors like a statin, would lower patient’s chances of getting this type of dementia.”
-Do statins help fight dementia symptoms?
-Researchers from Karolinska University Hospital in Stockholm, Sweden, have recently looked at the Swedish Registry for Cognitive/Dementia Disorders (SveDem) to determine if statin use had an impact on cognition in older adults.
-The results of their study are reported in a paper published in the journal Alzheimer’s Research and Therapy.
-They investigated the records of 15,586 individuals with different forms of dementia, with an average age of 79.5 years at diagnosis, 10,869 of whom took statins. Data were collected from 2007, and all patients were followed until death, emigration or end of follow-up.
-Dr. Sara Garcia-Ptacek, assistant professor and neurologist at the Cognitive Clinic, Karolinska University Hospital, lead researcher and lead author of the study, told MNT that “[t]he potential neuroprotective effects of statins have been discussed for a long time.“
-“There were some clinical studies which were negative and some observational studies showing an association with dementia prevention and/or progression. SveDem is the world’s largest clinical dementia cohort and the indication and types of patients receiving statins have changed over time,“ she added. “We wanted to check what the association was between statin use and cognition in patients with Alzheimer’s in the SveDem cohort.”
-Researchers for the SveDem used a mini-mental state examination (MMSE) to evaluate cognition and this data was recorded. Researchers for this paper analysed the scores recorded at baseline and follow-ups. Data from the cohort was disaggregated into the different types of statin taken by participants. Findings were adjusted for demographic characteristics, comorbidities and medications other than statins.
-The researchers found that overall, statin users who took one defined daily dose of statins on average had a 0.63 more MMSE points after 3 years of follow-up compared to those who did not use statins.
-Simvastatin, which was the most prescribed statin in Sweden at the time, was associated with 1.01 more MMSE points after 3 years compared to atorvastatin users. Patients under 79.5 years when diagnosed who took simvastatin had 0.80 more MMSE points compared to younger atorvastatin users after 3 years. Simvastatin users had 1.03 more MMSE points compared to rosuvastatin users after 3 years.
-Statins are safe to take in dementia
-The study confirmed that, despite previous concerns that statins could cause confusion, that they are in fact safe in this group of older patients with dementia, and do not contribute to cognitive decline, said Dr. Segil.
-Dr Garcia-Ptacek said: “Our current hypothesis is that these two things may be simultaneously true: acute changes when starting statins — for example, in brain cholesterol — could potentially cause confusion in sensitive individuals while the long-term effects could be protective. However, this is just an hypothesis which will need to be confirmed in future studies”
-Further research needed to be done to determine the mechanism that could underlie these findings, she explained, adding:
-“We need to examine how statins affect cholesterol, brain cholesterol and brain connectivity, and how the effects change with short or long-term treatment. We need to understand which patients potentially benefit from statins, if at all, in order to design a targeted clinical trial. We need to know how different genotypes (e.g. ApoE) modify this response. ApoE is a cholesterol transporter and the genetic [risk of Alzheimer’s the] allele ApoE4 confers [is higher].”
-Dr. Segil, who was not involved in this research, said he wanted to see more data comparing the different types of statin: “This study investigated three different generic cholesterol-lowering medications, or ‘statins,’ which include rosuvastatin, simvastatin, and atorvastatin. I am intrigued to see long term follow-up in the patients who received these three medications to see if data supports neurologists like me using one of these over another [drug], due to data indicating one statin helps prevent memory loss more than another.“
-“As a family of medications, statins often are not [well] tolerated, and rosuvastatin in clinical practice is better tolerated than atorvastatin, and I would be interested in seeing if rosuvastatin helped patients with memory loss in a follow-up study head to head with atorvastatin,” he pointed out.
 
 https://www.medicalnewstoday.com/articles/stroke-increase-dementia-risk-3-times-higher-in-first-year
 Stroke could increase dementia risk by 80%, new research finds
@@ -360,7 +340,6 @@ The stroke participants were matched to two different control groups — one of 
 Upon analysis, scientists found dementia risk was 80% higher in people who had a stroke when compared to the control group with no heart attack or stroke. The risk for dementia was almost 80% higher in people who had a stroke when compared to the control group who had a heart attack and no stroke.
 “We were able to show that the elevated risk of dementia persisted even after matching to control (comparison) groups with the same age, sex, neighborhood socioeconomic status, and vascular risk factors.
 As stroke imposes a direct injury on the brain, which may have an immediate impact but also long-term impacts on brain function, this result is not entirely surprising but important to confirm through this large and robust analysis.”
-– Dr. Joundi
 Dementia risk 3 times higher in first year after stroke
 Additionally, the researchers discovered dementia risk was almost three times higher in the first year following a stroke. The risk declined to a 1.5-times increased risk by the five-year mark following a stroke and remained elevated 20 years later.
 “We found a three-fold risk of dementia between three and 12 months after stroke,” Dr. Joundi explained. “The first three months after stroke were not included as it is usually too early to make a definitive diagnosis of dementia.”
@@ -373,6 +352,7 @@ MNT also discussed the study with Dr. José Morales, a vascular neurologist and 
 Dr. Morales said he was surprised by how much higher a dementia risk was found in the study compared to prior studies.
 “It really provides added emphasis on the idea of doing everything we can to prevent stroke, by either primary prevention through lifestyle changes or secondary prevention with medical management to optimize their vascular risk factors,” he added.
 
+
 https://www.medicalnewstoday.com/articles/rsv-prevention-infants-young-children
 How to prevent RSV in infants and young children, according to experts
 Respiratory syncytial virus (RSV) is a common virus that may cause severe symptoms in infants, young children, and even older adults.
@@ -381,7 +361,6 @@ In 2019, about 1.4 million infants ages 0–6 months globally were hospitalized 
 RSV infection can become serious, but there are ways to protect infants and young children from severe illness.
 Respiratory syncytial virus (RSV) commonly presents with cold-like symptoms, such as a runny nose and cough.
 However, in infants and young children, RSV can be much more severe, leading to hospitalizations and even death. RSV may also cause severe illness among older adults.
-RSV is the most common cause of infant hospitalizations in high-income countries.
 In 2019, about 6.6 million infants ages 0-6 months globally had RSV-associated acute lower respiratory infection episodes, with 1.4 million needing to be hospitalized and 45,700 RSV-attributable overall deaths.
 What can be done to protect infants and small children from severe illness due to RSV? Medical News Today spoke with pediatricians to learn more.
 How does RSV affect a baby?
@@ -430,6 +409,7 @@ Dr. Fisher added the monoclonal antibody shot is given to infants 8 months or yo
 “It floods the baby’s system with antibodies directly against RSV,” Dr. Fisher continued.
 So it’s not a vaccine per se — the baby’s immune system doesn’t have to kick up. But it’s really great passive protection that we love to give these babies. It does not prevent RSV from happening, but it does prevent the most serious complications, including ER visits and hospitalizations — that’s what we’re all about,” she concluded.
 
+
 https://www.medicalnewstoday.com/articles/black-women-with-high-blood-pressure-before-age-35-have-triple-the-risk-of-a-stroke
 Black women with high blood pressure before age 35 have triple the risk of a stroke
 New research shows that Black women who develop high blood pressure before the age of 35 may have triple the odds of having a stroke
@@ -462,6 +442,7 @@ This strategy can start with a doctor’s visit, where blood pressure tests and 
 “Make sure that even mildly elevated blood pressures are tracked and addressed through prevention efforts like changes in diet or exercise, quitting smoking, and developing better sleep habits,” advised Aparicio. “To reduce risk of stroke, also pay attention to managing specific risk factors like excess body weight, abnormal blood cholesterol levels, and elevated blood pressure.”
 Aparicio notes that these findings, along with other data related to Black people and hypertension, underlines the importance for both doctors and patients to pay special attention to screening.
 “Neither hypertension nor risk of stroke should be perceived as [just] problems of older women,” he said. “We also need healthcare policy changes that emphasize, promote, and fund primary prevention because for Black women having a stroke at middle age, it is often too late.”
+
 
 https://www.medicalnewstoday.com/articles/t-cells-reprogrammed-to-slow-down-and-reverse-aging
 Scientists reprogram T cells to slow down and reverse aging
@@ -505,86 +486,6 @@ Currently, Dr. Zhang added, how tissues undergo senescence and how senescent cel
 Future research is needed to address this issue. In addition, it is important to investigate how the study using a mouse system can be translated into a senolytic therapy in humans.”
 — Dr. Yi Zhang, director member of the Center for Discovery and Innovation
 
-https://www.medicalnewstoday.com/articles/migraine-increased-risk-of-ibd-inflammatory-bowel-disease-study
-Migraine linked to increased risk of IBD in new study
-More than 1 billion people around the world have at least one migraine attack each year.
-Previous research shows that migraine can potentially increase a person’s risk for several health issues, including gastrointestinal conditions.
-New research from Seoul National University College of Medicine in South Korea says there may also be a link between migraine and an increased risk for inflammatory bowel disease (IBD).
-More than 1 billion people globally have at least one migraine attack each year.
-Previous studies show that migraine can potentially increase a person’s risk for other conditions, including stroke, heart disease, epilepsy, sleeping issues, and anxiety and depression.
-Migraine has also been linked to some gastrointestinal conditions, including irritable bowel syndrome (IBS).
-Now, researchers from Seoul National University College of Medicine in South Korea say there may also be a link between migraine and an increased risk for irritable bowel disease (IBD), which is an umbrella term that includes Crohn’s disease and ulcerative colitis.
-The study was recently published in the journal Scientific Reports.
-Migraine and IBD: An unsurprising connection
-According to Dr. Brooks D. Cash, professor and chief of the division of Gastroenterology, Hepatology, and Nutrition at UTHealth Houston in Texas, who was not involved in this study, the field of gastroenterology has recognized for many years that migraine has been associated with many chronic gastrointestinal syndromes and diseases.
-“The data in this report supports previous reports of an association between migraine headaches and IBD,” Dr. Cash told Medical News Today.
-Dr. Rudolph Bedford, a board-certified gastroenterologist at Providence Saint John’s Health Center in Santa Monica, CA, who was also not involved in this study, told MNT that the research results were not surprising.
-“[With] inflammatory bowel disease we do see some extra-intestinal manifestations including things involving the eye or ocular findings, which may be neurogenic in nature, so it wasn’t surprising,” Dr. Bedford added.
-This is not the first study to look at a connection between migraine and IBD.
-A study published in March 2021 of people in the United States found a higher prevalence of migraine or severe headaches among adults with IBD than in those without.
-Research published in March 2023 reported an increased prevalence of IBD in people with migraine with and without aura.
-Could migraine increase risk of inflammatory bowel disease?
-For the current study, researchers analyzed data from more than 10 million people through the nationwide healthcare system for South Korean citizens. About 3% of the study population had IBD.
-Through the data, scientists found the incidence of IBD was significantly higher in people who had migraine compared to those who did not.
-Scientists also reviewed the data through subgroups of Crohn’s disease and ulcerative colitis incidences. People with migraine in both subgroups had a higher risk of developing either condition when compared to people without migraine.
-After a migraine diagnosis, researchers found people were at a higher risk of developing Crohn’s disease, with a significant rise after a 5-year follow-up.
-Additionally, within the subgroups, scientists reported that the impact of migraine on the risk of developing ulcerative colitis was more prominent in men than women.
-Study results not definitive
-Based on these findings, the research team suggests that people with migraine be monitored carefully for the development of IBD.
-However, Dr. Cash stated that the data presented do not convincingly support that approach or recommendation.
-“The odds ratios that were reported in this study, which can be thought of as the increased odds of an outcome (e.g., developing IBD) with a given exposure (e.g., migraine headaches), were consistently between one to two, which is not far from definitive and can be easily misinterpreted or misrepresented,” he explained.
-“The results are, at best, suggestive of an association between migraines and IBD, which we were already aware of based on previous research and deserve to be further evaluated. However, the minimal increase in the odds of developing IBD reported in this study is not sufficient to recommend increased monitoring of patients with migraines for the development of Crohn’s disease or ulcerative colitis.”
-– Dr. Brooks D. Cash
-Importance of identifying potential IBD triggers
-Dr. Bedford said it is important to identify potential health issues that may trigger IBD, as a doctor may be able to mitigate the symptoms of IBD if they know what may be associated with it.
-“Migraines can be very debilitating and you may want to identify those people with migraines,” he continued. “We don’t normally question patients with inflammatory bowel disease whether or not they have migraine headaches, so it probably rates as something that should be done more frequently.”
-“These results add to an already relatively robust body of research suggesting that chronic pain syndromes are statistically more common in patients with chronic GI syndromes or diseases,” Dr. Cash said.
-“We do not have enough information or proof yet to establish a causal relationship either way. But this data can be used to explain some therapeutic approaches that may benefit both GI and neurologic symptoms in patients with migraines,” he added.
-Research next steps
-Regarding the next steps for this research, Dr. Cash said that mechanistic data evaluating the possible reasons for these consistent observations of association is needed.
-“Right now, all we have are hypotheses,” he continued. “Are there changes in the gut-brain communication pathways or sensory perceptions in the enteric and central nervous systems? Is the gut microbiome involved? Are there psychological and stress-mediated factors at play?”
-“Once clinical relationships such as these have been identified, we need to move toward trying to explain why those relationships may exist,” Dr. Cash added. “That, in turn, may lead us to develop more targeted and effective therapies that can address multiple symptoms/syndromes.”
-Dr. Bedford suggested researchers look for an association between IBD flares and migraine occurring at the same time. As migraine is associated with serotonin release, he encouraged researchers to examine how the serotonin transporters within the GI tract, small bowel, and colon might play a role.
-“I think just questioning our patients in terms of quality of life issues — is there any way that we can mitigate their migraine headaches, potentially preventing their inflammatory bowel disease flare, or vice versa, is certainly something to look into,” Dr. Bedford said.
-
-https://www.medicalnewstoday.com/articles/long-covid-fatigue-linked-to-malfunctioning-mitochondria
-Long COVID fatigue linked to malfunctioning mitochondria
-At least 65 million people globally have long COVID.
-The most common symptoms of long COVID include post-exertional malaise, cognitive impairment, brain fog, sleep problems, and fatigue, which can have a severe impact on a person’s life.
-Researchers are still unsure why some people develop long COVID and its symptoms while others do not.
-Researchers from the Amsterdam University Medical Center have discovered that the fatigue experienced by those with long COVID has a physical cause.
-At least 65 million people around the world have long COVID, a condition where they continue to experience COVID-19 symptoms for months after their symptoms originally start.
-The most common symptoms of long COVID are fatigue, dizziness, mobility issues, sleep problems, cognitive impairment, and brain fog or inability to concentrate.
-These types of lingering symptoms can have a profound impact on a person’s life. A study published in June 2023 found more than half of people with long COVID reported their work, home, social, and private lives were severely impacted by the symptoms, with fatigue being the main problem.
-Scientists are still unsure as to why some people develop long COVID and its symptoms while others do not.
-Now researchers from the Amsterdam University Medical Center are helping to provide some answers with their new study — recently published in the journal Nature Communications — that found the fatigue experienced by those with long COVID has a physical cause.
-Impact of long COVID fatigue on life quality
-Prof. Michèle van Vugt, professor of internal medicine at the Amsterdam University Medical Center and co-lead author of this study, told Medical News Today she and her colleagues decided to look for a physical cause of the tiredness experienced by people with long COVID because of the impact it has on their lives.
-“Those long COVID patients used to be like you and me totally integrated [into] society with a job, social life, and private life,” Prof. van Vugt explained. “After their COVID infection, for some of them, nothing was left because of their extreme fatigue. And this happened not only in one patient but many more — too many for only [a] psychological cause.”
-Past studies report that fatigue is the most common symptom reported by people who have long COVID.
-A study published in December 2023 found that people with long COVID self-report persistently continuously low levels of health-related quality of life, as well as a high level of disability and declined levels of physical and mental health.
-And research published in April 2023 reported that fatigue caused by long COVID may cause structural changes to the brain.
-Lowered mitochondrial function
-For this study, Prof. van Vugt and her team recruited 25 people with long COVID and 21 healthy control participants. They were all asked to take a cycling test for approximately 15 minutes, that was designed to push them to maximum exertion.
-According to researchers, the cycling test caused a worsening of symptoms in the participants with long COVID, known as post-exertional malaise (PEM), resulting in worsening of fatigue for up to 7 days after.
-Scientists examined blood and muscle tissue samples from all participants both one week before the cycling test and one day after.
-They found various abnormalities in the muscle tissue of the participants with long COVID, including lowered functioning of the mitochondria of the muscle. Known as the “powerhouse of the cell,” mitochondria are responsible for making the energy needed to power the body’s cells.
-“So, the cause of the fatigue is really biological,” Prof. van Vugt explained. “The brain needs energy to think. Muscles need energy to move. This discovery means we can now start to research an appropriate treatment for those with long COVID.”
-Tailored exercises: Good or bad for long COVID?
-Prof. van Vugt said the the research team was surprised by their study’s findings related to muscle tissue abnormalities.
-“However, we [could then] understand much better the symptoms of fatigue in the patients,” she added.
-When asked about the next steps planned for this research, Prof. van Vugt said they plan to examine whether the same muscle alterations can be found in other post-infectious patients to hopefully uncover the cause of these changes in the muscle, leading to proof of concept studies for treatment.
-“Doctors should acknowledge the complaints of long COVID patients and we should advise very carefully about performing tailored exercises. And as researchers, we should support our medical colleagues with our gained knowledge to support patients with their symptoms and in the meantime [try] to discover a biomarker as a diagnostic tool plus finally a treatment.”
-– Prof. Michèle van Vugt
-A condition that is challenging to treat
-MNT also spoke with Dr. David Cutler, a board-certified family medicine physician at Providence Saint John’s Health Center in Santa Monica, CA, about this study. Dr. Cutler was not involved in the research.
-Dr. Cutler commented that the topic of long COVID sparks controversy and strong emotions because it remains poorly defined, difficult to diagnose, and challenging to treat.
-“Despite scientific consensus about its existence, the lack of a definitive diagnostic test and its variable presentation continues to make many skeptical of its existence,” he explained. “As a clinician, [I find that] this [research] is helpful in reassuring long COVID sufferers that what they are experiencing is physically real, and not merely psychological.”
-“Lacking a specific cure for this condition, the most important treatment physicians can provide is reassurance,” Dr. Cutler continued.
-“Patients must be allowed [an] opportunity to present their symptoms to a receptive physician, they must be thoroughly evaluated to exclude other conditions, the diagnosis of long COVID should then be specifically endorsed, patients need to be informed of the generally favorable long-term prognosis, and adequate follow-up provided. This is the basis for optimal reassurance.”
-– Dr. David Cutler
-Regarding fatigue, Dr. Cutler said a program of graded exercise to avoid worsening symptoms seems to be best.
-“However, at this point, the findings of this one study of just 25 patients does not significantly enhance our ability to treat these patients’ complaints of fatigue,” he added. “But it does help to explain their symptoms which aids in reassurance and lessens anxiety. Future research could be aimed at attempts to lessen fatigue with various regimens of exercise, nutritional support, and emotional therapy to ease the suffering of those with long COVID.”
 
 https://www.medicalnewstoday.com/articles/could-statins-help-slow-down-the-development-of-dementia-symptoms
 Could statins help slow down the development of dementia symptoms?
@@ -617,39 +518,6 @@ Further research needed to be done to determine the mechanism that could underli
 “We need to examine how statins affect cholesterol, brain cholesterol and brain connectivity, and how the effects change with short or long-term treatment. We need to understand which patients potentially benefit from statins, if at all, in order to design a targeted clinical trial. We need to know how different genotypes (e.g. ApoE) modify this response. ApoE is a cholesterol transporter and the genetic [risk of Alzheimer’s the] allele ApoE4 confers [is higher].”
 Dr. Segil, who was not involved in this research, said he wanted to see more data comparing the different types of statin: “This study investigated three different generic cholesterol-lowering medications, or ‘statins,’ which include rosuvastatin, simvastatin, and atorvastatin. I am intrigued to see long term follow-up in the patients who received these three medications to see if data supports neurologists like me using one of these over another [drug], due to data indicating one statin helps prevent memory loss more than another.“
 “As a family of medications, statins often are not [well] tolerated, and rosuvastatin in clinical practice is better tolerated than atorvastatin, and I would be interested in seeing if rosuvastatin helped patients with memory loss in a follow-up study head to head with atorvastatin,” he pointed out.
-
-https://www.medicalnewstoday.com/articles/psoriasis-and-chronic-inflammation
-Managing chronic inflammation with psoriasis
-Avoiding inflammatory foods:
-Considering an anti-inflammatory diet:
-Avoiding or quitting smoking:
-Reducing alcohol intake:
-Staying active:
-Getting enough sleep:
-Managing stress levels:
-Although the exact cause of psoriasis is unknown, doctors consider it an immune-mediated inflammatory disease. This means that inflammation is at the root of this condition.
-Up to 3% of adults in the United States have psoriasis. It causes skin symptoms, such as raised plaques and discoloration, and can also affect other parts of the body, such as the joints and eyes.
-Experts believe inflammation is the common factor that can affect these different areas.
-What causes inflammation in psoriasis?
-In people with psoriasis, immune system dysfunction causes inflammatory cells to build up in the middle layer of the skin, known as the dermis. The condition also speeds the growth of skin cells in the epidermis, the outer skin layer.
-Typically, skin cells grow and flake off in the span of a month. This process speeds up to just a few days in people with psoriasis. Instead of shedding, skin cells pile up on the skin’s surface, leading to uncomfortable symptoms such as raised plaques, scales, swelling, and redness or discoloration.
-Even though psoriasis is a skin condition, the inflammation associated with psoriasis affects the entire body. It can increase the risk of heart disease, cancer, inflammatory bowel disease, and psoriatic arthritis.
-Is there a way to treat inflammation?
-Although inflammation in psoriasis is due to immune system dysregulation, studies suggest that people can reduce this inflammation through lifestyle and dietary changes. This can help reduce symptoms and improve quality of life.
-Using these methods, many people who have psoriasis can maintain remission, which is a long period without experiencing psoriasis symptoms.
-Additionally, certain medications to treat psoriasis work by reducing inflammation. These include topical corticosteroids, injectable biologics, and oral medications.
-Everyone with psoriasis is different. Some people will require more extensive treatment than others.
-How to manage inflammation
-While there is currently no cure for psoriasis, the following habits may help reduce psoriasis-related inflammation and increase a person’s chances of experiencing remission.
-Diet is strongly linked to systemic inflammation. Studies suggest that certain inflammatory dietary patterns can increase the risk of psoriasis and worsen symptoms.
-A nutritious diet looks different for everyone. However, the following steps may help a person establish one:
-Obesity is a risk factor for psoriasis development. People with psoriasis who have overweight or obesity may also experience more severe symptoms than people with a moderate weight.
-Weight loss may reduce inflammatory markers and help reduce psoriasis symptoms in people with excess body weight.
-A 2020 study found that people with psoriasis and overweight or obesity who reduced their body weight by 12% through a 10-week program experienced a 50–75% reduction in psoriasis severity. Participants experienced an average weight loss of 23 pounds.
-Several habits can help reduce inflammation and improve psoriasis symptoms, such as:
-When to seek medical help
-Anyone experiencing a psoriasis flare who is interested in learning ways to reduce psoriasis symptoms and inflammation may wish to consider speaking with their healthcare team, including their dermatologist.
-They can recommend treatment methods based on symptom severity and provide recommendations for diet and lifestyle changes that may help lower inflammation and reduce psoriasis symptoms. They may also suggest taking vitamins or supplements.
 
 
 https://www.medicalnewstoday.com/articles/some-dementia-cases-caused-by-liver-disease
@@ -692,6 +560,7 @@ Dr. Maheshwari commented that the study highlights an important concept, which i
 “It’s a matter of having better tools and awareness and education … to alert providers about the fact that if patients look like they’re having possible dementia, it may not be dementia — it may be hepatic encephalopathy and that’s something you have to be on the lookout for. The main purpose of the study is to provide better provider education amongst the folks who treat patients with neurocognitive decline but are not dealing with liver disease on a daily basis.”
 — Dr. Anurag Maheshwari, gastroenterologist and hepatologist
 
+
 https://www.medicalnewstoday.com/articles/increase-in-annual-cardiorespiratory-fitness-by-3-linked-to-35-lower-prostate-cancer-risk
 Higher cardiorespiratory fitness linked to 35% lower risk of prostate cancer
 Better cardiorespiratory health may lower the risk of being diagnosed with prostate cancer, according to a new Swedish study.
@@ -731,6 +600,7 @@ After anybody gets treated for prostate cancer, their PSA levels are regularly m
 He also mentioned that some men are fearful of working on cardiorespiratory fitness for fear of raising testosterone levels that they worry may increase their risk of prostate cancer.
 “There’s a misconception,” explained Dr. Narayanan, “that increasing testosterone will increase your prostate cancer incidence. That’s really been disproven as a misconception. So that’s something that’s important to know.”
 
+
 https://www.medicalnewstoday.com/articles/type-2-diabetes-medication-may-help-lower-kidney-stone-risk-30-percent
 Type 2 diabetes medication may help lower kidney stone risk by 30%
 The number of people experiencing kidney stones is growing worldwide.
@@ -767,6 +637,7 @@ Dr. Cheng said there are several things that predispose patients to getting kidn
 “Unfortunately, the obesity epidemic has only increased the risk of patients having renal stones,” she continued.
 “Certain food choices, such as too much sugar and too much salt increase the risk of renal stones. It has been found that too much fructose also increases (the) risk of developing kidney stones as well.”— Dr. Jennifer Cheng
 “Not drinking enough water also may increase the risk of renal stones. People are so busy sometimes that they don’t always remember to drink enough. The older you are, the less thirst mechanism you have, and therefore you drink less,” Dr. Cheng added.
+
 
 https://www.medicalnewstoday.com/articles/ginkgo-biloba-extract-may-speed-up-brain-recovery-stroke
 Ginkgo biloba extract may speed up brain recovery within first weeks after stroke
@@ -808,6 +679,7 @@ Dr. Morales points out that “Ginkgo biloba has putative mechanisms of action t
 Miller notes that “the improvement in MoCa scores is significant and can offer hope to those [experiencing] the lasting results of acute ischemic stroke.”
 “It would be difficult for a layperson to replicate the results at home, as the injection method is not accessible to most, and ginkgo supplements usually do not have their lactone content standardized or labelled. The content of ginkgo leaves varies greatly depending on how they are harvested,” Miller explained.
 However, it’s important to note that Dr. Morales said, “patients and the public should wait for additional information from this trial and/or subsequent ones before adopting a regimen with over-the-counter gingko biloba supplements, particularly given known ginkgo-related safety issues and drug-drug interactions.”
+
 
 https://www.medicalnewstoday.com/articles/can-a-daily-dose-of-cinnamon-help-lower-blood-sugar
 Can a daily dose of cinnamon help lower blood sugar?
@@ -852,6 +724,7 @@ Dr. Gupta advised that cinnamon might have a role to play in managing prediabete
 Costa recommended other evidence-based measures to help control prediabetes: “Embracing diets rich in healthy plant-based foods, engaging in guided intermittent fasting, and practicing intuitive and mindful eating can improve nutrition while enhancing overall metabolic health.”
 “Weight loss achieved by combining a healthy, reduced-calorie diet with regular exercise has been shown to be twice as effective as weight loss achieved through diet alone in reversing prediabetic states. Moreover, reducing abdominal fat is essential due to its strong association with insulin resistance,” added Costa.
 Both advised that you should always consult a health professional before taking supplements or making lifestyle changes.
+
 
 https://www.medicalnewstoday.com/articles/both-too-much-and-too-little-sleep-associated-with-signs-of-dementia-stroke
 Both too much and too little sleep associated with signs of dementia, stroke
@@ -899,6 +772,7 @@ Nevertheless, one of the study’s major limitations was its observational desig
 “The generalizability of our results is limited by the characteristics of the UK Biobank study, which is being conducted in a single European country and may be prone to healthy volunteer bias, where individuals who are willing and able to participate in a study tend to be healthier than the source population,” he added.
 Dr. Morales also noted: “It is a retrospective study using self-reported sleep durations, and the latter may not be reliable data inputs. Future research should incorporate objective measures of sleep duration (rather than self-reported) — and more importantly sleep quality — for correlation with these imaging biomarkers.”
 
+
 https://www.medicalnewstoday.com/articles/exercise-only-reduces-cognitive-decline-risk-slightly-why-thats-still-important
 Exercise only reduces cognitive decline risk slightly: Why that's still important
 Physical activity might not play as prominent a role in reducing the risk or preventing cognitive decline as previously thought, according to a new study.
@@ -934,6 +808,7 @@ Promoting good brain health
 “When engaging in healthy lifestyle factors for brain health, lifestyle behaviors such as physical activity and cognitive stimulation can help to increase brain blood flow, improve heart health, increase brain activity, and increase brain volumes,” Glatt said
 “Even for individuals with cognitive decline and dementia, adhering to and improving upon multiple lifestyle factors may be able to slow cognitive decline or improve behavioral outcomes such as mood or certain aspects of cognition,” he added. “However, this depends upon multiple individual, biological, and environmental factors, including the specific lifestyle changes the person follows.”
 
+
 https://www.medicalnewstoday.com/articles/risk-of-lung-cancer-significantly-decreases-after-smoking-is-stopped
 Risk of lung cancer significantly decreases after smoking is stopped
 Stopping smoking reduces cancer risk at any age, especially after 10 years, according to a new study.
@@ -956,6 +831,7 @@ Never too late to quit smoking
 Considering the health effects inclusive of, but not limited to, cancer risk is critical, experts say.
 From the first hour to the first month to the first year of stopping smoking, people experience improvements in respiratory functioning and blood circulation and see their heart attack risk cut in half, among other benefits.
 “This is the most important finding of this study,” Bilchik said. “No matter what age, don’t smoke, and if you do — stop! Also, do not assume that if you have been a long-term smoker, you have no hope. You do and this study supports it.”
+
 
 https://www.medicalnewstoday.com/articles/bariatric-weight-loss-surgery-is-most-effective-for-blood-pressure-control-study-reports
 Bariatric weight loss surgery is most effective for blood pressure control, study reports
@@ -980,6 +856,7 @@ In a commentary accompanying the published study, Dr. Michael Hall, a professor 
 “In addition to sustained weight loss having a great effect on reducing blood pressure medications, there are additional metabolic effects that result from bariatric surgery,” Dr. Mir Ali, a bariatric surgeon and medical director of MemorialCare Surgical Weight Loss Center at Orange Coast Medical Center in California who was not involved in the research, told Medical News Today. “Not all these effects are well understood and research continues to better comprehend these effects.”
 “If patients have hypertension secondary to obesity, then any way a patient can get to a healthy weight — by diet, exercise, medications, etc. — they are more likely to be able to reduce blood pressure,” Ali added. “Additionally, reducing alcohol and nicotine use, reducing salt intake, proper sleep, reducing stress and regular exercise all have beneficial effects on blood pressure.”
 “Good aerobic exercise can increase your natural nitroglycerin, which is a vasodilating agent,” Dr. Nicole Weinberg, a cardiologist at Providence Saint John’s Health Center in California who was not involved in the research, told Medical News Today. “This causes your blood vessels to dilate and lowers your blood pressure.”
+
 
 https://www.medicalnewstoday.com/articles/unique-compounds-salmon-lower-cholesterol-heart-disease-risk
 Scientists find compounds in salmon that may lower cholesterol, heart disease risk
@@ -1017,6 +894,7 @@ Routhenstein suggested the reason that the non-Mediterranean fish nonetheless qu
 To Middelmann, who specializes in the Mediterranean diet, it “is about joyfully eating lots of different types of fish and seafood, but also a wide variety of everything else — veggies, legumes, whole grains, fruits, nuts, seeds, olives, eggs, yogurt, cheese, etc. — because it tastes good, makes you feel good, and is nutritious.”
 “I know that doesn’t sound very scientific, but it seems to work pretty well for the folks living in the Mediterranean region,” she added.
 
+
 https://www.medicalnewstoday.com/articles/2023-in-medicine-artificial-sweeteners-colon-cancer-male-birth-control
 2023 in medicine: Artificial sweeteners, colon cancer, and male birth control
 2023 has witnessed no shortage of medical firsts and breakthroughs but has also seen many alarming headlines. What were some of these intriguing studies and worrying trends? Our editors Andrea Rice, Maria Cohut, and Yasemin Nicola Sakay discuss this year’s stand-out research and health and wellness topics in our December “In Conversation” episode.
@@ -1047,6 +925,7 @@ Meanwhile, I had one question on my mind regarding the lack of oral contraceptiv
 “[A] lot of these trials were stopped by the researchers or the funders after they saw that men had a lot of side effects. One of them, for example, was mood disorders like depression. So, my question is, we have something on the market already that causes such side effects, but we’re subjecting millions of women to take these, why can’t men do that? [W]hat do you think is the main reason behind this?”
 In the feature, Prof. Lonny Levin told Medical News Today that female hormonal birth control continues on the market “just because society has come to accept it” by now, but “the side effect bar for a healthy person to take a drug is really high, and it should be.”
 “I would bet that we have the technology and resources to create a male oral contraceptive that is safe with minimal side effects. I mean, if we can manufacture and prove the safety of a COVID-19 vaccine in a short timeframe, certainly, we have the ability, from a science perspective to create this contraceptive,” said Andrea.
+
 
 https://www.medicalnewstoday.com/articles/in-conversation-why-exercise-is-key-to-living-a-long-and-healthy-life
 In Conversation: Why exercise is key to living a long and healthy life
@@ -1080,6 +959,7 @@ So while all forms of exercise can be good for health, strenuous or intensive ph
 And even exercise for leisure can affect aspects of physical health — such as joint integrity — particularly later in life. In our podcast, both Dr. del Pozo Cruz and Eddie emphasized the importance of consulting a trusted healthcare provider, who can advise on the best forms of exercise to engage in on an individual basis.
 To find out more about how and why different forms of exercise can support longevity, and to hear the story of how Edwina became “Iron Gran,” listen to our podcast episode in full below or on your preferred streaming platform.
 
+
 https://www.medicalnewstoday.com/articles/in-conversation-what-do-we-know-about-the-gut-microbiome-in-ibd
 In Conversation: What do we know about the gut microbiome in IBD?
 Inflammatory bowel disease (IBD) affects millions of people, often severely impacting their day-to-day lives. What role does the gut microbiome play in IBD, and can we harness dietary interventions to manage symptoms? Medical News Today explores this question In Conversation with a researcher and an expert through lived experience.
@@ -1103,6 +983,7 @@ Beyond lifestyle interventions, however, it is also important for researchers to
 One promising avenue is research looking at gut immune cells, which play an important role in inflammation and other processes in the gut. Harnessing immune cell activity in the gut may, in the future, help treat different forms of IBD.
 Another potential treatment line that has been receiving attention from researchers, but which is currently only rarely used in clinical settings, is fecal microbiota transplantation. This presupposes the transfer of “good bacteria” into the guts of people with gastrointestinal disorders.
 Find out more about the current research on IBD causes and treatments, and delve into a candid discussion on the real-life impact of IBD by listening to our podcast in full below, or on your preferred streaming platform.
+
 
 https://www.medicalnewstoday.com/articles/in-conversation-my-podcast-changed-me
 In Conversation: My podcast changed me
