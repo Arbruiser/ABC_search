@@ -23,6 +23,7 @@ Update: 2024-02-07
 
 Update: 2024-02-03
 (Arthur) Added Porter stemmer. Now we use stemmed documents for making our matrices. User query is also stemmed. 
+
 ---Now there is a scary for loop that basically splits the documents into stemmed and unstemmed documents. Stemmed is for our TF-IDF search.
 Unstemmed is for showing the context. Now documents is a list of strings, but the for loop in addition to this makes lists of lists where
 each emelement is its own sentence. This is necessary for showing the context because we have to search with our stemmed query in the stemmed 
@@ -53,9 +54,13 @@ Update: 2024-01-29
 
 1. Now the search result includes the document's title, link, and the context of the query.
 The result is in below format:
-<Document Title>
-<Document Link>
-... <The sentence includes the query keyword> ...
+
+\<Document Title\>
+
+\<Document Link\>
+
+... \<The sentence includes the query keyword\> ...
+
 Note: The context sentence only include the first keyword in the query.
 
 2. Now if the query is invalid, the program will not crash. Instead, it will print "Invalid query, please try again." and ask for another query.
