@@ -269,18 +269,3 @@ def query():
 
 if __name__ == "__main__":
     query()
-
-# print("Hit enter to exit.")
-# while True:
-#     user_query = input("\nYour query to search: ")
-#     stemmed_query = " ".join(stemmer.stem(word) for word in user_query.split())
-
-#     if user_query == "":
-#         break
-
-#     print("stemmed query:", stemmed_query)  # for debugging
-
-#     try:
-#         search_start(stemmed_query)
-#     except:
-#         print("Invalid query, please try again.")
