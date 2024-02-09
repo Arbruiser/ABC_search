@@ -7,7 +7,12 @@ Besides the search program, the project also consists of a scraper, which perfor
 
 Contributed by Artur, Baiyi and Chao.
 
-Major updates:
+**Use instruction:**
+
+1. Git clone "git clone https://github.com/Arbruiser/BACoN.git"
+2. In the venv run "pip3 install ." to install all the dependencies.
+
+**Major updates:**
 
 Update: 2024-02-08
 1. Added the fuzzy search using sentence-transformers. Now the user can choose between Boolean, TF-IDF, and fuzzy search.
