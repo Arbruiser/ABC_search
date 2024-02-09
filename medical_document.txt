@@ -983,3 +983,352 @@ How to change our habits
 One of the biggest takeaways from our discussion was that change does not happen overnight. The key is to take small steps that can be slowly integrated into one’s daily life.
 Another point was the importance of showing yourself grace and being more self-compassionate when trying to turn these behavioral changes into habits.
 Letting such changes fit into one’s values instead of going against them and adopting a positive attitude to alter thinking were other points that seem crucial in making a change stick. For more, we’d encourage you to tune in to the podcast.
+
+https://www.medicalnewstoday.com/articles/malfunctioning-immune-cells-may-cause-type-2-diabetes-in-obesity
+Malfunctioning immune cells may cause type 2 diabetes in obesity
+People with obesity are at higher risk of developing insulin resistance and type 2 diabetes than those of a healthy weight.
+However, the conditions to develop insulin resistance do not affect everyone with obesity.
+Now, scientists investigating why some remain healthy and others do not have discovered that adipose (fat) tissue may influence cell function.
+Their research, which they conducted in mouse models, suggests that, in some individuals, obesity disrupts the function of macrophages — which clean up cell fragments — leading to inflammation and metabolic disorders.
+According to the World Health Organization (WHO), the number of people with obesity worldwide has tripled in the past 50 years. While the United States and Europe top the scale, South East Asian and African countries are fast catching up.
+People with obesity have a body mass index (BMI) of more than 30, although it must be remembered that BMI alone cannot determine whether that mass is made up of muscle or fatty tissue.
+More usefully, the WHO defines obesity as “abnormal or excessive fat accumulation that presents a risk to health” together with a BMI of more than 30.
+Obesity increases the risk of several health conditions, which include:
+However, many people with obesity will not develop these conditions, and scientists at the University of Gothenburg, Sweden, may have found a reason why some are more likely to progress to metabolic disorders than others.
+Why do only some people with obesity develop diabetes?
+In a mouse study, the researchers found that, in some people, adipose tissue disrupts the function of white blood cells called macrophages, preventing them from cleaning up fragments of collagen.
+This may lead to inflammation, increasing the likelihood of type 2 diabetes.
+The study is published in PNAS.
+Sebnem Unluisler, genetic engineer at the London Regenerative Institute, not involved in this research, commented to Medical News Today:
+“This study adds to a growing body of evidence highlighting the complex interplay between obesity, adipose tissue dysfunction, and metabolic disease. Understanding the mechanisms underlying these relationships is crucial for developing more effective strategies for preventing and treating conditions like type 2 diabetes.”
+High-fat diet leads to collagen breakdown
+Previous research found that excess adipose, or fatty, tissue can lead to activation of immune cells that cause inflammation and lead to insulin resistance.
+For this study, the researchers placed 7-week-old mice on a high-fat diet for 1 week, which resulted in a significant gain in adipose tissue compared with control mice fed a regular diet.
+In the mice on the high-fat diet, more collagen type 1 was broken down into fragments, and macrophage numbers in the adipose tissue increased. These macrophages cleared the collagen fragments.
+However, in high-fat diet-induced obese insulin-resistant male mice, the macrophages were unable to clear the fragments, and instead caused an inflammatory reaction.
+The researchers conclude that collagen fragments are not inert metabolites and solely markers of tissue remodeling, but change the microenvironment within the adipose tissue.
+Dysfunctional adipose tissue leads to insulin resistance
+Prof. Ingrid Wernstedt Asterholm, corresponding author and research leader in the Department of Physiology/Metabolic Physiology, Institute of Neuroscience and Physiology, The Sahlgrenska Academy at University of Gothenburg, Sweden, told MNT:
+“We are not 100% sure why the macrophages fail to take up fragmented collagen, but our data suggest that too high levels of nutrients drive this. And when these macrophages fail there will be accumulation of fragments in adipose tissue, and we show that such fragments trigger inflammation which may aggravate adipose tissue dysfunction.”
+“Dysfunctional adipose tissue cannot effectively store excess nutrients which then leads to deleterious fat deposition in, for example, the liver […] this will then lead to systemic insulin resistance that eventually can cause metabolic disorders such as type-2 diabetes,” she continued.
+The researchers saw similar effects in vitro when they treated human macrophages with palmitate, high glucose and high insulin to mimic conditions that lead to obesity.
+Prof. Wernstedt Asterholm told us: “We show that human macrophages have similar function and regulation. Our current research focuses on translating our mouse findings to the human setting and it looks promising so far. I would also like to see whether and how this macrophage-collagen-axis plays a role in other tissues such as in the heart.”
+Potential for diabetes diagnosis and treatment
+“Dysregulation of adipose tissue function, characterized by altered collagen turnover and macrophage activity, has been implicated in the pathogenesis of metabolic diseases. Understanding the specific cellular and molecular mechanisms involved could lead to novel therapeutic strategies for managing these conditions,” Unluisler told us.
+Although the researchers behind this study found that isolated human cells reacted in a similar way to mouse cells, Unluisler said that she would like to see further research to confirm that similar adipose dysfunction occurs in people.
+“While findings from animal studies can give us valuable insights, we need to be cautious when applying them to humans. Mice and humans have similarities, but also differences that might affect how findings translate. Further research with human subjects is necessary to confirm these results,” she told MNT.
+And the researchers are planning more research into both treatment and diagnosis of type 2 diabetes, as Prof. Asterholm noted:
+“Hopefully we will identify a macrophage target that can be used for developing better therapeutics..but in a more near future one could imagine that certain collagen fragments from adipose tissue end up in the circulation and thereby can be used as biomarkers to identify individuals that are at higher risk for developing type 2 diabetes.”
+So, it is early days, but this study adds to the evidence that obesity may lead to adipose tissue dysfunction and metabolic diseases, and offers an explanation for why this might happen. It could help identify those at greater risk of type 2 diabetes and even help the development of more effective therapies.
+
+https://www.medicalnewstoday.com/articles/castor-oil-potential-natural-treatment-dry-eye-disease
+Castor oil may have potential as a natural treatment for dry eye disease
+Researchers based in New Zealand finished a pilot trial on a natural treatment for dry eye disease.
+Dry eye disease, also called keratoconjunctivitis sicca, affects millions of people and can affect vision and quality of life.
+The trial involved applying castor oil to the eyelids for a period of four weeks.
+By the end of the trial, participants experienced an overall improvement in symptoms, including improvement in how thick their eyelids were.
+Dry eye disease is a common condition that can cause inflammation in the eyes. According to the American Academy of Ophthalmology (AAO), it affects approximately 20 million people in the U.S.
+While there are some treatments available for dry eye disease, researchers from the University of Auckland were curious if a natural remedy could be effective. They conducted a pilot study where participants applied castor oil to their eyelids, which proved beneficial for the participants.
+The researchers are conducting another study to see if they can enhance those benefits further by mixing castor oil with mānuka and kanuka oils.
+Further information about the current trial is available via the University of Auckland.
+What causes dry eye disease?
+The National Institutes of Health (NIH) says that dry eye disease can occur for a number of reasons, including disease, environmental factors, and allergies.
+A disease called  is a common culprit as it causes inflammation that leads to a thickening of the and flaking and crusting of the eyelids. This contributes to developing dry eyes.
+Some signs and symptoms of dry eye disease include:
+The disease is more common in people ages 50 and older, particularly in women. Women undergoing menopause are more at risk for dry eye disease since the hormone changes can lead to changes in the tear film of the eyes.
+Some treatments available for dry eye disease include over-the-counter remedies such as artificial tears and nighttime lubricants. Additionally, research has shown that some people may improve the quality of their tears but not the quantity by taking vitamin A. There may be a role for omega-3 supplements, particularly in those with low dietary intake, but evidence from a systematic review concluded that the results of trials were inconsistent.
+Doctors may prescribe eye drops such as cyclosporine (Restasis) or lifitegrast (Xiidra), which have an anti-inflammatory effect.
+The 4-week trial
+is a vegetable oil made from a plant called Ricinus communis and works as a laxative and a natural treatment for some skin conditions such as acne.
+According to the National Institutes of Health, castor oil can enhance the “smoothness and softening” of the skin and can also promote “an increase in healthy pores and skin tissue through moisturizing, hydrating, and cleansing.”
+With those benefits in mind, the study researchers wanted to see whether castor oil could be beneficial for treating dry eye disease.
+The scientists recruited 26 people with the disease caused by blepharitis to participate in the trial. In order to be eligible for the study, the participants could not have had ocular surgery in the past three months, they could not wear contacts during the study, and they had to agree to discontinue the use of any lid hygiene products.
+At the beginning of the trial, participants completed questionnaires that assessed their symptoms and participated in eye exams. After these assessments, the scientists instructed the participants to apply castor oil to their bottom and top eyelids in the morning and at night for four weeks.
+After the 4-week period was over, the researchers assessed the participants again to see whether there were any improvements in their symptoms.
+Overall improvement in dry eye symptoms with castor oil
+Using castor oil as a treatment for dry eye disease showed promise during the month-long trial.
+By the end of the trial period, participants saw an overall improvement in their dry eye symptoms.
+Some benefits the participants experienced included lessened crusting around the eyelashes and improvement in the eyelid thickening.
+The latter is especially significant since that is a hallmark of blepharitis. Any reduction in the eyelid thickening will lead to improvement of other symptoms associated with it as well.
+Trial participants also did not have as much redness on their eyelids when they completed four weeks of the castor oil treatment.
+“Castor oil has been proposed as a natural product that could offer a safe, effective and easy-to-use alternative to existing therapies,” says study investigator Professor Jennifer Craig.
+“My hope is this study will produce evidence-based guidance for clinicians with regard to offering castor oil as a possible management option for patients suffering from blepharitis,” continues Prof. Craig.
+Castor oil: A cheaper treatment alternative
+Dr. Cory Bovenzi, a facial plastic surgeon at Smith Cosmetic Surgery based in Denver, Colorado, weighed in on the castor oil trial for Medical News Today. Dr. Bovenzi often treats people with dry eye disease, including performing surgery on the eyelids when necessary.
+“Castor oil has a number of properties that may make it a good candidate for treating dry eye disease,” Dr. Bovenzi told MNT. “It acts as an emollient (moisturizing agent) that has a long-lasting effect that may have a longer duration than the current eye drops on the market.”
+“It also has antimicrobial and anti-inflammatory effects that may help decrease the amount of microbes that can block or inflame the meibomian glands which normally lubricate the eyes,” Dr. Bovenzi continued.
+Dr. Bovenzi thinks that castor oil has the potential to be a cheaper alternative to other treatments for dry eye disease.
+“Using castor oil to treat dry eye disease may give more long-lasting and substantial relief to patients who suffer from this condition compared to current treatments available,” said Dr. Bovenzi. “It has been shown to be a safe treatment for other medical applications, and it is promising to see these preliminary reports about another potential use for this relatively cheap and safe treatment option.”
+Dr. Bovenzi advises people who have dry eye symptoms to consult their doctors since sometimes it can be a result of an autoimmune disease such as Sjogren’s syndrome.
+Since Sjogren’s syndrome can cause vision problems and peripheral neuropathy if it is not properly treated, it is best to consult with a healthcare professional before trying natural remedies to avoid causing long-term damage.
+Dr. Margaret Wang French also spoke with MNT about the trial. Dr. Wang French is an assistant professor in the Department of Ophthalmology at UT Southwestern Medical Center in Dallas and is board certified in ophthalmology.
+“Their initial study of 26 patients did show improvement in blepharitis, a disease that can cause evaporative dry eye disease,” commented Dr. Wang French. “However, this small pilot study was done without controls or randomization, so they are in the process of studying their hypothesis in a randomized controlled trial — a golden standard for meaningful medical research.”
+Dr. Wang French also noted that patients should work with their doctors on a treatment plan.
+“Each patient should have a tailored regimen, depending on their subjective issues and objective findings with their dry eye specialist,” noted Dr. Wang French. “Consistency and patience with therapy are the two characteristics that have helped my patients the most.”
+
+https://www.medicalnewstoday.com/articles/an-estimated-35-million-new-cancer-cases-to-occur-in-2050-who-warns
+An estimated 35 million new cancer cases to occur in 2050, WHO warns
+While experts have made significant advances in treating cancer, cancer continues to remain a global health concern.
+The latest report from the World Health Organization predicts that there will be over 35 million new cases of cancer in 2050, a significant rise from the approximate 20 million cancer cases that occurred in 2022.
+Reports from the International Agency for Research on Cancer found that lung, breast, and colorectal cancers are the most common types worldwide.
+The data point to several factors contributing to cancer cases and allows for exploring mitigation and prevention strategies.
+Cancer continues to be a global burden, making it critical to collect data in this area regularly. The International Agency for Research on Cancer (IARC) is part of the World Health Organization (WHO).
+It gathers data on the burden of cancer all over the world. This group just released the latest fact sheets and information on the global burden of cancer in 2022.
+WHO also released a statement highlighting some of the key findings.
+Cancer cases are rising, but what types and where?
+Certain cancer types are more common, and some carry an overall higher mortality rate worldwide. IARC collects data on these numerous areas to help create a more complete picture of the effects of cancer, allowing for brainstorming strategies to address the problem.
+According to one of the IARC reports worldwide, the top three most common cancers in 2022 were lung, breast, and colorectal cancer. Among men and women, lung cancer accounted for 12.4% of all cancer cases.
+Among men, the top three most common cancers were lung, prostate, and colorectal. Among women, the top three most common cancers were breast, lung, and colorectal, with breast cancer accounting for 23.8% of all new cancer cases among females in 2022.
+Worldwide, the mortality rate for lung cancer is currently the highest, with an overall 16.8% mortality rate. It accounted for over 2.4 million cases worldwide and over 1.8 million deaths. Incidence, mortality, and prevalence were highest in Asia and second highest in Europe.
+Similarly, breast cancer accounted for over 2.3 million cases worldwide. In mortality, it ranked number four and accounted for almost 670,000 deaths.
+77% rise in cancer cases by 2050
+Mortality from cancer varies significantly throughout the world. The most stark difference is between countries with a very high human development index and countries with a low human development index.
+Among countries with a low human development index, there were 811,014 new cancer cases and 543,337 deaths. In contrast, among countries with a very high human development index, there were 9,296,171 new cancer cases and only 3,643,502 deaths.
+WHO estimates that the number of new cancer cases in 2050 will rise 77% to a total of 35 million cases.
+While high human development countries will likely still experience some of the highest incidence levels, low and medium human development index countries will see a steep increase from previously.
+WHO further estimates this will lead to high mortality levels in low and medium human development index countries. It estimates that in 2050, the mortality amounts in these countries may almost double.
+Factors contributing to rising cancer cases
+The burden of cancer is related to several factors. The statement from WHO suggests that people in countries with a lower human development index may receive diagnoses later and have a lower chance of access to quality treatment. This can significantly increase the risk of poor cancer health outcomes.
+Another struggle is people’s ability to get governmental assistance for cancer-related services. In this statement, the WHO referenced survey data from 115 countries on components of their universal health coverage.
+This survey data found that only 39% of these countries included basic cancer management as part of health benefit packages for their citizens.
+Health benefit packages also varied considerably between countries. For example, high-income countries were more likely to have lung cancer-related services, radiation services, and stem-cell transplantation as part of their health benefit packages than low-income countries were.
+Environmental factors and lifestyle choices also contribute to cancer’s impact. For example, the WHO statement suggests that the increase in lung cancer cases is related to the continued use of tobacco in Asia. They also note that the data reflects increases in the aging population and population growth.
+Alcohol use, tobacco use, and obesity continue to contribute to cancer rate increases overall. Exposure to air pollution is also a likely contributing factor.
+Surgical oncologist Dr. Anton Bilchik, who is chief of medicine and Director of the Gastrointestinal and Hepatobiliary Program at Saint John’s Cancer Institute in Santa Monica, CA, speculated about a few other factors that may be contributing to cancer rate increases.
+“There are major disparities in healthcare and the disproportionate increase in cancer cases among poorer countries is striking. The rise is related to poor nutrition, smoking, lack of public awareness and limited access to screening. Furthermore, there is a higher mortality once diagnosed for similar reasons — lack of access to modern surgical techniques and effective systemic therapies,” he told us.
+Private practice oncologist and current president of Maryland Oncology Hematology, Dr. George A. Sotos, offered further potential contributing factors:
+“A report released by the WHO on February 4, documented a significant increase in global cancer incidence. A study in the British Medical Journal [BMJ Oncology] in September 2023 described a similar significant increase in cancer in people less than 50 years old. It is difficult to pinpoint the exact reasons for this rise. Some of the increase can be attributed to increased screening efforts and increased reporting, and some to a growing and aging population, but the authors of both studies also propose that dietary factors, including obesity and alcohol consumption, and environmental factors such as pollution and especially tobacco use, were major contributors.”
+Mitigation and prevention strategies
+While the eradication of cancer is unrealistic, there is the possibility for mitigation and prevention. Action can take place at many levels to improve access to screening and treatment.
+Various governments and medical organizations can help by raising awareness and increasing understanding of cancer risk. The statement from WHO suggests that countries could reexamine prioritizing cancer in health benefits packages.
+People can also take steps at the individual level to cut down on personal risk factors. For example, people can quit smoking to help decrease their risk for several cancer types.
+They can also seek to follow a balanced diet, maintain a healthy weight, and limit alcohol use. They can further discuss their doctor’s recommendations for cancer screening and follow-up.
+Dr. Bilchik noted that:
+“Many cancers are completely preventable. This can only be accomplished with a significant investment in cancer prevention education and better access to cancer screening. Individuals should recognize the importance of a healthy lifestyle, exercise, the avoidance of smoking, a healthy diet as ways of preventing cancer.”
+Dr. Shana O. Ntiri, associate professor in the Department of Family & Community Medicine, executive director of the Mini Medical School at the University of Maryland School of Medicine and Medical Director of the Baltimore City Cancer Program, and senior medical advisor in the Office of Community Outreach and Engagement at the University of Maryland Marlene and Stewart Greenebaum Cancer Center, commented with her thoughts on prevention to Medical News Today.
+“The report names lung, breast, and colon as the three major cancer types in 115 countries including the [United States,” she told us. “These are three cancers for which we know prevention-focused behavioral changes and screening can significantly decrease cancer morbidity and mortality.”
+“Stopping tobacco use, maintaining a healthy weight, eating nutritious meals and being active are key ways that people can reduce their risk of getting cancer. It’s also important to keep up with regular screenings, such as mammograms for breast cancer, colonoscopies for colorectal cancer and PSA testing for prostate cancer,” Dr. O Ntiri advised.
+
+https://www.medicalnewstoday.com/articles/how-a-new-medication-to-treat-psoriatic-arthritis-can-help-children
+How a new medication to treat psoriatic arthritis can help children
+Psoriatic arthritis is an immune-driven condition that can occur in children with psoriasis
+Although treatments are available, they do not work for every child.
+The U.S. Food and Drug Administration recently approved abatacept (Orencia) to treat these children.
+Abatacept, marketed by Bristol Myers Squibb, is a biologic drug.
+Trials indicate the drug is safe and effective for children aged 2 and older.
+Psoriasis is a common skin condition characterized by scaly and inflamed skin.
+It affects around 2% to 3% of the world’s population.
+An estimated 30% of people with psoriasis also develop psoriatic arthritis (PsA) — a chronic inflammatory condition that affects people’s joints.
+Most commonly, it first occurs in adults aged 30 to 50 years, but it can appear much earlier.
+PsA in children
+Roughly one-third of psoriasis cases begin during childhood.
+Although it happens more rarely than in adults, these children are also at risk of developing PsA.
+This is called juvenile psoriatic arthritis (JPsA) and the peak onset age is 2 to 3 years with another peak occurring in mid-adolescence. Diagnosing adult PsA is difficult and JPsA has additional challenges.
+Medical News Today spoke with Dr. Pamela Weiss, the director of rheumatology clinical research and attending physician in the Division of Rheumatology at the Children’s Hospital of Philadelphia.
+“PsA in children is difficult to diagnose for many of the same reasons as in adults,” she said. “One added difficulty is that only one-third of children have psoriasis prior to the onset of arthritis, which can make distinguishing it from other types of juvenile arthritis a bit more challenging.”
+Although there is some debate surrounding how JPsA is related to other forms of early-onset arthritis, experts classify it as a form of juvenile idiopathic arthritis (JIA), which is an umbrella term for a range of similar conditions.
+Terminology aside, JPsA accounts for about 6% to 8% of all JIA cases and is one of the more severe forms. The primary symptoms of JPsA are similar to cases in adults, but there are some differences.
+“Adolescents can also get peripheral and axial arthritis, tenderness at tendon insertions (enthesitis), inflammatory bowel disease, and eye inflammation (uveitis),” Weiss said.
+“Younger (toddler age) kids with PsA often look a lot more like oligoarticular JIA than adults with PsA. They are less likely to have enthesitis and axial arthritis and are more likely to have chronic uveitis,” she added.
+Other symptoms can include:
+Speaking about the long-term impact of JPsA, a representative from Bristol Myers Squibb told Medical News Today, “The chronic inflammation of JPsA can cause joint damage, problems with bone growth, and chronic arthritis and disability as the children age.”
+Scientists do not yet know the direct causes of this serious condition, but there is a genetic component. About 40% of children with JPsA have a close relative who also develops it.
+Current treatment options for JPsA
+There is currently no cure for JPsA, but a number of treatments are available. These include:
+Also, physical therapy can help maintain and improve joint function, as can regular exercise.
+Currently, experts consider TNF-alpha inhibitors the most effective at reducing pain and stiffness and improving quality of life. However, not all children with JPsA benefit from available treatments.
+Doctors often switch between drugs to determine which best suits the individual. However, there are relatively few to choose from that are approved for use in children. In addition, many of the existing treatments have significant side effects, which limits their use in the long run.
+Abatacept’s expanded use
+Abatacept (Orencia), manufactured by Bristol Myers Squibb, is a biologic treatment.
+Rather than targeting TNF-alpha or other cytokines, the drug modulates two signals that are necessary to stimulate T cell activation, reducing immune activity.
+Doctors prescribe it to treat autoimmune conditions, including adult rheumatoid arthritis and JIA.
+Until recently, though, this did not include JPsA. In October 2023, the Food and Drug Administration (FDA) expanded its use for children with JPsA over the age of 2 years.
+The move comes after long-term studies demonstrated that abatacept was safe and effective for children with JIA who took the medication for 7 years.
+The most common side effects were relatively mild and included:
+A Bristol Myers Squibb official told Medical News Today:
+“The U.S. FDA approval expanding Orencia’s active psoriatic arthritis indication to include pediatric patients 2 years of age and older was an important milestone, providing an additional much-needed treatment option for children living with this condition.”
+We asked Weiss how abatacept performs compared with other currently available JPsA treatments:
+“There have been no head-to-head studies of abatacept with other biologics for pediatric PsA, so that’s difficult to comment on. Given that there can be recalcitrant skin and/or joint disease in kids, just like in adults, it is enormously helpful to have several approved therapies that target different pathways,” she said.
+A new option
+Because abatacept seems effective and relatively safe for long-term use, it provides a much-needed additional treatment option for children with JPsA.
+“Children living with psoriatic arthritis can experience a number of challenging symptoms including swollen and painful joints,” explained Steven Taylor, the president and chief executive officer of the Arthritis Foundation.
+“The FDA’s approval of Orencia for juvenile PsA in patients 2 years of age and older means another treatment option is available to manage this rare chronic disease, which is exciting news for the arthritis community of young patients, their caregivers and healthcare professionals,” he said.
+While useful, abatacept is not perfect. Researchers will continue investigating other treatment options for this relatively common and disruptive condition. We asked Weiss whether there were any other treatments on the horizon.
+“There are ongoing trials of medications that are approved with promising results in adults with PsA,” she said. “This includes apremilast (an oral medication that blocks PDE-4), guskelkumab and risankizumab (injectable IL-23 blockers), and ixekizumab (injectable IL-17 blocker).”
+“All of these medications will be welcome additions to the currently very limited arsenal of medications available to combat this disease in kids,” she concluded.
+
+https://www.medicalnewstoday.com/articles/heavy-cannabis-use-increases-risk-of-developing-an-anxiety-disorder-study-suggests
+Heavy cannabis use increases risk of developing an anxiety disorder, study suggests
+Researchers report that emergency room visits for cannabis may be linked to anxiety diagnoses.
+They say that men and younger people who used cannabis may be at higher risk for anxiety.
+There continues to be debate over whether cannabis causes anxiety or can be used to remedy the condition.
+A new study says cannabis may not be so relaxing for everyone.
+Researchers report that 27% of people who went to an emergency department for cannabis use developed a new anxiety disorder within three years.
+The research team from Canada said their research published in the journal eClinical Medicine is the largest study examining the relationship between anxiety and cannabis use.
+The researchers looked at more than 12 million people living in Ontario, Canada, between 2008 and 2019, none of whom had ever received treatment or a diagnosis for anxiety.
+The team examined the health record data, comparing the risk of developing an anxiety disorder for those who went to an emergency for cannabis use compared to the general population.
+“Our results suggest that individuals requiring emergency department treatment for cannabis use were both at substantially increased risk of developing a new anxiety disorder and experiencing worsening symptoms for already existing anxiety disorders,” said Dr. Daniel Myran, the lead study author and a Canada Research Chair in social accountability at the University of Ottawa, an International Cultural Exchange Services adjunct scientist, an investigator at the Bruyère Research Institute, and a clinician investigator at The Ottawa Hospital, in a statement.
+Breaking down the numbers from the cannabis and anxiety study
+Researchers said they found that 27% of the individuals who went to an emergency department for cannabis use were diagnosed with a new anxiety disorder within three years, compared to 5% of the general population — a nearly 4-fold increase after accounting for social factors and other mental health diagnoses.
+They said of those already diagnosed 12% of people who went to an emergency room for cannabis use were hospitalized or visited an emergency room again for an anxiety disorder within three years, compared to 1% of the general population — another nearly 4-fold increased risk after accounting for other mental health diagnosis and social factors.
+In people who visited an emergency room with cannabis as the main reason, the risk of hospitalization or another emergency visit for an anxiety disorder increased by more than 9 fold compared to the general population.
+The researchers also reported that women and men and individuals of all ages going to an emergency room for cannabis use were at elevated risk of developing new anxiety disorders relative to the general population, with men and younger adults (10 to 24 years) at particularly elevated risk.
+Is cannabis the cause or a treatment for anxiety?
+The scientists acknowledged there’s an ongoing debate about whether cannabis actually causes people to develop anxiety or if their cannabis use reflects a condition already there for which they’re medicating.
+However, the researchers said their study indicated that cannabis may make anxiety worse. They also said it’s possible cannabis may delay other evidence-based treatments and may substantially worsen anxiety symptoms.
+“Cannabis use has rapidly increased in Canada over the past 15 years and there is a general sense that cannabis is relatively harmless or has health benefits,” Myran said. “Our study cautions that in some individuals, heavy cannabis use may increase their risk of developing anxiety disorders.”
+Cannabis has different effects on different people
+Daniele Piomelli, PhD, the director of the UC Irvine Center for the Study of Cannabis in California who wasn’t involved in the study, told Medical News Today that the effects of cannabis on people has never been a one-size-fits-all proposition.
+“Cannabis can have both anti-anxiety and pro-anxiety effects, depending on dose, [and] experience with the drug,” Piomelli said. “We have known about these dual action for a long time. The anti-anxiety effect is rooted in the protective functions of the endocannabinoid system, which is exquisitely involved in coping with stress and curbing anxiety. But we still do not understand how cannabis can cause anxiety in vulnerable individuals.”
+Piomelli added that cannabis is, generally, more powerful now.
+For example, the THC potency in dried cannabis has increased from an average of 3% in the 1980s to about 15% today.
+“One can even find cannabis products (oils, etc.) that contain more than 80% THC,” Piomelli said.
+Ashley Murry, the chief clinical officer of Sana Lake Recovery Center in Missouri who wasn’t involved in the study, told Medical News Today the link between anxiety and cannabis is interesting and “requires a delicate approach.”
+“Research in this field is varied and has shown benefits as well as drawbacks,” Murry said. “Most people today have used CBD, a compound found in cannabis. Research has shown that CBD can offer anti-anxiety properties and alleviate stress. Many individuals have reported that they feel calmer after consuming cannabis, although the effects vary depending on the type of product and the individual response.”
+But adding THC, makes it a different product, Murry noted.
+“On the other hand, THC acts as the psychoactive compound in cannabis and can, however, increase anxiety symptoms in individuals as THC can increase the heart rate and induce paranoia,” she said. “If your sole reason for using cannabis is to reduce or manage your anxiety levels, it might lead to dependence and those suffering from pre-existing anxiety disorders may be more susceptible to its adverse effects.”
+“I would suggest that before you use cannabis for any reason, it is best to consult with a healthcare professional, especially for those individuals suffering from pre-existing conditions,” she said.
+Potential missing factors in an anxiety disorder
+Dr. Sherry Yafai, an emergency medicine physician at Saint John’s Physician Partners Urgent Care and Adjunct Assistant Professor at Saint John’s Cancer Institute in California and cannabis specialist, said the study didn’t account for “glaring co-variates in the group, namely, consumption of other drugs and alcohol.”
+“We are well aware that the use of and misuse of alcohol, stimulants and opiates – to name a few – can contribute to a variety of health consequences, including anxiety,” Yafai, who wasn’t involved in the study, told Medical News Today. “This article failed to remove these patients from the comparison, likely because they would not have been able to show any effects from cannabis use alone.”
+Yafai also said the researchers “missed the fact that 19% of adults have anxiety disorders… with an estimated 31% of adults having an anxiety disorder at some point in their lives.”
+Yafai added that anxiety is a common diagnosis to “miss” during an emergency room visit as doctors are usually trying to rule out life threatening issues in that setting. She said that invalidates using the “general population” as a means for comparison.
+“It should have been a comparison to… statistics of global anxiety and not all-comers to the [emergency room], which more commonly are presenting for things like stroke, heart attacks, abdominal pain, vomiting and diarrhea, to name a few,” she said.
+Yafai also said a formal diagnosis of anxiety requires symptoms for at least six months, meaning people attempting to self-medicate in the study would have been mislabeled.
+“Perhaps what this article should be highlighting, is that a presentation to the [emergency department] with cannabis use, might give physicians an opportunity to intervene in a positive way, to help patients with developing anxiety to steer them to better treatment practices,” she said. “Having those discussions, may impact an individual’s life in a more meaningful way.”
+
+https://www.medicalnewstoday.com/articles/how-vegan-and-ketogenic-diet-rapidly-impacts-immune-system
+How vegan and ketogenic diets can rapidly impact the immune system
+A new study from researchers at the National Institutes of Health in the United States has found significant immune-system responses to ketogenic and vegan diets.
+Participants followed both diets for two weeks each. The keto diet was found to prompt responses associated with pathogen-specific immunity developed through regular exposure and vaccines.
+The vegan diet elicited responses rooted in innate immunity, the body’s first line of defense against pathogens.
+A new study from researchers at the National Institutes of Health has found significant immune-system responses to ketogenic and vegan diets.
+By performing “a multiomics approach including multidimensional flow cytometry, transcriptomic, proteomic, metabolomic and metagenomic datasets,” the researchers were able to assess how 20 participants’ bodies responded to two weeks each of the ketogenic and vegan dietary regimes.
+The ketogenic diet prompted responses associated with adaptive immunity — pathogen-specific immunity that is developed through regular exposure and vaccines — while the vegan diet elicited responses rooted in innate immunity, which is the body’s first line of defense against pathogens.
+There were also significant changes in the microbiomes of the participants, specifically the abundance of the gut bacteria associated with each diet. The ketogenic diets seemed to lead to a reduction in amino acid metabolism within their microbiomes, perhaps as a result of the larger amount of amino acids in that diet.
+Keto vs. vegan: How different are the macronutrients?
+Each participant was allowed to eat as much as they wanted during the two weeks they were adhering to each diet.
+When people were on the vegan diet, which contained about 10% fat and 75% carbohydrates, they consumed fewer calories than their counterparts on the keto diet, which was made of about 76% fat and 10% carbohydrates.
+Given the random application of the order of the diets and the diversity of the participants in age, race, gender, ethnicity, and body mass index (BMI), the study’s authors point to how these diets can be consistently applied to the body’s pathways with somewhat predictable results.
+“Further exploration of functional trade-offs associated with each diet would be an important line of research,” they write in the study.
+Kristin Kirkpatrick, MS, a registered dietician at the Cleveland Clinic Department of Department of Wellness & Preventive Medicine in Ohio and a senior fellow at the Meadows Behavioral Healthcare in Wickenburg, Arizona, told Medical News Today that while these varied diets do show effects on overall health, there is a number of other factors that are at play.
+“Both dietary patterns varied in their content of fat, fiber, carbohydrate, and protein composition and each approach had variations of change to immune function,” said Kirkpatrick, who wasn’t involved in the study. “Genetics, and specifically, nutrigenomics may help in determining the correct overall dietary pattern for an individual in addition to factors such as personal, religious, and cultural preferences. There is no one-size-fits-all all approach to diet and even though these two diets may appear to some to have extremes on both ends, there appear to be certain factors of each that are impacting immune function. This was also a small study so larger studies may be warranted to further assess results.”
+Keto diet’s effects on the immune system
+The ketogenic diet, known as keto, focuses on foods that provide a lot of healthy fats, adequate amounts of protein, and few carbohydrates.
+By depleting the body’s sugar reserves and getting more calories from fat than from carbs, the diet works by forcing the body to break down fat for energy. This results in the production of molecules called ketones that the body uses for fuel and can stimulate weight loss.
+After undergoing the ketogenic diet, participants in the NIH study were found to have an up-regulation of pathways linked to adaptive immunity, including T cell activation and enrichment of B cells and plasma cells. One of those pathways, oxidative phosphorylation, which is associated with T cell activation and memory formation, was improved after the ketogenic diet compared with the aftereffects of a vegan or baseline diet.
+Analysis of participants’ proteomes — the entire set of proteins one organism produces — also indicated that the ketogenic diet may have a bigger impact on protein secretion than a vegan diet, with impacted proteins predicted to originate from several tissues, including the blood, brain, and bone marrow. Both diets affected proteins predicted to originate from the liver and secondary lymphoid organs.
+How does the vegan diet affect the immune system?
+The vegan diet eliminates all animal products, including meat, eggs, and dairy.
+It has been associated with weight loss, improved heart health, and a reduction in the risk of chronic diseases such as cancer and type 2 diabetes. It is heavy on fruits, vegetables, beans, nuts, and seeds.
+The study’s authors reported that the vegan diet resulted in a significant up-regulation of the production of red blood cells (erythropoiesis) and heme metabolism. Heme regulates transcription and protein synthesis during erythropoiesis. And the vegan diet resulted in more dietary iron (also important to erythropoiesis) being ingested in the vegan diet than in the ketogenic diet.
+Matthew Carter, a doctoral student at the Sonnenberg Lab in the Department of Microbiology and Immunology at Stanford University in California (which recently published the results of a human dietary intervention trial comparing a high-fiber diet to a high-fermented foods diet), told Medical News Today that the vegan diet raised some questions about how it affected the immune system vs the ketogenic protocols.
+“The authors do speculate that part of these differences might be caused by differences in caloric intake (vegans consumed fewer calories),” Carter said. “So it’s a little hard to see if there was something in particular in the vegan diet that caused these changes, or if something about eating less caused these changes. There are some interesting studies on fasting that have also shown changes to the innate and adaptive immune systems.”
+Kirkpatrick noted that while the study’s findings support how powerful a role diet plays in immune function and microbiome health, the rigors of these particular diets can be difficult.
+“Many of my patients have benefited from both vegan dietary patterns as well as keto dietary patterns,” Kirkpatrick said. “However, I have also seen challenges with both in terms of long-term sustainability. For example, few of my patients can remain strict keto over 6 months, and many transition to a low to moderate carb approach.”
+
+https://www.medicalnewstoday.com/articles/regular-exercise-can-help-lower-chronic-kidney-disease-risk-in-people-with-diabetes-and-obesity
+Regular exercise can help lower chronic kidney disease risk in people with diabetes and obesity
+Researchers say that for people with obesity and other weight issues, moderate to vigorous exercise might help lower the risk of developing chronic kidney disease.
+In their study, people who engaged in between 329 and 469 minutes of vigorous exercise per week were found to have a significantly lower risk of progressing to chronic kidney disease.
+Experts say that it’s encouraging for people with kidney disease to have an inexpensive way to reduce or prevent the progression of their condition.
+Moderate to vigorous physical activity is linked to a lower risk of developing chronic kidney disease in people with type 2 diabetes who also have obesity or other weight issues, according to a study published in the British Journal of Sports Medicine.
+Researchers performed a secondary analysis using data from the Look AHEAD trial, a multi-center, randomized controlled trial that compared cardiovascular outcomes of an intensive lifestyle intervention to standard diabetes support and education.
+The scientists reviewed the records of 5,145 adults with diabetes who also had weight issues with an average follow-up period of 12 years. During the monitoring period, 567 participants, or about one in three, progressed to chronic kidney disease.
+Eight out of 16 trial sites involving 1,746 participants used an activity tracker. These individuals had an average age of 58 and more than one-half were women.
+The scientists noted that:
+Overall, a higher cumulative weekly average was associated with about an 8% lower risk for every 100 minutes of activity. This increased to 19% if their bouts of activity were at least 10 minutes at a time.
+The researchers reported that those who improved their weekly tally by about one hour reduced their risk of developing chronic kidney disease by about 33%.
+Participants engaging in between 329 and 469 minutes were significantly less likely to progress to chronic kidney disease than those completing vigorous activity for under 220 minutes.
+The scientists did not determine cause and effect as this was an observational study only.
+“This study is a secondary analysis of the Look AHEAD study, which was a high-quality, rigorously conducted clinical trial with an observational component that has led to numerous insights into how best to care for people with diabetes to prevent morbidity, disability, and mortality,” said Dr. Babak Orandi, an abdominal transplant surgeon, obesity medicine specialist, and director of NYU Langone Health’s PeriOperative Weight Evaluation and Reduction (POWER) clinic in New York. “This study found that even brief episodes — less than 10 minutes — of moderate-to-vigorous physical activity are associated with a decreased risk of chronic kidney disease.”
+“It’s encouraging to have data to confirm what I had thought and hoped was true. Regarding physical activity to prevent serious diseases like chronic kidney disease, more is better than less, and some — even 10 minutes –is better than none,” Orandi, who was not involved in the study, told Medical News Today.
+What is chronic kidney disease
+Chronic kidney disease is a condition that is caused by damage to the kidney that stops them from properly filtering the blood, causing excess fluid and waste to remain in the body, according to the Centers for Disease Control and Prevention.
+The buildup of fluids can cause heart disease, stroke, or other serious medical issues, including:
+About 15% of adults in the United States have chronic kidney disease.
+Kidney disease usually progresses over time, although treatment can sometimes slow the progression.
+Treating chronic kidney disease
+“While there are a number of effective but expensive medications that can decrease progression of kidney disease, it is helpful to have data to confirm that a simple and free intervention that requires relatively little time can prevent kidney disease,” Orandi said.
+“These findings will be motivating for many people who struggle to fit exercise into their day,” he added. “For many people, the idea of exercise conjures negative images of intimidating gym environments, pain, and discomfort. Moderate-to-vigorous physical activity can be achieved without gym memberships, trainers, classes, or specialized equipment, and can be done in the privacy of one’s own home, even in relatively small spaces.”
+The National Kidney Foundation recommends treating and managing the underlying conditions that might have caused the kidney disease, such as diabetes or high blood pressure. For people with these risks it is essential to see a nephrologist on a regular basis.
+It is also essential to manage complications, such as taking steps to reduce your risk of cardiovascular disease.
+There are several medications to slow the progression of the disease, including ACE Inhibitors, SGLT2 Inhibitors, and non-steroidal mineralocorticoid receptor antagonists (MRAs) such as Kerendia.
+For people with chronic kidney disease who are over 50 and have a history of heart disease and diabetes, statins are also sometimes prescribed.
+
+https://www.medicalnewstoday.com/articles/pcos-linked-cognitive-decline-memory-thinking-problems-middle-age
+PCOS may be linked to memory, thinking problems in middle age
+Polycystic ovarian syndrome (PCOS) is a chronic hormonal endocrine disorder that can affect multiple aspects of health.
+Previous research shows people with PCOS are at an increased risk for several diseases such as type 2 diabetes, endometrial cancer, and high blood pressure.
+Researchers from the University of California, San Francisco have now found that people with PCOS may be at a higher risk of developing memory and thinking problems in middle age.
+About 116 million women around the world have polycystic ovarian syndrome (PCOS) — a chronic hormonal endocrine disorder that affects the reproductive system of people assigned female at birth.
+Common symptoms of PCOS include irregular or missed periods, acne, enlarged ovaries, excessive body hair, and infertility.
+Previous research shows that people with PCOS are at an increased risk for other diseases, including type 2 diabetes, heart disease, obstructive sleep apnea, liver disease, depression, and endometrial cancer.
+Now, researchers from the University of California, San Francisco are adding to this list with evidence suggesting people with PCOS may be at a higher risk of developing memory and thinking problems in middle age.
+The study was recently published in Neurology, the medical journal of the American Academy of Neurology.
+Does PCOS affect brain health?
+According to Dr. Heather G. Huddleston, professor in the Department of Obstetrics, Gynecology, and Reproductive Sciences at the University of California, San Francisco, and lead author of this study, they decided to study the impact of PCOS on brain health because medical professionals already know that PCOS is a disorder defined by differences in reproductive hormones and metabolic health, in particular insulin resistance.
+“We also know that hormones and metabolic health can impact brain health, particularly with aging,” Dr. Huddleston told Medical News Today. “Thus, we thought it was important to investigate brain health in older women with PCOS — particularly since no studies had previously been done regarding this question.”
+People with PCOS normally have high levels of androgen hormones — such as testosterone — and low levels of progesterone.
+Previous research shows androgens can sometimes have neurotoxic effects and progesterone has neuroprotective effects, which may be diminished when levels are too low.
+Decreased cognitive test scores in those with PCOS
+For this study, Dr. Huddleston and her team recruited 907 female participants who were between the ages of 18 and 30 at the beginning of the study, who were then followed by researchers for 30 years.
+At the end of 30 years, all participants were asked to complete tests to measure their memory, verbal learning, cognitive control, processing speed, and attention. At the time of testing, 66 study participants had a PCOS diagnosis.
+Researchers found participants with PCOS had lower scores on three of the five tests given, specifically in the areas of memory, attention, and verbal abilities, when compared to those without PCOS.
+Specifically for the test measuring attention, scientists reported participants with PCOS had an average score about 11% lower than those without the condition.
+“We had a hypothesis that we might find evidence of lower cognitive scores with aging, based on what we already know about various health conditions that can impact the brain,” Dr. Huddleston said. “However, these study participants were relatively young (mid-life), so in some ways, I was still surprised to see the differences that we did.”
+Lower white matter integrity in PCOS
+To further validate their findings, the research team conducted a smaller study of 291 participants who received MRI brain scans at years 25 and 30 of the larger study. Of this smaller cohort, 25 had PCOS.
+Through the MRI scans, scientists were able to examine the integrity of white matter pathways in the brain. White matter helps the brain process information and connects the areas of the brain responsible for learning, balance, focusing, and problem-solving.
+Dr. Huddleston and her team found participants with PCOS had lower white matter integrity compared to those who did not.
+“White matter integrity on MRI can be an early sign of changes in the brain that can happen with aging,” Dr. Huddleston explained. “We did not find any of the more significant changes, such as abnormal white matter so it is reassuring that only early signs were found.”
+“I think it is key that we verify these findings in other populations and/or datasets,” she continued. “I am also very interested in developing a longitudinal study of women with PCOS to determine if and when differences in cognition start to arise. Finally, it would be fascinating to develop a study to look at ways to protect brain health in this population.”
+Lifestyle changes to mitigate PCOS risks
+As more information linking PCOS and brain health comes to the forefront, it may become increasingly important for doctors to talk with people with PCOS about how it could potentially affect their cognition.
+Dr. Huddleston said there are health practices that can protect brain health.
+“For example, we know that exercise has important effects on the brain and can protect the brain from accelerated decline with aging,” she detailed. “So, for starters, encouraging physical activity would be an important recommendation.”
+“Along these lines, managing cardiovascular risk factors, such as dyslipidemia, hypertension, and diabetes is critical,” Dr. Huddleston added. “These conditions are increased in PCOS but also have a range of very effective treatments. “For these reasons, making sure women with PCOS have access to comprehensive and informed care is critical.
+Why PCOS treatment needs a multidimensional approach
+MNT also spoke with Dr. Michael Krychman, a board certified OB/GYN and medical director of Women’s Health Services at MemorialCare Saddleback Medical Center in Laguna Hills, CA, about this study.
+Dr. Krychman said he was not shocked by this study’s findings.
+“PCOS is really associated with a variety of metabolic health conditions like obesity, diabetes, hypertension, (and) heart health issues,” he explained. “There are changes in hormones, including androgens. So the association between PCOS and cognitive decline or memory issues is not very surprising at all.”
+When it comes to talking to people with PCOS about its potential impact on their brain health, Dr. Krychman said the whole focus for PCOS really should be on a bio-psycho-social comprehensive treatment paradigm.
+“So it’s not only about hormonal balance and hair and acne, but also, I think we will now incorporate primary prevention of cognitive decline into treatment paradigms,” he continued. “And what that may look like is keeping active, limiting alcohol, healthy diet, monitoring cardiometabolic issues, sugar control, (and) cholesterol control.”
+“Also, the concept of cognitive enrichment, like playing games, reading a book, memory training — all those things will help enrich your life and may help preserve mental function,” Dr. Krychman added. “The concept of focusing on brain health in a multi-dimensional factor will be really important.”
+
+https://www.medicalnewstoday.com/articles/how-erectile-dysfunction-drugs-may-help-lower-alzheimers-disease-risk
+How erectile dysfunction drugs may help lower Alzheimer's disease risk
+Researchers are reporting that erectile dysfunction drugs are associated with a lower percentage of Alzheimer’s cases in men.
+They say erectile dysfunction drugs increase blood flow, which could help lower the risk of Alzheimer’s disease.
+Experts say these drugs also need to be tested in women.
+Erectile dysfunction drugs may lower the risk of Alzheimer’s disease in men by increasing a person’s blood flow, according to a study published today in the journal Neurology.
+Researchers, however, note that study doesn’t necessarily directly prove that erectile dysfunction drugs reduce the risk of Alzheimer’s. It only says there’s an association.
+The researchers point out that erectile dysfunction drugs, which dilate blood vessels to allow for more blood flow, were initially developed to treat high blood pressure. But now researchers say there could be yet another benefit.
+“Although we’re making progress with the new treatments for Alzheimer’s disease that work to clear amyloid plaques in the brain for people with early stages of the disease, we desperately need treatments that can prevent or delay the development of Alzheimer’s disease,” said Ruth Brauer, a study author and lecturer at the University College London in the United Kingdom, in a press statement. “These results are encouraging and warrant further research.”
+Details from the erectile dysfunction drugs and Alzheimer’s study
+The research involved 269,725 male subjects with an average age of 59 who were also recently diagnosed with erectile dysfunction. None had any memory problems or other signs of Alzheimer’s at the beginning of the study.
+Researchers followed participants for an average of five years. The study looked at the 55% of subjects with prescriptions for erectile dysfunction drugs and compared them to the 45% of participants who didn’t.
+During the follow-up period, 1,119 men developed Alzheimer’s. Among those taking erectile dysfunction drugs, 749 developed Alzheimer’s – a rate of about 8 cases per 10,000 person-years (person-years represent the number of people in the study and the amount of time each one spends participating in the research).
+Among those who didn’t take the drugs, 370 developed Alzheimer’s – a rate of more than 9 cases per 10,000 person-years.
+Once the research team adjusted for other factors affecting the rate of Alzheimer’s, such as age, alcohol consumption, and whether someone smokes or not, they concluded that men taking erectile dysfunction drugs were 18% less likely to develop Alzheimer’s.
+Researchers said the association between erectile dysfunction medications and Alzheimer’s was strongest in men who were prescribed the most medications during the study.
+One of the study’s limitations was that the findings were based on prescription records. Researchers couldn’t verify whether subjects actually filled the prescriptions and used the drugs.
+“More research is needed to confirm these findings, learn more about the potential benefits and mechanisms of these drugs, and look into the optimal dosage,” Brauer said. “A randomized, controlled trial with both male and female participants is warranted to determine whether these findings would apply to women as well.”
+Experts react to Alzheimer’s and ED drugs study
+Dr. Clifford Segil, a neurologist at Providence Saint John’s Health Center in California who was not involved in the research, told Medical News Today that potential treatments for Alzheimer’s are not as simple as simply sending more blood through the body.
+“When I examine patients with memory loss, the differential includes a condition called vascular dementia or multi-infarct dementia,” Segil said. “Vascular dementia is caused by multiple silent strokes in the brain and poor brain blood flow can cause these strokes. When talking about disrupted flow to the brain, neurologists concentrate on stroke or cerebrovascular accidents.”
+Segil said erectile dysfunction drugs work by venous dilation and opening veins increases blood flow.
+He noted the drugs are already used for other serious conditions.
+“Erectile dysfunction medications are sometimes used by cardiologists to increase blood flow to the heart,” Segil said. “The researchers of this study should do an additional study to determine if vasodilating medications like erectile function have a direct effect on vascular dementia rather than Alzheimer’s dementia.”
+More Alzheimer’s treatment research needed
+Segil added he’s interested to see how the medication would affect females with Alzheimer’s.
+“Memory loss remains a multifactorial condition caused by more than one thing,” Segil said.
+Dr. J. Wes Ulm, a medical researcher and bioinformatics expert affiliated with the U.S. Department of Health and Human Services, told Medical News Today the study raises intriguing questions.
+However, he said the onset of Alzheimer’s may differ from one person to another, which may be why drugs that simply increase blood flow haven’t been pursued more aggressively.
+“Other findings have also pointed in a similar direction, (such as) the demonstrated value of smoking cessation and regular exercise in helping to ward off dementia, as well as of certain cognitive activities and forms of engagement — particularly foreign language learning, and possibly also undertakings like crossword puzzles or sudoku — that are likewise associated with improvements in cerebral blood flow to important brain regions,” Ulm said.
+“There are other major factors, and it’s still unclear precisely how the molecular findings like senile plaques and neurofibrillary tangles are associated with the onset of dementia — to what extent they’re a cause vs. a correlating effect of something else,” he added.
+Cardiovascular health and Alzheimer’s disease
+Dr. Tommy Wood, an assistant professor of pediatrics and neuroscience at the University of Washington who also wasn’t involved in the study, told Medical News Today that cardiovascular risk factors are strongly associated with Alzheimer’s and dementia risk.
+“Because of that, therapies that improve blood flow to the brain – ensuring oxygen and nutrients are getting to the active parts of the brain when they’re needed – may well provide a basis for future therapies in the prevention or treatment of those with dementia,” Wood said.
+Even without taking medication for erectile dysfunction, there are ways to improve one’s odds against Alzheimer’s by getting more blood to the brain.
+“Similarly, we know that physical activity is strongly protective against dementia and one major reason for that is that it supports vascular health and blood flow to the brain,” Wood said. “So, the premise described is certainly plausible.”
