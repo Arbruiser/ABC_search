@@ -128,9 +128,7 @@ def rewrite_query(query):  # rewrite every token in the query
     return " ".join(rewrite_token(t) for t in query.split())
 
 
-sparse_td_matrix = (
-    sparse_matrix.T.tocsr()
-)  # makes the matrix ordered by terms, not documents
+sparse_td_matrix = (sparse_matrix.T.tocsr())  # makes the matrix ordered by terms, not documents
 
 # TF-IDF search
 tfidf = TfidfVectorizer(lowercase=True, sublinear_tf=True, use_idf=True, norm="l2")
@@ -145,9 +143,7 @@ def search_with_TFIDF(query_string, exact_match=False):
     hits = np.dot(query_vec, tf_idf_matrix)
 
     # Rank hits
-    ranked_scores_and_doc_ids = sorted(
-        zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True
-    )
+    ranked_scores_and_doc_ids = sorted(zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True)
 
     seen_doc_indices = set()
     unique_docs_found = 0
@@ -220,9 +216,7 @@ def search_with_embeddings(query):
             print()
             print(f"Document: {titles[idx]} - Score: {cosine_scores[idx].item():.4f}")
             print(f"URL: {httplinks[idx]}")
-            print(
-                f"Preview: {documents[idx][:150]}..."
-            )  # Display first 150 characters as a preview
+            print(f"Preview: {documents[idx][:150]}...")  # Display first 150 characters as a preview
             print("\n---\n")
             seen_doc_indices.add(idx)
             unique_docs_found += 1
