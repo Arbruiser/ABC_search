@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+  }
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url('/Users/echolian/Library/CloudStorage/OneDrive-UniversityofHelsinki/building NLP/github_group/BACoN/photo-1606851682837-019baf2e8da4.avif');
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.header {
+    text-align: center;
+}
+
+.search-bar {
+    margin-top: 20px; /* Adjust as needed */
+}
+
+.search-bar input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.search-bar button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
