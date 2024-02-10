@@ -15,32 +15,40 @@ body {
     background-image: url('background.avif');
 }
 
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-}
-
-.header {
+h1 {
     text-align: center;
+    margin-top: 200px;
+    color: azure;
+    font-size: 48px;
 }
 
-.search-bar {
-    margin-top: 20px; /* Adjust as needed */
+p {
+    text-align: center;
+    margin-top: 1%;
+    color: blanchedalmond;
+    font-size: 30px;
 }
 
-.search-bar input {
-    padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+form {
+    text-align: center;
+    margin-top: 3%;
 }
 
-.search-bar button {
-    padding: 8px 16px;
+.search-button {
+    padding: 10px 20px;
     background-color: #007bff;
     color: #fff;
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    font-size: 16px;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+table {
+    text-align: center;
+    margin-top: 1%;
 }
