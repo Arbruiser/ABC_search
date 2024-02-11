@@ -7,7 +7,7 @@ app = Flask(__name__)
 def index():
     return render_template('frontpage.html')
 
-@app.route('/')
+@app.route('/') # Please complete the method, Baiyi will synchronize the layout of the return page.
 def index():
     return render_template('returnpage.html')
 
