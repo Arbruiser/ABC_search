@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+h1 {
+    margin-top: 200px;
+    color: azure;
+    font-size: 48px;
+}

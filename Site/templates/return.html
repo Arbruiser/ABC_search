@@ -1,0 +1,27 @@
+{% extends 'returnpage.html' %}
+
+{% block head %}
+<title>Search Results</title>
+{% endblock %}
+
+{% block body %}
+<h1 id="title">Results you are looking for</h1>
+<div class="content">
+  <table>
+    {% for item in matches %}
+    <tr>
+      <th>Passage 1</th> #table head#
+      <td>{{ item["name"] }}</td> #table content#
+    </tr>
+    <tr>
+      <th>Passage 2</th>
+      <td>{{ item["name"] }}</td>
+    </tr>
+    <tr>
+      <th>Passage 3</th>
+      <td>{{ item["name"] }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+{% endblock %}

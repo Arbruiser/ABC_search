@@ -13,18 +13,5 @@
         <input type="text" name="query" autofocus>
         <input type="submit" value="Search" class="search-button">
       </form>
-      <table>
-      <!--Go through each item in the "matches" variable sent from
-      search() function in the Flask app-->
-      {% for item in matches %}
-      <tr>
-      <!--Display the name of the item based on the "name" key-->
-      <td>{{ item["name"] }}</td>
-      <!--Display the image of the item based on the "source" key-->
-      <td></td>
-      </tr>
-      <!--End for loop-->
-      {% endfor %}
-      </table>
   </body>
 </html>
