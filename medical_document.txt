@@ -1332,3 +1332,426 @@ Dr. Tommy Wood, an assistant professor of pediatrics and neuroscience at the Uni
 “Because of that, therapies that improve blood flow to the brain – ensuring oxygen and nutrients are getting to the active parts of the brain when they’re needed – may well provide a basis for future therapies in the prevention or treatment of those with dementia,” Wood said.
 Even without taking medication for erectile dysfunction, there are ways to improve one’s odds against Alzheimer’s by getting more blood to the brain.
 “Similarly, we know that physical activity is strongly protective against dementia and one major reason for that is that it supports vascular health and blood flow to the brain,” Wood said. “So, the premise described is certainly plausible.”
+
+https://www.medicalnewstoday.com/articles/mobocertinib-withdrawal-what-it-means-for-people-with-egfr-lung-cancer
+Mobocertinib withdrawal: What it means for people with EGFR+ lung cancer
+EGFR+ lung cancer is a type of lung cancer, not linked to smoking, that is caused by one of a number of nonhereditary gene mutations.
+One mutation, exon 20, had no effective treatments beyond chemotherapy until a tyrosine kinase inhibitor called Mobocertinib (marketed as Exkivity) was licensed in 2021.
+However, the manufacturers withdrew it from use in the United States late last year, and health authorities in the United Kingdom plan to follow suit next month.
+EGFR+ campaigners are concerned that people in the United Kingdom with this mutation will now have no treatment options to extend life after chemotherapy.
+Even though, according to the Centers of Disease Control and Prevention (CDC), 80–90% of lung cancer cases are linked to smoking, a significant number of lung cancers are not smoking-related.
+Most of these are non-small cell lung cancers (NSCLC), caused by mutations of the epidermal growth factor receptor, termed EGFR+ lung cancers.
+These cancers often present in younger people and have atypical symptoms, such as shoulder pain, or other musculoskeletal symptoms, rather than the coughing, breathlessness and recurrent chest infections that are usually seen in smoking-related lung cancers.
+Several different nonhereditary mutations can lead to EGFR+ lung cancer. The most common are EGFR 19 deletion — where part of the gene is missing — and EGFR L858R point mutation, in which one nucleotide (small unit of DNA) is altered.
+Why mobocertinib is important for people with lung cancer
+The exon 20 insertion mutation is the third most common cause of EGFR+ lung cancer, being responsible for up to 10% of cases. People with this mutation generally have a poorer prognosis than people with different mutations.
+Apart from platinum-based chemotherapy, there were no effective treatments for exon 20 available in the United Kingdom, as the tyrosine kinase inhibitors (TKIs) used to treat other EGFR+ mutations do not work against exon 20.
+However, in 2021, a new TKI, mobocertinib (Exkivity), received accelerated approval from the Food and Drug Administration (FDA) for the treatment of locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations. The oral therapy was approved for use in the U.K. in November 2022.
+Prof. Siow Ming Lee, professor of medical oncology at University College London, and consultant medical oncologist at University College London Hospitals (UCLH) told Medical News Today:
+“NSCLC patients with the uncommon EGFR+ exon 20 insertion mutations have an unmet need. […] Mobocertinib is a first-in-class, oral tyrosine kinase inhibitor (TKI) specifically designed to selectively target the uncommon epidermal growth factor receptor (EGFR) Exon20 insertion mutations.”
+Global withdrawal of mobocertinib: What it means
+Dr. Gini Harrison, psychologist and research trustee at EGFR+ UK, and EGFR+ survivor, also emphasized how withdrawing mobocertinib from use would severely impact people who rely on it the most.
+She explained:
+“Mobocertinib is currently the only drug in the U.K. that is licensed for use with this patient group in an NHS [National Health Service] setting. Removing this drug from the market will mean that these patients have no treatment options beyond chemotherapy, which will certainly reduce lifespans and increase mortality rates.”
+In early clinical trials, mobocertinib was well tolerated by patients, stopped their cancer from worsening, and increased their survival time, leading to optimism about its potential for people with the exon 20 mutation.
+However, in October 2023, the manufacturer, Takeda, voluntarily withdrew Mobocertinib from use in the United States.
+In phase 3 clinical trials, the drug failed to show a significant effect on progression-free survival (PFS). During the trial, 17% of participants stopped the treatment, half of the patients had to take a break in treatment, and 25% needed the dose reduced because of side effects, although there were no significant safety concerns.
+Takeda said in a press release that it was withdrawing the drug because “the Phase 3 EXCLAIM-2 confirmatory trial, […] did not meet its primary endpoint and thus did not fulfil the confirmatory data requirements of the Accelerated Approval granted by the U.S. FDA nor the conditional marketing approvals granted in other countries.”
+However, Prof. Lee explained that the trial had its own shortcomings.
+“It is unfortunate that when Takeda designed the first-line trial, the investigator did not include a separate trial arm combining Mobocertinib with chemotherapy,“ he told us.
+“Instead, they tested a mobocertinib monotherapy arm against standard chemotherapy, despite knowing that the best ORR [tumor objective response rate] achieved as a second line was approximately 30% in pre-treated NSCLC patients,” Prof. Lee noted.
+How will lung cancer patients in the UK be affected?
+And if health authorities do withdraw this drug from use in the U.K.? Prof. Lee warned:
+“Patients relapsing after first-line platinum chemotherapy will no longer be able to access the drug after the official withdrawal of the conditional marketing authorization for mobocertinib, which will occur in March 2024.”
+Dr. Harrison also expressed her frustration to MNT, saying that “[t]he withdrawal of Mobocertinib is purely based on the fact that the drug failed to meet its clinical endpoint in a recent clinical trial.“
+”It is not being withdrawn due to safety concerns, and indeed, no new safety concerns have arisen since the drug received its initial licence,” she emphasized.
+“Instead,” Dr. Harrison explained, “the drug is being withdrawn because it was licensed on the proviso that a positive result was achieved in an RCT [randomised control trial], showing it to be more efficacious than chemotherapy in a first line setting.”
+”The recent RCT (EXCLAIM-2) [trial] showed this was not achieved; however, [the drug] was shown to be as effective as chemotherapy in this setting. Given the effectiveness is on par with a licensed, effective treatment, withdrawing the drug entirely seems both unnecessary and harmful to patients,” she added.
+Although mobocertinib will not be available for new patients going forward, Prof. Lee gave some reassurance to those already taking the medication.
+“Patients initiated on treatment with mobocertinib before its withdrawal will still be able to access the drug through a compassionate use programme free of charge as long as they are deriving clinical benefit from the medication,” he said.
+Call for alternative treatment to be made available in UK
+There are alternatives to Mobocertinib in the U.S., but it is the only treatment funded by the National Health Service (NHS) for exon 20 patients in the U.K.
+One other drug licensed for use in the U.K. that has shown potential for exon 20 — aminvantamab — is available only privately, so cannot be accessed by those without private insurance or other means of funding, as Dr. Harrison explained.
+“Amivantamab is an efficacious drug that is used in standard practice for exon 20 patients in Europe and the USA. It is actually approved for private use by the MHRA in the U.K., but is not currently licensed by NICE. While NICE recognises Amivantamab is likely to be efficacious for exon 20, they deem it too expensive to offer it on the NHS.”
+– Dr. Gini Harrison
+She called for the drug to be made available to NHS patients: “[r]ecent randomised controlled trials have shown that amivantamab is likely to be a very efficacious alternative to mobocertinib.”
+“Given that this drug is already available privately in the U.K., we suggest that there should be a way to expedite NICE approval processes in situations where the withdrawal of a drug from the market leaves a treatment gap and an unmet need for patients,” she added.
+
+https://www.medicalnewstoday.com/articles/ovarian-tissue-freezing-help-delay-prevent-menopause
+Ovarian tissue freezing may help delay, and even prevent menopause
+Menopause describes the point in life when the last menstrual cycle occurs, which happens around the age of 50 in women
+Ovarian reserve depletes in the years, and decades, before menopause occurs.
+Many welcome the end to periods and worries about unwanted pregnancy, but menopause, and the perimenopause before it, is often accompanied by troubling symptoms such as hot flashes, cognitive problems, night sweats, vaginal dryness, anxiety, and a reduced sex drive.
+Now, researchers may have found a way to delay, and perhaps even prevent, menopause.
+A modeling study suggests that by removing, freezing, and then reimplanting ovarian tissue, the fertile years can be extended long beyond the normal age of menopause.
+Menopause, which for most women happens between the ages of 40 and 58, signals the end of the reproductive years. Although the end of monthly periods and worries about birth control is often welcome, many people will experience a less welcome range of physical and mental symptoms.
+These symptoms, which may include hot flashes, night sweats, vaginal dryness, anxiety, and a reduced sex drive, can start long before menopause and continue for several years afterward. So, could a treatment that delays, or even prevents, menopause be beneficial?
+Researchers at Yale School of Medicine believe that it would and may have found a way to do it. They suggest that by freezing ovarian tissue taken from a woman during her reproductive years and then reimplanting it at a later stage, they could delay, or even prevent menopause.
+The mathematical modeling study is published in theAmerican Journal of Obstetrics and Gynecology.
+“This is very interesting data on the forefront of science-cryopreservation of the ovaries — especially useful for people undergoing chemotherapy and/radiation for cancer treatment. These techniques can protect and preserve the ovarian tissue for reimplantation. The modeling, predicting how long menopause can be delayed is interesting but not currently useful in practice.”— Dr Robin Noble, chief medical officer at Let’s Talk Menopause, speaking to Medical News Today.
+Ovarian tissue transplants
+Ovarian transplant has been used to help restore fertility following cancer treatments that can damage the egg reserve in the ovaries. Surgeons remove ovarian cortex tissue before the cancer treatment, freeze (or cryopreserve) it, then implant it back into the person after cancer treatment is successfully completed.
+Ovarian cortex is the outer part of the ovary, where most of the follicles — the structures that mature each month to release an egg at ovulation — are found. For freezing and transplant, the cortex can be from a donor or from the person undergoing the treatment.
+Now, scientists led by Prof. Kutluk Oktay, M.D., Ph.D., have suggested that the technique could be used to preserve fertility and prevent troubling symptoms by delaying or even preventing menopause.
+The researchers used data from previous studies of ovarian reserve at different ages, and on how ovarian follicles behave in ovarian tissue. From this, they created a mathematical model that predicts how long ovarian transplant surgery might delay menopause in healthy women.
+They incorporated several factors, including age and follicle survival, in their model to see how long different factors might delay the time of menopause.
+How effective is ovarian transplanting?
+The model predicted that for most women ages 40 and under, ovarian tissue cryopreservation and transplant would significantly delay menopause.
+The success of the transplant depended on four factors:
+Tissue harvested after the age of 40 years did not delay menopause onset as there were too few viable follicles left in the tissue of the typical donor.
+“The younger the person, the larger number of eggs she has, as well as the higher the quality of those eggs,” Prof. Oktay said. The amount of tissue harvested was key — too little and menopause would not be delayed, but if too much was taken, this might bring on an early menopause. However, the model accounted for this: “This model gives us the optimum amount of tissue to harvest for a person of a given age,” he added.
+To illustrate their model, the researchers give the example of a 25-year-old who had 25% of her ovarian cortex tissue harvested, and then transplanted in one procedure. If 40% of the follicles survived, this might delay menopause by almost 12 years; if 80% survived, the delay would be around 15.5 years. Authors noted that currently, ovarian transplant procedures are associated with a 60% loss of follices and that 80% survival could only be achieved if technology and techniques progressed in coming years.
+However, if they divided up the tissue and transplanted it in several procedures, menopause delay was increased. At 40% follicle survival, three transplants extended the delay to 23 years, and six transplants to 31 years. If 80% of follicles survived, the model predicted that menopause might be delayed by as much as 47 years, which, for most women, would mean that they would never experience menopause.
+Should menopause be delayed?
+“If we can adequately replace the hormones (that should continue to improve with more research into this area), would we want to delay the time of natural menopause? Many women struggle with issues during their reproductive years — PCOS, endometriosis, fibroids, painful periods, heavy periods, undesired fertility, premenstrual dysphoric disorder — would they want to prolong their cycles? I think not. Would they want to delay or avoid the symptoms of menopause — very likely. And we can do that with menopausal hormone therapy (MHT) without exacerbating those other symptoms.”— Dr. Robin Noble
+Menopause is considered a normal part of human aging, not an illness or medical condition, so should it be delayed? Many women welcome the end of their monthly periods, particularly those with menstrual disorders, and many cope with the symptoms of menopause without intervention. For many that do require support, hormone therapy is often effective.
+However, for others, perimenopause and menopause may mean several years of troubling symptoms that can affect their quality of life. As we live longer, many women will spend around one-third of their lives postmenopausal, so they may wish to shorten that time.
+Apart from delaying symptoms, studies have shown that there may be other benefits to later menopause. Those who experience a later menopause have lower all-cause mortality, reduced risk of osteoporosis, and a reduced risk of cardiovascular disease. However, they do have an increased risk of breast, endometrial, and ovarian cancers.
+“Do we need cryopreserved ovaries to accomplish these goals?” Dr. Noble questioned.
+“With MHT, we can give back some of these hormones at various doses, with the option of tailoring to the symptoms and goals of the person, understanding the risks and benefits of various treatment options. Moreover, MHT avoids the cyclic symptoms (often bothersome bleeding, mood changes, bloating, breast tenderness, cyclic migraines) that would be present in the case of preserved ovaries,” she explained.
+But the option of surgery to remove and then replace cryopreserved ovarian tissue should not be taken lightly, as it does involve repeated abdominal or keyhole (laparoscopic) surgery. So, a woman would need to think carefully about whether, for her, the benefits of delaying menopause outweigh the risks.
+Dr. Noble is not convinced that the technique offers many benefits:
+“Menopause is a natural stage of life. It is not a disease. It is not an illness anymore than aging is an illness. After menopause, we see significantly increased risks for cardiovascular disease, bone loss (osteoporosis), diabetes, obesity, colon cancer risks, which seem to be mitigated with MHT.”
+“People need better information about the options for management of this stage of life so they can be empowered by the latest research to make the best decisions for themselves, as there are many treatment options available for the symptoms of menopause,” she added.
+
+https://www.medicalnewstoday.com/articles/pregnant-people-young-children-received-wrong-rsv-vaccine-error-cdc
+RSV vaccine errors in babies, pregnant people: Should you be worried?
+The CDC recently issued an emergency alert to clinicians reporting some pregnant people and young children received the wrong RSV vaccine.
+Vaccine errors are rare, and no adverse events were reported in this instance.
+Experts say confusion around the recent rollout of three different immunizations to protect against RSV may have led to the errors.
+Currently, two RSV vaccines are approved for use in older adults, with one of these also approved for use in pregnant people
+A third monoclonal antibody treatment is recommended for use in infants up to 8 months to protect against severe illness.
+Vaccine administration errors are uncommon but may occasionally occur.
+When a trio of immunizations to protect high-risk groups against respiratory syncytial virus (RSV) rolled out last fall, confusion surrounding the vaccines ensued among patients and even clinicians alike.
+A recent emergency alert released by the Centers for Disease Control and Prevention (CDC) reports that RSV shots were wrongfully administered to a small number of pregnant people and young children. As of January 17, 2024, the alert states that 128 pregnant people received the wrong RSV shot, and 25 children under 2 received an RSV vaccine approved for use in adults only.
+While any number of vaccine errors may seem alarming, the CDC notes the errors are “relative to an estimated 1 million infants protected from RSV either through infant receipt of nirsevimab or through vaccination of pregnant people.”
+Young children, pregnant people, and older adults are considered most at risk for severe illness from RSV, a respiratory virus resembling the common cold. Most people recover from RSV in 7–14 days, but some high-risk cases may become serious, leading to difficulty breathing and requiring hospitalization.
+Abrysvo (Pfizer) and Arexvy (GSK) are both approved for use in adults over 60. However, only Abrysvo is approved for use in pregnant people.
+Currently, there is no RSV vaccine available to younger children. A monoclonal antibody treatment, niresevimab, also known as Beyfortus, (Sanofi and AstraZeneca), is administered to newborns up to 8 months when they are most susceptible to complications from the virus.
+In addition, pregnant people who receive the maternal Abrysvo vaccine may pass antibodies to a developing fetus, which may protect a newborn from severe illness after birth.
+Clinicians who administered the wrong RSV vaccines reported them to the Vaccine Adverse Event Reporting System (VAERS). The vaccine errors did not lead to adverse events, but the CDC and Food and Drug Administration (FDA) will continue to monitor the situation.
+If you or your child received the wrong RSV vaccine or you are concerned about getting the right one, here’s what you need to know to stay safe.
+Why did some people receive the wrong RSV shot?
+Lack of clarity around the three different RSV immunizations may have caused some clinicians to mistakenly administer the wrong shot.
+“New vaccines and treatments can sometimes lead to confusion, especially in busy healthcare settings,” Dr. Daniel Ganjian, board certified pediatrician at Providence Saint John’s Health Center in Santa Monica, CA, told Medical News Today.
+To add to any confusion surrounding the rollout of three different RSV immunizations, Dr. Ganjian noted the RSV shots have similar names — Abrysvo and Arexvy — which may have contributed to the mixups.
+Dr. Patricia Faraz, board certified OB-GYN at The Women’s Hospital at MemorialCare Saddleback Medical Center in Laguna Hills, CA, told MNT that such vaccine errors could be reduced by clinicians if proper systems were put into place. For instance, the patient order and vaccine could be verified by more than one staff member.
+“Medications for OB patients should not be stored in the same refrigerator as non-OB patients to reduce errors as staff members may not be familiar with these new vaccines, and they are named similarly,” Dr. Faraz suggested.
+Should you be worried if you got the wrong RSV vaccine?
+If you received a vaccine in error, you should notify your healthcare team and report any adverse events to VAERS, which helps public health officials identify and address potential issues with vaccines, Dr. Ganjian explained.
+If you’re concerned your child may have received a vaccine intended for adults, try to stay calm. You should contact their pediatrician who “can review your child’s records and confirm if they received the correct vaccine. If not, they will advise you on the next steps,” Dr. Ganjian noted.
+If a vaccine reaction were to occur, symptoms should generally subside within 48 hours. If symptoms persist, contact your doctor right away. “Serious adverse events are very rare in these situations,” Dr. Ganjian said.
+No serious reactions were reported among pregnant people and children who received the wrong shot.
+RSV vaccines are considered safe and effective when used as intended. No adverse events were reported during clinical trials of the RSV vaccines for pregnant people and older adults. Beyfortus, the antibody treatment for young children, is also considered safe and effective.
+However, any risks of adverse events from receiving the wrong RSV shot are not yet known.
+“Unfortunately, these vaccines are brand new, and adverse events in pregnant women are not known with Arexvy,” Dr. Faraz said.
+“Over time, adverse events may be reported, and then we will have a better idea regarding potential side effects or efficacy rates of the Arexvy, which is indicated for individuals over 60,” she explained.
+The two RSV vaccines and the monoclonal antibody treatment for young children are not interchangeable. They should be used only in the high-risk groups for which they are approved.
+While no serious adverse events were reported from this vaccine error, any unusual symptoms after vaccination should be relayed to your doctor.
+According to Dr. Ganjian, symptoms of adverse reactions may include:
+Tips to ensure you get the right RSV vaccine
+To ensure you or your child receive the correct RSV vaccine, experts say it’s important to ask your doctor questions and get information from reliable sources.
+Federal agencies like the CDC can also provide you with the most accurate and up-to-date information about RSV vaccines and treatments.
+Dr. Ganjian recommended asking your doctor or vaccine technician for the exact name of the vaccine you’re wanting to receive.
+“For example, if you have a baby, tell your doctor you want nirsevimab. If you are pregnant, ask for [Abrysvo],” he said.
+“Don’t hesitate to ask your healthcare provider about the vaccine or treatment you’re receiving. Make sure you understand what it is and why you’re getting it. If you have any concerns, double-check the information with your provider or pharmacist before receiving the vaccine.”
+— Dr. Ganjian, pediatrician
+
+https://www.medicalnewstoday.com/articles/atlantic-diet-may-help-prevent-metabolic-syndrome
+Atlantic diet may help prevent metabolic syndrome
+The Atlantic diet is a diet that is popular in some regions of Portugal and Spain, and it is similar to the Mediterranean diet. It focuses on consuming fresh and local foods that are minimally processed.
+An area of research interest is how this traditional diet can improve health and how it may impact the environment.
+A study found that consuming the Atlantic diet may help reduce metabolic syndrome risk. However, the results did not find that the diet significantly helped reduce carbon footprint emissions.
+Research is ongoing about how diets influence people’s well-being and how they affect risk for various health problems.
+Research also continues to expand regarding how different diets impact the environment. Ideally, dietary patterns can help people achieve health goals while reducing carbon dioxide emissions when possible.
+A study published in JAMA Network Open looked at how the Atlantic diet influenced metabolic syndrome among participants and dietary carbon footprint emissions.
+Among the 574 participants, researchers found that those following the Atlantic diet significantly reduced their risk for metabolic syndrome.
+However, the Atlantic diet and the control group experienced about the same reduction in carbon footprint scores. Based on the study’s limitations, more research is required with a larger sample size to see the impact of the Atlantic diet on the environment.
+Does the Atlantic diet influence metabolic health?
+As noted by the authors of this study, the Atlantic diet is a traditional diet popular in northwestern Spain and Portugal.
+Registered dietitian nutritionist Karen Z. Berg, not involved in the current study, explained to Medical News Today:
+“You don’t often hear about the Atlantic diet, but it’s the traditional diet of Northwestern Spain and Portugal. It’s very similar to the Mediterranean diet because it focuses mainly on locally sourced fresh, minimally processed fruits, vegetables, whole grains, beans and olive oil. It also incorporates a lot of fish and seafood consumption, cheese, milk, meat and wine. The food is generally cooked via simple methods like grilling, baking or stewing.”
+Metabolic syndrome is a cluster of health factors that can increase the risk of stroke and diabetes. People with metabolic syndrome usually have three or more of the following:
+Diet and other lifestyle changes can influence metabolic syndrome factors and thus impact the risk for even more severe health conditions. Researchers of this particular study wanted to see how the Atlantic diet affected metabolic syndrome risk.
+Atlantic diet may prevent metabolic syndrome
+This study involved a secondary analysis of another study: the Galicia Atlantic Diet study. The research included adults between the ages of 18 and 85.
+Prospective participants were disqualified from taking part if they were pregnant, on medication to lower lipids, misused alcohol, had a terminal disease, had major cardiovascular diseases, or had dementia.
+Participants also had to be part of a family unit of two or more members in order to get involved in the study.
+Families were randomized into either the intervention group or the control group. Overall, 121 families in the intervention group and 110 in the control group completed the study.
+The groups were similar when it came to baseline characteristics. However, the intervention group was older.
+Berg noted: “It’s interesting that the clinical trial discussed looked at whole families and not just individuals. The support of family is huge when making lifestyle changes, so the fact that they could do it as a family unit likely made it easier to comply with all aspects of the diet.”
+The intervention group followed the Atlantic diet, and the control group followed their normal lifestyle pattern. The intervention group received nutrition education, a cooking class, and regular food baskets to help them follow the Atlantic diet.
+Researchers of the current analysis were then able to calculate participants’ carbon footprints related to their diets. A person’s carbon footprint involves the amount of carbon dioxide they emit into the air.
+The results found that the intervention group experienced the most improvement in terms of metabolic syndrome. Among the participants who did not have metabolic syndrome, only 2.7% in the intervention group developed metabolic syndrome, compared to 7.3% in the control group.
+They also found that the intervention group was 42% less likely to develop an additional component of metabolic syndrome than the control group.
+Berg commented that:
+“The study found that the intervention group had less risk of developing metabolic syndrome after 6 months on the Atlantic Diet. Also, people who already had metabolic syndrome at the start of the trial were significantly less likely to exhibit an additional component of metabolic syndrome. That is an important thing to note because when people have metabolic syndrome, it is imperative to stop or slow the progression of disease.”
+Environmental impact of the Atlantic diet
+Overall, both groups also experienced reductions in carbon emissions, but the difference between the two groups was not statistically significant.
+Researchers did find that the variability of the carbon footprints among participants was related to family membership, indicating that families can influence personal changes to food carbon emissions.
+The lack of statistical significance could be related to the small sample size. Study author Dr. Mar Calvo-Malvar, a specialist in Laboratory Medicine at the University Clinical Hospital of Santiago de Compostela, Spain, explained to MNT:
+“The food consumption recorded in the intervention group showed a reduction in carbon footprint of 0.17 kg CO2-eq [kilogram carbon dioxide equivalent] per person per day compared to the consumption recorded in participants in the control group, although this difference did not reach statistical significance.”
+“However,” she added, it should be noted that the lack of statistical significance could be attributed to the study’s limited statistical power to measure environmental parameters. The study was initially designed to assess metabolic changes in participants. To achieve statistical significance, approximately 2,000 participants would be required.”
+Study limitations and continued research
+This study did have certain limitations that warrant consideration. Since this study was a secondary analysis of a previous study, the results face similar limitations. For example, it relied on participant reporting.
+The research focused on a specific group of people in a particular region. Future studies could focus on more diversity, as all participants were white.
+However, the group had overall moderate socioeconomic and educational levels, making it more possible to generalize the results.
+The study was observational and thus cannot prove that following the Atlantic diet prevents metabolic syndrome.
+Researchers note that the intervention was complex, so they cannot precisely determine which actions contributed to the observed results. It is possible there were some aspects that researchers did not measure, as well as unknown factors at play.
+There was media attention for the study, so some participants may have changed their lifestyles because of this. Since participants did receive food baskets, it is harder to generalize the findings to groups struggling with food access.
+The study also only ran for 6 months, which might not have been enough time to properly examine metabolic changes. The observed environmental results might have been impacted by the diversity of food items in participant data and the immense variety in carbon footprint emissions that the life cycle assessment of food products typically reports.
+When looking at the carbon footprint, the results were not statistically significant between the intervention and the control, but this could be related to the small sample size. Larger studies may be able to see a reduction in carbon emissions related to the Atlantic diet.
+Dr. Calvo-Malvar noted:
+“I believe our findings provide significant evidence regarding the potential of traditional diets to accelerate progress toward achieving the Sustainable Development Goals, especially on SDG 13 (health and climate action). We intend to continue studying the effects of the traditional Atlantic diet in broader populations and in different economic contexts. Additionally, we are exploring ways to promote the adoption of this diet as a strategy to improve public health and address environmental challenges.”
+
+https://www.medicalnewstoday.com/articles/how-exactly-does-a-healthy-lifestyle-help-prevent-dementia
+How exactly does a healthy lifestyle help prevent dementia?
+The best way to promote long-term cognitive health is by living a healthy lifestyle, according to a new study.
+The study, which examined, post mortem, brains of people up to the age of 90, found that most cases of dementia were linked to unhealthy lifestyles.
+Only 12% of cases were associated with amyloid plaques, long considered a cause of Alzheimer’s disease.
+Experts explain that the health of the brain is closely related to the health of the heart, as mini-strokes are often the drivers of non-Alzheimer’s dementia.
+A new study offers fresh evidence that living a healthy lifestyle may help a person maintain their cognitive reserve, reducing their chances of developing dementia later in life.
+The study involved 586 brain autopsies of people who had a mean age of 90.9 years at the time of death, and found that their lifestyle habits were more clearly linked to their chances of getting dementia than were amyloid plaques or abnormal blood flow in their brains.
+For many years, the presence of beta-amyloid plaques, tau tangles, or other dementia-related brain pathologies in the brain post mortem have been associated with dementias — especially Alzheimer’s disease.
+However, recent research, including this new study, has found that the presence of these features frequently occurs in people who do not have dementia.
+Participants in this study had registered with RUSH University’s Memory and Aging Project. Individuals self-reported their lifestyle habits. They were asked whether they smoked, engaged in at least 150 minutes of physical activity each week, and limited their alcohol consumption.
+The healthiest 40% of participants were considered low risk or “healthy.” This corresponded to a Mediterranean-MIND diet score of 7.5 or above and late-life cognitive health score higher than 3.2.
+The researchers estimated that just 12% of cognition-related measurements were affected by amyloid plaques.
+The study is published in JAMA Neurology.
+The link between healthy lifestyles and cognitive health
+The study’s first author, Dr. Klodian Dhana, of the Department of Internal Medicine, Division of Geriatrics and Palliative Medicine at Rush University, summed up its main finding for Medical News Today:
+“We may hypothesize that lifestyle factors, especially diet and physical activity, may have antioxidant and anti-inflammatory properties, cognitive activities may contribute directly to ‘cognitive reserve,’ and all together contribute to cognition.”
+Physician, educator, and molecular biologist Dr. Allison Reiss, Assistant Professor at New York University’s Department of Medicine, who was not involved in the study, explained what “cognitive reserve means.“
+“Cognitive reserve is the fuel in the tank of our brain that is built up by using the brain productively to think, absorb ideas and be active in life and with our social network,” she said. “It keeps us sharp and engaged, and gives us resilience and the ability to use our brains flexibly to face new challenges and to be lifelong learners.”
+Dr. Reiss added that a healthy lifestyle keeps the brain nourished with nutrients and oxygen, and promotes an environment “where the brain can flourish and function at its best.”
+The heart health–brain health connection
+Dr. Clifford Segil, neurologist at Providence Saint John’s Health Center in Santa Monica, CA, also not involved in the study, said that although much emphasis is placed upon Alzheimer’s dementia, there is another type of dementia called vascular — or multi-infarct — dementia, which is caused by small, even imperceptible, strokes.
+“So if people have silent strokes,” said Dr. Segil, “they get vascular dementia or multi-infarct dementia. It’s clinically seen by people just getting slow.”
+He said there is a direct correlation between the number of silent strokes a person has had and their cognitive ability.
+“Many patients with diabetes, hypertension, and heart disease that come see me with memory loss from vascular dementia [end up in this situation] because their brain is unhealthy, since their heart is unhealthy,” said Dr. Segil.
+How helpful are post-mortem investigations?
+There is some controversy regarding the value of autopsy investigations for dementia.
+“I think our reliance on these post-mortem data has got us into trouble,” Dr. Segil said.
+“I think it’s a problem because a lot of the current theory has been done with investigative data on post-mortem studies with amyloid [plaques].” Even with this concern, however, Dr. Segil still considered that autopsies generally remain worthwhile.
+“Knowing the pathology in the human brain is absolutely critical to understanding the disease processes that affect cognitive function,” Dr. Reiss also said.
+She expressed her gratitude to the now-deceased study participants, noting that “[t]he microscopic images from these participants give us a historical record back to the 1990s, and captured information from which generations going forward will benefit.“
+“Their generosity and willingness to enroll cannot be appreciated enough,” said Dr. Reiss.
+Dr. Dhana stressed that autopsy data is “very important” in Alzheimer’s research.
+Going beyond beta-amyloid in dementia research
+Although “[a] healthy lifestyle was associated with less amyloid load in the brain at autopsy,” said Dr. Dhana, “most of the association with cognition proximate to death was not thorough Alzheimer’s disease pathology, highlighting the multifactorial and complexity of the disease.”
+Dr. Reiss said that looking for simple answers underestimates the complicated ways in which body systems interact.
+She cited as an example X-rays of two people who have similar degenerative changes that might indicate arthritis in their joints, and yet one person is in terrible pain while the other is pain-free and living with full function.
+“We also knew this years ago in relation to amyloid,” said Dr. Reiss. “Many older people have amyloid in the brain on imaging and they are cognitively sharp. There are so many factors that impact the human brain, and we are just beginning to understand.”
+In terms of blood vessel damage in the brain, Dr. Reiss added that if deterioration occurs slowly, the brain’s plasticity may compensate for it. “We can counteract a lot of adverse conditions with the many backup systems we have built into our miraculous nervous system,” she said.
+“The study sends a positive message that pathology is not destiny, and we can control more than we might think with respect to our mental functioning,” according to Dr. Reiss.
+Healthy lifestyle keeps the brain healthy
+“Research has shown,” said Dr. Dhana, “that cognitive activities are important for brain health, particularly when accompanied by a high-quality diet and regular exercise. Individuals should consult their doctor about preventive measures, tailoring each lifestyle factor to their individual needs.”
+Dr. Reiss added to that list social engagement with friends in person or even online, not smoking, not drinking to excess, controlling your blood sugar if you have diabetes, getting adequate sleep, as well as sufficient sunlight and vitamin D.
+Dr. Segil suggested specifically that “people take classes at their junior college or online classes in a subject that they have not taken before. I think structure and new classes exercising your brain is cognitively protective.”
+“As I say, if you don’t use it, you lose it,” noted Dr. Segil.
+
+https://www.medicalnewstoday.com/articles/psychedelics-psilocybin-lsd-help-improve-sexual-function
+Psychedelics such as psilocybin or LSD may help improve sexual function
+A new study showed people who took psychedelics reported a greater enjoyment of sex, arousal, satisfaction, and attraction to their partner as well as their own attractiveness and connection.
+While psychedelics can decrease inhibitions and make one feel more at ease during sex, there can be harmful health consequences, and mood-altering substances can affect everyone differently.
+Experts explain there could be issues with violating boundaries and impaired judgment while high could result in getting sexually involved with someone whom they otherwise might view as a poor choice.
+To improve sexual function without drugs or psychedelics, self-reflection and therapy, in some cases, could be helpful.
+Whether it’s boosting libido, improving performance or increasing satisfaction, sexual function is an aspect of health that affects many people.
+According to a new study, people who used psychedelics reported an increased enjoyment of sex, arousal, satisfaction, attraction to their partner, their own attractiveness, and their ability to connect.
+The findings were published in the journal Scientific Reports.
+Researchers provided nearly 300 participants with a questionnaire to report their experiences before and after using psychedelics. They looked at replies from two groups — participants who took psychedelics for recreational reasons and another smaller group from a clinical trial examining psilocybin (the psychoactive compound in magic mushrooms) for depression – in relation to how these psychedelics impacted sexual functioning.
+On average, results showed improvements among various components of sexual function up to six months after using psychedelics.
+“This is a very interesting paper which raises a topic that deserves more study,” said Dr. David Hellerstein, professor of clinical psychiatry at Columbia’s Vagelos College of Physicians and Surgeons, who was not involved in the study.
+“It’s worth pointing out that the paper contains data from 2 studies: 1) a survey of people who were planning to take psychedelics such as psilocybin or LSD; and 2) a small clinical trial of people with depression who were randomly assigned to take psilocybin or an SSRI antidepressant (escitalopram),” he told Medical News Today.
+Risk of bias with psychedelics
+The first survey was based on self-report and included people without a diagnosed psychiatric disorder. There were no formal diagnoses or assessments by trained professional staff, Dr. Hellerstein explained.
+The second trial included some people who had been taken off SSRI medicines before taking psilocybin, but compared the self-reported sexual functioning among people receiving either psilocybin or escitalopram for major depression.
+“The results reported in this paper are intriguing but need to be taken with a grain of salt for these and other reasons,” Dr. Hellerstein stated.
+“For instance, the people taking psychedelics presumably knew what drug they were taking and there was no comparison group treated with placebo. So their expectations that psychedelics would improve sex could account for the findings described,” he told Medical News Today.
+Furthermore, “In the second study comparing two treatments for major depression, it is known that SSRI medications can decrease sexual desire and functioning, so the difference found might not be a result of psilocybin treatment itself but might be only in comparison to a drug that is well known to have some sexual side effects. They could be a result of depression itself improving, not specifically a result of psilocybin. Findings, however intriguing, need to be replicated in other studies in order to be deemed as valid,” Dr. Hellerstein added.
+How psychedelics can impact sexual functioning
+Sexual activity affects us physically and emotionally.
+“While we understand the physical part, we tend to overlook or downplay the emotional aspect of sexual activity,” said Dr. Michele Leno, a licensed psychologist and founder of DML Psychological Services, PLLC, who was also not involved in the study.
+“This is not to say that everyone feels viscerally connected to sexual partners, but the thoughts and feelings that enter our brains prior to sex can influence its outcome.”
+Also, sexual self-consciousness is not uncommon.
+“While many substances have calming effects, some come with side effects that are not so great when it comes to sex,” Dr. Leno said. “For instance, excessive alcohol may affect ejaculation or cause fatigue. Psychedelics, on the other hand, can decrease inhibitions and make one feel more at ease, without compromising performance.”
+Psychedelics have been shown to have effects such as increasing social/interpersonal connections, Dr. Hellerstein explained. Also, they may decrease self-focused worry and rumination.
+They may also lead to some degree of brain ‘plasticity’ in terms of synapse growth and brain network reorganization. People also seem to become more empathic and more meditative and even spiritual after dosing with psychedelics. These effects might possibly account for the findings.
+However, it is also important to note that there are extremely high levels of expectation related to psychedelic treatment. And it is extremely difficult to ‘blind’ participants to whether they are receiving psychedelic treatment or a comparator, whether an active medicine like escitalopram or placebo, Dr. Hellerstein added.
+“Simply put, psychedelics take individuals into an altered state,” said Dr. Carla Manly, a clinical psychologist and author of Date Smart, Joy from Fear, Aging Joyfully and her upcoming 2024 release, The Joy of Imperfect Love, who was not involved in the study.
+“Especially for those who feel that their sexual needs are not met when they are in their natural state of consciousness, psychedelics may have an inherent appeal,” she told MNT.
+Although many individuals prefer to enjoy sexual—and other life experiences—in an unaltered state of being, certain people find that feel less inhibited—and more expansive—when using psychedelics, Dr. Manly noted.
+On a neurobiological level, a neuroimaging study on psilocybin (a common psychedelic) revealed a pattern of decreased cerebral blood flow and functional disconnections that is similar to what is caused by the use of certain anesthetics.
+The dangers of engaging in sexual activity under the influence
+Engaging in sexual activity under the influence comes with warnings.
+“Even if you are familiar with your partner, you may not be aware of how they behave under the influence,” said Dr. Leno.
+A substance that is intended to have a positive effect can still cause irritability and moodiness. Also, feeling too uninhibited may lead one to act impulsively only to feel regretful later, Dr. Leno explained. It is important to remember that not everyone will respond to mood-altering substances in the same way.
+“Numerous substances, particularly alcohol but also psychedelics and other drugs, can affect judgment and decision-making in sexual situations. Psychedelic effects, including increased suggestibility and impaired reality testing, could put people in particularly vulnerable situations.” — Dr. David Hellerstein
+“There have been issues of boundary violations among therapists and guides for psychedelic treatment which have involved inappropriate sexual behavior. Impaired judgment while high or stoned might lead a person to get sexually involved with someone who they otherwise might view as a poor choice,” Dr. Hellerstein added.
+When in an altered state, it can be easy to engage in behaviors—sexual and otherwise—that one may later regret. As well, true consent is a vital part of healthy sexual behavior, and those who are under the influence of psychedelics may not be in the state of mind where informed—actual—consent is possible, Dr. Manly explained.
+How to improve sexual function without drugs or psychedelics
+“Sexual dysfunction often has an underlying cause and substances may provide a quick fix and do little for the cause,” said Leno. To boost your sexual function naturally, she recommends the following:
+“Sexual function and sexual connection can be enhanced through a variety of ways, including natural supplements, self-work, and relationship therapy,” said Dr. Manly.
+“Partners who are connected intimately—those who feel a deep emotional bond—tend to have high levels of sexual satisfaction. In essence, partners who are deeply attuned to each other tend to feel the most satisfied with their sexual lives.”— Dr. Carla Manly
+
+https://www.medicalnewstoday.com/articles/salt-substitutes-significantly-lower-high-blood-pressure-risk
+Salt substitutes significantly lower high blood pressure risk, study finds
+Excess salt consumption is a known risk factor for developing high blood pressure.
+New research shows swapping regular table salt for a salt substitute could help
+regulate blood pressure in older adults.
+Salt substitutes help minimize sodium intake while increasing potassium intake, both of which are associated with healthy blood pressure levels.
+Overconsumption of salt is a global driver of cardiovascular disease and high blood pressure.
+New research indicates that using salt substitutes — flavorful food additives with less sodium — instead of table salt could help reduce the risk of high blood pressure.
+An article published February 12 in the Journal of the American College of Cardiology, found that older adults with blood pressure above normal who used a salt substitute had lower incidences of developing high blood pressure. They also had lower blood pressure overall compared to those who used table salt.
+Additionally, incidences of low blood pressure (hypotension), a potential health concern for those with healthy blood pressure, were nearly identical between the two groups.
+“This means the salt substitute is beneficial not only to people with hypertension, which has been demonstrated in previous studies, but also to people with normal blood pressure, and that it is safe,” Dr. Yangfeng Wu, Ph.D., executive director of Peking University Clinical Research Institute and senior author of the study, told Medical News Today.
+Salt substitute cuts high blood pressure risk by 40%
+The research comes out of the DECIDE-Salt trial, a multi-center trial conducted at 48 elderly care facilities in China. About 75% of participants were males, and the average age of participants was 71.
+Throughout the two-year trial, scientists wanted to see how different salt initiatives would affect participants’ blood pressure.
+The 2×2 factorial design compared usual salt intake and progressively restricted salt intake to regular salt or a salt substitute.
+Participants who received the salt substitute demonstrated improvements in blood pressure.
+To further investigate these findings, researchers wanted to see how the salt substitute would affect only individuals with less than 140/90 mm Hg, blood pressure.
+The study included roughly 600 participants, divided evenly into two groups: one that received regular salt and one that got the salt substitute.
+To be included in the trial, participants had to have a blood pressure reading of less than 140/90 mm Hg to meet the study authors’ “normal” blood pressure requirements and could not be taking any blood pressure medication.
+However, it’s important to note that the ideal blood pressure reading is 120/80. According to the Centers for Disease Control and Prevention (CDC), anything above that is considered at-risk or prehypertensive.
+Over the 2-year period of the study, researchers found that individuals in the salt substitute group were 40% less likely to develop high blood pressure than the salt group.
+There were 60 new cases of high blood pressure for those using the salt substitute compared to 95 cases among those using salt.
+Meanwhile, occurrences of low blood pressure were roughly even: 16.6% of subjects in the salt substitute group and 11.7% in the salt group. Researchers did not deem the finding to be statistically significant.
+The average blood pressure reading between the two groups was important. Compared to the baseline reading, the salt substitute group saw an average 8-point decrease in systolic blood pressure (the top number) and a less robust, but still significant, 2-point decrease in diastolic blood pressure (the bottom number).
+“The study demonstrated that mean blood pressure increased in the regular salt control group but remained unchanged in the salt substitute group,” Dr. Wu explained.
+The authors note the salt substitute appeared to prevent blood pressure from increasing rather than causing a decrease in blood pressure. This distinction helps to explain why occurrences of low blood pressure remained about the same.
+Should you reduce your salt intake?
+Salt consumption has been associated with high blood pressure and other negative health outcomes such as:
+Mounting evidence shows that salt substitutes can be a cheap, effective way to reduce salt intake.
+In an accompanying editorial to the study, Dr. Rik Olde Engberink, Ph.D., a researcher at the University of Amsterdam UMC, looked at the potential public health effects of using salt substitutes on a large scale. He wrote that attempts to curb salt intake globally have been a “failing strategy” and noted that salt substitution is an “attractive alternative.”
+“Ideally, individuals should choose the right products in the supermarket that contain a low amount of salt and should not add salt themselves. Dr. Engberink told MNT.
+“This, however, is quite difficult for individuals. I would prefer that my patients eat less than 5 grams of salt instead of eating 10 grams of the salt substitute,” he said.
+Sodium consumption has less to do with the salt shaker at the table, and much more to do with how foods are processed today.
+Only about 10% of sodium intake comes from the salt shaker, the vast majority comes from refined, processed foods and eating out.
+Kristin Kirkpatrick, a registered dietitian at the Cleveland Clinic and author of Regenerative Health, told MNT that she recommends avoiding processed foods and replacing salt with herbs and roots.
+“Ultra-processed foods are often very high in salt. Salt substitutes can play a role. However, it is often not my primary behavior change that I am trying to assist with my patients,” she said.
+What is the ideal sodium intake per day?
+Salt and sodium are often used interchangeably, but it is important to know the difference.
+Table salt is made up of sodium chloride, which is about 40% sodium and 60% chloride. So, in a given amount of salt, say a tablespoon, only 40% of it is sodium, which is why daily recommendations for salt intake differ from sodium intake.
+The World Health Organization recommends consuming less than 2,000 milligrams of sodium or 5 grams of salt daily. In the United States, fewer than 2,300 mg of sodium per day is recommended.
+Sodium doesn’t come exclusively from salt either, it can be found in preservatives like sodium nitrate and baking soda as well.
+On the other hand, salt substitutes, like the one used in the study, replace some of the sodium content with another mineral, potassium, as well as flavorings, such as mushroom, lemon, herbs, or seaweed.
+In the DECIDE-Salt trial, the salt substitute was made up of 62.5% sodium chloride, 25% potassium chloride, and 12.5% dried food flavorings.
+Salt substitutes also show a double benefit by reducing sodium and increasing potassium intake — both of which have been shown to improve blood pressure.
+“The use of potassium-enriched salt substitute will reduce sodium intake and increase potassium intake at the same time, and has a ‘double effect’ in lowering blood pressure without much changes in lifestyle habits required,” Dr. Wu said.
+
+https://www.medicalnewstoday.com/articles/how-a-new-stool-test-may-help-reduce-colorectal-cancer-deaths
+How a new stool test may help reduce colorectal cancer deaths
+Colorectal cancer is the third most commonly diagnosed cancer in men and women in the United States, excluding skin cancers
+Screening for colorectal cancer has reduced rates of cancer since the mid-1980s.
+A new screening test developed in the Netherlands may improve accuracy of colorectal cancer screening.
+A new stool test could offer improved detection of precursors to colorectal cancer.
+That’s according to a new study published in The Lancet Oncology.
+The researchers from the Netherlands say the test they developed is more effective than currently available stool tests at detecting larger polyps.
+“The current test performs well but leaves room for improvement,” Gerrit Meijer, principal investigator at the Netherlands Cancer Institute and co-author of the research, said in a press statement.
+“We want to be able to detect the tumors before they have become invasive, that is at the stage of larger premalignant polyps. Treating physicians then can remove these polyps during a colonoscopy, rather than by surgery,” Meijer added.
+The benefits of stool tests for colorectal cancer
+FIT tests are fecal immunochemical tests. They are a type of stool test that many countries use in screening programs for colorectal cancer.
+They work by detecting the presence of hemoglobin in stool samples. Hemoglobin is a type of protein found in blood.
+“The big benefit of these tests that are stool based are the convenience of being able to do them in your own home. So, overall, they are very convenient to do and that’s why we’re happy that it is a screening option,” Folasade May, PhD, an associate professor of medicine in the Vatche and Tamar Manoukian Division of Digestive Diseases at the University of California Los Angeles, told Medical News Today.
+“These tests are actually quite good at finding cancers,” added May, who was not involved in the research. “They are also pretty good at finding these pre-cancerous polyps that we also care about a lot. But they’re not going to be as good as finding a pre-cancerous polyp as, say, a colonoscopy. The biggest [downside] is that they’re not as good at detecting these precancerous lesions.”
+How the new mtFIT colorectal cancer test is different
+The researchers say their stool test is more effective than the FIT test at detecting precursors to colorectal cancer, such as polyps. They have called it the multitarget fit test (mtFIT).
+Their test detects hemoglobin, the protein found in blood as well as two other proteins, calprotectin, and serpin family F member 2.
+The researchers compared the efficacy of their test with standard tests by enlisting 13,187 people to give stool samples. They gave the samples to both the mtFIT and regular FIT test.
+The researchers reported that their test led to more positive test results than the regular FIT. The mtFIT detected abnormalities in 299 people while the regular FIT detected abnormalities in 159 people.
+“The new test detects more larger polyps without a significant increase in ‘false-positive’ results and thus unnecessary colonoscopies. This is exceptionally good news,” Meijer said.
+Excluding skin cancers, colorectal cancer is the third most commonly diagnosed cancer in men and women in the United States.
+The American Cancer Society estimates there will be roughly 106,590 new cases of colon cancer and roughly 46,220 new cases of rectal cancer in the United States this year.
+Colorectal cancer rates have dropped since the 1980s, in large part due to screening programs. In the United States, it is recommended those aged between 45 to 75 be screened regularly for colorectal cancer.
+The power of colorectal cancer screening
+“With colorectal cancer screening is powerful in two ways,” May said. “Number one, it can help us with early detection, which is finding a cancer early enough that it’s curable. But I think even more powerful than that, colorectal cancer is a very unique cancer in that we also can find precancerous lesions with screening. And when we find and remove a precancerous polyp, the patient never gets a diagnosis of cancer. So imagine that you have the power of a technology that is eliminating cancer diagnoses. And that’s the way to think of the power of colorectal cancer screening.”
+In the United States there are currently three available stools tests for colorectal cancer screening. CT colonography, flexible sigmoidoscopy, and colonoscopy are also used.
+While a colonoscopy is considered among the most accurate of screening options, it comes with challenges.
+“The problem with colonoscopy is that it’s just not as accessible as it probably should be… It’s just that there’s just a lack of resources and a lack of basically qualified people to do colonoscopy,” Dr. Babak Firoozi, a gastroenterologist at MemorialCare Orange Coast Medical Center in California, told Medical News Today.
+“If we could find a stool test, to essentially filter out or weed out all those people who may not need the colonoscopy, it would provide access for everyone who needs one,” added Firoozi, who was not involved in the research. “And it’ll maybe allow some people who do not need a colonoscopy to not ever get one. This new test really comes very close. It comes a long way to helping, but it’s not quite there yet.”
+Screening reduces cancer risk
+Estimates suggests there will be 53,010 deaths due to colorectal cancer in the United States in 2024.
+It is the third leading cause of deaths related to cancer in men and the fourth in women. If the cause of cancer deaths for both men and women are combined, colorectal cancer is the second most common cause.
+Screening for colorectal cancer is a proven way to reduce risk of colorectal cancer. During screening, abnormal growths can be detected and then removed before they turn into cancer. Screening can also help detect colorectal cancer in its early stages, when treatment is most effective.
+Experts say whether a person chooses a stool test, colonoscopy or other screening method for testing, the most important thing is to get tested.
+“Get something done. Whether it’s stool based testing or colonoscopy. Go with what you’re comfortable with,” Firoozi said.
+“So if you if you’re OK with doing the colonoscopy and you have access to it, by all means, get it. If access is a problem, or if you’re not comfortable undergoing a procedure, at least do the stool test,” he said.
+
+https://www.medicalnewstoday.com/articles/plant-based-diet-tied-to-improved-sexual-health-in-men-treated-for-prostate-cancer
+Plant-based diet tied to improved sexual health in men treated for prostate cancer
+Researchers are reporting that a plant-based diet can ease side effects from prostate cancer treatment, including erectile dysfunction and urinary problems.
+They added that people on plant-based diets also showed better hormonal health, which can help when dealing with depression.
+They noted that the study limitations included the fact that the data came mostly from white healthcare professionals.
+A new study links a plant-based diet to fewer side effects experienced by people being treated for prostate cancer.
+Researchers said limiting meat and dairy while eating plenty of fruits, vegetables, nuts, and grains can lessen erectile dysfunction, urinary incontinence, and other common side effects experienced by men after treatment.
+The research, published in the journal Cancer, looked at more than 3,500 men with prostate cancer. Scientists put them into five groups based on the proportion of animal versus plant-based food the men reported eating.
+The researchers found the group consuming the highest proportion of plants scored 8% to 11% higher in measures of sexual function, compared with the group consuming the least.
+Results also showed up to 14% higher scores for urinary health, with fewer examples of irritation, obstruction, and incontinence.
+The highest group of plant eaters also demonstrated up to 13% higher scores in hormonal health, assessing symptoms such as depression, hot flashes and low energy, compared to the lowest group on plant-based diets.
+“Our findings offer hope for those looking for ways to improve their quality of life after undergoing surgery, radiation, and other common therapies for prostate cancer, which can cause significant side effects,” said Dr. Stacy Loeb, a urologist and the study’s lead author, in a statement.
+Loeb, a professor in the Departments of Urology and Population Health at NYU Langone Health in New York, also said that “adding more fruits and vegetables to their diet, while reducing meat and dairy, is a simple step that patients can take.”
+The study pointed out that the Centers for Disease Control and Prevention says prostate cancer is among the most common and deadliest forms of cancer among men in the United States.
+The same team did previous research finding that eating a plant-based diet can reduce the risk of developing prostate cancer in the first place. They pointed out in a statement that other research linked a plant-based diet to a lower risk of general sexual dysfunction, but not specifically in those suffering from prostate cancer.
+Loeb said she believes the study is the first showing better urinary health in men with prostate cancer based on nutrition.
+How the prostate cancer study was conducted
+The team analyzed data from the Health Professionals Follow-Up Study, an ongoing investigation sponsored by the Harvard T. H. Chan School of Public Health in Boston that started in 1986.
+The follow-up study used data from more than 50,000 male dentists, pharmacists, optometrists, osteopaths, podiatrists, and veterinarians.
+The project was meant to analyze nutrition’s impact related to cancer, heart disease, and other serious illnesses. Men with prostate cancer answered a questionnaire every four years about what and how much they ate.
+The team also looked at a survey administered every two years that assessed difficulties in maintaining an erection, frequency of incontinence, and issues with mood, energy, and bowels, among other health factors. More than 83% of the participants had received prostate cancer treatment.
+Loeb said that both in the earlier and current studies, the cancer hadn’t spread from the prostate. The team also factored in physical activity, weight, and other quality of life information.
+They said that regardless of lifestyle factors or other medical issues such as diabetes, consuming large amounts of plant-based food was linked to better sexual health, urinary health, and vitality scores.
+“These results add to the long list of health and environmental benefits of eating more plants and fewer animal products,” Loeb said. “They also clearly challenge the historical misconception that eating meat boosts sexual function in men, when in fact the opposite seems to be the case.”
+Limitations to the plant-based diet study
+Loeb noted that the men examined in the study were mostly white healthcare professionals.
+She said the team will now expand their research to a more diverse group of men, including those with a more advanced stage of cancer.
+Dr. Ramkishen Narayanan, a urologist, urologic oncologist, and director of the Center for Urologic Health at The Roy and Patricia Disney Family Cancer Center at Providence Saint Joseph Medical Center in California, told Medical News Today that research of this type is “valuable and needed.”
+However, he agrees a more diverse group needs examining.
+“The population studied was a large cohort of white male health care professionals, who typically are in the upper echelon of health compared to the general population. We also don’t have granular data on any erectile dysfunction medications or therapies these men may have been taking,” said Narayanan, who was not involved in the study.
+He said plant eaters would also go into the study with better metrics concerning diabetes and cardiovascular health, even before being diagnosed with prostate cancer. So pre-treatment and post-treatment comparisons are necessary.
+Dr. Angelo Kanellos, a urologist at Urology Nevada and a member of the Society of Robotic Surgeons who also was not involved in the study, told Medical News Today the study is “very encouraging.”
+“Quite frankly we as professionals have been slower in encouraging patients to improve their lifestyles and dietary habits,” Kanellos said. “We are often focused on medical treatment and have opportunities to adopt more holistic approaches. I do think a study like this will encourage urologists to educate patients about the importance of diet to help in their recovery.”
+Kanellos said a cancer diagnosis is often a trigger for people to become more conscientious with their health. In addition, the study helps arm doctors with scientific data to help encourage lifestyle changes.
+“I believe it also shows us that the die is not cast. A dietary life of fries and burgers does not mean that some of the damage can’t be reversed,” he added. “More validation that healthy eating is a good idea is helpful.”
+Changing your diet isn’t necessarily easy
+Stephanie Meyers, a senior oncology clinical dietitian at online health platform OncoHealth, told Medical News Today that changing one’s diet isn’t easy.
+“In my experience, one challenging thing that can come up from a study like this is health professionals referring to changing eating habits as ‘simple steps people can take,’” said Meyers, who wasn’t involved in the study.
+“I’m up close and personal with the struggles people face trying to eat more vegetables and fruits while dealing with difficult side effects and financial hardship related to their treatment. I think people underestimate the pressure those with cancer feel to ‘eat better,'” she noted.
+“What’s needed is specific support that takes into account the barriers people face day-to-day as eaters when going through cancer,” Meyers added.
+Narayanan said people should look for protein and “bursts of color” in each meal. He also said, “healthy animal protein is certainly acceptable.”
+“Eat whole foods. Stay away from processed foods,” he advised. “To keep it simple, one can think of a vegetarian diet, but being flexible with protein is fine. A serving of healthy, unprocessed animal protein such as fish per meal is perfectly acceptable.”
+“Be wary of the amount of processing that can take place with fake meat,” Narayanan said. “It is preferable to have unprocessed, healthy animal protein. The Mediterranean diet is a great option that still tips the scales toward more of a plant-based diet.”
+
+https://www.medicalnewstoday.com/articles/how-exercise-can-help-ease-pain-for-some-people-with-cancer
+How exercise can help ease pain for some people with cancer
+Researchers say people with cancer who exercised regularly reported lower levels of pain.
+The findings are similar to research showing an association between exercise and pain mitigation among non cancer patients
+Experts say that exercise should be used alongside medication to treat pain
+Engaging in intense exercise might not be the first thing that people fighting cancer think to do, but a new study reports that a workout can help ease cancer-related pain.
+“It may feel counterintuitive to some, but physical activity is an effective, non-pharmacologic option for reducing many types of pain,” said Dr. Erika Rees-Punia, a study senior author and the American Cancer Society’s senior principal scientist for epidemiology and behavioral research, in a press statement. “As our study suggests, this may include pain associated with cancer and its treatments.”
+In the study published in the journal Cancer, Rees-Punia and Dr. Christopher T.V. Swain, first study author and a fellow at the University of Melbourne in Australia, looked at 10,651 adults with a past cancer diagnosis and 51,439 adults without a history of cancer.
+Participants were asked to rate their average pain level from 0 to 10, with 0 being no pain and 10 being the worst pain imaginable. They also were queried about their engagement in exercise.
+The researchers reported that more physical activity was associated with lower pain intensity, whether or not individuals had a history of cancer.
+Among those with a past cancer diagnosis, those exceeding the physical activity guidelines established by the U.S. government — getting 150 to 300 minutes a week of moderate-intensity exercise, or 75 to 150 minutes per week of vigorous-intensity aerobic physical activity — were 16% less likely to report moderate-to-severe pain compared to those who exercised less.
+Less pain also was reported by those who were consistently active or became active as older adults compared to those who remained inactive, the researchers said.
+“Cancer pain can be debilitating and most patients in palliative care, often require opioid-based pain medications like morphine just to get by,” Dr. Ryan Peterson, a pain medicine specialist and anesthesiologist at NuView Treatment Center, a Los Angeles-based addiction treatment program, told Medical News Today.
+“While pharmacological interventions are good, I recommend non-pharmacologic therapies such as gradual exercise as tolerable when possible so as to prevent muscle atrophy and further pain. Exercise is also known to aid in the release of endorphins, which may be helpful in pain alleviation and tolerance,” said Peterson, who was not involved in the study.
+Making exercise part of a cancer treatment plan
+Dr. Jessica Cheng, a physiatrist at City of Hope Orange County in California who specializes in prehabilitation and rehabilitation told Medical News Today it is “important to maintain as much physical activity as possible before, throughout, and after the cancer journey.”
+“There are many benefits of exercising for cancer patients including lowering depression, anxiety, [and] fatigue and the potential to improve survival rates in certain cancers,” she added.
+“When starting exercise, discussion with the treating oncologist and an evaluation by a cancer rehabilitation specialist are encouraged,” said Cheng, who was not involved in the study. “Every individual has their own individual medical situation, abilities and preferences, and I always emphasize the importance of patients doing activities they find enjoyable. Shadow boxing, walking, swimming, dancing, cycling, and modified wheelchair Zumba are all great options.”
+Despite the study’s correlation between pain reduction and vigorous exercise, healthcare professionals must walk a fine line when advising cancer patients about exercise, experts said.
+“I always emphasize balance to my patients. There are times to rest and times to encourage physical activity,” said Cheng.
+“Exhaustion from physical exertion can impact your body’s ability to fight malignancies because the body, when subjected to physical stress, reacts via inflammation, and this might be too much to handle for cancer patients whose normal physiologic adaptive responses are already blunted or compromised,” added Peterson.
+“Low-impact exercises may be ideal for patients with cancer,” he noted. “These include light walks, yoga, swimming, or meditation through movement. Certain types of cancer affect bone density and increase the risk of falls and fractures, so it would be prudent for cancer patients to partake in monitored, low-impact exercises for their safety and well-being. Even light ambulation at the very least can aid in improving mobility.”
+However, Dr. Jennifer Beebe-Dimmer, an epidemiologist at Wayne State University’s Barbara Ann Karmanos Cancer Institute in Michigan and principal investigator of the CAPABLE (Cross Training and Physical Activity: A Better Life Experience) study, told Medical News Today that “there is more and more evidence to suggest that higher intensity interval workouts combined with strength training is a great method to improve all sorts of short- and long-term [cancer] outcomes.”
+“But some exercise is better than nothing at all,” said Beebe-Dimmer, who was not involved in the study. “Whatever form of exercise patients can tolerate, I suggest they stick with it.”
+Exercise should be prescribed alongside pain-reducing medications for people with cancer, not in place of them, experts agreed.
+“Broadly speaking, pain management benefits the patient the most when offered as part of an integrated approach to cancer care,” said Cheng.
+“When it comes to pain management, the standard of care should be offered to cancer patients and that remains to be the pharmacological approach such as prescribing regulated morphine or other opioid-based medications,” Peterson said. “However, we can still offer non-pharmacological therapies such as low-impact exercises.”
+Cancer creates a different kind of pain
+Cancer pain can be different than other types of pain, Peterson said.
+“Pain from cancer is on a different tier as we pain medicine specialists would call it,” he said. “Usually, pain from cancer, regardless of the type of malignancy, can be described as an unpleasant sensory experience due to systemic tissue damage as a consequence of cancer’s effects on the body. Aside from the cancer itself, pain can also come from the treatment and therapeutics that the patient is subjected to. Over 20 to 50 percent of cancer patients experience pain and the majority of it can be attributed to surgical and non-surgical therapies that they undergo.”
+Some of the pain-reducing effect of exercise reported in the study could be the result of increased pain tolerance, according to Peterson.
+“You usually adapt to certain pain levels over time, especially if you exercise, as muscle growth can allow you to perform better activities thus leading to less strain and pain,” he said. “Cancer patients have limited mobility at times, and so, it is probable that their [baseline] pain tolerance is low.”
+Future research should focus on “the ideal levels of intensity and frequency of the exercises for alleviating pain and cancer and the type of low-impact exercises such as yoga and swimming, and if it can be a good adjunct in pain alleviation among oncologic patients receiving strong pain medication,” said Peterson.
