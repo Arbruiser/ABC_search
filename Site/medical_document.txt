@@ -1755,3 +1755,202 @@ Cancer pain can be different than other types of pain, Peterson said.
 Some of the pain-reducing effect of exercise reported in the study could be the result of increased pain tolerance, according to Peterson.
 “You usually adapt to certain pain levels over time, especially if you exercise, as muscle growth can allow you to perform better activities thus leading to less strain and pain,” he said. “Cancer patients have limited mobility at times, and so, it is probable that their [baseline] pain tolerance is low.”
 Future research should focus on “the ideal levels of intensity and frequency of the exercises for alleviating pain and cancer and the type of low-impact exercises such as yoga and swimming, and if it can be a good adjunct in pain alleviation among oncologic patients receiving strong pain medication,” said Peterson.
+
+https://www.medicalnewstoday.com/articles/omega-3-supplements-vitamin-d-more-effective-preventing-autoimmune-diseases
+Omega-3 supplements may be more effective in preventing autoimmune diseases
+Autoimmune diseases like rheumatoid arthritis, psoriasis, lupus, and inflammatory bowel disease affect more than 24 million Americans.
+Supplements that help regulate inflammation and chronic pain — and that can forestall the effects of autoimmune diseases — have shown to be effective.
+Researchers have been looking into two supplements in particular — vitamin D and omega-3 fatty acids.
+A recent study of more than 20,000 participants showed that two years after a randomized five-year trial period, the benefits of vitamin D in preventing autoimmune diseases had waned while those of omega-3 were still strong.
+A recent study of more than 20,000 participants showed that two years after a randomized five-year trial period, the benefits of vitamin D in preventing autoimmune diseases had waned while those of omega-3 fatty acids were still strong.
+In the study, published in January in the journal Arthritis & Rheumatology, the authors said that 21,592 participants in the VITAL trials — conducted among more than 25,000 total participants to determine the effects of vitamin D and omega-3 supplements on cancer and cardiovascular disease — were followed for an additional two years after the supplements were discontinued.
+Among that population of the participants, who were men over 50 and women over 55, the study authors found 236 new cases of confirmed autoimmune disease since the initial trial’s results were published, 65 probable cases in the 5.3 years of the randomized trial, and 42 probable cases diagnosed during the 2-year observational phase.
+After the two-year observation period, 255 people who had randomly received vitamin D had a newly developed confirmed autoimmune disease, compared with 259 who had received a vitamin D placebo, a nonsignificant hazard risk (HR) of 0.98.
+There were 234 confirmed autoimmune disease cases among people who received omega-3 supplements, compared with 280 among those who received a placebo — a statistically significant HR of 0.83.
+“Two years after trial termination, vitamin D 2000 IU/day’s protective effects dissipated, but 1000 mg/day n-3 fatty acids had a sustained effect in reducing AD incidence,” the authors wrote.
+How do supplements work in fighting autoimmune diseases?
+Autoimmune diseases, which affect more than 24 million people in the United States, are diseases characterized by the immune system attacking otherwise healthy tissue. They include conditions like psoriasis, psoriatic arthritis, rheumatoid arthritis, lupus, Hashimoto’s thyroiditis, Grave’s disease, inflammatory bowel disease (IBD), celiac disease, and type 1 diabetes.
+Treatments for these conditions can be costly and long-term, and the effects of vitamin D and omega-3 supplements have long been known as beneficial to stall autoimmune diseases.
+According to the study in question, vitamin D is capable of regulating genes involved in inflammation, and the body cannot make the essential n-3 fatty acids eicosapentaenoic acid (EPA) and docosahexanoic acid (DHA), which are found in fish oil supplements.
+Randomized controlled trials conducted in the 1980s and 1990s have shown the effectiveness of fish oil supplements against inflammation and pain associated with autoimmune diseases.
+Melanie Murphy Richter, a registered dietitian nutritionist and the director of communications for Prolon, who was not involved in the study, told Medical News Today that the overall lack of vitamin D in most people means supplementation is critical.
+“Most people (even those who live in sunny locations like Los Angeles or Florida) are deficient in vitamin D. In fact, 1 billion people worldwide have a vitamin D deficiency, with 50% of the population having a vitamin D insufficiency (low-normal levels). In the U.S. alone, more than 35% of adults are deficient,” Richter said.
+“Vitamin D is revered in the medical community for its antioxidant-like qualities and its ability to regulate a variety of immune functions, like B cell and T cell regulation (the functions responsible for suppressing pro-inflammatory cytokines in the body and increasing anti-inflammatory properties in the body). It has the ability to reduce inflammation and plays a role in maintaining the integrity of the gut lining. Our gut health is critical in managing symptoms for autoimmune patients, too.” — Melanie Murphy Richter, dietitian nutritionist
+How should I choose vitamin D or omega-3 supplements?
+Kristin Kirkpatrick, a registered dietitian at the Cleveland Clinic Dept of Department of Wellness & Preventive Medicine in Cleveland, Ohio, and a senior fellow at the Meadows Behavioral Healthcare in Wickenburg, Arizona, who was also not involved in the study, told MNT that while the study supports the use of these supplements, there are a number of other factors to consider when it comes to a holistic look at health.
+“Supplementation should be considered only with the addition of high-nutrient-dense diet, good quality sleep, stress management and limitation of sedentary behavior,” Kirkpatrick said, adding that consumers should have some caveats when it comes to looking for vitamin D or omega-3 supplements.
+“Two things come to mind that are important for both. 1. Quality – not all supplements are created equal and in an unregulated market, consumers need to do their homework on the best options. 2 – dose. The dose for vitamin D, for example, may be considered alongside current D levels. and for omega 3’s, dose may be dependent on outside consumption from food of omega 3’s.”— Kristin Kirkpatrick, registered dietitian
+Murphy added that the study had a particularly narrow focus and didn’t consider lifestyle modifications that could also affect autoimmune disease.
+“The main population was older adults, which means that the results might not be generalizable to a younger population. The study only looked at one dose and formulation of each supplement, which could impact future outcomes,” Murphy said.
+“A more comprehensive study should look at a more diverse population base with a younger subsect of participants, as well as varying dosages. It should also consider finding ways to control external impacts like diet, lifestyle, and stress factors,” she added.
+
+https://www.medicalnewstoday.com/articles/taking-blood-thinners-after-a-stroke-does-not-improve-outcomes-study-says
+Taking blood thinners after a stroke does not improve outcomes, study says
+About 15 million people around the world have a stroke each year, with about 62% of cases being ischemic strokes.
+The main treatment for ischemic stroke is a clot-busting medication delivered within 3 hours of having a stroke.
+After a stroke, a doctor may prescribe blood-thinning medications to help prevent clots from forming again.
+Researchers from the Washington University School of Medicine in St. Louis, MO, have found that giving blood thinners in conjunction with clot-busting medications when a person has an ischemic stroke did not improve the person’s 90-day outcome.
+Researchers report that about 15 million people around the world have a stroke in the course of a year. About 62% of those people will have an ischemic stroke where blood flow to the brain is stopped due to arterial blockages.
+A stroke is an emergency — if you or someone is experiencing stroke symptoms, call 911.
+The main treatment for an ischemic stroke is a clot-busting medication that breaks up the arterial clots to allow regular blood flow to the brain. This medication must be delivered within 3 hours of the stroke occurring.
+Now, scientists from the Washington University School of Medicine in St. Louis, MO, reported on new research at the American Stroke Association’s International Stroke Conference 2024.
+Their findings indicate that giving blood thinners in addition to clot-busting medications when a person has an ischemic stroke did not improve the person’s 90-day outcome.
+Researchers also found that the combination of blood thinners and clot-busting medication did not increase a person’s risk of bleeding in the brain.
+Why researchers looked at the blood thinners and clot-busting drug combo
+During either a stroke or a heart attack — when an arterial blockage stops blood from flowing to the heart — doctors may administer clot-busting medications called thrombolytics.
+People who have either a stroke or heart attack may also be prescribed a blood thinner to help keep clots from forming and lower their risk of having another one.
+According to Dr. Opeolu M. Adeoye, BJC HealthCare Distinguished Professor of Emergency Medicine and chair of the Department of Emergency Medicine at the Washington University School of Medicine in St. Louis, MO, and lead author of the current study, the research team decided to assess what type of effect adding blood thinners to clot-busting medications would have on people with ischemic stroke.
+That was because, while treatment with clot-busting medications works for ischemic stroke, about half of treated patients experience disability 3 months after stroke even with this treatment.
+“In the setting of heart attacks, adding these blood thinners to clot-busting medications improved rates of opening blood vessels and improved outcomes,” Dr. Adeoye explained to Medical News Today. “We wanted to see if using this approach would also improve outcomes in stroke.”
+No improvement of 90-day outcomes
+For this study, Dr. Adeoye and his team analyzed results from the Multi-Arm Optimization of Stroke Thrombolysis (MOST) trial, encompassing study participants from 57 medical centers in the United States.
+Study participants in the MOST trial had ischemic stroke severe enough that rehabilitation would likely be necessary.
+All participants received a standard clot-busting medication within three hours of the stroke beginning. Participants then received either one of two blood thinners — argatroban or eptifibatide — within 75 minutes of administration of the clot-busting medication plus a 2-hour infusion of the blood thinner, or a placebo.
+Upon analysis, researchers found the addition of blood thinners to the clot-busting medication did not improve a participant’s level of physical function at 90 days after an ischemic stroke.
+For this reason, the MOST trial was stopped in July 2023 after the results of the first 500 study participants out of a planned 1,200 participants and determined it highly unlikely that a benefit would be found if the research was completed.
+Positive takeaways for clinicians and stroke patients
+Dr. Adeoye said they were surprised by the negative results.
+“Reopening clotted blood vessels is the goal with stroke treatment,” he explained. “We had shown in earlier studies that the medications may improve outcomes, so we were surprised when we found no benefit from the treatments.”
+”We believe the key difference between MOST and our prior studies is that the prior studies were done in an era before thrombectomy (physically removing clots through a procedure). As such, any potential benefits of the medications were somewhat blunted by the fact that 44% of MOST patients underwent thrombectomy,” he added.
+Despite the negative outcome, Dr. Adeoye said there are positive takeaways for scientists when it comes to future research in ischemic stroke treatment.
+The study also showed that the two blood thinners used did not significantly increase the risk of bleeding into the brain.
+“We have definitely shown that these two medications do not work for improving outcomes and that adding blood thinners to clot-busting medication [does] not increase rates of bleeding into the brain. As we go forward, these findings will inform future research in the area.”
+– Dr. Opeolu M. Adeoye
+“Bleeding into the brain is the most important safety concern in treating stroke patients with clot-busting medication and/or blood thinners,” Dr. Adeoye added. “We found that adding additional blood thinners did not improve rates of bleeding into the brain. This means that this approach is safe and worthy of further investigation.”
+Setting the stage for future studies
+After reviewing this study, Dr. José Morales, vascular neurologist and neurointerventional surgeon at Pacific Neuroscience Institute in Santa Monica, CA, told MNT he found the findings very interesting.
+“We typically do not give any sort of blood thinners for the first 24 hours after receiving a thrombolytic agent because of the presumed risk of intracranial hemorrhage [bleeding in the brain],” Dr. Morales explained. “But it’s been an open question that hadn’t been tested in randomized clinical controlled trials whether or not there was some safety there.”
+“I think [the findings] put it all in perspective for us that although the thrombolytic medications have a short half-life, trying to enhance antiplatelet regimens against the potential risk of residual thrombosis or atherothrombosis is not particularly effective and it’s not safe at this point,” he added. “Things to look for in the future will be to look to see if other agents might be using adjunctively and perhaps safely, say like aspirin.”
+MNT also spoke with Dr. Cheng-Han Chen, a board-certified interventional cardiologist and medical director of the Structural Heart Program at MemorialCare Saddleback Medical Center in Laguna Hills, CA, about this study.
+Dr. Chen said the parallels between stroke — also called “brain attack” — and heart attack are driving research to see if treatments typically used for heart attacks would also be beneficial treatment for stroke.
+“They didn’t find a benefit to these medications, which was unfortunate, but at least they didn’t find any evidence of harm, either,” he continued. “So it remains to be seen whether there are also very specific types of stroke treatments that would involve these medications. I think it would be helpful to study other avenues of drug delivery [… ] [and] it would be great to see other research with other types of blood thinners.”
+
+https://www.medicalnewstoday.com/articles/who-is-most-likely-to-develop-coronary-artery-disease
+Who is most likely to develop coronary artery disease?
+Coronary artery disease is characterized by a dysfunction of the endothelial cells that form the innermost lining of all blood vessels.
+A new study has identified five biological pathways regulated by a few genes that could potentially play a prominent role in coronary artery disease through their involvement in endothelial cell function.
+Notably, these pathways included genes whose role in coronary artery disease has not been previously demonstrated.
+One of the genes in these pathways, TLNRD1, plays an essential role in endothelial function, cardiovascular health, and potentially coronary artery disease, according to the study.
+These findings could lead to the development of novel therapies targeting endothelial cell dysfunction in coronary artery disease.
+Coronary artery disease is the leading cause of death in the United States. Therapies such as statins, which target high cholesterol levels, can reduce the risk of mortality due to coronary artery disease.
+These effects of statins are mediated, in part, by improving blood vessel health. However, there is a lack of therapies for coronary artery disease that directly target the endothelial cells that form the inner lining of blood vessels and influence blood flow.
+Identifying genetic risk factors associated with endothelial cell function could help develop therapeutics that target blood vessels.
+Research has shown that specific genetic variants are associated with an increased risk of coronary artery disease. These genetic variants regulate the expression of several genes that work together in a small number of major biological pathways.
+However, methodological limitations have impeded the identification of major pathways associated with coronary artery disease variants.
+Understudied gene plays key role in coronary artery disease
+A new study using a combination of high-throughput molecular biology techniques and computational methods has identified major biological pathways and novel genes involved in endothelial cell function that could contribute to the risk of coronary artery disease.
+The paper reporting the study findings appears in Nature.
+Study author Dr. Jesse Engreitz, assistant professor at Stanford University, CA, explained the findings to Medical News Today:
+“We found that genetic risk factors for coronary artery disease converge onto a particular pathway in endothelial cells. One of the known roles of this pathway is to tune endothelial cell responses to blood flow, and includes genes that could prove to be good targets for therapies that directly target blood vessels.”
+“We also found a new understudied gene, TLNRD1, that plays a key role in this pathway in humans and zebrafish but has previously eluded notice. The list of genes we identified might also prove helpful in identifying individuals who are genetically predisposed to having poor vascular health and, therefore, may respond better to existing medications,” added Dr. Engreitz.
+How researchers pinpointed genetic risk factors for heart disease
+Advances in genome sequencing technologies have facilitated the discovery of genetic variants associated with several diseases. These genome-wide association studies involve examining genomes from a large number of individuals to identify genetic variants associated with a particular disease.
+Several of these genetic variants associated with a disease likely regulate a small number of biological pathways, with each pathway consisting of several genes that work together.
+Although genetic variants have been identified for several diseases, linking genetic variants to a few converging biological pathways has been challenging.
+A majority of these genetic variants identified by genome-wide association studies do not code for proteins. Instead, these noncoding variants regulate the expression of multiple genes nearby that are involved in biological pathways associated with the disease.
+However, identifying the specific genes regulated by each variant and playing a role in disease-associated pathways remains challenging.
+Moreover, multiple cells contribute to the development and progression of a disease. Different biological pathways operate in each cell type and contribute to the disease. The specific biological pathways in a particular cell type impacted by disease-associated variants have not been fully characterized.
+In other words, how genetic variants identified using genome-wide association studies affect biological function is not well understood. In the present study, the researchers investigated the biological pathways associated with genetic variants that are involved in coronary artery disease.
+Dr . Engreitz said: “Human genetics has been immensely successful over the last decades in identifying variants that influence risk for disease — there are now 100,000s of associations between genetic loci and particular human diseases and traits. This vast trove of insights could reveal genes that mediate disease and guide therapeutic development.”
+“But, it has proven extremely difficult to find the genes, cell types, and pathways underlying each of these associations. Sometimes, it can take a decade to solve this “variant-to-function” problem for even one association,” he added.
+254 genes linked to coronary artery disease
+More than 300 genetic variants have been identified for coronary artery disease using genome-wide association studies. These coronary artery disease-associated variants are known to impact cells associated with blood vessels and hepatocytes in the liver.
+In the present study, the authors specifically examined the variants impacting the function of endothelial cells that are present in the walls of blood vessels.
+The researchers used laboratory cultures of genetically modified endothelial cells obtained from the human aorta, the blood vessel that carries oxygenated blood to the rest of the body.
+The genome of these endothelial cells was sequenced, and then a computational model was used to map genes whose expression was influenced by the coronary artery disease-associated variant.
+With the help of data on coronary artery disease-associated variants identified by previous studies, the researchers identified nearly 2,000 genes close to these variants.
+Among these genes, the expression of 254 genes was regulated by the coronary artery disease-associated variants.
+The researchers then identified the programs or pathways associated with coronary artery disease. They used CRISPR interference (CRISPRi) to individually inhibit the expression of each gene identified in the vicinity of the coronary artery disease-associated variants.
+Subsequently, the researchers examined the changes in the gene expression profile of the endothelial aorta cells upon the inhibition of individual candidate genes.
+Using computational methods, genes that showed similar patterns of changes in expression profile were categorized as coregulated genes.
+These coregulated genes were classified as a biological program or pathway. The analysis generated 50 such programs, several of which were involved in processes that were not specific to endothelial cells or coronary artery disease.
+Gene involved in blood flow regulation may be key
+The researchers then examined programs in which the 254 genes regulated by coronary artery disease-associated variants were overrepresented. They identified five such programs, which encompassed 41 coronary artery disease-associated genes and 43 variants.
+While these programs included genes that have been implicated in coronary artery disease, a majority of genes in these pathways have not yet been identified as risk factors for this condition.
+In addition, all five programs were regulated by genes associated with the pathway associated with cerebral cavernous malformations (CCM), a condition involving the formation of tiny, abnormal clusters of blood vessels in the brain.
+Specifically, the analysis revealed that the CCM2 gene and other genes in the CCM pathway were involved in the regulation of all five coronary artery disease pathways.
+Previous studies have shown that the CCM pathway modulates the function of endothelial cells in blood vessels and regulates blood flow.
+However, CCM2 and other CCM pathway genes have not been shown to be involved in coronary artery disease. The present study found that inhibiting the expression of CCM pathways modulated the expression of genes that have been shown to be involved in coronary artery disease. These findings indicate the involvement of genes in the CCM pathway in coronary artery disease.
+The researchers further examined the role of one of the novel CCM pathway genes, TLNRD1. They focused on TLNRD1 because the gene is one of the strongest regulators of the five coronary artery disease pathways. The role of TLNRD1 in endothelial cell function has not been characterized so far.
+The researchers found that TLNRD1 interacts with CCM2 and, consequently, examined whether TLNRD1 performed a function similar to CCM2. The disruption of TLNRD1 in cells cultured in the laboratory altered the barrier function of endothelial cells. Such an impaired barrier function of endothelial cells has been implicated in cardiovascular diseases.
+In addition, the disruption of the TLNRD1 expression in zebrafish also adversely impacted heart and blood vessel development in a zebrafish model.
+These results support the role of the TLNRD1 gene in sustaining blood flow and could be a risk factor for coronary artery disease development.
+New approach to genetic research of heart disease
+Besides aiding the identification of new therapeutic targets for coronary artery disease, the methodological approach used by the study could facilitate the discovery of novel biological pathways associated with other diseases.
+Dr. Engrietz said: “In this study, we developed a new methodology to extract lessons from human genetic data. Here, we took a new approach leveraging CRISPR tools, which we use to simultaneously break every candidate gene in different endothelial cells in a dish and measure what happens to these cells. From there, we use computational models to learn which sets of genes are working together in pathways.”
+“With this comprehensive and systematic data, we are able to much better interpret genetic associations and here identify likely causal genes for 40 out of [approximately] 300 loci for coronary artery disease in a single pass. We think this tool will be a powerful approach for studying many other heritable diseases in the future,” added Dr. Engrietz.
+Dr. Cheng-Han Chen, board-certified interventional cardiologist and medical director of the Structural Heart Program at MemorialCare Saddleback Medical Center in Laguna Hills, CA, not involved in this study, commented that:
+“This research has the potential to open an entirely new field of research, as it might be able to identify the molecular connections more efficiently between gene variants and clinical disease. With such a strategy, researchers would then be able to target the biological pathways through therapeutics to improve clinical outcomes.”
+CDC reports some pregnant women, infants received the wrong RSV shot
+
+https://www.medicalnewstoday.com/articles/scientists-discover-biological-mechanism-of-hearing-loss-caused-by-loud-noise-and-find-a-way-to-prevent-it
+Scientists discover biological mechanism of hearing loss caused by loud noise – and find a way to prevent it
+Noise-induced hearing loss is a common condition in the United States that can lead to permanent hearing loss.
+Despite being widespread, the mechanism that causes it is still not well understood.
+Scientists have now discovered a potential root cause at the cellular level — and how to prevent it.
+If you enjoy live music, you’ve almost certainly experienced noise-induced hearing loss (NIHL) — that nagging, muffled perception of sound or ringing in your ears at the end of the night.
+Sometimes it’s gone by the next morning, sometimes it lingers longer. The condition can be transitory at first, but over time it can lead to more severe and even permanent hearing loss.
+Despite being a common condition, millions of adults, up to one in four in the United States, are estimated to have some form of it.
+Little is known about the exact mechanisms that cause NIHL to happen. This, consequently, also makes the condition more difficult to prevent and treat.
+To address the pervasive condition, scientists are investigating how NIHL occurs on the cellular level in the body. In research published this week in the journal PNAS, scientists appear to be another step closer to understanding and potentially preventing NIHL.
+What the study on hearing loss showed
+In the study, scientists found that loud noises affected parts of the ear on a molecular level, disrupting hearing function specifically having to do with the mineral zinc in the cochlea, a spiral-shaped cavity in the inner ear that converts sound waves into electrical impulses that the brain interprets as sound frequencies.
+Zinc plays an important role in the body, including supporting the immune system and chemical signaling in the brain.
+Researchers reported that when mice were exposed to loud noises the rodents’ labile zinc levels spiked. Labile zinc is zinc that is “free” and has not bound to a protein. This dysregulation of zinc in turn led to damage and degeneration at the cellular level, manifesting as hearing loss.
+The discovery also led the scientists to discover a potential cure as well. By using a chelating agent, a drug that was able to soak up that excess zinc, researchers reported that they could reduce hearing loss.
+They said the findings could one day help to prevent NIHL in the future.
+“Our study is the first to identify the precise location of labile zinc signaling in the inner ear. We also are the first to document the dysregulation of zinc signaling in the inner ear after loud noise exposure. Most importantly, we are the first to show that noise-induced hearing loss can be mitigated by administering compounds that chelate, or trap, excess free zinc,” Thanos Tzounopoulos, PhD, the director of the Pittsburgh Hearing Research Center at the University of Pittsburgh and senior author of the study, told Medical News Today.
+“It’s a well-done study,” added Dr. Marc Feeley, an assistant professor of otolaryngology and head and neck surgery at Vanderbilt University Medical Center in Tennessee who was not involved in the study.
+“The most significant contribution I believe is that it allows us to direct further studies and research regarding noise-induced hearing loss with zinc chelation,” he told Medical News Today.
+Understanding the zinc link
+Zinc is found throughout the body, but it is highly concentrated in the inner ear.
+Dysregulation of zinc signaling has been investigated in other traumatic experiences, including stroke and optic nerve damage, where it’s been associated with tissue damage. It hasn’t been looked at as a mechanism for hearing loss.
+A 2023 study found that in stroke patients, following a cerebral ischemia, “intracellular zinc accumulation has been shown to be associated with neuronal death.”
+So, just as zinc is associated with cellular damage in other parts of the body, it is now believed to play a role in hearing loss.
+“Under normal conditions, at least in the brain, but perhaps also in the inner ear, ‘free’ zinc functions by fine-tuning synaptic communications between nerve cells and helps sensory processing. But, as previous literature showed, dysregulation in free zinc signaling can cause cell degeneration and death,” said Tzounopoulos.
+He and his team hope that this finding and the subsequent use of zinc chelators to prevent hearing loss could one day serve as an additional therapy for hearing loss. In the study, the zinc chelator was applied directly to the inner ear or into the belly of the mouse prior to a loud noise exposure.
+“The fact that both options were effective at protecting mice from hearing loss suggests that, in the future, we could develop a pill that a person could take before a known loud sound exposure to protect oneself from hearing loss,” said Tzounopoulos.
+Preventing hearing loss
+Noise-induced hearing loss can be caused by a single incident of loud noise, such as an explosion, or progressively through exposure to loud noises, like working with machinery.
+It can even be caused by things you experience in daily life, such as traffic or listening to loud music.
+The National Institutes of Health (NIH) estimates that between 6% and 24% of adults in the United States under age 70 have some degree of NIHL. Teenagers are even more susceptible as 17% of them in the United States are estimated to have NIHL in one or both ears.
+Hearing aids are the “gold standard” for treatment of NIHL, but there are also surgical and even some medicinal options. However, when it comes to hearing loss, the best thing to do is to prevent it in the first place.
+“People do not realize how damaging loud noises can be. Our experiments show that even 100 decibels – the level of noise one can expect at a soccer match – is enough to trigger rapid zinc release, damage in the inner ear, and hearing loss. Prevention is the best way to protect your hearing,” said Tzounopoulos.
+According to the NIH, regular exposure to sounds over 85 decibels can cause hearing loss. To better understand what that means, consider the following examples of sounds you might experience with some regularity:
+Prevention just means common sense measures such as using earplugs if you know you’ll be exposed to loud noises.
+“Current guidelines recommend that patients with noise exposure, continue to wear earmuffs, and/or earplugs to mitigate the hearing loss damage,” said Feeley.
+
+https://www.medicalnewstoday.com/articles/how-gastric-bypass-surgery-can-help-with-type-2-diabetes-remission
+How gastric bypass surgery can help with type 2 diabetes remission
+Researchers say people who have gastric bypass surgery for weight loss are significantly less likely to have their type 2 diabetes return, even after gaining back weight.
+Insulin use, higher A1c, and a longer duration of type 2 diabetes before surgery were more closely associated with diabetes recurrence.
+Overall, 75% of people who had gastric bypass saw their diabetes stay in remission, compared with 34% of people in the sleeve gastrectomy group.
+People with obesity and type 2 diabetes who have had gastric bypass surgery are more likely to experience remission for their diabetes, even if they regain weight, than those who received a gastric sleeve procedure.
+That’s according to a new study published in the Journal of the American College of Surgeons.
+Researchers from the Mayo Clinic in Minnesota examined the relationship between weight loss surgery and diabetes remission.
+They reviewed the medical records of 224 participants who underwent a gastric bypass at the Mayo Clinic between 2008 and 2017. They also looked at the records of 46 people who received a gastric sleeve procedure.
+All participants had been diagnosed with obesity and type 2 diabetes before their gastric surgery.
+The scientists monitored the participants for at least five years following surgery to see if weight gain led to a recurrence of diabetes.
+The findings from the gastric bypass and diabetes study
+Some of the findings from the new study included:
+Gastric bypass surgery decreases the size of the stomach and reroutes the upper part of the small intestine – the duodenum. Gastric sleeve surgery reduces the size of the stomach by 80% but does not reroute the upper part of the small intestine like a gastric bypass does.
+“[This study is] clinically relevant and important when counseling patients who are severely obese with diabetes regarding the surgical options available and long-term health effects,” said Dr. Christine Ren-Fielding, the division chief of bariatric surgery at NYU Langone Health in New York who was not involved in the research.
+“I recommend gastric bypass to all patients who have diabetes mellitus because of the greatest chance of them experiencing remission of diabetes,” she told Medical News Today. “However, most patients are frightened of having this operation because of the ramifications of having their intestines re-routed. Therefore, the second best option is sleeve gastrectomy, which may or may not provide them with equal diabetes control but which may achieve the same control as gastric bypass if multimodal therapy is used, specifically GLP-1 agonists.”
+Regaining weight after gastric bypass surgery
+Although weight regain was not directly associated with type 2 diabetes remission, the researchers said it was an essential factor.
+Because participants who regained their weight continued to experience remission of their diabetes, the authors believe this supports the idea that the small intestine plays a major role in managing diabetes.
+“In patients who regained weight after bariatric surgery, 75 percent continued to be in diabetes remission if they had gastric bypass versus 34.8 percent if they had sleeve gastrectomy,” Dr. Omar Ghanem, a metabolic surgeon at the Mayo Clinic and a study author, told Medical News Today. “Even after taking patient and diabetes-related factors into account, the odds of diabetes coming back in case of weight recurrence was 5.5 higher if the patient had sleeve rather than bypass.”
+“Sixty percent of patients who had gastric bypass and regained more than 100% of the weight they lost (meaning that their weight now is higher than their weight when they had surgery) continued to be in diabetes remission,” Ghanem noted.
+“This suggests that bariatric surgeries that bypass the duodenum (like the bypass) have a powerful, weight loss independent effect on diabetes and metabolism,” he added. “These surgeries should still be considered the gold standard for type 2 diabetes therapy in patients with obesity.”
+Rerouting the small intestine
+The researchers noted that the portion of the small intestine that is bypassed during a gastric bypass surgery is associated with the pancreas and aids digestion.
+“The results are interesting but not surprising. The duodenum is associated with the pancreas and with a gastric bypass, the intestine is rerouted,” said Dr. Mir Ali, a bariatric surgeon and medical director of MemorialCare Surgical Weight Loss Center at Orange Coast Medical Center in California who was not involved in the study. “The exciting part is that diabetes remains in remission, even if the person regains the weight.”
+“When I counsel my patients about weight loss surgery, I focus on the reason why the person wants the surgery,” Ali told Medical News Today. “For those concerned about better managing their diabetes, I suggest bypass surgery.”
+“However, I remind them that weight loss surgery is a tool to help them develop new habits,” he added.
+In a meta-analysis published in May 2021 in the The Lancet, researchers reported that there was an increased life expectancy for people with obesity who had a gastric bypass when looking at overall mortality, no matter their baseline diabetes status.
+In the study, the overall estimated increase in median life expectancy after surgery was about 6 years.
+Limitations to the gastric bypass study
+In the new study, researchers noted they were constrained by the data they were given due to the fact they relied on previous research.
+They also lacked the ability to include information on lifestyle factors and other behaviors that can contribute to the severity of type 2 diabetes.
+The authors noted that this is a retrospective, single-center study. Therefore, the results may not apply to other bariatric programs nationwide.
+Despite the limitations, the scientists say their findings can be a vital cornerstone for future research into the recurrence of type 2 diabetes after bariatric surgery.
