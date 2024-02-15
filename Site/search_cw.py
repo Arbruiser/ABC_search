@@ -278,7 +278,6 @@ def search_with_embeddings(query):
 
 # QUERY
 
-
 def function_query(bort, user_query):
 
     if bort == "b":
