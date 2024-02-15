@@ -1,26 +1,24 @@
-{% extends 'returnpage.html' %}
-
-{% block head %}
+{% extends 'returnpage.html' %} {% block head %}
 <title>Search Results</title>
-{% endblock %}
-
-{% block body %}
+{% endblock %} {% block body %}
 <h1 id="title">Results you are looking for</h1>
 <div class="content">
   <table>
-    {% for item in matches %}
-    <tr>
-      <th>Passage 1</th> {# table head #}
-      <td>{{ item["name"] }}</td> {# table content #}
-    </tr>
-    <tr>
-      <th>Passage 2</th>
-      <td>{{ item["name"] }}</td>
-    </tr>
-    <tr>
-      <th>Passage 3</th>
-      <td>{{ item["name"] }}</td>
-    </tr>
+    {% for items in results %} 
+      {% for item in items %}
+      <tr>
+        <th>Title</th>
+        <td>{{ item.title }}</td>
+      </tr>
+      <tr>
+        <th>Preview</th>
+        <td>{{ item.preview }}</td>
+      </tr>
+      <tr>
+        <th>URL</th>
+        <td><a href="{{ item.url }}">{{ item.url }}</a></td>
+      </tr>
+      {% endfor %}
     {% endfor %}
   </table>
 </div>
