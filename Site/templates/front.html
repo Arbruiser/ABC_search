@@ -1,12 +1,14 @@
-<!DOCTYPE HTML>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% block head %}{% endblock %}
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/front_page.css') }}">
-  </head>
-  <body>
-    {% block body %}{% endblock %}
-  </body>
-</html>
+{% extends 'frontpage.html' %}
+
+{% block head %}
+<title>BACoN</title>
+{% endblock %}
+
+{% block body %}
+<h1 id="title">Authoritative Medical Search</h1>
+<p>What do you want to look for today?</p>
+      <form>
+        <input type="text" name="query" autofocus>
+        <input type="submit" value="Search" class="search-button">
+      </form>
+{% endblock %}
