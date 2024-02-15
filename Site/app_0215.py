@@ -39,6 +39,7 @@ def search():
         results = "Invalid search method selected."
 
     return results
+    # return render_template("return.html", results=results)
 
 
 if __name__ == "__main__":

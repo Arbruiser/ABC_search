@@ -11,5 +11,6 @@ setup(
         "numpy>=1.24.2",
         "nltk>=3.8.1",
         "colorama>=0.4.6",
+        "flask>=3.0.0",
     ],
 )
