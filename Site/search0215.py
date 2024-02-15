@@ -52,7 +52,7 @@ from colorama import Fore, Style
 stemmer = PorterStemmer()  # let's use the basic stemmer
 
 # import the documents
-with open("Site/medical_document.txt", "r", encoding="utf-8") as f:
+with open("./medical_document.txt", "r", encoding="utf-8") as f:
     content = f.read()
 
 documents = content.split("\n\n")  # makes a list of our string documents
