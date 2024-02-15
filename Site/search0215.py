@@ -42,8 +42,7 @@ Please refer to Readme.md for ancient update logs.
 """
 # import dependencies
 from sentence_transformers import SentenceTransformer, util
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import numpy as np
 import re
 import nltk
@@ -171,6 +170,11 @@ def search_with_TFIDF(query_string, exact_match=False):
         zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True
     )
 
+    results = []  # Initialize an empty list to store results
+    results.append(
+        f"Query: {query_string}"
+    )  # Append the query to the results list as the first element
+
     seen_doc_indices = set()
     unique_docs_found = 0
 
@@ -180,31 +184,36 @@ def search_with_TFIDF(query_string, exact_match=False):
         if doc_idx in seen_doc_indices:
             continue
 
-        print("\n" + titles[doc_idx], "--- Its score is:", round(score, 2))
-        print(httplinks[doc_idx])  # print the link
+        doc_result = {
+            "title": titles[doc_idx],
+            "score": round(score, 2),
+            "url": httplinks[doc_idx],
+            "preview": "",
+        }
 
         # Check for sentence matches
-        if exact_match == False:  # if the query is not an exact match
+        if not exact_match:  # if the query is not an exact match
             for j, stemmed_sentence in enumerate(stemmed_documents_lists[doc_idx]):
                 if any(word in stemmed_sentence for word in query_string.split()):
-                    print("..." + documents_lists[doc_idx][j] + "...")
+                    doc_result["preview"] = documents_lists[doc_idx][j]
                     break  # Break after the first match to avoid printing multiple sentences from the same document
-
         else:  # if the query is an exact match
             for j, sentence in enumerate(documents_lists[doc_idx]):
                 query_words = set(query_string.split())
                 sentence_words = set(sentence.split())
 
-                # Use "in" will match the subword, so we use intersection to match the exact word
                 if query_words.intersection(sentence_words):
-                    print("..." + documents_lists[doc_idx][j] + "...")
+                    doc_result["preview"] = documents_lists[doc_idx][j]
                     break  # Break after the first match to avoid printing multiple sentences from the same document
 
-        # Update the tracking variables after processing a document
+        results.append(doc_result)  # Append the result dict to the results list
+
         seen_doc_indices.add(doc_idx)
         unique_docs_found += 1
-        if unique_docs_found == 3:  # Break after finding 3 unique documents
+        if unique_docs_found == 3:  # Stop after finding 3 unique documents
             break
+
+    return results
 
 
 # Sentence Bert
@@ -233,7 +242,9 @@ def search_with_embeddings(query):
     ranked_doc_indices = np.argsort(-cosine_scores.cpu().numpy())
 
     results = []  # Initialize an empty list to store results
-
+    results.append(
+        f"Query: {query}"
+    )  # Append the query to the results list as the first element
     # Display top 3 similar documents, do not show the duplicates
     unique_docs_found = 0
     seen_doc_indices = set()
@@ -262,17 +273,7 @@ def search_with_embeddings(query):
 
 def function_query(bort, user_query):
 
-    # while True:
-
-    #     bort = input(
-    #         "Do you want to use Boolean search (b), TF-IDF search?(t) or fuzzy search (s): "
-    #     ).lower()
-
-    # using boolean search
     if bort == "b":
-        # user_query = input("Hit enter to exit. Your query to search: ")
-        # if user_query == "":
-        #     break
         print("Query: '" + user_query + "'")
         hits_matrix = eval(rewrite_query(user_query))  # the query
         hits_list = list(hits_matrix.nonzero()[1])
@@ -285,37 +286,17 @@ def function_query(bort, user_query):
             print(titles[doc_idx])  # print the title
             print(httplinks[doc_idx])  # print the link
 
-            if len(user_query.split()) == 1:
-                # regex to find the sentence with the query
-                pattern = (
-                    r"([^.!?]*" + user_query + r"[^.!?]*[.!?])"
-                )  # matches the sentence with .!? as delimiters
-                match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
-                print(
-                    Fore.BLUE
-                    + "... "
-                    + match.group(0).strip()
-                    + " ..."
-                    + Style.RESET_ALL
-                )
-                print()
-            else:  # only show the context of the first term in the query
-                pattern = r"([^.!?]*" + user_query.split()[0] + r"[^.!?]*[.!?])"
-                match = re.search(pattern, documents[doc_idx], re.IGNORECASE)
-                return print(
-                    Fore.BLUE
-                    + "... "
-                    + match.group(0).strip()
-                    + " ..."
-                    + Style.RESET_ALL
-                )
-                print()
+            # Boolean match is exact match
+            for j, sentence in enumerate(documents_lists[doc_idx]):
+                query_words = set(user_query.split())
+                sentence_words = set(sentence.split())
+
+                if query_words.intersection(sentence_words):
+                    print(documents_lists[doc_idx][j])
 
     # using TF-IDF search
     elif bort == "t":
-        # user_query = input("Hit enter to exit. Your query to search: ")
-        # if user_query == "":
-        #     break
+
         if '"' in user_query:  # if the query contains quotes, skip the stemming
             # replace " with space
             user_query = user_query.replace('"', " ")
@@ -330,9 +311,7 @@ def function_query(bort, user_query):
 
     # using fuzzy search
     elif bort == "s":
-        # user_query = input("Hit enter to exit. Your query to search: ")
-        # if user_query == "":
-        #     break
+
         return search_with_embeddings(user_query)
     # elif bort == "":
     #     break
