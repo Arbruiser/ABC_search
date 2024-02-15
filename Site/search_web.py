@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """
+Update: 2024-02-15
+1. Integrate the search with flask so we have a web interface.
+
 Update: 2024-02-08
 1. Added the fuzzy search using sentence-transformers. Now the user can choose between Boolean, TF-IDF, and fuzzy search.
 2. When user's query contains quotes, the program will not stem the word in the quotes. 
@@ -17,26 +20,6 @@ Update: 2024-02-07
 
 Future work:
 - If the word in the query is between quotes, do not stem the word. 
-
-Update: 2024-02-03
-(Arthur) Added Porter stemmer. Now we use stemmed documents for making our matrices. User query is also stemmed. 
----Now there is a scary for loop that basically splits the documents into stemmed and unstemmed documents. Stemmed is for our TF-IDF search.
-Unstemmed is for showing the context. Now documents is a list of strings, but the for loop in addition to this makes lists of lists where
-each emelement is its own sentence. This is necessary for showing the context because we have to search with our stemmed query in the stemmed 
-matrix, and then take the number of document and sentence and show it in the UNstemmed version. It works. 
----I also added a toy document about sneezing so that you can play with queries "sneezes", "sneezed", "sneezing" which are all stemmed into 'sneez'
----I also fixed the issue of our context looking ugly, it was because of new lines that stayed there after the links got deleted.
----Now we also show the score of the matching doc. We can translate it into plain English with a bunch of if statements
-like "if score>0.3 then "score very high!" and so on.
---- If the query contains multiple words, the context function will look for ANY of the query words in the text in order 
-and output only the first 3 matches. Try running "sneezing is not an illness". 
-
-Work before the class:
---- Let user choose if to use Boolean or TF-IDF search. Maybe with the first input asking for B (Boolean) or T (TF-IDF)?  
---- Can implement indexing of the sentences in the matched document to output the highest scoring sentences first. 
---- Can implement highlighting the matched word in the sentence in the same fashion as looking for unstemmed docs. We turn each sentence into
-stemmed and unstemmed lists of words. Search for the stemmed query word in the stemmed lists and put *...* around the word from the same number of document
-and the same number of sentence and the same number of word 
 
 Please refer to Readme.md for ancient update logs.
 """

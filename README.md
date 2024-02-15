@@ -13,6 +13,8 @@ Contributed by Artur, Baiyi and Chao.
 2. In the venv run "pip3 install ." to install all the dependencies.
 
 **Major updates:**
+Update: 2024-02-15
+1. Integrate the search with flask so we have a web interface.
 
 Update: 2024-02-08
 1. Added the fuzzy search using sentence-transformers. Now the user can choose between Boolean, TF-IDF, and fuzzy search.
