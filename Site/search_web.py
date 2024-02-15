@@ -163,7 +163,12 @@ def boolean_return(user_query):
 
         result.append(doc_result)
 
-    return result
+    formatted_results = result[0] + "<br/>"  # Make the results look a bit nicer
+    for res in result[1:]:
+        formatted_results += 'Title: {}<br/>'.format(res.get('Title', 'N/A')) 
+        formatted_results += 'URL: {}<br/>'.format(res.get('Link', 'N/A'))
+        formatted_results += 'Preview: {}<br/><br/>'.format(res.get('Preview', 'N/A'))
+    return formatted_results
 
 
 # TF-IDF search
@@ -277,8 +282,13 @@ def search_with_embeddings(query):
             unique_docs_found += 1
             if unique_docs_found == 3:  # Stop after finding 3 unique documents
                 break
-
-    return results
+    formatted_results = results[0] + "<br/>"  # Make the results look a bit nicer
+    for res in results[1:]:
+        formatted_results += 'Title: {}<br/>'.format(res['title'])
+        formatted_results += 'Score: {}<br/>'.format(res['score'])
+        formatted_results += 'URL: {}<br/>'.format(res['url'])
+        formatted_results += 'Preview: {}<br/><br/>'.format(res['preview'])            
+    return formatted_results
 
 
 # QUERY
