@@ -88,16 +88,38 @@ documents_lists = []  # again list of lists
 
 
 for document in documents:
-    temp_sentences_unstemmed = re.split("([.!?])\s+", document)  # here we split the sentences with delimiters being their own elements in the list. However, that's unnecessary now because in our doc each line is a sentence. We don't know if it stays that way, so let's keep it.
+    temp_sentences_unstemmed = re.split(
+        "([.!?])\s+", document
+    )  # here we split the sentences with delimiters being their own elements in the list. However, that's unnecessary now because in our doc each line is a sentence. We don't know if it stays that way, so let's keep it.
     # next line joins the delimiters with the previous sentence (don't worry about it)
-    sub_doc = [temp_sentences_unstemmed[i]+ (temp_sentences_unstemmed[i + 1]if i + 1 < len(temp_sentences_unstemmed)else "")for i in range(0, len(temp_sentences_unstemmed), 2)]
+    sub_doc = [
+        temp_sentences_unstemmed[i]
+        + (
+            temp_sentences_unstemmed[i + 1]
+            if i + 1 < len(temp_sentences_unstemmed)
+            else ""
+        )
+        for i in range(0, len(temp_sentences_unstemmed), 2)
+    ]
     documents_lists.append(sub_doc)
     document = document.split()  # split the doc into words to prepare it for stemming
-    stemmed_document = " ".join([stemmer.stem(word) for word in document])  # stem and join the text back
-    stemmed_documents.append(stemmed_document)  # this produces a list of strings that we use for TF-IDF
-    temp_sentences_stemmed = re.split("([.!?])\s+", stemmed_document)  # the same splitting with .!? as delimiters
-    sub_stemmed_doc = [temp_sentences_stemmed[i]+ (temp_sentences_stemmed[i + 1] if i + 1 < len(temp_sentences_stemmed) else "")for i in range(0, len(temp_sentences_stemmed), 2)]
-    stemmed_documents_lists.append(sub_stemmed_doc)  # this now produces a list of our docs, where each doc is a list of sentences. This is only for context.
+    stemmed_document = " ".join(
+        [stemmer.stem(word) for word in document]
+    )  # stem and join the text back
+    stemmed_documents.append(
+        stemmed_document
+    )  # this produces a list of strings that we use for TF-IDF
+    temp_sentences_stemmed = re.split(
+        "([.!?])\s+", stemmed_document
+    )  # the same splitting with .!? as delimiters
+    sub_stemmed_doc = [
+        temp_sentences_stemmed[i]
+        + (temp_sentences_stemmed[i + 1] if i + 1 < len(temp_sentences_stemmed) else "")
+        for i in range(0, len(temp_sentences_stemmed), 2)
+    ]
+    stemmed_documents_lists.append(
+        sub_stemmed_doc
+    )  # this now produces a list of our docs, where each doc is a list of sentences. This is only for context.
 
 
 # Boolean search
@@ -166,9 +188,9 @@ def boolean_return(user_query):
 
     formatted_results = result[0] + "<br/>"  # Make the results look a bit nicer
     for res in result[1:]:
-        formatted_results += 'Title: {}<br/>'.format(res.get('Title', 'N/A')) 
-        formatted_results += 'URL: {}<br/>'.format(res.get('Link', 'N/A'))
-        formatted_results += 'Preview: {}<br/><br/>'.format(res.get('Preview', 'N/A'))
+        formatted_results += "Title: {}<br/>".format(res.get("Title", "N/A"))
+        formatted_results += "URL: {}<br/>".format(res.get("Link", "N/A"))
+        formatted_results += "Preview: {}<br/><br/>".format(res.get("Preview", "N/A"))
     return formatted_results
 
 
@@ -231,27 +253,23 @@ def search_with_TFIDF(query_string, exact_match=False):
         unique_docs_found += 1
         if unique_docs_found == 3:  # Stop after finding 3 unique documents
             break
-    
+
     formatted_results = results[0] + "<br/>"  # Make the results look a bit nicer
     for res in results[1:]:
-        formatted_results += 'Title: {}<br/>'.format(res['title'])
-        formatted_results += 'Score: {}<br/>'.format(res['score'])
-        formatted_results += 'URL: {}<br/>'.format(res['url'])
-        formatted_results += 'Preview: {}<br/><br/>'.format(res['preview'])
+        formatted_results += "Title: {}<br/>".format(res["title"])
+        formatted_results += "Score: {}<br/>".format(res["score"])
+        formatted_results += "URL: {}<br/>".format(res["url"])
+        formatted_results += "Preview: {}<br/><br/>".format(res["preview"])
 
     return formatted_results
-
 
 
 # Sentence Bert
 # model = SentenceTransformer("all-MiniLM-L6-v2")
 # model.save(path="all-MiniLM-L6-v2")
 # Load Sentence-BERT model
-try:
-    model = SentenceTransformer(path="all-MiniLM-L6-v2")
-except:
-    model = SentenceTransformer("all-MiniLM-L6-v2")
-    model.save(path="all-MiniLM-L6-v2")
+model = SentenceTransformer(path="./all-MiniLM-L6-v2")
+
 
 # Assuming `documents` is a list of your document texts
 # Compute embeddings for all documents (ideally done once and cached)
@@ -293,10 +311,10 @@ def search_with_embeddings(query):
                 break
     formatted_results = results[0] + "<br/>"  # Make the results look a bit nicer
     for res in results[1:]:
-        formatted_results += 'Title: {}<br/>'.format(res['title'])
-        formatted_results += 'Score: {}<br/>'.format(res['score'])
-        formatted_results += 'URL: {}<br/>'.format(res['url'])
-        formatted_results += 'Preview: {}<br/><br/>'.format(res['preview'])            
+        formatted_results += "Title: {}<br/>".format(res["title"])
+        formatted_results += "Score: {}<br/>".format(res["score"])
+        formatted_results += "URL: {}<br/>".format(res["url"])
+        formatted_results += "Preview: {}<br/><br/>".format(res["preview"])
     return formatted_results
 
 
