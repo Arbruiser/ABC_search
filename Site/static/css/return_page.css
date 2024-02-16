@@ -15,7 +15,22 @@ body {
 }
 
 h1 {
-    margin-top: 200px;
-    color: azure;
+    margin-top: 140px;
     font-size: 48px;
+    color: #333; /* Default color - dark gray */
+    font-weight: bold;
 }
+
+/* If you want to style the whole content, please fill in here */
+
+.passage_title {
+    /* Add as needed margin-top: 200px; */
+    font-size: 24px;
+    color: #399;
+}
+
+/* .preview {} 
+ready to style */
+
+/* .url {} 
+ready to style */

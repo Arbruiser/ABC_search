@@ -1,6 +1,6 @@
 from flask import Flask, render_template, url_for, request
 
-from Site.search import function_query
+from search import function_query
 
 
 app = Flask(__name__)

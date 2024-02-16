@@ -9,8 +9,10 @@
   <body>
     <h1 id="title">Authoritative Medical Search</h1>
     <p id="description">What do you want to look for today?</p>
-      <form action="/search", method = "post">
-        <input type="text" name="query" autofocus placeholder="Enter your query">
+      <form action="/search", method = "post" class="search-bar">
+        <input type="text" name="query" autofocus placeholder="Enter your query" class="search-input">
+      </form>
+      <form>
         <input type="submit" name="search_method" value="Boolean Search" class="search-button">
         <input type="submit" name="search_method" value="TF-IDF Search" class="search-button">
         <input type="submit" name="search_method" value="Fuzzy Search" class="search-button">
