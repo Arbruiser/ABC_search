@@ -38,7 +38,17 @@ def search():
         # Default case or error handling
         results = "Invalid search method selected."
 
-    return results
+    if not results==None: # avoids crashing if the query word matches nothing
+        return results
+    else:
+        return """
+        <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+            <div>
+                <h2>We didn't find anything :(</h2>
+                <p>Please choose a different query or sth</p>
+            </div>
+        </div>
+        """
     # return render_template("return.html", results=results)
 
 
