@@ -3,13 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>BACoN</title>
+    <title>ABC Search</title>
     <link rel="stylesheet" href="../static/css/front_page.css" />
   </head>
   <body>
-    <h1 id="title">Authoritative Medical Search</h1>
-    <p id="description">What do you want to look for today?</p>
+    <!-- <h1 id="title">Authoritative Medical Search</h1>
+    <p id="description">What do you want to look for today?</p> -->
     <!-- Combined form for search input and method -->
+    <div class="container">
+    <div class="logo-container">
+      <img src="../static/css/UI_image.jpg" alt="ABC_search">
+    </div>  
+    <div>
     <form action="/search" method="post" class="search-bar">
       <input
         type="text"
@@ -19,6 +24,7 @@
         class="search-input"
       />
       <!-- Notice the buttons are now part of the same form as the input -->
+      <div class="button">
       <input
         type="submit"
         name="search_method"
@@ -37,6 +43,12 @@
         value="Fuzzy Search"
         class="search-button"
       />
+      </div>
     </form>
+    </div>
+    </div>
+    <div>
+      <p class="footnote">What's trending right now?</p>
+    </div>
   </body>
 </html>
