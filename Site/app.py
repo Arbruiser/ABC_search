@@ -38,18 +38,19 @@ def search():
         # Default case or error handling
         results = "Invalid search method selected."
 
-    if not results==None: # avoids crashing if the query word matches nothing
+    if results:
         return results
     else:
-        return """
-        <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-            <div>
-                <h2>We didn't find anything :(</h2>
-                <p>Please choose a different query or sth</p>
-            </div>
-        </div>
-        """
-    # return render_template("return.html", results=results)
+        img_url = url_for('static', filename='crash_cat.png')  # change this if your image is in some subfolder in static
+        response = """
+                <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height:100vh;">
+                    <h2>We didn't find anything :(</h2>
+                    <p>But here is a cute picture of a cat:</p>
+                    <img src="{}" alt="A cute kitten" style="max-width: 500px; max-height: 500px;">
+                </div>
+                """.format(img_url)
+        return response
+        # return render_template("return.html", results=results)
 
 
 if __name__ == "__main__":
