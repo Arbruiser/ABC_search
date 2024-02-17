@@ -268,7 +268,7 @@ def search_with_TFIDF(query_string, exact_match=False):
 # model = SentenceTransformer("all-MiniLM-L6-v2")
 # model.save(path="all-MiniLM-L6-v2")
 # Load Sentence-BERT model
-model = SentenceTransformer(path="./all-MiniLM-L6-v2")
+model = SentenceTransformer("./all-MiniLM-L6-v2")
 
 
 # Assuming `documents` is a list of your document texts
