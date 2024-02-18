@@ -10,7 +10,6 @@ app = Flask(__name__)
 def index():
     return render_template("search_UI.html")
 
-
 @app.route(
     "/search", methods=["POST"]
 )  # Please complete the method, Baiyi will synchronize the layout of the return page.
