@@ -41,15 +41,22 @@ all_words_freq = nltk.FreqDist(all_words)
 # Get the n most common words and their frequencies
 most_common_all = dict(all_words_freq.most_common(30))
 
-# Create bar plot
+# Create horizontal bar plot
 plt.figure(figsize=(10,5))
-plt.bar(most_common_all.keys(), most_common_all.values())
+plt.bar(most_common_all.keys(), most_common_all.values(), color='darkorchid')
 plt.title('Word Frequency for All Documents')
-plt.xlabel('Words')
 plt.ylabel('Frequency')
-plt.xticks(rotation='vertical')
+plt.xticks(rotation=45, ha='right')
 plt.subplots_adjust(bottom=0.25)
-plt.savefig(f'Plots/word_freq_no_NER.png')
+plt.savefig(f'Plots/word_freq_no_NER_horizontal.png')
 
-
+# vertical bar plot
+plt.figure(figsize=(10, 8))
+plt.barh(list(most_common_all.keys()), list(most_common_all.values()), color='darkorchid') # can change it to vertical plot
+plt.title('Word Frequency for All Documents')
+plt.ylabel('Frequency')
+plt.xticks(rotation=45, ha='right')
+plt.gca().invert_yaxis()  # Inverts the order
+plt.subplots_adjust(bottom=0.1)
+plt.savefig(f'Plots/word_freq_no_NER_vertical.png')
 

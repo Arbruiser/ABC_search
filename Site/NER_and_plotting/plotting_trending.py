@@ -4,6 +4,9 @@ import json
 
 with open("NERed_recent_medical_documents.json", "r", encoding="utf-8") as f:
     results = json.load(f)
+with open("recent_medical_documents.txt", "r", encoding="utf-8") as f:
+    articles = f.read()
+
 
 # Categories that we will plot
 categories = ['DISEASE_DISORDER', 'SIGN_SYMPTOM', 'MEDICATION', 'BIOLOGICAL_STRUCTURE']
@@ -20,16 +23,26 @@ for result in results:
             else:
                 filtered_results_categories[result['entity_group']][key] = 1
 
+number_of_articles = len(articles.split("\n\n"))
 for category in categories:
     # Get the n most common words and their frequencies
     most_common_filtered = {k: v for k, v in sorted(filtered_results_categories[category].items(), key=lambda item: item[1], reverse=True)[:10]}
-
+    formatted_category = category.lower().replace('_', ' ') # lowercases the NER categories and replaces underscore with space
     # Create bar plot
     plt.figure(figsize=(10,5))
-    plt.bar(most_common_filtered.keys(), most_common_filtered.values())
-    plt.title(f'Entity Frequency for {category}')
-    plt.xlabel('Entities')
+    plt.bar(most_common_filtered.keys(), most_common_filtered.values(), color='darkorchid')
+    plt.title(f'Entity Frequency for "{formatted_category}" over the last {number_of_articles} articles')
     plt.ylabel('Frequency')
-    plt.xticks(rotation=45, ha='right')
+    plt.xticks(rotation=45, ha='right', fontsize=12)
     plt.subplots_adjust(bottom=0.4)
-    plt.savefig(f'Plots/trending_{category}.png')
+    plt.savefig(f'Plots/trending_{category}_horizontal.png')
+
+    # vertical bar plots
+    plt.figure(figsize=(10, 8))
+    plt.barh(list(most_common_filtered.keys()), list(most_common_filtered.values()), color='darkorchid')
+    plt.title(f'Entity Frequency for "{formatted_category}" over the last {number_of_articles} articles')
+    plt.ylabel('Frequency')
+    plt.xticks(ha='right', fontsize=12)
+    plt.gca().invert_yaxis()  # Inverts the order
+    plt.subplots_adjust(left=0.25)
+    plt.savefig(f'Plots/trending_{category}_vertical.png')
