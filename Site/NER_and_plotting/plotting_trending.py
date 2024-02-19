@@ -32,6 +32,7 @@ for category in categories:
     plt.figure(figsize=(10,5))
     plt.bar(most_common_filtered.keys(), most_common_filtered.values(), color='darkorchid')
     plt.title(f'Entity Frequency for "{formatted_category}" over the last {number_of_articles} articles')
+    plt.grid(axis='y', linestyle='-', linewidth=0.2)  # Adds thin horizontal gridlines
     plt.ylabel('Frequency')
     plt.xticks(rotation=45, ha='right', fontsize=12)
     plt.subplots_adjust(bottom=0.4)
@@ -41,6 +42,7 @@ for category in categories:
     plt.figure(figsize=(10, 8))
     plt.barh(list(most_common_filtered.keys()), list(most_common_filtered.values()), color='darkorchid')
     plt.title(f'Entity Frequency for "{formatted_category}" over the last {number_of_articles} articles')
+    plt.grid(axis='x', linestyle='-', linewidth=0.2, alpha=0.6)  # Adds thin horizontal gridlines, zorder - grid lines don't appear on top of bars
     plt.ylabel('Frequency')
     plt.xticks(ha='right', fontsize=12)
     plt.gca().invert_yaxis()  # Inverts the order
