@@ -46,7 +46,7 @@ def search():
                 </div>
                 """.format(img_url)
         return response
-        # return render_template("return.html", results=results)
+        #return render_template("return.html", results=results)
 
 if __name__ == "__main__":
     app.run(debug=True)
