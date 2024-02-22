@@ -13,6 +13,18 @@ Contributed by Artur, Baiyi and Chao.
 2. In the venv run "pip3 install ." to install all the dependencies.
 
 **Major updates:**
+
+Major updates: Update: 2024-02-22
+1. Inplement the search with Medical NER model.
+2. Add a new page to display the plots of the NER model.
+3. Now flask is correctly rendering the results from the search function.
+4. Make the front end more user friendly and appealing.
+5. Added more documents to the medical_document.txt file.
+
+Future work:
+1. Keep improving the front end.(Add back buttons, plots, etc.)
+2. Fix the bug that the TF-IDF search cannot handle the query with quotes (IMPORTANT).
+
 Update: 2024-02-15
 1. Integrate the search with flask so we have a web interface.
 
