@@ -13,7 +13,7 @@ model = AutoModelForTokenClassification.from_pretrained("Clinical-AI-Apollo/Medi
 
 
 # import the documents
-with open("recent_medical_documents.txt", "r", encoding="utf-8") as f:
+with open("Site/NER_and_plotting/recent_medical_documents.txt", "r", encoding="utf-8") as f:
     content = f.read()
 
 # process in chunks so that it doesn't blow up because it needs too much memory
