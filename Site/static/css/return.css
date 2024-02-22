@@ -1,0 +1,33 @@
+.logo-image {
+    width: 20%; /* Adjusted percentage width */
+    height: auto; /* Maintains aspect ratio */
+}
+
+  .spacer {
+    margin-bottom: 30px;
+  }
+  
+.search-bar {
+    text-align: left;
+    margin-top: 6%;
+    padding: 20px; /* Increase padding for better visual appearance */
+    font-size: 14px; /* Increase font size */
+    width: 100%; /* Increase width to make the bar longer */
+    height: 60px; /* Increase height to make the bar larger */
+}
+
+.search-input:focus {
+    outline: none; /* Remove the outline only when the input is focused */
+}
+
+.search-button {
+    padding: 5px 15px; /* Adjust padding to make the button smaller */
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 26px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
