@@ -48,5 +48,9 @@ def search():
         return response
         #return render_template("return.html", results=results)
 
+@app.route('/trending')
+def trending():
+    return render_template('trending.html')
+
 if __name__ == "__main__":
     app.run(debug=True)

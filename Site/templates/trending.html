@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Trending</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/trending.css') }}"/>
+  </head>
+  <body>
+    <h1 class="header">Recent trends</h1>
+    <div class="image-container">
+    <img src="{{ url_for('static', filename='Plots/trending_BIOLOGICAL_STRUCTURE_vertical.png') }}" alt="Trending biological structures" class="trending-image">
+    <img src="{{ url_for('static', filename='Plots/trending_DISEASE_DISORDER_vertical.png') }}" alt="Trending disease disorders" class="trending-image">
+    <img src="{{ url_for('static', filename='Plots/trending_MEDICATION_vertical.png') }}" alt="Trending medications" class="trending-image">
+    <img src="{{ url_for('static', filename='Plots/trending_SIGN_SYMPTOM_vertical.png') }}" alt="Trending sign symptoms" class="trending-image">
+    </div>
+  </body>
+</html>
