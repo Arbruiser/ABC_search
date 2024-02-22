@@ -58,7 +58,7 @@ from colorama import Fore, Style
 stemmer = PorterStemmer()  # let's use the basic stemmer
 
 # import the documents
-with open("./medical_document.txt", "r", encoding="utf-8") as f:
+with open("Site/medical_document.txt", "r", encoding="utf-8") as f:
     content = f.read()
 
 documents = content.split("\n\n")  # makes a list of our string documents
@@ -161,37 +161,41 @@ sparse_td_matrix = (
 
 def boolean_return(user_query):
     hits_list = []
+    try:
+        hits_matrix = eval(rewrite_query(user_query))  # the query
+        hits_list = list(hits_matrix.nonzero()[1])
 
-    hits_matrix = eval(rewrite_query(user_query))  # the query
-    hits_list = list(hits_matrix.nonzero()[1])
+        if len(hits_list) > 3:
+            hits_list = hits_list[:3]
 
-    if len(hits_list) > 3:
-        hits_list = hits_list[:3]
+        result = []
+        result.append(f"Query: {user_query}")
+        for doc_idx in hits_list:
+            doc_result = {}
+            doc_result["Title"] = titles[doc_idx]
+            doc_result["Link"] = httplinks[doc_idx]
 
-    result = []
-    result.append(f"Query: {user_query}")
-    for doc_idx in hits_list:
-        doc_result = {}
-        doc_result["Title"] = titles[doc_idx]
-        doc_result["Link"] = httplinks[doc_idx]
+            # Boolean match is exact match
+            for j, sentence in enumerate(documents_lists[doc_idx]):
+                query_words = set(user_query.split())
+                sentence_words = set(sentence.split())
 
-        # Boolean match is exact match
-        for j, sentence in enumerate(documents_lists[doc_idx]):
-            query_words = set(user_query.split())
-            sentence_words = set(sentence.split())
+                if query_words.intersection(sentence_words):
+                    doc_result["Preview"] = documents_lists[doc_idx][j]
+                    break
 
-            if query_words.intersection(sentence_words):
-                doc_result["Preview"] = documents_lists[doc_idx][j]
-                break
+            result.append(doc_result)
 
-        result.append(doc_result)
-
-    formatted_results = result[0] + "<br/>"  # Make the results look a bit nicer
-    for res in result[1:]:
-        formatted_results += "Title: {}<br/>".format(res.get("Title", "N/A"))
-        formatted_results += "URL: {}<br/>".format(res.get("Link", "N/A"))
-        formatted_results += "Preview: {}<br/><br/>".format(res.get("Preview", "N/A"))
-    return formatted_results
+        formatted_results = result[0] + "<br/>"  # Make the results look a bit nicer
+        for res in result[1:]:
+            formatted_results += "Title: {}<br/>".format(res.get("Title", "N/A"))
+            formatted_results += "URL: {}<br/>".format(res.get("Link", "N/A"))
+            formatted_results += "Preview: {}<br/><br/>".format(
+                res.get("Preview", "N/A")
+            )
+        return formatted_results
+    except:
+        print("Invalid query, please try again.")
 
 
 # TF-IDF search
@@ -268,7 +272,7 @@ def search_with_TFIDF(query_string, exact_match=False):
 # model = SentenceTransformer("all-MiniLM-L6-v2")
 # model.save(path="all-MiniLM-L6-v2")
 # Load Sentence-BERT model
-model = SentenceTransformer("./all-MiniLM-L6-v2")
+model = SentenceTransformer("Site/all-MiniLM-L6-v2")
 
 
 # Assuming `documents` is a list of your document texts
