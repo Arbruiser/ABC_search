@@ -1,4 +1,4 @@
-# BACoN
+# ABC_search
 Our insanely cool group working on a search engine in medical field.
 
 This search engine is able to perform Boolean search (for higher precison) or TF-IDF search (for higher recall), retrieving   medical text data from [MedicalNewsToday](https://www.medicalnewstoday.com/).
