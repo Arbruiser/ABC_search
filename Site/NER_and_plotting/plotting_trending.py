@@ -36,7 +36,7 @@ for category in categories:
     plt.ylabel('Frequency')
     plt.xticks(rotation=45, ha='right', fontsize=12)
     plt.subplots_adjust(bottom=0.4)
-    plt.savefig(f'Site/NER_and_plotting/Plots/trending_{category}_horizontal.png')
+    plt.savefig(f'trending_{category}_horizontal.png')
 
     # vertical bar plots
     plt.figure(figsize=(10, 8))
@@ -47,4 +47,4 @@ for category in categories:
     plt.xticks(ha='right', fontsize=12)
     plt.gca().invert_yaxis()  # Inverts the order
     plt.subplots_adjust(left=0.25)
-    plt.savefig(f'Site/NER_and_plotting/Plots/trending_{category}_vertical.png')
+    plt.savefig(f'trending_{category}_vertical.png')
