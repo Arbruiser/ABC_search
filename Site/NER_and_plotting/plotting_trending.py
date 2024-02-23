@@ -4,7 +4,7 @@ import json
 
 with open("NERed_recent_medical_documents.json", "r", encoding="utf-8") as f:
     results = json.load(f)
-with open("Site/NER_and_plotting/recent_medical_documents.txt", "r", encoding="utf-8") as f:
+with open("recent_medical_documents.txt", "r", encoding="utf-8") as f:
     articles = f.read()
 
 
