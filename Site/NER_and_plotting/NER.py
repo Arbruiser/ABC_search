@@ -29,6 +29,6 @@ entities=[]
 for result in results:
     for entity in result:
         entities.append(dict(entity, score=str(entity['score'])))
-with open('NERed_recent_medical_documents.json', 'w') as f:
+with open('Site/NER_and_plotting/NERed_recent_medical_documents.json', 'w') as f:
     json.dump(entities, f, indent=4)
 

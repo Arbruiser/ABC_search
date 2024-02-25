@@ -9,7 +9,7 @@ stop_words = set(stopwords.words('english'))
 #nltk.download('punkt') 
 
 mlp.use('Agg')
-fpath='recent_medical_documents.txt'
+fpath='Site/NER_and_plotting/NERed_recent_medical_documents.json'
 with open(fpath, 'r', encoding='utf-8') as f:
     documents = f.read()
 
