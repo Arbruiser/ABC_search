@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: UNKNOWN
+Version: 0.0.0
+Requires-Dist: sentence_transformers>=2.3.1
+Requires-Dist: scikit-learn>=1.3.1
+Requires-Dist: numpy>=1.24.2
+Requires-Dist: nltk>=3.8.1
+Requires-Dist: colorama>=0.4.6
