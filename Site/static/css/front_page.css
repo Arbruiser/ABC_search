@@ -92,3 +92,8 @@ h1 {
     font-size: 28px;
     color: #8A2BE2;
 }
+
+/* This step is for removing the underline of the text */
+.footnote a {
+    text-decoration: none !important;
+}

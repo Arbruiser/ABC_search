@@ -3,24 +3,26 @@
 <link rel="stylesheet" href="../static/css/return.css" />
 {% endblock %} {% block body %}
 <!-- Add the logo in the top -->
-<div class="logo-container">
-  <img
-    src="{{ url_for('static', filename='css/UI_image.jpg') }}"
-    alt="ABC_search"
-    class="logo-image"
-  />
-  <div class="content">
+<div class="container">
+  <div>
+    <img
+      src="{{ url_for('static', filename='css/UI_image.jpg') }}"
+      alt="ABC_search"
+      class="logo-image"
+    />
+  </div>
     <!-- Search bar with buttons for different search methods -->
-    <form action="/search" method="post" class="search-bar">
-      <input
-        type="text"
-        name="query"
-        value="{{ results[0]|replace('Query: ', '') }}"
-        autofocus
-        placeholder="Search..."
-        class="search-input"
-      />
+    <form action="/search" method="post">
+        <input
+          type="text"
+          name="query"
+          value="{{ results[0]|replace('Query: ', '') }}"
+          autofocus
+          placeholder="Search..."
+          class="search-bar"
+        />
       <!-- Search buttons as seen on the front page -->
+      <div>
       <button
         type="submit"
         name="search_method"
@@ -45,10 +47,10 @@
       >
         Fuzzy Search
       </button>
+      </div>
     </form>
-    <!-- need more space here -->
-    <div class="spacer"></div>
-
+    <!-- need more space here. Will define it in CSS -->
+</div>  
     <table>
       <!-- Adjusted loop to skip the first item (query) -->
       {% for item in results[1:] %}
@@ -70,6 +72,4 @@
       </tr>
       {% endfor %}
     </table>
-  </div>
   {% endblock %}
-</div>
