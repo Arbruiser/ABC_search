@@ -42435,51 +42435,6617 @@
     },
     {
         "entity_group": "DISEASE_DISORDER",
-        "score": "0.37172598",
+        "score": "0.3186968",
         "word": "weight",
         "start": 63,
         "end": 70
     },
     {
         "entity_group": "MEDICATION",
-        "score": "0.32158446",
+        "score": "0.37221295",
         "word": "GLP",
         "start": 91,
         "end": 95
     },
     {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.23510455",
+        "word": "-",
+        "start": 95,
+        "end": 96
+    },
+    {
         "entity_group": "MEDICATION",
-        "score": "0.19731718",
+        "score": "0.25688118",
         "word": "1",
         "start": 96,
         "end": 97
     },
     {
         "entity_group": "SIGN_SYMPTOM",
-        "score": "0.4655783",
+        "score": "0.5892252",
         "word": "depression",
         "start": 254,
         "end": 265
     },
     {
         "entity_group": "SIGN_SYMPTOM",
-        "score": "0.22961304",
+        "score": "0.30566642",
         "word": "anxiety",
         "start": 269,
         "end": 277
     },
     {
         "entity_group": "DIAGNOSTIC_PROCEDURE",
-        "score": "0.74530643",
+        "score": "0.7014206",
         "word": "Body Mass Index",
         "start": 487,
         "end": 503
     },
     {
         "entity_group": "LAB_VALUE",
-        "score": "0.6404588",
+        "score": "0.74986374",
         "word": "30",
         "start": 506,
         "end": 509
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.38048872",
+        "word": "diabetes",
+        "start": 792,
+        "end": 801
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.50258046",
+        "word": "genome-wide association",
+        "start": 935,
+        "end": 959
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.34201372",
+        "word": "diabetes",
+        "start": 987,
+        "end": 996
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3891842",
+        "word": "Genome",
+        "start": 243,
+        "end": 250
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.33172187",
+        "word": "wide association",
+        "start": 251,
+        "end": 267
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.37615812",
+        "word": "cell maps",
+        "start": 508,
+        "end": 518
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.327549",
+        "word": "genomic libraries",
+        "start": 522,
+        "end": 540
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.48332644",
+        "word": "2 diabetes",
+        "start": 805,
+        "end": 816
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.29283318",
+        "word": "2",
+        "start": 977,
+        "end": 979
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.28095794",
+        "word": "insulin",
+        "start": 16,
+        "end": 24
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.552708",
+        "word": "sensitivity",
+        "start": 24,
+        "end": 36
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.31258276",
+        "word": "elevated",
+        "start": 146,
+        "end": 155
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.751992",
+        "word": "blood glucose",
+        "start": 155,
+        "end": 169
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.59414536",
+        "word": "sugar",
+        "start": 171,
+        "end": 176
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.41098377",
+        "word": "cardiovascular",
+        "start": 239,
+        "end": 254
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.40151262",
+        "word": "nerve damage",
+        "start": 266,
+        "end": 279
+    },
+    {
+        "entity_group": "FAMILY_HISTORY",
+        "score": "0.30582523",
+        "word": "having it",
+        "start": 360,
+        "end": 370
+    },
+    {
+        "entity_group": "FAMILY_HISTORY",
+        "score": "0.18177806",
+        "word": "African",
+        "start": 380,
+        "end": 388
+    },
+    {
+        "entity_group": "FAMILY_HISTORY",
+        "score": "0.15833952",
+        "word": "Asian",
+        "start": 391,
+        "end": 397
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3214113",
+        "word": "high",
+        "start": 407,
+        "end": 412
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.30431855",
+        "word": "blood",
+        "start": 412,
+        "end": 418
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.34713414",
+        "word": "pressure",
+        "start": 418,
+        "end": 427
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3804359",
+        "word": "obesity",
+        "start": 428,
+        "end": 436
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.6362273",
+        "word": "polycystic ovary syndrome",
+        "start": 441,
+        "end": 467
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.6684855",
+        "word": "PCOS",
+        "start": 469,
+        "end": 473
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.6691438",
+        "word": "Genome-wide association studies",
+        "start": 489,
+        "end": 521
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.40683866",
+        "word": "depressive symptoms",
+        "start": 720,
+        "end": 740
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3117527",
+        "word": "GWAS",
+        "start": 20,
+        "end": 25
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.2579455",
+        "word": "genome",
+        "start": 27,
+        "end": 33
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.5487299",
+        "word": "-wide association studies",
+        "start": 33,
+        "end": 58
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.25493717",
+        "word": "type",
+        "start": 76,
+        "end": 81
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.4175126",
+        "word": "2 diabetes",
+        "start": 81,
+        "end": 92
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.34018874",
+        "word": "2 diabetes",
+        "start": 120,
+        "end": 131
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.523248",
+        "word": "diabetes",
+        "start": 180,
+        "end": 189
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.49108177",
+        "word": "diabetic",
+        "start": 315,
+        "end": 324
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.40992153",
+        "word": "nephropathy",
+        "start": 324,
+        "end": 336
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5608343",
+        "word": "retinopathy",
+        "start": 337,
+        "end": 349
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.4590053",
+        "word": "genome-wide association",
+        "start": 465,
+        "end": 489
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.37052077",
+        "word": "2 diabetes",
+        "start": 503,
+        "end": 514
+    },
+    {
+        "entity_group": "DISTANCE",
+        "score": "0.10475026",
+        "word": "2",
+        "start": 557,
+        "end": 559
+    },
+    {
+        "entity_group": "DISTANCE",
+        "score": "0.15506744",
+        "word": "535",
+        "start": 560,
+        "end": 563
+    },
+    {
+        "entity_group": "DISTANCE",
+        "score": "0.17044316",
+        "word": "601",
+        "start": 564,
+        "end": 567
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.19144116",
+        "word": "428",
+        "start": 588,
+        "end": 592
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.53654855",
+        "word": "type 2 diabetes",
+        "start": 600,
+        "end": 616
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.21765016",
+        "word": "genome",
+        "start": 622,
+        "end": 629
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5546082",
+        "word": "white European",
+        "start": 688,
+        "end": 703
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.55846274",
+        "word": "European, East Asian, African American, South Asian, South African,",
+        "start": 776,
+        "end": 844
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7631762",
+        "word": "Hispanic with American, West African and European ancestry",
+        "start": 848,
+        "end": 907
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.24481536",
+        "word": "0%",
+        "start": 0,
+        "end": 2
+    },
+    {
+        "entity_group": "DISTANCE",
+        "score": "0.18670686",
+        "word": "1,289",
+        "start": 85,
+        "end": 91
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.39711",
+        "word": "611",
+        "start": 112,
+        "end": 116
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.29745302",
+        "word": "145",
+        "start": 160,
+        "end": 164
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.63153595",
+        "word": "cardiometabolic phenotypes",
+        "start": 224,
+        "end": 251
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8956899",
+        "word": "waist-height ratio",
+        "start": 262,
+        "end": 281
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.9021036",
+        "word": "liver fat percentage",
+        "start": 282,
+        "end": 303
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.86562264",
+        "word": "LDL",
+        "start": 304,
+        "end": 308
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.7516724",
+        "word": "HDL cholesterol",
+        "start": 312,
+        "end": 328
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8858446",
+        "word": "blood pressure",
+        "start": 329,
+        "end": 344
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.7076872",
+        "word": "fasting insulin",
+        "start": 345,
+        "end": 361
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.612774",
+        "word": "beta-cell dysfunction",
+        "start": 619,
+        "end": 641
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5069428",
+        "word": "obesity",
+        "start": 642,
+        "end": 650
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.57482415",
+        "word": "increased",
+        "start": 771,
+        "end": 781
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.2726592",
+        "word": "decreased",
+        "start": 784,
+        "end": 794
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.48848236",
+        "word": "insulin",
+        "start": 794,
+        "end": 802
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5192407",
+        "word": "secretion",
+        "start": 802,
+        "end": 812
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.48304206",
+        "word": "increased",
+        "start": 816,
+        "end": 826
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.41035736",
+        "word": "insulin",
+        "start": 839,
+        "end": 847
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5865172",
+        "word": "sensitivity",
+        "start": 847,
+        "end": 859
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.30889627",
+        "word": "elman",
+        "start": 956,
+        "end": 961
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.30742744",
+        "word": "cardiovascular",
+        "start": 210,
+        "end": 225
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.44080096",
+        "word": "cardiovascular disease",
+        "start": 347,
+        "end": 370
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.9737127",
+        "word": "polygenic scores",
+        "start": 417,
+        "end": 434
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.35660496",
+        "word": "genomic",
+        "start": 485,
+        "end": 493
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.18327002",
+        "word": "type",
+        "start": 521,
+        "end": 526
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.4325907",
+        "word": "2 diabetes",
+        "start": 526,
+        "end": 537
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.37903267",
+        "word": "cardiovascular",
+        "start": 593,
+        "end": 608
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.27403262",
+        "word": "hospitalization",
+        "start": 707,
+        "end": 723
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.45702627",
+        "word": "heart failure",
+        "start": 727,
+        "end": 741
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.7324118",
+        "word": "increased",
+        "start": 745,
+        "end": 755
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.33994073",
+        "word": "15",
+        "start": 758,
+        "end": 761
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.217653",
+        "word": "obesity",
+        "start": 789,
+        "end": 797
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.28612512",
+        "word": "cluster",
+        "start": 797,
+        "end": 805
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.41885138",
+        "word": "beta cell",
+        "start": 858,
+        "end": 868
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.5197005",
+        "word": "proinsulin",
+        "start": 868,
+        "end": 879
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.2746218",
+        "word": "positive",
+        "start": 879,
+        "end": 888
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.296776",
+        "word": "heart",
+        "start": 965,
+        "end": 971
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.38036534",
+        "word": "failure",
+        "start": 971,
+        "end": 979
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.72603893",
+        "word": "10%",
+        "start": 25,
+        "end": 29
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.35041928",
+        "word": "lower",
+        "start": 29,
+        "end": 35
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5318571",
+        "word": "cardiovascular death",
+        "start": 43,
+        "end": 64
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.56929517",
+        "word": "6% lower",
+        "start": 68,
+        "end": 77
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.42802516",
+        "word": "major cardiovascular events",
+        "start": 85,
+        "end": 113
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.55022293",
+        "word": "heart attack",
+        "start": 117,
+        "end": 130
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.17573252",
+        "word": "diabetes",
+        "start": 333,
+        "end": 342
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.43670988",
+        "word": "attack",
+        "start": 368,
+        "end": 375
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.47071704",
+        "word": "higher",
+        "start": 452,
+        "end": 459
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5482992",
+        "word": "stroke",
+        "start": 467,
+        "end": 474
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4185208",
+        "word": "heart attack",
+        "start": 478,
+        "end": 491
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.605013",
+        "word": "increased",
+        "start": 687,
+        "end": 697
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.48362488",
+        "word": "stroke",
+        "start": 705,
+        "end": 712
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.25422296",
+        "word": "heart",
+        "start": 716,
+        "end": 722
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.53256667",
+        "word": "attack",
+        "start": 722,
+        "end": 729
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.35731086",
+        "word": "stroke",
+        "start": 816,
+        "end": 823
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4409774",
+        "word": "attack",
+        "start": 832,
+        "end": 839
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5408733",
+        "word": "pen access",
+        "start": 0,
+        "end": 10
+    },
+    {
+        "entity_group": "DOSAGE",
+        "score": "0.066676095",
+        "word": "430",
+        "start": 140,
+        "end": 144
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.28526002",
+        "word": "2016",
+        "start": 181,
+        "end": 186
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.5378662",
+        "word": "2020",
+        "start": 194,
+        "end": 199
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.2200286",
+        "word": "smoking",
+        "start": 306,
+        "end": 314
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3454323",
+        "word": "eating",
+        "start": 327,
+        "end": 334
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.74868894",
+        "word": "vaporizing",
+        "start": 338,
+        "end": 349
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.49558607",
+        "word": "stroke",
+        "start": 392,
+        "end": 399
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.46076033",
+        "word": "heart attack",
+        "start": 400,
+        "end": 413
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.17693429",
+        "word": "coronary",
+        "start": 418,
+        "end": 427
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.48183042",
+        "word": "heart disease",
+        "start": 427,
+        "end": 441
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3582539",
+        "word": "-cigarettes",
+        "start": 495,
+        "end": 506
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.5121535",
+        "word": "on Drug Use and Health",
+        "start": 566,
+        "end": 589
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.67660236",
+        "word": "48",
+        "start": 770,
+        "end": 773
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.5450221",
+        "word": "26",
+        "start": 858,
+        "end": 861
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.14231406",
+        "word": "Cannabis",
+        "start": 902,
+        "end": 911
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3722356",
+        "word": "some form",
+        "start": 967,
+        "end": 977
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.14430615",
+        "word": "40",
+        "start": 980,
+        "end": 983
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.06732781",
+        "word": "Wash",
+        "start": 994,
+        "end": 999
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.1938701",
+        "word": "i",
+        "start": 999,
+        "end": 1000
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.20454234",
+        "word": "Behavioral",
+        "start": 709,
+        "end": 720
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.46897945",
+        "word": "Risk Factor Surveillance",
+        "start": 720,
+        "end": 745
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.27105862",
+        "word": "System",
+        "start": 745,
+        "end": 752
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.45626366",
+        "word": "annual",
+        "start": 756,
+        "end": 763
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.37270287",
+        "word": "national",
+        "start": 764,
+        "end": 773
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.39555678",
+        "word": "cross",
+        "start": 774,
+        "end": 780
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7395262",
+        "word": "sectional",
+        "start": 781,
+        "end": 790
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.17970076",
+        "word": "adverse",
+        "start": 922,
+        "end": 930
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.4751346",
+        "word": "cardiovascular outcomes",
+        "start": 930,
+        "end": 954
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.36174124",
+        "word": "o",
+        "start": 999,
+        "end": 1000
+    },
+    {
+        "entity_group": "HISTORY",
+        "score": "0.56615734",
+        "word": "smoked tobacco",
+        "start": 13,
+        "end": 28
+    },
+    {
+        "entity_group": "HISTORY",
+        "score": "0.44955367",
+        "word": "used e-cigarettes",
+        "start": 31,
+        "end": 49
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.18843482",
+        "word": "55",
+        "start": 86,
+        "end": 89
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.36427444",
+        "word": "heart disease",
+        "start": 121,
+        "end": 135
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.571088",
+        "word": "smoked",
+        "start": 245,
+        "end": 251
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.40454844",
+        "word": "eaten",
+        "start": 252,
+        "end": 258
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.34248495",
+        "word": "vaporized",
+        "start": 262,
+        "end": 272
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.54442024",
+        "word": "more",
+        "start": 293,
+        "end": 298
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.27193776",
+        "word": "adverse",
+        "start": 298,
+        "end": 306
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.8113147",
+        "word": "stroke",
+        "start": 339,
+        "end": 346
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.6730507",
+        "word": "coronary heart disease",
+        "start": 347,
+        "end": 370
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.7322589",
+        "word": "myocardial infarction",
+        "start": 375,
+        "end": 397
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.4192536",
+        "word": "higher",
+        "start": 478,
+        "end": 485
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.36716488",
+        "word": "index",
+        "start": 652,
+        "end": 658
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.33227587",
+        "word": "2 diabetes",
+        "start": 668,
+        "end": 679
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.64632845",
+        "word": "lower",
+        "start": 696,
+        "end": 702
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.48801866",
+        "word": "heart issues",
+        "start": 710,
+        "end": 723
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4646636",
+        "word": "-",
+        "start": 747,
+        "end": 748
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.6332711",
+        "word": "25%",
+        "start": 786,
+        "end": 790
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.38629204",
+        "word": "more",
+        "start": 790,
+        "end": 795
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.7355341",
+        "word": "heart attack",
+        "start": 814,
+        "end": 827
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.64560664",
+        "word": "42%",
+        "start": 874,
+        "end": 878
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.3886019",
+        "word": "more",
+        "start": 878,
+        "end": 883
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.7229227",
+        "word": "stroke",
+        "start": 900,
+        "end": 907
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.5238084",
+        "word": "36%",
+        "start": 25,
+        "end": 29
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.49681813",
+        "word": "higher",
+        "start": 29,
+        "end": 36
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.39706418",
+        "word": "premature",
+        "start": 45,
+        "end": 55
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.60487616",
+        "word": "stroke",
+        "start": 55,
+        "end": 62
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.6792107",
+        "word": "heart attack",
+        "start": 63,
+        "end": 76
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.46190768",
+        "word": "cardiovascular disease",
+        "start": 81,
+        "end": 104
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.49685693",
+        "word": "traditional tobacco products",
+        "start": 208,
+        "end": 237
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4072225",
+        "word": "tobacco cigarettes",
+        "start": 314,
+        "end": 333
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7169549",
+        "word": "nicotine e-cigarettes",
+        "start": 341,
+        "end": 363
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.51254326",
+        "word": "increased",
+        "start": 420,
+        "end": 430
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.7521654",
+        "word": "stroke",
+        "start": 438,
+        "end": 445
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.6058141",
+        "word": "heart attack",
+        "start": 446,
+        "end": 459
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4693184",
+        "word": "coronary heart disease",
+        "start": 464,
+        "end": 487
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.22091398",
+        "word": "18",
+        "start": 569,
+        "end": 572
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.330312",
+        "word": "74",
+        "start": 575,
+        "end": 578
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.3038262",
+        "word": "years old",
+        "start": 578,
+        "end": 588
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.43777475",
+        "word": "60",
+        "start": 648,
+        "end": 651
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.56977755",
+        "word": "11",
+        "start": 680,
+        "end": 683
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.41517147",
+        "word": "19",
+        "start": 712,
+        "end": 715
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.30814925",
+        "word": "9",
+        "start": 757,
+        "end": 759
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.5871724",
+        "word": "7",
+        "start": 827,
+        "end": 829
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.3455163",
+        "word": "4",
+        "start": 856,
+        "end": 858
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.39678735",
+        "word": "74",
+        "start": 888,
+        "end": 891
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.38614738",
+        "word": "tobacco cigarettes",
+        "start": 938,
+        "end": 957
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.45471668",
+        "word": "28",
+        "start": 958,
+        "end": 961
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7054468",
+        "word": "bacco cigarettes",
+        "start": 0,
+        "end": 16
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.725597",
+        "word": "44",
+        "start": 17,
+        "end": 20
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.1964871",
+        "word": "cannabis",
+        "start": 34,
+        "end": 43
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.29939502",
+        "word": "tobacco cigarettes",
+        "start": 62,
+        "end": 81
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.60630953",
+        "word": "64",
+        "start": 93,
+        "end": 96
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.1935254",
+        "word": "tobacco cigarettes",
+        "start": 154,
+        "end": 173
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.21018139",
+        "word": "cannabis",
+        "start": 248,
+        "end": 257
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.6604867",
+        "word": "cardiovascular",
+        "start": 266,
+        "end": 281
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.49421942",
+        "word": "tobacco cigarettes",
+        "start": 322,
+        "end": 341
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5941982",
+        "word": "e-cigarettes",
+        "start": 344,
+        "end": 357
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.26787546",
+        "word": "bis",
+        "start": 380,
+        "end": 383
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.23238362",
+        "word": "smoking",
+        "start": 508,
+        "end": 516
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.80933976",
+        "word": "lipid profile",
+        "start": 871,
+        "end": 885
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8516131",
+        "word": "blood pressure",
+        "start": 888,
+        "end": 903
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.19650999",
+        "word": "dies",
+        "start": 2,
+        "end": 6
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.2285048",
+        "word": "interventional cardiologist",
+        "start": 139,
+        "end": 167
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.30383664",
+        "word": "Structural",
+        "start": 195,
+        "end": 206
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.27699193",
+        "word": "Heart",
+        "start": 206,
+        "end": 212
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.42493862",
+        "word": "Care",
+        "start": 232,
+        "end": 236
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.647773",
+        "word": "Medical Center",
+        "start": 247,
+        "end": 262
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.46302336",
+        "word": "attacks",
+        "start": 502,
+        "end": 510
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.32104126",
+        "word": "strokes",
+        "start": 514,
+        "end": 522
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.22763346",
+        "word": "ingesting",
+        "start": 858,
+        "end": 868
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.24395022",
+        "word": "carcinogens",
+        "start": 90,
+        "end": 102
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.27337804",
+        "word": "mutagen",
+        "start": 106,
+        "end": 114
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.17682509",
+        "word": "inhaled",
+        "start": 176,
+        "end": 184
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.27310425",
+        "word": "x",
+        "start": 249,
+        "end": 250
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.2935622",
+        "word": "ingestion",
+        "start": 370,
+        "end": 380
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.27329275",
+        "word": "vaping",
+        "start": 575,
+        "end": 582
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.18177089",
+        "word": "Cardiology",
+        "start": 23,
+        "end": 34
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.35922194",
+        "word": "poor",
+        "start": 251,
+        "end": 256
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.34180304",
+        "word": "outcomes",
+        "start": 271,
+        "end": 280
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.6849492",
+        "word": "heart attack",
+        "start": 282,
+        "end": 295
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.59390676",
+        "word": "heart failure",
+        "start": 296,
+        "end": 310
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.45939833",
+        "word": "stroke",
+        "start": 314,
+        "end": 321
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.44318178",
+        "word": "powered",
+        "start": 401,
+        "end": 409
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.4032363",
+        "word": "early 2000s",
+        "start": 551,
+        "end": 563
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.7390657",
+        "word": "36",
+        "start": 637,
+        "end": 640
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.528278",
+        "word": "heart disease",
+        "start": 666,
+        "end": 680
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.6523234",
+        "word": "heart attack",
+        "start": 684,
+        "end": 697
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.7561528",
+        "word": "42",
+        "start": 703,
+        "end": 706
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.4518031",
+        "word": "increase",
+        "start": 714,
+        "end": 723
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.6277947",
+        "word": "stroke",
+        "start": 738,
+        "end": 745
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.32785854",
+        "word": "major",
+        "start": 35,
+        "end": 41
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.28066152",
+        "word": "cardiovascular event",
+        "start": 49,
+        "end": 70
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.43460768",
+        "word": "cross",
+        "start": 638,
+        "end": 644
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.32090285",
+        "word": "sectional",
+        "start": 645,
+        "end": 654
+    },
+    {
+        "entity_group": "DISTANCE",
+        "score": "0.11040272",
+        "word": "430",
+        "start": 466,
+        "end": 470
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.23092252",
+        "word": "smoking",
+        "start": 926,
+        "end": 934
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.35999048",
+        "word": "edible",
+        "start": 959,
+        "end": 966
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.54404265",
+        "word": "a vaporiz",
+        "start": 990,
+        "end": 1000
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.46856362",
+        "word": "1",
+        "start": 485,
+        "end": 486
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.34286317",
+        "word": "1",
+        "start": 556,
+        "end": 557
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.48172903",
+        "word": "GLP-1",
+        "start": 611,
+        "end": 617
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4792954",
+        "word": "receptor",
+        "start": 617,
+        "end": 626
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.48761594",
+        "word": "agonist",
+        "start": 626,
+        "end": 634
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.46945828",
+        "word": "govy",
+        "start": 679,
+        "end": 683
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.34477353",
+        "word": "exercise",
+        "start": 60,
+        "end": 69
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.38413918",
+        "word": "weight loss",
+        "start": 100,
+        "end": 112
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.49213004",
+        "word": "10% a year",
+        "start": 115,
+        "end": 126
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.37362882",
+        "word": "ovre Hospital",
+        "start": 412,
+        "end": 425
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.23609504",
+        "word": "weight",
+        "start": 676,
+        "end": 683
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.62471145",
+        "word": "a year after",
+        "start": 694,
+        "end": 707
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.8126116",
+        "word": "glucagon-like peptide-1, GLP-1",
+        "start": 774,
+        "end": 805
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.33329841",
+        "word": "satiety",
+        "start": 832,
+        "end": 840
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5246577",
+        "word": "fullness",
+        "start": 955,
+        "end": 964
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.2786587",
+        "word": "emptying",
+        "start": 988,
+        "end": 997
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.18655907",
+        "word": "stomach",
+        "start": 1,
+        "end": 8
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.2772704",
+        "word": "contents",
+        "start": 8,
+        "end": 17
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.1552599",
+        "word": "Medicine",
+        "start": 80,
+        "end": 88
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.4824288",
+        "word": "10% reduction",
+        "start": 89,
+        "end": 103
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.44683453",
+        "word": "body",
+        "start": 106,
+        "end": 111
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.30650562",
+        "word": "weight",
+        "start": 111,
+        "end": 118
+    },
+    {
+        "entity_group": "DURATION",
+        "score": "0.40524095",
+        "word": "20 years",
+        "start": 237,
+        "end": 246
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.22073202",
+        "word": "injectable",
+        "start": 332,
+        "end": 343
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.2818321",
+        "word": "GLP",
+        "start": 419,
+        "end": 423
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.1479916",
+        "word": "-",
+        "start": 423,
+        "end": 424
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.14131185",
+        "word": "1",
+        "start": 424,
+        "end": 425
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4234052",
+        "word": "compounds",
+        "start": 468,
+        "end": 478
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.35703698",
+        "word": "Semaglutide",
+        "start": 479,
+        "end": 491
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7063639",
+        "word": "Wegovy",
+        "start": 539,
+        "end": 546
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.63036996",
+        "word": "Ozempic",
+        "start": 547,
+        "end": 555
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5992671",
+        "word": "Rybelsus",
+        "start": 560,
+        "end": 569
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.36372894",
+        "word": "Sax",
+        "start": 570,
+        "end": 574
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.2689219",
+        "word": "enda",
+        "start": 574,
+        "end": 578
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.45206523",
+        "word": "glutide",
+        "start": 603,
+        "end": 610
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.44957104",
+        "word": "Tru",
+        "start": 630,
+        "end": 634
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3252598",
+        "word": "licity",
+        "start": 634,
+        "end": 640
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.59157",
+        "word": "dulaglutide",
+        "start": 649,
+        "end": 661
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.41438162",
+        "word": "semaglutide",
+        "start": 665,
+        "end": 677
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6166187",
+        "word": "Wegovy",
+        "start": 689,
+        "end": 696
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.27912927",
+        "word": "Drug",
+        "start": 718,
+        "end": 723
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.4337727",
+        "word": "obesity",
+        "start": 788,
+        "end": 796
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.3194589",
+        "word": "lira",
+        "start": 821,
+        "end": 826
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.43273652",
+        "word": "glutide",
+        "start": 826,
+        "end": 833
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.39143455",
+        "word": "Saxenda",
+        "start": 845,
+        "end": 853
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.48253858",
+        "word": "semaglutide",
+        "start": 910,
+        "end": 922
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.509388",
+        "word": "liraglutide",
+        "start": 926,
+        "end": 938
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6407657",
+        "word": "off-label cap",
+        "start": 986,
+        "end": 1000
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.11806451",
+        "word": "obesity",
+        "start": 106,
+        "end": 114
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.19594696",
+        "word": "18",
+        "start": 127,
+        "end": 130
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.37083653",
+        "word": "65 years of age",
+        "start": 133,
+        "end": 149
+    },
+    {
+        "entity_group": "DURATION",
+        "score": "0.4392217",
+        "word": "8-week",
+        "start": 180,
+        "end": 187
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.2875678",
+        "word": "calorie",
+        "start": 187,
+        "end": 195
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5823326",
+        "word": "-",
+        "start": 195,
+        "end": 196
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.4005404",
+        "word": "reduction diet",
+        "start": 196,
+        "end": 210
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5731236",
+        "word": "weight loss",
+        "start": 232,
+        "end": 244
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.7052828",
+        "word": "13.1 kilograms",
+        "start": 247,
+        "end": 262
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.64054024",
+        "word": "kg",
+        "start": 264,
+        "end": 266
+    },
+    {
+        "entity_group": "DURATION",
+        "score": "0.6048994",
+        "word": "52 weeks",
+        "start": 366,
+        "end": 375
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.80346996",
+        "word": "A year after",
+        "start": 376,
+        "end": 389
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.808481",
+        "word": "weight assessments",
+        "start": 454,
+        "end": 473
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.9118068",
+        "word": "Saxenda",
+        "start": 532,
+        "end": 540
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4921695",
+        "word": "regular",
+        "start": 560,
+        "end": 568
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.31905946",
+        "word": "exercise",
+        "start": 568,
+        "end": 577
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.74268883",
+        "word": "10% reduction",
+        "start": 617,
+        "end": 631
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.42062503",
+        "word": "body weight",
+        "start": 648,
+        "end": 660
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.6343788",
+        "word": "4",
+        "start": 671,
+        "end": 673
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.44721758",
+        "word": "2",
+        "start": 674,
+        "end": 675
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.89489836",
+        "word": "Saxenda",
+        "start": 755,
+        "end": 763
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6531224",
+        "word": "without exercise",
+        "start": 763,
+        "end": 780
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.94896054",
+        "word": "liraglutide",
+        "start": 826,
+        "end": 838
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5027607",
+        "word": "without exercise",
+        "start": 838,
+        "end": 855
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.2989154",
+        "word": "weight",
+        "start": 895,
+        "end": 902
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.6651308",
+        "word": "regain",
+        "start": 902,
+        "end": 909
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.7483623",
+        "word": "6 kg",
+        "start": 913,
+        "end": 918
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.36373428",
+        "word": "higher",
+        "start": 918,
+        "end": 925
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.68389153",
+        "word": "GLP-1 drugs",
+        "start": 4,
+        "end": 16
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.44126648",
+        "word": "GLP-1 medications",
+        "start": 30,
+        "end": 48
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.61328834",
+        "word": "weight regain",
+        "start": 519,
+        "end": 533
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.34916198",
+        "word": "weight loss",
+        "start": 658,
+        "end": 670
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.61034995",
+        "word": "a year after",
+        "start": 748,
+        "end": 761
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5706567",
+        "word": "diabetes",
+        "start": 773,
+        "end": 782
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.65934926",
+        "word": "high blood pressure",
+        "start": 785,
+        "end": 805
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.29342154",
+        "word": "gonists",
+        "start": 890,
+        "end": 897
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.108959146",
+        "word": "vegetables",
+        "start": 565,
+        "end": 576
+    },
+    {
+        "entity_group": "DURATION",
+        "score": "0.10144143",
+        "word": "eight",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.40237167",
+        "word": "GLP-1",
+        "start": 59,
+        "end": 65
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.19823919",
+        "word": "diet",
+        "start": 248,
+        "end": 253
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.32263094",
+        "word": "Belly",
+        "start": 442,
+        "end": 448
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.34299943",
+        "word": "fat",
+        "start": 448,
+        "end": 452
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.41925752",
+        "word": "cognitive decline",
+        "start": 462,
+        "end": 480
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5130943",
+        "word": "Alzheimer",
+        "start": 502,
+        "end": 512
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.68842953",
+        "word": "s",
+        "start": 513,
+        "end": 514
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.7078125",
+        "word": "abdominal",
+        "start": 554,
+        "end": 564
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.22547458",
+        "word": "fat",
+        "start": 564,
+        "end": 568
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.43255875",
+        "word": "brain",
+        "start": 581,
+        "end": 587
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5731805",
+        "word": "Alzheimer",
+        "start": 633,
+        "end": 643
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.80901873",
+        "word": "s disease",
+        "start": 644,
+        "end": 653
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.41704872",
+        "word": "middle-aged",
+        "start": 677,
+        "end": 689
+    },
+    {
+        "entity_group": "SEX",
+        "score": "0.15064572",
+        "word": "males",
+        "start": 689,
+        "end": 695
+    },
+    {
+        "entity_group": "SEVERITY",
+        "score": "0.23648883",
+        "word": "high",
+        "start": 702,
+        "end": 707
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5096772",
+        "word": "Alzheimer",
+        "start": 707,
+        "end": 717
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.62436926",
+        "word": "s",
+        "start": 718,
+        "end": 719
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.53730917",
+        "word": "pancreatic",
+        "start": 750,
+        "end": 761
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.645151",
+        "word": "lower",
+        "start": 769,
+        "end": 775
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.593825",
+        "word": "cognition",
+        "start": 775,
+        "end": 785
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.808254",
+        "word": "brain volumes",
+        "start": 789,
+        "end": 803
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.6344334",
+        "word": "Abdominal",
+        "start": 804,
+        "end": 814
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.22880805",
+        "word": "fat",
+        "start": 814,
+        "end": 818
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.30081582",
+        "word": "Alzheimer",
+        "start": 832,
+        "end": 842
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.19186395",
+        "word": "\u2019",
+        "start": 842,
+        "end": 843
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.32705933",
+        "word": "s",
+        "start": 843,
+        "end": 844
+    },
+    {
+        "entity_group": "DISTANCE",
+        "score": "0.12747195",
+        "word": "47",
+        "start": 923,
+        "end": 926
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5469101",
+        "word": "Alzheimer",
+        "start": 970,
+        "end": 980
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.8333732",
+        "word": "s disease",
+        "start": 981,
+        "end": 990
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.7651485",
+        "word": "AD",
+        "start": 992,
+        "end": 994
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.24294722",
+        "word": "76",
+        "start": 33,
+        "end": 36
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.563103",
+        "word": "Alzheimer",
+        "start": 53,
+        "end": 63
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.7370838",
+        "word": "s disease",
+        "start": 64,
+        "end": 73
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.543543",
+        "word": "s disease",
+        "start": 152,
+        "end": 161
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5082936",
+        "word": "s",
+        "start": 198,
+        "end": 199
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.46812358",
+        "word": "abdominal",
+        "start": 386,
+        "end": 396
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.36048737",
+        "word": "Alzheimer",
+        "start": 498,
+        "end": 508
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.65146303",
+        "word": "s disease",
+        "start": 509,
+        "end": 518
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.4024738",
+        "word": "Abdominal",
+        "start": 619,
+        "end": 629
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.34210166",
+        "word": "subcutaneous",
+        "start": 643,
+        "end": 656
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.21455874",
+        "word": "visceral",
+        "start": 659,
+        "end": 668
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.39170942",
+        "word": "deep within",
+        "start": 680,
+        "end": 692
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.45338655",
+        "word": "body",
+        "start": 696,
+        "end": 701
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.7984598",
+        "word": "s abdominal cavity",
+        "start": 702,
+        "end": 720
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.39992404",
+        "word": "organs",
+        "start": 734,
+        "end": 741
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.6081355",
+        "word": "pancreas",
+        "start": 753,
+        "end": 762
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.42008817",
+        "word": "liver",
+        "start": 766,
+        "end": 772
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3848828",
+        "word": "tape measure",
+        "start": 823,
+        "end": 836
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.45511925",
+        "word": "dementia",
+        "start": 71,
+        "end": 80
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.46207547",
+        "word": "November",
+        "start": 174,
+        "end": 183
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.5365452",
+        "word": "visceral",
+        "start": 197,
+        "end": 206
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.46601772",
+        "word": "brain",
+        "start": 224,
+        "end": 230
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.36489695",
+        "word": "changes",
+        "start": 230,
+        "end": 238
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.67029303",
+        "word": "Alzheimer\u2019s",
+        "start": 249,
+        "end": 261
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.5805005",
+        "word": "15 years before diagnosis",
+        "start": 267,
+        "end": 293
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.37696856",
+        "word": "August 2018",
+        "start": 316,
+        "end": 328
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.5032885",
+        "word": "abdominal",
+        "start": 356,
+        "end": 366
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.39837402",
+        "word": "cognitive decline",
+        "start": 406,
+        "end": 424
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.55163515",
+        "word": "Alzheimer",
+        "start": 446,
+        "end": 456
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.7590224",
+        "word": "s",
+        "start": 457,
+        "end": 458
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.3759265",
+        "word": "Brain Health Institute",
+        "start": 583,
+        "end": 606
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.49409455",
+        "word": "Alzheimer",
+        "start": 796,
+        "end": 806
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.61092806",
+        "word": "s disease",
+        "start": 807,
+        "end": 816
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.417481",
+        "word": "Alzheimer",
+        "start": 862,
+        "end": 872
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.63250166",
+        "word": "s",
+        "start": 873,
+        "end": 874
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.44078058",
+        "word": "middle age",
+        "start": 893,
+        "end": 904
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.595144",
+        "word": "Alzheimer\u2019s",
+        "start": 1,
+        "end": 13
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.39400238",
+        "word": "Alzheimer",
+        "start": 171,
+        "end": 181
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5413414",
+        "word": "s disease",
+        "start": 182,
+        "end": 191
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3322815",
+        "word": "Alzheimer",
+        "start": 225,
+        "end": 235
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.55175686",
+        "word": "s",
+        "start": 236,
+        "end": 237
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.61414725",
+        "word": "s",
+        "start": 506,
+        "end": 507
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.7586295",
+        "word": "mass index",
+        "start": 524,
+        "end": 535
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.692848",
+        "word": "BMI",
+        "start": 537,
+        "end": 540
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.47163725",
+        "word": "abdominal",
+        "start": 662,
+        "end": 672
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.35786405",
+        "word": "fat",
+        "start": 672,
+        "end": 676
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.4541701",
+        "word": "cognitive decline",
+        "start": 686,
+        "end": 704
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.5155417",
+        "word": "middle-aged adults",
+        "start": 775,
+        "end": 794
+    },
+    {
+        "entity_group": "FAMILY_HISTORY",
+        "score": "0.60048264",
+        "word": "history of Alzheimer",
+        "start": 801,
+        "end": 822
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.20833886",
+        "word": "\u2019",
+        "start": 822,
+        "end": 823
+    },
+    {
+        "entity_group": "FAMILY_HISTORY",
+        "score": "0.62873524",
+        "word": "s disease in their families",
+        "start": 823,
+        "end": 850
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.13214974",
+        "word": "60",
+        "start": 894,
+        "end": 897
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.7591598",
+        "word": "abdominal magnetic resonance imaging (MRI",
+        "start": 954,
+        "end": 996
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.55167645",
+        "word": "visceral",
+        "start": 14,
+        "end": 23
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.46290627",
+        "word": "subcutaneous",
+        "start": 27,
+        "end": 40
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.73740846",
+        "word": "fat",
+        "start": 40,
+        "end": 44
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.92693746",
+        "word": "cognition",
+        "start": 70,
+        "end": 80
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8885679",
+        "word": "brain volumes",
+        "start": 84,
+        "end": 98
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.4779332",
+        "word": "abdominal",
+        "start": 151,
+        "end": 161
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.848143",
+        "word": "lower",
+        "start": 211,
+        "end": 217
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.9235919",
+        "word": "total gray matter volume",
+        "start": 217,
+        "end": 242
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.50170743",
+        "word": "brain",
+        "start": 249,
+        "end": 255
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.61320233",
+        "word": "cognition",
+        "start": 259,
+        "end": 269
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.33584657",
+        "word": "middle",
+        "start": 296,
+        "end": 303
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.54290354",
+        "word": "-aged",
+        "start": 303,
+        "end": 308
+    },
+    {
+        "entity_group": "SEX",
+        "score": "0.24047503",
+        "word": "men",
+        "start": 308,
+        "end": 312
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3644899",
+        "word": "Alzheimer",
+        "start": 329,
+        "end": 339
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5846012",
+        "word": "s disease",
+        "start": 340,
+        "end": 349
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.3070169",
+        "word": "pancreatic",
+        "start": 372,
+        "end": 383
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.8114715",
+        "word": "lower",
+        "start": 408,
+        "end": 414
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.73368514",
+        "word": "cognition",
+        "start": 414,
+        "end": 424
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.820626",
+        "word": "brain volumes",
+        "start": 428,
+        "end": 442
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.7370283",
+        "word": "Diabetes",
+        "start": 685,
+        "end": 693
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.6560225",
+        "word": "pre-diabetes",
+        "start": 697,
+        "end": 710
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.28167638",
+        "word": "dementia",
+        "start": 816,
+        "end": 825
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.24969275",
+        "word": "Dementia",
+        "start": 322,
+        "end": 331
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.16450304",
+        "word": "Alzheimer",
+        "start": 332,
+        "end": 342
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.32945603",
+        "word": "s Disease",
+        "start": 343,
+        "end": 352
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.34389728",
+        "word": "Neurocognitive",
+        "start": 357,
+        "end": 372
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.3681149",
+        "word": "Neuroscience Institute",
+        "start": 393,
+        "end": 416
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3589698",
+        "word": "Alzheimer",
+        "start": 978,
+        "end": 988
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3733957",
+        "word": "s",
+        "start": 989,
+        "end": 990
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.39338014",
+        "word": "abdominal",
+        "start": 118,
+        "end": 128
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.3778548",
+        "word": "function",
+        "start": 155,
+        "end": 164
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.4189407",
+        "word": "s",
+        "start": 179,
+        "end": 180
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.33922845",
+        "word": "dietary modifications",
+        "start": 258,
+        "end": 280
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.39836177",
+        "word": "exercise",
+        "start": 283,
+        "end": 292
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.55151814",
+        "word": "belly",
+        "start": 488,
+        "end": 494
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.45938975",
+        "word": "Surgical Weight Loss Center",
+        "start": 566,
+        "end": 594
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.66020775",
+        "word": "Orange Coast Medical Center",
+        "start": 597,
+        "end": 625
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.5225067",
+        "word": "Valley",
+        "start": 637,
+        "end": 644
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.7200329",
+        "word": "abdominal",
+        "start": 673,
+        "end": 683
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.51528895",
+        "word": "obesity",
+        "start": 683,
+        "end": 691
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.112140656",
+        "word": "sugar",
+        "start": 726,
+        "end": 732
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.13154459",
+        "word": "alcohol",
+        "start": 733,
+        "end": 741
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3059902",
+        "word": "trans-fat",
+        "start": 742,
+        "end": 752
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.56699014",
+        "word": "abdomen",
+        "start": 889,
+        "end": 897
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.5163667",
+        "word": "truncal",
+        "start": 978,
+        "end": 985
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.13455988",
+        "word": "fiber",
+        "start": 9,
+        "end": 15
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.18067764",
+        "word": "protein",
+        "start": 19,
+        "end": 27
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.11528164",
+        "word": "sugar",
+        "start": 45,
+        "end": 51
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.2957216",
+        "word": "physical activity",
+        "start": 134,
+        "end": 152
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.4941194",
+        "word": "visceral",
+        "start": 223,
+        "end": 232
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.46575737",
+        "word": "Chron",
+        "start": 239,
+        "end": 244
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.18893328",
+        "word": "stress",
+        "start": 246,
+        "end": 253
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.6303392",
+        "word": "abdominal",
+        "start": 271,
+        "end": 281
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.1910638",
+        "word": "of",
+        "start": 382,
+        "end": 385
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.26341328",
+        "word": "water",
+        "start": 385,
+        "end": 391
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.36870918",
+        "word": "fullness",
+        "start": 462,
+        "end": 471
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.57169646",
+        "word": "overeating",
+        "start": 493,
+        "end": 504
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.5464737",
+        "word": "abdominal",
+        "start": 508,
+        "end": 518
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5379236",
+        "word": "bariatric",
+        "start": 753,
+        "end": 763
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.41840065",
+        "word": "weight",
+        "start": 763,
+        "end": 770
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.28372428",
+        "word": "-",
+        "start": 770,
+        "end": 771
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.5832762",
+        "word": "loss surgery",
+        "start": 771,
+        "end": 783
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.37263924",
+        "word": "2 diabetes",
+        "start": 834,
+        "end": 845
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.6831218",
+        "word": "cholesterol",
+        "start": 916,
+        "end": 928
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.40684858",
+        "word": "triglyceride",
+        "start": 932,
+        "end": 945
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.39528722",
+        "word": "medical",
+        "start": 974,
+        "end": 982
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.69820803",
+        "word": "body mass index",
+        "start": 33,
+        "end": 49
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.6590444",
+        "word": "2 diabetes",
+        "start": 230,
+        "end": 241
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.6793716",
+        "word": "2 diabetes",
+        "start": 413,
+        "end": 424
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.25567397",
+        "word": "obesity",
+        "start": 428,
+        "end": 436
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.42620522",
+        "word": "clinical",
+        "start": 471,
+        "end": 480
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.57237613",
+        "word": "May 2007 and August 2013",
+        "start": 505,
+        "end": 530
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.4071437",
+        "word": "surgery",
+        "start": 568,
+        "end": 576
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.25901574",
+        "word": "medical",
+        "start": 591,
+        "end": 599
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.30231842",
+        "word": "lifestyle program",
+        "start": 603,
+        "end": 621
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.46741182",
+        "word": "physical activity",
+        "start": 710,
+        "end": 728
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.36433625",
+        "word": "nutrition tracking",
+        "start": 729,
+        "end": 748
+    },
+    {
+        "entity_group": "HISTORY",
+        "score": "0.44441295",
+        "word": "team",
+        "start": 787,
+        "end": 792
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.42887646",
+        "word": "stress management",
+        "start": 793,
+        "end": 811
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.40234524",
+        "word": "support groups",
+        "start": 812,
+        "end": 827
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.41757238",
+        "word": "GLP",
+        "start": 891,
+        "end": 895
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7175464",
+        "word": "-1 receptor agonist medications",
+        "start": 895,
+        "end": 926
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6131558",
+        "word": "Ozempic",
+        "start": 934,
+        "end": 942
+    },
+    {
+        "entity_group": "CLINICAL_EVENT",
+        "score": "0.15295908",
+        "word": "followed",
+        "start": 0,
+        "end": 8
+    },
+    {
+        "entity_group": "DURATION",
+        "score": "0.5962251",
+        "word": "12 years",
+        "start": 37,
+        "end": 46
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.15362649",
+        "word": "diabetes",
+        "start": 87,
+        "end": 96
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.7494561",
+        "word": "cholesterol",
+        "start": 170,
+        "end": 182
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.67303103",
+        "word": "triglyceride",
+        "start": 186,
+        "end": 199
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.41778708",
+        "word": "modifications",
+        "start": 249,
+        "end": 263
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.19541942",
+        "word": "cholesterol",
+        "start": 269,
+        "end": 281
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.42091238",
+        "word": "disease",
+        "start": 316,
+        "end": 324
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.73969245",
+        "word": "lower",
+        "start": 380,
+        "end": 386
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.9639961",
+        "word": "HbA1c",
+        "start": 386,
+        "end": 392
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.699072",
+        "word": "blood sugar",
+        "start": 418,
+        "end": 430
+    },
+    {
+        "entity_group": "CLINICAL_EVENT",
+        "score": "0.3409062",
+        "word": "follow",
+        "start": 448,
+        "end": 455
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.3687226",
+        "word": "up",
+        "start": 456,
+        "end": 458
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.42203373",
+        "word": "higher",
+        "start": 497,
+        "end": 504
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.43483365",
+        "word": "diabetic",
+        "start": 582,
+        "end": 591
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.4470004",
+        "word": "better",
+        "start": 611,
+        "end": 618
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8191088",
+        "word": "blood sugar control",
+        "start": 618,
+        "end": 638
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.3239834",
+        "word": "diabetes",
+        "start": 652,
+        "end": 661
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.2914662",
+        "word": "medication",
+        "start": 661,
+        "end": 672
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.15662266",
+        "word": "high",
+        "start": 885,
+        "end": 890
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.42223057",
+        "word": "blood pressure",
+        "start": 890,
+        "end": 905
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.23166898",
+        "word": "lipid-",
+        "start": 910,
+        "end": 917
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.2107552",
+        "word": "lowering",
+        "start": 917,
+        "end": 925
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.5631135",
+        "word": "MemorialCare Surgical Weight Loss Center",
+        "start": 1,
+        "end": 42
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.73156595",
+        "word": "Orange Coast Medical Center",
+        "start": 45,
+        "end": 73
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.5431488",
+        "word": "California",
+        "start": 76,
+        "end": 87
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.28432938",
+        "word": "bariatric surgery",
+        "start": 167,
+        "end": 185
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.15023166",
+        "word": "lifestyle",
+        "start": 208,
+        "end": 218
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4028659",
+        "word": "Minimally Invasive Bariatric",
+        "start": 304,
+        "end": 333
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.55359656",
+        "word": "General",
+        "start": 337,
+        "end": 345
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.36286467",
+        "word": "7 to 12 years",
+        "start": 537,
+        "end": 551
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.2748788",
+        "word": "37",
+        "start": 627,
+        "end": 630
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.67532533",
+        "word": "body mass index",
+        "start": 665,
+        "end": 680
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.3111532",
+        "word": "35",
+        "start": 691,
+        "end": 694
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.33913016",
+        "word": "class 1",
+        "start": 699,
+        "end": 707
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.47416544",
+        "word": "obesity",
+        "start": 707,
+        "end": 715
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.36207697",
+        "word": "lifestyle",
+        "start": 777,
+        "end": 786
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.43405473",
+        "word": "diabetes",
+        "start": 933,
+        "end": 942
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5564862",
+        "word": "non-surg",
+        "start": 991,
+        "end": 1000
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.5688055",
+        "word": "Langone Medical Associates",
+        "start": 57,
+        "end": 84
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.40367243",
+        "word": "West Palm Beach and Delray Beach",
+        "start": 86,
+        "end": 119
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.3687212",
+        "word": "bariatric surgery",
+        "start": 244,
+        "end": 262
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3871645",
+        "word": "diabetes",
+        "start": 300,
+        "end": 309
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.32740787",
+        "word": "weight",
+        "start": 431,
+        "end": 438
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.29414976",
+        "word": "glucose-",
+        "start": 526,
+        "end": 535
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.31376284",
+        "word": "BMI",
+        "start": 989,
+        "end": 993
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.33598876",
+        "word": "ba",
+        "start": 997,
+        "end": 1000
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.08307956",
+        "word": "r",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.15941346",
+        "word": "iatric",
+        "start": 1,
+        "end": 7
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.30632642",
+        "word": "surgery",
+        "start": 7,
+        "end": 15
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.61049044",
+        "word": "mass indexes",
+        "start": 177,
+        "end": 190
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.4722783",
+        "word": "BMI",
+        "start": 192,
+        "end": 195
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.75387305",
+        "word": "35 kg/m2",
+        "start": 212,
+        "end": 221
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.4004097",
+        "word": "well Lenox Hill Hospital",
+        "start": 421,
+        "end": 445
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.36659673",
+        "word": "heart",
+        "start": 621,
+        "end": 627
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.40745613",
+        "word": "cancer",
+        "start": 636,
+        "end": 643
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.31742957",
+        "word": "neurological",
+        "start": 648,
+        "end": 661
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.56078064",
+        "word": "hunger",
+        "start": 803,
+        "end": 810
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.42921048",
+        "word": "satiety",
+        "start": 825,
+        "end": 833
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.80301017",
+        "word": "metabolic disease",
+        "start": 53,
+        "end": 71
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.48134124",
+        "word": "metabolic disease",
+        "start": 101,
+        "end": 119
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.6194048",
+        "word": "metabolic syndrome",
+        "start": 213,
+        "end": 232
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.27562702",
+        "word": "heart disease",
+        "start": 353,
+        "end": 367
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4667819",
+        "word": "cancer",
+        "start": 371,
+        "end": 378
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.63454056",
+        "word": "osteoporosis",
+        "start": 409,
+        "end": 422
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.63719755",
+        "word": "anemia",
+        "start": 426,
+        "end": 433
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.412624",
+        "word": "mortality",
+        "start": 568,
+        "end": 578
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.3271615",
+        "word": "major",
+        "start": 581,
+        "end": 587
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.32530418",
+        "word": "cardiovascular",
+        "start": 587,
+        "end": 602
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.6561311",
+        "word": "events",
+        "start": 602,
+        "end": 609
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.563409",
+        "word": "diabetes",
+        "start": 52,
+        "end": 61
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.32937923",
+        "word": "weight",
+        "start": 252,
+        "end": 259
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.32739398",
+        "word": "sleep",
+        "start": 391,
+        "end": 396
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.35663825",
+        "word": "apnea",
+        "start": 397,
+        "end": 402
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.375032",
+        "word": "sleep apnea",
+        "start": 457,
+        "end": 469
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.54828227",
+        "word": "sleep apnea",
+        "start": 493,
+        "end": 505
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.24798429",
+        "word": "sleep",
+        "start": 510,
+        "end": 516
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.39493927",
+        "word": "breathing disorder",
+        "start": 524,
+        "end": 543
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.3263137",
+        "word": "cardiovascular",
+        "start": 576,
+        "end": 591
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.35256818",
+        "word": "cancer",
+        "start": 617,
+        "end": 624
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.30832872",
+        "word": "diabetes",
+        "start": 625,
+        "end": 634
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.27011758",
+        "word": "dementia",
+        "start": 639,
+        "end": 648
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5401117",
+        "word": "plant-based",
+        "start": 718,
+        "end": 730
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.561323",
+        "word": "obstructive sleep apnea",
+        "start": 783,
+        "end": 807
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6192809",
+        "word": "grains",
+        "start": 895,
+        "end": 902
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.47286654",
+        "word": "sugar",
+        "start": 903,
+        "end": 909
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.36135507",
+        "word": "salt",
+        "start": 914,
+        "end": 919
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4399101",
+        "word": "-",
+        "start": 947,
+        "end": 948
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.7186977",
+        "word": "obstructive sleep apnea",
+        "start": 7,
+        "end": 31
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.78616685",
+        "word": "Obstructive sleep apnea",
+        "start": 32,
+        "end": 56
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.6405612",
+        "word": "OSA",
+        "start": 58,
+        "end": 61
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.43898746",
+        "word": "based",
+        "start": 292,
+        "end": 297
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.30325815",
+        "word": "OSA",
+        "start": 334,
+        "end": 338
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5060655",
+        "word": "-centric",
+        "start": 376,
+        "end": 384
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.53699964",
+        "word": "healthy plant-based diet",
+        "start": 540,
+        "end": 565
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.35577616",
+        "word": "OSA",
+        "start": 594,
+        "end": 598
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.35919276",
+        "word": "19",
+        "start": 601,
+        "end": 604
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.42578477",
+        "word": "-vegetarian",
+        "start": 630,
+        "end": 641
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4908673",
+        "word": "heavily processed",
+        "start": 972,
+        "end": 990
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.44136265",
+        "word": "plant",
+        "start": 66,
+        "end": 72
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.13566703",
+        "word": "14",
+        "start": 218,
+        "end": 221
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.39211237",
+        "word": "National",
+        "start": 245,
+        "end": 254
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.5492713",
+        "word": "Health and Nutrition Examination Survey",
+        "start": 254,
+        "end": 294
+    },
+    {
+        "entity_group": "DURATION",
+        "score": "0.46998185",
+        "word": "24 hours",
+        "start": 363,
+        "end": 372
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.33296233",
+        "word": "OSA",
+        "start": 395,
+        "end": 399
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.646013",
+        "word": "STOP-BANG questionnaire",
+        "start": 425,
+        "end": 449
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8323038",
+        "word": "mass index",
+        "start": 531,
+        "end": 542
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.60638195",
+        "word": "sleep apnea",
+        "start": 701,
+        "end": 713
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3395242",
+        "word": "OSA",
+        "start": 714,
+        "end": 718
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5049475",
+        "word": "breathing disorder",
+        "start": 737,
+        "end": 756
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.4860747",
+        "word": "obstruction",
+        "start": 776,
+        "end": 788
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.33957112",
+        "word": "nose",
+        "start": 828,
+        "end": 833
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.304719",
+        "word": "throat",
+        "start": 836,
+        "end": 843
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.34930807",
+        "word": "OSA",
+        "start": 25,
+        "end": 29
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.46242675",
+        "word": "jaw",
+        "start": 83,
+        "end": 87
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.33437482",
+        "word": "tissues",
+        "start": 99,
+        "end": 107
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.7276031",
+        "word": "throat",
+        "start": 114,
+        "end": 121
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.7040567",
+        "word": "tongue",
+        "start": 137,
+        "end": 144
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.47742882",
+        "word": "tonsils",
+        "start": 147,
+        "end": 155
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4900387",
+        "word": "obstructed",
+        "start": 162,
+        "end": 173
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.7989097",
+        "word": "nasal passage",
+        "start": 173,
+        "end": 187
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.7815314",
+        "word": "blockage",
+        "start": 265,
+        "end": 274
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.43980485",
+        "word": "fat",
+        "start": 393,
+        "end": 397
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.6756204",
+        "word": "neck",
+        "start": 417,
+        "end": 422
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.60099983",
+        "word": "face",
+        "start": 426,
+        "end": 431
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.30278313",
+        "word": "OSA",
+        "start": 594,
+        "end": 598
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.16497481",
+        "word": "times per",
+        "start": 619,
+        "end": 629
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.21648014",
+        "word": "hour",
+        "start": 629,
+        "end": 634
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.85263073",
+        "word": "blood oxygen",
+        "start": 664,
+        "end": 677
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.44312796",
+        "word": "cardiovascular disease",
+        "start": 58,
+        "end": 81
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.4194647",
+        "word": "diabetes",
+        "start": 82,
+        "end": 91
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.41393748",
+        "word": "cancer",
+        "start": 96,
+        "end": 103
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5134841",
+        "word": "Hypoxia",
+        "start": 106,
+        "end": 113
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.49133727",
+        "word": "blood",
+        "start": 136,
+        "end": 142
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4164038",
+        "word": "oxygen",
+        "start": 142,
+        "end": 149
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.50765526",
+        "word": "Hypoxia",
+        "start": 228,
+        "end": 236
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.3199806",
+        "word": "cardiovascular",
+        "start": 262,
+        "end": 277
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.33365315",
+        "word": "inflammation",
+        "start": 352,
+        "end": 365
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4236765",
+        "word": "plant-based",
+        "start": 424,
+        "end": 436
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.56327695",
+        "word": "sleep apnea",
+        "start": 446,
+        "end": 458
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.62719095",
+        "word": "pro-vegetarian",
+        "start": 786,
+        "end": 801
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.6574357",
+        "word": "higher",
+        "start": 902,
+        "end": 909
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.87545687",
+        "word": "hPDI",
+        "start": 922,
+        "end": 927
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.27841753",
+        "word": "OSA",
+        "start": 958,
+        "end": 962
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.7297575",
+        "word": "high",
+        "start": 973,
+        "end": 978
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.80890864",
+        "word": "uPDI",
+        "start": 991,
+        "end": 996
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.68023545",
+        "word": "plant-sourced",
+        "start": 100,
+        "end": 114
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7336561",
+        "word": "non-plant",
+        "start": 159,
+        "end": 169
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.35821825",
+        "word": "processed",
+        "start": 258,
+        "end": 268
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7037479",
+        "word": "animal-based",
+        "start": 272,
+        "end": 285
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.35411528",
+        "word": "refined grains",
+        "start": 296,
+        "end": 311
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.21337177",
+        "word": "sweets",
+        "start": 312,
+        "end": 319
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.34997192",
+        "word": "desserts",
+        "start": 320,
+        "end": 329
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4753828",
+        "word": "whole plant foods",
+        "start": 371,
+        "end": 389
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.24084538",
+        "word": "grains",
+        "start": 394,
+        "end": 401
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.21037392",
+        "word": "cardiology",
+        "start": 549,
+        "end": 560
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5209193",
+        "word": "preventive cardiology",
+        "start": 574,
+        "end": 596
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7790699",
+        "word": "ultra-processed foods",
+        "start": 757,
+        "end": 779
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.54792136",
+        "word": "obstructive sleep apnea",
+        "start": 804,
+        "end": 828
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.3737633",
+        "word": "resistance",
+        "start": 882,
+        "end": 893
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.45054033",
+        "word": "quality",
+        "start": 905,
+        "end": 913
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.58882785",
+        "word": "reflux disease",
+        "start": 951,
+        "end": 966
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.25390485",
+        "word": "plant",
+        "start": 13,
+        "end": 19
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.64166224",
+        "word": "animal-based foods",
+        "start": 40,
+        "end": 59
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.62897307",
+        "word": "fatty fish",
+        "start": 121,
+        "end": 132
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.38311836",
+        "word": "salmon",
+        "start": 137,
+        "end": 144
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.56836957",
+        "word": "sardines",
+        "start": 147,
+        "end": 156
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.5425312",
+        "word": "positive",
+        "start": 220,
+        "end": 229
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.92119235",
+        "word": "PVDI",
+        "start": 229,
+        "end": 234
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8540741",
+        "word": "pro-vegetarian diet index",
+        "start": 236,
+        "end": 261
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.28052098",
+        "word": "disease",
+        "start": 440,
+        "end": 448
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.3759853",
+        "word": "brain",
+        "start": 458,
+        "end": 464
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.28718102",
+        "word": "function",
+        "start": 464,
+        "end": 473
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.42543736",
+        "word": "inflammatory",
+        "start": 484,
+        "end": 496
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.1746091",
+        "word": "Mediterranean",
+        "start": 602,
+        "end": 616
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.21038286",
+        "word": "diet",
+        "start": 616,
+        "end": 621
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.67942226",
+        "word": "whole, plant-sourced",
+        "start": 654,
+        "end": 675
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.21219626",
+        "word": "oriasis",
+        "start": 755,
+        "end": 762
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.47279704",
+        "word": "gene expression",
+        "start": 900,
+        "end": 916
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.4897496",
+        "word": "skin tissue",
+        "start": 923,
+        "end": 935
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.174659",
+        "word": "psoriasis",
+        "start": 950,
+        "end": 960
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.42475346",
+        "word": "spatial transcriptomics",
+        "start": 16,
+        "end": 40
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.5984341",
+        "word": "gene expression",
+        "start": 80,
+        "end": 96
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.31219018",
+        "word": "immune cell",
+        "start": 163,
+        "end": 175
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.2648124",
+        "word": "Psoriasis",
+        "start": 218,
+        "end": 228
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.15491728",
+        "word": "3",
+        "start": 309,
+        "end": 311
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.31111813",
+        "word": "organs",
+        "start": 411,
+        "end": 418
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.32711735",
+        "word": "systems",
+        "start": 422,
+        "end": 430
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.15972106",
+        "word": "metabolic",
+        "start": 483,
+        "end": 493
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.26930267",
+        "word": "syndrome",
+        "start": 493,
+        "end": 502
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.20242077",
+        "word": "mental",
+        "start": 503,
+        "end": 510
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.26210117",
+        "word": "health conditions",
+        "start": 510,
+        "end": 528
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.18357459",
+        "word": "cardiovascular",
+        "start": 533,
+        "end": 548
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.43045497",
+        "word": "psoriatic arthritis",
+        "start": 614,
+        "end": 634
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.35819",
+        "word": "plaques",
+        "start": 863,
+        "end": 871
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.3504459",
+        "word": "body",
+        "start": 899,
+        "end": 904
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.41682416",
+        "word": "scaliness",
+        "start": 25,
+        "end": 35
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4039041",
+        "word": "redness",
+        "start": 40,
+        "end": 48
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.6038434",
+        "word": "cardiovascular disease",
+        "start": 92,
+        "end": 115
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.68988806",
+        "word": "psoriatic arthritis",
+        "start": 119,
+        "end": 139
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.40400255",
+        "word": "skin",
+        "start": 273,
+        "end": 278
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.3135193",
+        "word": "inflammation",
+        "start": 278,
+        "end": 291
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.39502233",
+        "word": "psoriasis",
+        "start": 554,
+        "end": 564
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5015785",
+        "word": "arthritis",
+        "start": 669,
+        "end": 679
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.5073637",
+        "word": "cardiovascular disease",
+        "start": 683,
+        "end": 706
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8949332",
+        "word": "gene expression",
+        "start": 54,
+        "end": 70
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3007691",
+        "word": "homogen",
+        "start": 85,
+        "end": 92
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.44448113",
+        "word": "spatial",
+        "start": 163,
+        "end": 171
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.28054097",
+        "word": "s",
+        "start": 186,
+        "end": 187
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8362572",
+        "word": "gene expression",
+        "start": 220,
+        "end": 236
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.66221464",
+        "word": "gene expression",
+        "start": 299,
+        "end": 315
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.78652453",
+        "word": "immune activity",
+        "start": 425,
+        "end": 441
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.3148097",
+        "word": "tissue",
+        "start": 571,
+        "end": 578
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.3013594",
+        "word": "biopsies",
+        "start": 578,
+        "end": 587
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.6503197",
+        "word": "flank, forearm",
+        "start": 596,
+        "end": 611
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3700232",
+        "word": "or",
+        "start": 612,
+        "end": 615
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.615562",
+        "word": "buttocks",
+        "start": 615,
+        "end": 624
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.21587034",
+        "word": "three",
+        "start": 627,
+        "end": 633
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.18565796",
+        "word": "healthy participants",
+        "start": 633,
+        "end": 654
+    },
+    {
+        "entity_group": "DOSAGE",
+        "score": "0.11446597",
+        "word": "11",
+        "start": 665,
+        "end": 668
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.181955",
+        "word": "participants",
+        "start": 668,
+        "end": 681
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.08544984",
+        "word": "psoriasis",
+        "start": 686,
+        "end": 696
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.36683238",
+        "word": "layers",
+        "start": 869,
+        "end": 876
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.48170915",
+        "word": "Immune cells",
+        "start": 877,
+        "end": 890
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.5668201",
+        "word": "follicles",
+        "start": 962,
+        "end": 972
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.8105619",
+        "word": "blood vessels",
+        "start": 976,
+        "end": 990
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.26002663",
+        "word": "skin",
+        "start": 31,
+        "end": 36
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.5307579",
+        "word": "s surface",
+        "start": 37,
+        "end": 46
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.24343258",
+        "word": "psoriasis",
+        "start": 74,
+        "end": 84
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.46786308",
+        "word": "fibroblasts",
+        "start": 100,
+        "end": 112
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.4469913",
+        "word": "macrophages",
+        "start": 159,
+        "end": 171
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.6497249",
+        "word": "upper layers of skin",
+        "start": 195,
+        "end": 216
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.4290464",
+        "word": "increased",
+        "start": 299,
+        "end": 309
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.40193966",
+        "word": "lipid",
+        "start": 378,
+        "end": 384
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.4873656",
+        "word": "diabetes",
+        "start": 486,
+        "end": 495
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.50408554",
+        "word": "alcoholic fatty liver",
+        "start": 500,
+        "end": 521
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.51009154",
+        "word": "lipolysis",
+        "start": 558,
+        "end": 568
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3617622",
+        "word": "type 2 diabetes",
+        "start": 38,
+        "end": 54
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.7686344",
+        "word": "cles",
+        "start": 183,
+        "end": 187
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.6179824",
+        "word": "cular",
+        "start": 296,
+        "end": 301
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.66333604",
+        "word": "cytokines",
+        "start": 329,
+        "end": 339
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.555528",
+        "word": "immune activation factors",
+        "start": 343,
+        "end": 369
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.45370495",
+        "word": "spatial",
+        "start": 44,
+        "end": 52
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.22895518",
+        "word": "Dermatology",
+        "start": 527,
+        "end": 539
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.309408",
+        "word": "one",
+        "start": 551,
+        "end": 554
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.2943303",
+        "word": "Institute",
+        "start": 657,
+        "end": 667
+    },
+    {
+        "entity_group": "NONBIOLOGICAL_LOCATION",
+        "score": "0.33517954",
+        "word": "t",
+        "start": 667,
+        "end": 668
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.43383974",
+        "word": "spatial",
+        "start": 13,
+        "end": 21
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.26438934",
+        "word": "solar radiation",
+        "start": 947,
+        "end": 963
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.14146264",
+        "word": "autumn",
+        "start": 970,
+        "end": 977
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.30021277",
+        "word": "spring",
+        "start": 981,
+        "end": 988
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.32818154",
+        "word": "ovarian",
+        "start": 5,
+        "end": 13
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.3647192",
+        "word": "40",
+        "start": 39,
+        "end": 41
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.37744927",
+        "word": "fertility",
+        "start": 103,
+        "end": 113
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.40155035",
+        "word": "fertility",
+        "start": 280,
+        "end": 290
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.77689296",
+        "word": "hormone",
+        "start": 666,
+        "end": 674
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.9633135",
+        "word": "anti-M\u00fcllerian hormone",
+        "start": 681,
+        "end": 704
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.9296452",
+        "word": "AMH",
+        "start": 706,
+        "end": 709
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.46020728",
+        "word": "times",
+        "start": 765,
+        "end": 771
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.41975373",
+        "word": "year",
+        "start": 778,
+        "end": 783
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.3222159",
+        "word": "30",
+        "start": 828,
+        "end": 831
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.6913648",
+        "word": "AMH",
+        "start": 864,
+        "end": 868
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.67250556",
+        "word": "spring and autumn",
+        "start": 875,
+        "end": 893
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5259988",
+        "word": "moderate levels",
+        "start": 909,
+        "end": 925
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6953602",
+        "word": "solar radiation intensity",
+        "start": 928,
+        "end": 954
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.16529024",
+        "word": "30",
+        "start": 19,
+        "end": 22
+    },
+    {
+        "entity_group": "DISTANCE",
+        "score": "0.08113383",
+        "word": "2",
+        "start": 385,
+        "end": 387
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.13866132",
+        "word": "235",
+        "start": 388,
+        "end": 391
+    },
+    {
+        "entity_group": "SEX",
+        "score": "0.17250597",
+        "word": "women",
+        "start": 391,
+        "end": 397
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.19227605",
+        "word": "20",
+        "start": 412,
+        "end": 415
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.2726684",
+        "word": "40",
+        "start": 419,
+        "end": 422
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.60747737",
+        "word": "years old",
+        "start": 422,
+        "end": 432
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.9765125",
+        "word": "anti-M\u00fcllerian hormone",
+        "start": 527,
+        "end": 550
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.85104626",
+        "word": "AMH",
+        "start": 552,
+        "end": 555
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.96464705",
+        "word": "anti mullerian hormone",
+        "start": 653,
+        "end": 676
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.665065",
+        "word": "ovarian reserve",
+        "start": 720,
+        "end": 736
+    },
+    {
+        "entity_group": "DURATION",
+        "score": "0.45764148",
+        "word": "4 years",
+        "start": 173,
+        "end": 181
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.87224865",
+        "word": "solar radiation",
+        "start": 203,
+        "end": 219
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.2010964",
+        "word": "central district",
+        "start": 226,
+        "end": 243
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.36189577",
+        "word": "data",
+        "start": 259,
+        "end": 264
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.56355655",
+        "word": "Israeli Meteorological Service website",
+        "start": 273,
+        "end": 312
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.90436083",
+        "word": "AMH",
+        "start": 336,
+        "end": 340
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.7449576",
+        "word": "declined",
+        "start": 347,
+        "end": 356
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.104580596",
+        "word": "20",
+        "start": 417,
+        "end": 420
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.2545333",
+        "word": "-",
+        "start": 420,
+        "end": 421
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.3301394",
+        "word": "29 years",
+        "start": 421,
+        "end": 429
+    },
+    {
+        "entity_group": "DURATION",
+        "score": "0.1046922",
+        "word": "30",
+        "start": 433,
+        "end": 436
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.22482257",
+        "word": "-40 years",
+        "start": 436,
+        "end": 445
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.0801875",
+        "word": "20",
+        "start": 463,
+        "end": 466
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.20343013",
+        "word": "29",
+        "start": 467,
+        "end": 469
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.41992193",
+        "word": "-year",
+        "start": 469,
+        "end": 474
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.3897346",
+        "word": "AMH",
+        "start": 532,
+        "end": 536
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.36483574",
+        "word": "40",
+        "start": 640,
+        "end": 642
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.90009975",
+        "word": "AMH",
+        "start": 677,
+        "end": 681
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.6819434",
+        "word": "increased",
+        "start": 688,
+        "end": 698
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.59788823",
+        "word": "spring and autumn",
+        "start": 721,
+        "end": 739
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.48392978",
+        "word": "moderate solar radiation intensity levels",
+        "start": 755,
+        "end": 797
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.50751555",
+        "word": "winter months",
+        "start": 813,
+        "end": 827
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.44192946",
+        "word": "low solar radiation intensity",
+        "start": 843,
+        "end": 873
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.92715913",
+        "word": "AMH",
+        "start": 895,
+        "end": 899
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.56420475",
+        "word": "higher",
+        "start": 963,
+        "end": 970
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.73815775",
+        "word": "low-intensity solar radiation levels",
+        "start": 0,
+        "end": 36
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.24034286",
+        "word": "30\u201340",
+        "start": 78,
+        "end": 84
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6915276",
+        "word": "AMH levels collected during the summer months",
+        "start": 103,
+        "end": 149
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.75492775",
+        "word": "higher",
+        "start": 158,
+        "end": 165
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.5302193",
+        "word": "AMH",
+        "start": 165,
+        "end": 169
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6381906",
+        "word": "AMH levels collected during the winter months",
+        "start": 202,
+        "end": 248
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.2233544",
+        "word": "35",
+        "start": 299,
+        "end": 301
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.32505566",
+        "word": "-40",
+        "start": 313,
+        "end": 316
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.52501595",
+        "word": "AMH",
+        "start": 499,
+        "end": 503
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.7304053",
+        "word": "higher",
+        "start": 515,
+        "end": 522
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.83166075",
+        "word": "months of moderate solar intensity",
+        "start": 529,
+        "end": 564
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.57468694",
+        "word": "higher",
+        "start": 568,
+        "end": 575
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6420159",
+        "word": "the summer compared to winter",
+        "start": 578,
+        "end": 608
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.3794585",
+        "word": "30",
+        "start": 847,
+        "end": 850
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.42194316",
+        "word": "-",
+        "start": 850,
+        "end": 851
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.45200947",
+        "word": "40",
+        "start": 851,
+        "end": 853
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.62712294",
+        "word": "seasonal",
+        "start": 1,
+        "end": 9
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.35009024",
+        "word": "UV",
+        "start": 9,
+        "end": 12
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.8125191",
+        "word": "higher",
+        "start": 62,
+        "end": 69
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.71915466",
+        "word": "AMH",
+        "start": 79,
+        "end": 83
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.53282464",
+        "word": "moderate",
+        "start": 88,
+        "end": 97
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.47998366",
+        "word": "spring and fall",
+        "start": 116,
+        "end": 132
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.2517604",
+        "word": "obesity",
+        "start": 430,
+        "end": 438
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.33144277",
+        "word": "underweight",
+        "start": 448,
+        "end": 460
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.67084616",
+        "word": "maternal-fetal medicine",
+        "start": 692,
+        "end": 716
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.34736997",
+        "word": "Services",
+        "start": 753,
+        "end": 762
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4885931",
+        "word": "Maternal Fetal Medicine",
+        "start": 763,
+        "end": 786
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.706685",
+        "word": "endometriosis",
+        "start": 904,
+        "end": 917
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.45986193",
+        "word": "fibroids",
+        "start": 918,
+        "end": 927
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.31958",
+        "word": "polyps",
+        "start": 928,
+        "end": 935
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.42596638",
+        "word": "hormonal",
+        "start": 936,
+        "end": 945
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.46545836",
+        "word": "reproductive",
+        "start": 132,
+        "end": 145
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.32534385",
+        "word": "maternal age",
+        "start": 236,
+        "end": 249
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.44997966",
+        "word": "35",
+        "start": 312,
+        "end": 315
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.4692809",
+        "word": "30s",
+        "start": 374,
+        "end": 378
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.46004084",
+        "word": "40s",
+        "start": 382,
+        "end": 386
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.39621842",
+        "word": "3rd",
+        "start": 555,
+        "end": 559
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.54261094",
+        "word": "4th decade",
+        "start": 562,
+        "end": 573
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.5169297",
+        "word": "life",
+        "start": 576,
+        "end": 581
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.5002069",
+        "word": "ovarian reserve",
+        "start": 631,
+        "end": 647
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.25595534",
+        "word": "eggs",
+        "start": 660,
+        "end": 665
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.41811514",
+        "word": "age",
+        "start": 694,
+        "end": 698
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.74061906",
+        "word": "35",
+        "start": 701,
+        "end": 704
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.34983972",
+        "word": "maternal age",
+        "start": 736,
+        "end": 749
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.79785264",
+        "word": "AMH",
+        "start": 105,
+        "end": 109
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.18800624",
+        "word": "20",
+        "start": 146,
+        "end": 149
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.2878456",
+        "word": "29 years",
+        "start": 150,
+        "end": 158
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8918991",
+        "word": "luteinizing hormone (LH)",
+        "start": 303,
+        "end": 328
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.8823642",
+        "word": "follicular stimulating hormone (FSH) hormone",
+        "start": 332,
+        "end": 377
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.34050518",
+        "word": "30",
+        "start": 402,
+        "end": 404
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.42040786",
+        "word": "reproductive",
+        "start": 962,
+        "end": 975
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.55994785",
+        "word": "female",
+        "start": 189,
+        "end": 195
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.81161714",
+        "word": "ginseng-dong-quai",
+        "start": 196,
+        "end": 213
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.38479432",
+        "word": "Female ginseng",
+        "start": 241,
+        "end": 256
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6356432",
+        "word": "female ginseng",
+        "start": 313,
+        "end": 328
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.7838569",
+        "word": "dong quai",
+        "start": 330,
+        "end": 339
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6828324",
+        "word": "plant",
+        "start": 340,
+        "end": 346
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.2696757",
+        "word": "bones",
+        "start": 488,
+        "end": 494
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5040898",
+        "word": "porous",
+        "start": 509,
+        "end": 516
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.63825",
+        "word": "weakening",
+        "start": 517,
+        "end": 527
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5337498",
+        "word": "female ginseng",
+        "start": 942,
+        "end": 957
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.6701501",
+        "word": "dong quai",
+        "start": 989,
+        "end": 998
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.42952546",
+        "word": "dang-gui",
+        "start": 4,
+        "end": 12
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.62160003",
+        "word": "s",
+        "start": 144,
+        "end": 145
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.6092442",
+        "word": "bone loss",
+        "start": 158,
+        "end": 168
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.49816477",
+        "word": "phthalide",
+        "start": 261,
+        "end": 270
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.39221707",
+        "word": "dong quai",
+        "start": 283,
+        "end": 293
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.53595626",
+        "word": "Falcarinphthalide A\u2013B",
+        "start": 294,
+        "end": 316
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3276409",
+        "word": "Angelica sinensis",
+        "start": 400,
+        "end": 418
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.3874577",
+        "word": "carinphthalide A",
+        "start": 423,
+        "end": 439
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.371478",
+        "word": "Osteoporosis",
+        "start": 487,
+        "end": 500
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4018463",
+        "word": "weakens bones",
+        "start": 520,
+        "end": 534
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4811138",
+        "word": "less solid",
+        "start": 558,
+        "end": 569
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.50223094",
+        "word": "porous",
+        "start": 578,
+        "end": 585
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.32349887",
+        "word": "fractures",
+        "start": 609,
+        "end": 619
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.27077004",
+        "word": "breaks",
+        "start": 623,
+        "end": 630
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.6234918",
+        "word": "low bone mass",
+        "start": 824,
+        "end": 838
+    },
+    {
+        "entity_group": "DURATION",
+        "score": "0.35998556",
+        "word": "few decades",
+        "start": 868,
+        "end": 880
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.24635418",
+        "word": "osteoporosis",
+        "start": 946,
+        "end": 959
+    },
+    {
+        "entity_group": "DATE",
+        "score": "0.4248229",
+        "word": "17-2018",
+        "start": 0,
+        "end": 7
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4715196",
+        "word": "osteoporosis",
+        "start": 26,
+        "end": 39
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.8851863",
+        "word": "femur neck",
+        "start": 53,
+        "end": 64
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.5089832",
+        "word": "hip",
+        "start": 70,
+        "end": 74
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.90569365",
+        "word": "lumbar spine",
+        "start": 79,
+        "end": 92
+    },
+    {
+        "entity_group": "AGE",
+        "score": "0.2537641",
+        "word": "50",
+        "start": 115,
+        "end": 118
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.646633",
+        "word": "12.6%",
+        "start": 132,
+        "end": 138
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.6391597",
+        "word": "19.6%",
+        "start": 177,
+        "end": 183
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.78053457",
+        "word": "4",
+        "start": 215,
+        "end": 217
+    },
+    {
+        "entity_group": "LAB_VALUE",
+        "score": "0.45554",
+        "word": "4%",
+        "start": 218,
+        "end": 220
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.56973475",
+        "word": "bisphosphonates",
+        "start": 411,
+        "end": 427
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.30493256",
+        "word": "osteoporosis",
+        "start": 462,
+        "end": 475
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.7215171",
+        "word": "stomach upset",
+        "start": 637,
+        "end": 651
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.7246495",
+        "word": "heartburn",
+        "start": 654,
+        "end": 664
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.8194561",
+        "word": "denosumab",
+        "start": 716,
+        "end": 726
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.44239187",
+        "word": "den",
+        "start": 827,
+        "end": 831
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.34034678",
+        "word": "osumab",
+        "start": 831,
+        "end": 837
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.75415087",
+        "word": "break",
+        "start": 847,
+        "end": 853
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.7327433",
+        "word": "crack",
+        "start": 856,
+        "end": 862
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.6791114",
+        "word": "middle of the thigh bone",
+        "start": 869,
+        "end": 894
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.42955193",
+        "word": "atypical",
+        "start": 904,
+        "end": 913
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.373862",
+        "word": "femoral",
+        "start": 913,
+        "end": 921
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.27875045",
+        "word": "fracture",
+        "start": 921,
+        "end": 930
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.45781273",
+        "word": "osteo",
+        "start": 935,
+        "end": 941
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.48784092",
+        "word": "necrosis",
+        "start": 941,
+        "end": 949
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.45564556",
+        "word": "jaw",
+        "start": 956,
+        "end": 960
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.88572764",
+        "word": "rogen",
+        "start": 0,
+        "end": 5
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.8635719",
+        "word": "progestin",
+        "start": 28,
+        "end": 38
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.35186726",
+        "word": "blood",
+        "start": 151,
+        "end": 157
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.46664295",
+        "word": "clots",
+        "start": 157,
+        "end": 163
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.41223043",
+        "word": "endometrial cancer",
+        "start": 164,
+        "end": 183
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.4053164",
+        "word": "breast cancer",
+        "start": 184,
+        "end": 198
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.31815693",
+        "word": "heart",
+        "start": 212,
+        "end": 218
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.4914133",
+        "word": "bone loss",
+        "start": 410,
+        "end": 420
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.29496285",
+        "word": "bone",
+        "start": 520,
+        "end": 525
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.20589904",
+        "word": "hydrochloric",
+        "start": 537,
+        "end": 550
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.31719774",
+        "word": "acid",
+        "start": 550,
+        "end": 555
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.41625234",
+        "word": "s",
+        "start": 568,
+        "end": 569
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.55375934",
+        "word": "hepsin K",
+        "start": 583,
+        "end": 591
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.42592198",
+        "word": "tissue",
+        "start": 646,
+        "end": 653
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.39226067",
+        "word": "bone loss",
+        "start": 695,
+        "end": 705
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.6719212",
+        "word": "phthalides",
+        "start": 763,
+        "end": 774
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.32373986",
+        "word": "female",
+        "start": 777,
+        "end": 784
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.2554469",
+        "word": "ginseng",
+        "start": 784,
+        "end": 792
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.2988088",
+        "word": "thalides",
+        "start": 816,
+        "end": 824
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.49309367",
+        "word": "cal activities",
+        "start": 0,
+        "end": 14
+    },
+    {
+        "entity_group": "DIAGNOSTIC_PROCEDURE",
+        "score": "0.4769628",
+        "word": "structures",
+        "start": 35,
+        "end": 46
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.5169066",
+        "word": "mycophenolic acid",
+        "start": 73,
+        "end": 91
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.46365437",
+        "word": "n-butylphthalide",
+        "start": 95,
+        "end": 112
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.16678238",
+        "word": "women",
+        "start": 980,
+        "end": 986
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4927268",
+        "word": "non-Hispanic",
+        "start": 987,
+        "end": 1000
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.15100162",
+        "word": "white",
+        "start": 1,
+        "end": 6
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.14329737",
+        "word": "Asian",
+        "start": 16,
+        "end": 22
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.24641152",
+        "word": "osteoporosis",
+        "start": 60,
+        "end": 73
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.20253158",
+        "word": "African American",
+        "start": 92,
+        "end": 109
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.48328817",
+        "word": "non-Hispanic whites",
+        "start": 263,
+        "end": 283
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.46444002",
+        "word": "Weight-bearing",
+        "start": 431,
+        "end": 445
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.4235905",
+        "word": "rich in calcium",
+        "start": 567,
+        "end": 583
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.4859482",
+        "word": "vitamin D supplements",
+        "start": 666,
+        "end": 688
+    },
+    {
+        "entity_group": "HISTORY",
+        "score": "0.13056262",
+        "word": "alcohol",
+        "start": 749,
+        "end": 757
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.53831065",
+        "word": "osteoporosis",
+        "start": 4,
+        "end": 17
+    },
+    {
+        "entity_group": "DISEASE_DISORDER",
+        "score": "0.3104099",
+        "word": "fracture",
+        "start": 32,
+        "end": 41
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.7037224",
+        "word": "spine",
+        "start": 50,
+        "end": 56
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.7897579",
+        "word": "hip",
+        "start": 59,
+        "end": 63
+    },
+    {
+        "entity_group": "DETAILED_DESCRIPTION",
+        "score": "0.5309021",
+        "word": "hump-shaped",
+        "start": 257,
+        "end": 269
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.689831",
+        "word": "curvature",
+        "start": 269,
+        "end": 279
+    },
+    {
+        "entity_group": "BIOLOGICAL_STRUCTURE",
+        "score": "0.46723947",
+        "word": "back",
+        "start": 287,
+        "end": 292
+    },
+    {
+        "entity_group": "SIGN_SYMPTOM",
+        "score": "0.5571267",
+        "word": "kyphosis",
+        "start": 324,
+        "end": 332
+    },
+    {
+        "entity_group": "THERAPEUTIC_PROCEDURE",
+        "score": "0.30761495",
+        "word": "exercises",
+        "start": 464,
+        "end": 474
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.9131382",
+        "word": "Fosamax",
+        "start": 689,
+        "end": 697
+    },
+    {
+        "entity_group": "MEDICATION",
+        "score": "0.91212255",
+        "word": "Prolia",
+        "start": 701,
+        "end": 708
     }
 ]

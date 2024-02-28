@@ -42,17 +42,7 @@ def search():
         # return results
         return render_template("return.html", results=results)
     else:
-        img_url = url_for("static", filename="crash_cat.png")
-        response = """
-                <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height:100vh;">
-                    <h2>We didn't find anything :(</h2>
-                    <p>But here is a cute picture of a cat:</p>
-                    <img src="{}" alt="A cute kitten" style="max-width: 500px; max-height: 500px;">
-                </div>
-                """.format(
-            img_url
-        )
-        return response
+        return render_template("crashpage.html")
 
 
 @app.route("/trending")

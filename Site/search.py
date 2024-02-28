@@ -289,12 +289,7 @@ def search_with_embeddings(query):
             unique_docs_found += 1
             if unique_docs_found == 3:  # Stop after finding 3 unique documents
                 break
-    # formatted_results = results[0] + "<br/>"  # Make the results look a bit nicer
-    # for res in results[1:]:
-    #     formatted_results += "Title: {}<br/>".format(res["title"])
-    #     formatted_results += "Score: {}<br/>".format(res["score"])
-    #     formatted_results += "URL: {}<br/>".format(res["url"])
-    #     formatted_results += "Preview: {}<br/><br/>".format(res["preview"])
+
     return results
 
 
@@ -333,4 +328,5 @@ def function_query(bort, user_query):
 
 
 if __name__ == "__main__":
+    
     function_query()

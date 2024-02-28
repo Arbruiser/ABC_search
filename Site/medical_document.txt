@@ -2332,3 +2332,388 @@ Of the 13 GLP-1 medications listed by the FDA, only three, Wegovy (semaglutide),
 Dr. Ali explained that the lack of official approvals in this case may be less than they seem. “That’s just a drug company strategy for getting a broader indication for these medications — rebranding them and marketing them for weight loss.”
 The cost of a GLP-1 medication may be intimidating in that one needs to remain on the drug long-term to maintain its effect for diabetes, weight loss, or perhaps a reduction in depression and anxiety.
 Dr. Ali noted that “It is difficult to get it covered by most insurance companies,” but said many will pick up the tab if the individual meets medical qualifications. For weight loss, for example, one needs a Body Mass Index of 30 or above to obtain coverage from some insurance carriers.
+
+https://www.medicalnewstoday.com/articles/largest-study-of-its-kind-finds-new-genetic-risk-factors-for-type-2-diabetes
+Largest study of its kind finds new genetic risk factors for type 2 diabetes
+The risk factors for type 2 diabetes are both environmental and genetic, and researchers have identified many genetic risk factors to date.
+Now, however, the largest ever genome-wide association study of people with type 2 diabetes has discovered even more locations of risk variants than before.
+It has also identified different clusters of variants that contribute to the risk of developing the disease, revealing more about the different mechanisms that underpin the disease.
+Genome-wide association studies have been possible since the human genome was first sequenced in 2003. They allow us to understand which regions of the genome and genetic variants are associated with increased risk of certain conditions.
+Coupled with the advent of cell maps and genomic libraries, it is now possible for researchers to identify not only the variants that could impact risk, but also understand what they control and the cellular mechanisms that they play a role in.
+So what can genetic markers teach us about widespread conditions, such as type 2 diabetes? That is what the researchers conducting a new study — whose results now appear in Nature — set out to reveal.
+What genetics teach us about type 2 diabetes
+Type 2 diabetes is characterized by reduced insulin sensitivity of cells, which means they are less able to take up glucose in the bloodstream.
+This leads to the chronically elevated blood glucose (sugar) levels, which can increase the risk of complications, such as cardiovascular disease and nerve damage.
+There are many known risk factors for type 2 diabetes, including family members having it, being of African or Asian ancestry, high blood pressure, obesitym and polycystic ovary syndrome (PCOS), among others.
+Genome-wide association studies have revealed some other interesting links between type 2 diabetes and other conditions. For example, a study in 2023 showed that a number of genetic risk variants were shared by type 2 diabetes and depressive symptoms.
+Prof. Inga Prokopenko, who studies the impact of genetics on diabetes and glycaemic control from the University of Surrey told Medical News Today that the way we look at type 2 diabetes has changed in recent years:
+“A final very important point is that many previous large scale GWAS [genome-wide association studies] meta-analyses in type 2 diabetes have been focusing on [type 2 diabetes] as an outcome, but it was clear that as [type 2 diabetes], as a disease, progresses there are many complications of this disease.These major complications are very important, such as diabetic nephropathy, retinopathy, etc.”
+New genetic variants tied to complications of diabetes
+The study recently published in Nature is the largest genome-wide association study of type 2 diabetes to date, and it included genomic data from 2,535,601 individuals, of whom 428,452 had type 2 diabetes.
+Many genome-wide association studies feature data from a predominantly white European dataset, but this study featured data from six ancestral groups, namely: European, East Asian, African American, South Asian, South African, and Hispanic with American, West African and European ancestry.
+However, the majority of participants were still predominantly European in ancestry, with 60% of the cohort made up of this group.
+A global consortium of researchers discovered 1,289 genetic variants, at 611 areas of the genome known as loci, of which 145 were new discoveries.
+They then mapped these variants to 37 cardiometabolic phenotypes, including waist-height ratio, liver fat percentage, LDL and HDL cholesterol, blood pressure, fasting insulin and others, to discover if certain variants were associated with certain phenotypes, or traits.
+They then identified eight nonoverlapping “clusters” characterized by subsets of variants associated with certain cardiometabolic traits.
+These clusters included beta-cell dysfunction, obesity, and liver and lipid (fat) metabolism, among others, and also characterized whether people with these clusters exhibited increased or decreased insulin secretion, or increased or decreased insulin sensitivity.
+One of the corresponding authors, Dr. Benjamin F. Voight, of the University of Pennsylvania–Perelman School of Medicine, told MNT that “[i]t turns out the genetic variants that contributed to our clusters do not overlap [with] one another — so patients have their disease risk influenced to different extents by these clusters.”
+Can genetics predict cardiovascular outcomes in diabetes?
+Next, researchers looked at whether the eight clusters they had determined could be used to predict cardiovascular disease outcomes in these participants.
+They developed polygenic scores in a further 279,552 individuals for whom they had genomic data, including 30,288 with type 2 diabetes, and investigated whether there was an association with cardiovascular outcomes and genetic variant clusters.
+The most significant associations discovered showed risk of hospitalization for heart failure was increased by 15% in people positive for the obesity cluster of genetic variants.
+They also found that having the beta cell proinsulin positive cluster of genetic variants decreased a person’s risk of hospitalization for heart failure by 10%. This cluster was also associated with 10% lower risk of cardiovascular death and 6% lower risk of major cardiovascular events and heart attack.
+Dr Voight said:
+“I think the potential doorway that this type of work opens is where one can start to dissect how different genetic ‘subtypes’ of type 2 diabetes could modulate risk to complications of diabetes — either a little or a lot. Moreover, genetic subtyping might also give us better clues about the underlying genes and biology that contributes most importantly to those complications.”
+Prof. Prokopenko, who was not involved in this research, said it represented significant advancement in analyses of large data sets and increased the number of risk variants we are aware of by a quarter.
+“For us scientists, this is an important resource, and it will enable a many follow-up studies, experiments, etc., and further drug discovery,” she told MNT.
+“The results of this study and generated information will empower us to improve the lives of people with diabetes with new treatments, new ways of care, new ways of [treating] it in the future, through prediction of individual susceptibility or ability to distinguish potential subtypes of diabetes,” Prof. Prokopenko noted.
+
+https://www.medicalnewstoday.com/articles/how-cannabis-use-can-increase-the-risk-of-heart-attack-stroke
+How cannabis use can increase the risk of heart attack, stroke
+Researchers report that cannabis has an significant association with higher odds of stroke and heart attack.
+They say that any form of ingestion can have effects on heart health.
+The number of people using cannabis has increased significantly in recent years.
+Cannabis has a significant association with increased odds of stroke and heart attack among adults, including those who don’t use tobacco.
+In addition, the odds of having a stroke or heart attack increases among those who use cannabis more frequently.
+Those are the findings of a study published today in the Journal of the American Heart Association, an open access, peer-reviewed journal of the American Heart Association.
+In their study, researchers analyzed the results of an annual survey of 430,000 adults in the United States from 2016 through 2020.
+The study authors said in a statement that the most common method of cannabis use among those studied was smoking, followed by eating and vaporizing the drug.
+The increase of combined risk of stroke, heart attack, and coronary heart disease was similar to the risk among adults who never used e-cigarettes but did use cannabis.
+According to the 2019 National Survey on Drug Use and Health from the U.S. Department of Health and Human Services, the number of people using cannabis has increased significantly in recent decades.
+The annual survey stated that in 2019 that 48 million people 12 or older reported using cannabis at least once, compared to nearly 26 million people ages 12 or older in 2002.
+Cannabis is illegal at the federal level, but it is now legal in some form in 40 states and Washington D.C.
+“Despite common use, little is known about the risks of cannabis use and, in particular, the cardiovascular disease risks,” said Abra Jeffers, PhD, a lead study author and a data analyst at Massachusetts General Hospital in Boston in the statement. “The perceptions of the harmfulness of smoking cannabis are decreasing, and people have not considered cannabis use dangerous to their health. However, previous research suggested that cannabis could be associated with cardiovascular disease. In addition, smoking cannabis — the predominant method of use — may pose additional risks because particulate matter is inhaled.”
+The link between cannabis use and heart health
+The survey data came from the Behavioral Risk Factor Surveillance System, an annual, national, cross-sectional survey by the U.S. Centers for Disease Control and Prevention.
+The research team looked at whether cannabis use was associated with adverse cardiovascular outcomes among the general adult population, among people who never smoked tobacco or used e-cigarettes, and among younger adults (men under 55 and women under 65) at risk for heart disease.
+They also factored in the number of days per month that people used cannabis.
+The analyses of cannabis use (smoked, eaten, or vaporized) was associated with more adverse cardiovascular outcomes, such as stroke, coronary heart disease, and myocardial infarction.
+With more frequent use (more days per month), the odds of adverse outcomes were higher. The results were similar after controlling for other cardiovascular risk factors, including alcohol use, tobacco and/or e-cigarette use, physical activity, body mass index, and type 2 diabetes.
+Non-users had a lower risk of heart issues than both daily and non-daily cannabis users. Daily users were 25% more likely to suffer a heart attack than non-users.
+Daily cannabis users were also 42% more likely to have a stroke higher compared to non-users. There was also a lower risk for less-than-daily users.
+Cannabis use was associated with 36% higher odds for premature stroke, heart attack, and cardiovascular disease among younger adults at risk for premature cardiovascular disease, regardless of whether they also used traditional tobacco products or not.
+An analysis of a smaller subgroup of younger adults who never smoked tobacco cigarettes or used nicotine e-cigarettes found a significant association between cannabis use and increased odds of stroke, heart attack, and coronary heart disease.
+The participants in the cannabis and heart health study
+Survey participants were 18 to 74 years old with an average age of 45. About half identified as female, 60% identified as white adults, 11% identified as Black adults, 19% identified as Hispanic adults and nearly 9% identified as other.
+Nearly 90% of the adults didn’t use cannabis, 7% used less than daily, and 4% used daily.
+Of users, nearly 74% reported smoking it. More than 60% never used tobacco cigarettes, 28% of daily cannabis users never used tobacco cigarettes, 44% of non-daily cannabis users never smoked tobacco cigarettes, and nearly 64% of participants didn’t use cannabis and had never smoked tobacco cigarettes.
+“Our sample was large enough that we could investigate the association of cannabis use with cardiovascular outcomes among adults who had never used tobacco cigarettes or e-cigarettes,” Jeffers said. “Cannabis smoke is not all that different from tobacco smoke, except for the psychoactive drug: THC vs. nicotine. Our study shows that smoking cannabis has significant cardiovascular risk risks, just like smoking tobacco. This is particularly important because cannabis use is increasing and conventional tobacco use is decreasing.”
+The authors acknowledged several study limitations, including that much of the information was self-reported and that researchers didn’t have participants’ baseline lipid profile or blood pressure.
+The study also used data for only a single point in time. The authors said prospective cohort studies are necessary, following groups of individuals over time.
+Looking at the adverse health effects of cannabis
+Dr. Cheng-Han Chen is an interventional cardiologist and medical director of the Structural Heart Program at MemorialCare Saddleback Medical Center in California.
+Chen, who wasn’t involved in the study, told Medical News Today that as cannabis use increases, we’re only now understanding its effect on heart health.
+Even then, he said there’s plenty of evidence linking cannabis to heart attacks and strokes.
+“Given this evidence, we may soon be seeing more public health recommendations to avoid cannabis use, similar to our recommendations to avoid tobacco use,” Chen said. “This would be especially important to people with pre-existing cardiovascular disease or with cardiovascular risk factors.
+Chen noted that researchers are discovering ingesting THC increases systolic absorption of the chemical when compared to smoking THC, and thus results in greater adverse effects.
+“However, cannabis smoke comes with a separate set of health concerns as the smoke contains many carcinogens and mutagens similar to tobacco smoke,” he said.
+Loren Wold, an expert in inhaled products and cardiovascular risk at The Ohio State University Wexner Medical Center who wasn’t involved in the research, told Medical News Today the study’s inclusion of cannabis use by ingestion hasn’t been reported before in such a large study.
+“It is very important to understand that it does not appear to [just] involve the inhalation of particulate matter from inhalation – smoking or vaping cannabis – but any form of ingestion can have effects on heart health,” Wold said.
+The importance of cannabis research
+Wold said as cannabis becomes more mainstream, it’s important for these studies to gain a wider audience.
+“It is important for policymakers to understand the potential cardiovascular risk to younger and older adults should these products continue to be legalized,” she said.
+Dr. Mary Greene, a cardiologist with Manhattan Cardiology in New York City who wasn’t involved in the study, told Medical News Today this research has been a long time coming.
+“In the field of cardiology, we have long suspected cannabis to be related to an increased risk of poor cardiovascular outcomes – heart attack, heart failure and stroke – but there has been insufficient evidence as many studies were not designed or powered for these specific outcomes,” Greene said. “This study addresses this specifically. There have been sentinel cardiovascular studies since the early 2000s that have suggested this.”
+“And these findings are striking, indicating a 36 percent increased risk of heart disease and heart attack and a 42 percent increase in the risk of stroke. So, this study is validating what we have seen in past studies,” she said.
+Greene said the study shows the method of consumption doesn’t matter
+“There is a clear dose-response relationship with the outcomes, meaning that the more regularly the THC is consumed, the greater the chance of a major adverse cardiovascular event,” Greene said. “Those risks increase with each number of cardiovascular risk factors that are additionally present (like) diabetes, smoking etc. If you have an underlying cardiac risk factor, it may be a bad idea to consume THC regularly.”
+“Of course when prescribed medically, one must weigh risks and benefits when consulting with their prescribing physician,” she added.
+Some cautions on the cannabis study
+Daniele Piomelli, the director of the UC Irvine Center for the Study of Cannabis in California who wasn’t involved in the study, told Medical News Today that cross-sectional survey studies such as this can’t necessarily demonstrate cannabis is bad for you, for two reasons.
+“First, they are not designed to show a causative link between cannabis use and health outcomes; and second, surveys are intrinsically biased,” Piomelli said. “Some folks answer, others don’t, and one does not know why.”
+“We don’t take too seriously the innumerable surveys showing that ‘cannabis is good for you,’, so we should apply the same critical spirit to studies that claim to show the opposite,” he added.
+Getting the word out on cannabis safety
+Dr. Saint Anthony Amofah, the executive vice president, chief clinical officer, and chief academic officer at Community Health of South Florida who wasn’t involved in the research, told Medical News Today that in the case of this study, size matters.
+“With 430,000 people studied, this is a strong study, which adds to the bank of knowledge that this is a real concern,” Amofah said. “In recent years, we have seen similar studies but not of this size and scope.”
+Amofah said the study shows “There is a misplaced perception that cannabis is good and safe, but that view, as we can see from this study, is inaccurate.”
+“But some believe increased health risks have to do with the mode of consumption, whether you are smoking it or ingesting it as an edible or consuming it through a vaporizer,” he said. “But this study, unlike other studies, showed that no matter how you took it, cannabis presented significant increased health risks. The huge sample size for this study.”
+Amofah added the study justifies spreading the word.
+“The next step is to do what we can as part of the medical community to get the message out to the public that cannabis isn’t good for you,” he said.
+
+https://www.medicalnewstoday.com/articles/exercise-helps-keep-the-weight-off-after-stopping-glp-1-drug-treatment
+Exercise helps keep the weight off after stopping GLP-1 drug treatment
+There appears to be no need to stay on GLP-1 receptor agonist drugs used for weight reduction — such as Wegovy — forever if one accompanies their use with regular exercise, according to a new Danish study.
+The medications, originally developed for diabetes, are becoming increasingly popular for weight loss, but until now, it seemed as if once a person started taking them, they had to take them forever to keep weight off.
+The study found that people who combined such medications with exercise were more likely to maintain a weight loss of 10% a year compared to their starting weight after they had stopped taking the drugs.
+The conventional wisdom regarding the class of effective new weight-loss drugs is that if one stops taking them, the lost weight will automatically return.
+A new study from the University of Copenhagen and Hvidovre Hospital in Denmark finds that this is not necessarily the case.
+The key, researchers find, is taking such medications while participating in a structured weight-loss program that extends beyond the use of the drugs.
+Participants in the study maintained their weight loss up to a year after ending their medication treatment.
+The new weight-loss drugs mimic glucagon-like peptide-1, GLP-1, which promotes a sense of satiety, and thus reduces the desire to overeat.
+They release an agonist after a meal that travels to the brain, signaling fullness. It also slows down the emptying of stomach contents, reinforcing the sensation.
+The new study appears in eClinicalMedicine.
+10% reduction in body weight with exercise
+These drugs have generally been developed for people with diabetes, with some being available for nearly 20 years. Only in the last few years have they become popular for weight loss. They are mostly injectable drugs, though the number of oral formulations is growing.
+There are various GLP-1 medications on the market based on several compounds. Semaglutide is the drug known by the following brand names: Wegovy, Ozempic, and Rybelsus. Saxenda is a brand name for liraglutide, for example, while Trulicity contains dulaglutide.
+Of semaglutide drugs, only Wegovy has received Food and Drug Administration (FDA) approval for the treatment of overweight or obesity in the United States. Of liraglutide drugs, only Saxenda has FDA approval as a weight-management treatment.
+Other semaglutide and liraglutide drugs are used for weight management only in an off-label capacity.
+The new study was a randomized, controlled trial conducted in Copenhagen, including 166 adults with obesity ranging from 18 to 65 years of age. The participants completed an 8-week calorie-reduction diet, achieving an average weight loss of 13.1 kilograms (kg).
+At the end of this initial program, participants were randomly assigned to one of four groups for 52 weeks:
+A year after they had stopped these treatments, 109 participants returned for weight assessments.
+The researchers found that more of those who had received Saxenda and participated in regular exercise during the treatment phase maintained a 10% reduction in their initial body weight.
+They were 4.2 times more likely to maintain their initial weightloss than those who had taken Saxenda without exercise during the treatment phase.
+Of those who took liraglutide without exercise during the treatment phase, the average weight regain was 6 kg higher, compared to those who had received the combined treatment.
+No need to stay on GLP-1 drugs forever
+While GLP-1 medications have been with us for decades as diabetes drugs, some are hesitant to get started with them if they require a lifetime commitment — and expense — to maintain a significant weight loss.
+As insurance coverage is currently uneven in the U.S., this study may bring comfort to such people.
+The study’s senior author, Dr. Signe Sørensen Torekov, summed up her personal takeaway from the study, saying that “[i]t is actually possible to stop taking the medication without large weight regain if you follow a structured exercise regime.”
+“Our study offers new hope as we have shown that the majority of those who take weight loss medication and exercise regularly are able to maintain the beneficial effects a year after treatment termination.”— Dr. Signe Sørensen Torekov
+While expressing concern about the low number of participants involved in the study, bariatric surgeon Dr. Mir Ali, who was not involved in this research, was nonetheless positive about its methodology and findings.
+“I haven’t seen another study like this, so it’s a good start,” Dr. Ali told us.
+More realistic view of weight-loss drugs
+While these medications have been viewed as nearly magical in their ability to help someone trim down, the study highlights that this is perhaps not the best way to view them.
+“There are two ways I guess people are looking at this. One is, you know, they temporarily use the medication, get to a healthy weight, and hopefully, in that time period, they learn how to change your habits of eating and exercise and can maintain the weight loss,” said Dr. Ali.
+The second perspective he cited involves a shift from looking at excess weight as being simply someone’s fault, and instead viewing it as a chronic disease, such as diabetes or high blood pressure. For some people, that means being on a medication in the long term, or for life.
+”Agonists are very effective in obtaining healthy weight and reducing risk of cardiovascular disease,” pointed out Dr. Torekov. “Thus, depending on your age and co-morbidities, this is a good option for sustained healthy weight.
+Exercise vs diet for weight loss
+For weight loss, Dr. Ali noted, even exercise is no magic bullet all by itself.
+“We tell our surgical patients exercise adds about 5 to 10% to the weight loss,” he said. Therefore, “Eighty to 90% of the weight loss is what you’re eating. So if you don’t make significant changes in your diet, nothing really works.”
+“What we emphasize to our patients is reducing carbohydrates and sugars and sticking to protein and vegetables to force the body to burn fat,” added Dr. Ali.
+Nonetheless, Dr. Torekov noted that “[a]ll people, regardless of body size, should perform exercise for improved or maintained health.”
+As a bariatric surgeon, Dr. Ali also noted that these medications can help bring a person’s weight down to help make bariatric surgery safer. On the other side, he said, “[w]e have patients who have had surgery and maybe need to lose more weight and are struggling.”
+Dr. Ali clearly explained of how GLP-1 medications should be viewed.
+“I mean, we encourage all our patients, and we tell them the same thing: That the medications are a tool to help you change to a healthier lifestyle and diet,” he said. “Like any other tool, if you use it the right way, it works. If not, it doesn’t work.”
+
+https://www.medicalnewstoday.com/articles/abdominal-fat-cognitive-decline-alzheimers-risk
+Belly fat linked to cognitive decline in people at risk for Alzheimer’s
+Researchers from Rutgers University say abdominal fat could impact brain health and cognition among people at risk for Alzheimer’s disease.
+Researchers found that middle-aged males with a high Alzheimer’s risk who had higher amounts of pancreatic fat had lower cognition and brain volumes.
+Abdominal fat also affected Alzheimer’s risk among female participants, but less so compared to males.
+There are about 47 million people around the world living with Alzheimer’s disease (AD), with that number expected to jump to 76 million by 2030.
+Alzheimer’s disease is the most common type of dementia.
+There is currently no cure for Alzheimer’s disease. While anyone can develop Alzheimer’s, several factors may influence a person’s risk of developing the condition. These include:
+Now, researchers from Rutgers University present evidence suggesting the amount and location of abdominal fat a person has can impact their brain health and cognition if they are at a high risk of developing Alzheimer’s disease.
+The study was published February 27 in the journal Obesity.
+How does belly fat impact brain health?
+Abdominal fat comprises subcutaneous or visceral fat located deep within the body’s abdominal cavity and surrounds organs such as the pancreas and liver.
+A person’s visceral fat can be determined using a tape measure to measure their waistline.
+While a healthy level of visceral fat is used to protect these organs, too much has been linked to health issues such as:
+Previous studies have also looked at a link between unhealthy body weight levels and dementia risk.
+A study presented at the annual meeting of the Radiological Society of North America in November 2023 reported visceral fat could trigger brain changes related to Alzheimer’s up to 15 years before diagnosis.
+Research published in August 2018 found that higher levels of abdominal fat in older adults are associated with cognitive decline.
+Abdominal fat raises Alzheimer’s risk
+Dr. Michal Schnaider Beeri, director of the Herbert and Jacqueline Krieger Klein Alzheimer’s Research Center at Rutgers Brain Health Institute and senior author of this study, explained to Medical News Today why they decided to study the impact of abdominal fat on brain health and cognition in people with a high risk of developing Alzheimer’s disease.
+“The pathology that develops in the brain of Alzheimer’s patients begins in middle age,” Dr. Schnaider Beeri detailed. “Also, the associations of risk factors — such as obesity — with Alzheimer’s (are) strongest when the risk factors evolve in midlife. So we have a great interest in focusing (on) midlife as a critical epoch for potential prevention of Alzheimer’s disease.”
+“We focus on (the) offspring of Alzheimer’s patients because they are at higher risk for developing the disease — a group of people for whom discoveries for prevention would be of the highest clinical value,” she continued. “(And) in general, the focus of research on the relationships of obesity with Alzheimer’s has been on body mass index (BMI) which does not represent (fat well), especially in older adults.”
+— Dr. Michal Schnaider Beeri, senior study author
+High abdominal fat linked to cognitive decline
+For this study, Dr. Schnaider Beeri and her team recruited 204 healthy middle-aged adults with a history of Alzheimer’s disease in their families. Study participants had a mean age of about 60, and 60% of the group was female.
+Participants underwent abdominal magnetic resonance imaging (MRI) to measure their visceral and subcutaneous fat and measurements of their cognition and brain volumes.
+Upon analysis, researchers found a higher amount of abdominal fat in their participant pool was associated with lower total gray matter volume in the brain and cognition.
+They also discovered that middle-aged men at high risk for Alzheimer’s disease with higher amounts of pancreatic fat were correlated with lower cognition and brain volumes, compared to female participants.
+“The finding regarding pancreatic fat cannot be named a surprise since this is likely the only study that investigated the potential role of pancreatic fat in brain and cognition,” Dr. Schnaider Beeri said.
+“Diabetes and pre-diabetes — which occur because of impaired pancreatic function — are consistently associated with a higher risk of dementia, and our study suggests the involvement of pancreatic fat in this association.”
+“Regarding the stronger findings in women, this was a surprise to us and we are investigating the causes for such differences,” she added. “Yet, our findings strongly suggest that research on the role of fat on brain aging must be done in the context of sex differences.”
+Metabolic factors play a role in brain health
+After reviewing this study, Dr. Verna R. Porter, a board certified neurologist and director of the Dementia, Alzheimer’s Disease, and Neurocognitive Disorders at Pacific Neuroscience Institute in Santa Monica, CA, told MNT that this study underscores the importance of comprehensive risk assessment and management strategies for patients.
+“Focusing not only on traditional risk factors like genetics and lifestyle but also on metabolic factors such as abdominal fat distribution,” Dr. Porter added.
+For the next steps in this research, Dr. Porter said she would like to see further exploration into the mechanisms underlying the relationship between abdominal fat and brain health, particularly in different population groups and across various stages of Alzheimer’s disease progression.
+“Longitudinal studies could provide valuable insights into the long-term impact of interventions targeting abdominal fat reduction on cognitive function and Alzheimer’s risk. Moreover, investigating the efficacy of targeted interventions, such as dietary modifications or exercise programs specifically aimed at reducing abdominal fat, would be beneficial in developing personalized approaches for Alzheimer’s risk management.”
+— Dr. Verna R. Porter, neurologist
+How to reduce belly fat
+Dr. Mir Ali, bariatric surgeon and medical director of MemorialCare Surgical Weight Loss Center at Orange Coast Medical Center in Fountain Valley, CA, said the main causes of abdominal obesity are poor diet — primarily too much sugar, alcohol, trans-fat, and not enough protein. Dr. Ali was not involved in the study.
+“Unfortunately, you cannot target weight loss to certain areas like your abdomen,” Dr. Ali told MNT. “However, losing weight overall will lead to a reduction in truncal obesity. A diet high in fiber and protein as well as low in sugar is a great place to start.”
+In addition to a healthy diet, Dr. Porter said regular physical activity, getting enough sleep, and limiting alcohol consumption can help lower visceral fat.
+“Chronic stress can contribute to abdominal fat accumulation,” she explained, noting the following stress-reduction techniques:
+“Drinking plenty of water throughout the day can help support metabolism and promote feelings of fullness, potentially reducing overeating and abdominal fat accumulation,” Dr. Porter said.
+
+https://www.medicalnewstoday.com/articles/why-bariatric-surgery-is-effective-for-type-2-diabetes-management
+Why bariatric surgery is effective for type 2 diabetes management
+Researchers report that bariatric weight-loss surgery provides more long-term benefits for managing type 2 diabetes than lifestyle changes.
+They said that bariatric surgery also improves cholesterol and triglyceride levels more effectively than medical or lifestyle modifications.
+Currently, people with body mass index readings of under 35 do not qualify for the surgery under most health insurance company guidelines.
+Bariatric surgery provides more benefits than lifestyle changes in managing type 2 diabetes, according to a study completed at the University of Pittsburgh School of Medicine and published today in the journal JAMA.
+As part of the research, participants with type 2 diabetes and obesity enrolled in one of four randomized clinical trials completed between May 2007 and August 2013.
+The participants underwent bariatric surgery or completed a medical and lifestyle program based on established interventions known to reduce diabetes risk.
+Interventions included physical activity, nutrition tracking, enhanced engagement with a healthcare team, stress management, support groups, and medication. The trials occurred before the availability of GLP-1 receptor agonist medications such as Ozempic for diabetes management and weight loss.
+The researchers followed most of the participants for 12 years.
+Findings in the weight loss surgery and diabetes management study
+The researchers reported that bariatric surgery improved cholesterol and triglyceride levels more effectively than medical or lifestyle modifications. High cholesterol levels are a risk factor for heart disease.
+Participants who had the surgery also consistently had lower HbA1c levels, indicating better blood sugar control, at every follow-up point, despite starting the study with higher baseline levels.
+The findings also included:
+Participants who did not achieve diabetic remission still had better blood sugar control and used less diabetes medication than those who underwent lifestyle changes, the researchers noted.
+Reaction to the bariatric surgery study
+“In my practice, I have seen patients who have weight loss surgery be able to discontinue their diabetes, high blood pressure, and lipid-lowering medications,” said Dr. Mir Ali, a bariatric surgeon and medical director of MemorialCare Surgical Weight Loss Center at Orange Coast Medical Center in California who was not involved in the study.
+The confirmation from the study results that bariatric surgery is more effective than lifestyle interventions was not surprising to Dr. Anita Courcoulas, the chief of the Section of Minimally Invasive Bariatric and General Surgery at the University of Pittsburgh School of Medicine and one of the authors of the study.
+“What is new/novel is that this is the largest study of its type and the length of follow up of 7 to 12 years is the longest,” she told Medical News Today. “As well, this study includes 37 percent of participants with BMI (body mass index) less than 35 with class 1 obesity and also finds long-term superiority of surgery over medical/lifestyle treatment in this subset. These findings combined with existing evidence lend very strong support for the use of bariatric surgery to treat type 2 diabetes in people who cannot achieve glycemic control by non-surgical means.”
+Dr. Eliud Sifonte, an endocrinologist at NYU Langone Medical Associates — West Palm Beach and Delray Beach in Florida who was not involved in the study, agreed.
+“This study confirms previously known findings showing the benefits of bariatric surgery in those with metabolic diseases like diabetes and the efficacy of early interventions in the progress of a diabetic,” he told Medical News Today. “It also confirms the weight-centered approach to treatment of metabolic derangements as compared to the traditional glucose-centric approach.”
+“I believe this confirmation could be key to helping some patients make the decision to undergo bariatric surgery particularly since it presents the possibility of remission, which is something many people with new onset diabetes are interested in,” Sifonte added. “In my practice I typically discuss bariatric surgery with those patients who have a history of obesity with metabolic complications regardless of the typical threshold.”
+BMI and bariatric surgery
+The researchers reported that the study’s results were consistent across weight class groups, indicating that surgery was equally beneficial for people with body mass indexes (BMI) below and above 35 kg/m2.
+Typically, physicians do not recommend surgery for people below the 35 BMI level.
+“BMI is not an ideal marker of metabolic disease,” said Dr. Mitchell Roslin, the chief of bariatric surgery at Northwell Lenox Hill Hospital in New York who was not involved in the study. “In fact, even high sugar misses a lot of people. All the big killers in the West are linked to metabolic disease. This includes heart disease, cancer, and neurological degenerative diseases.”
+“Bariatric surgery that provides a long-lasting control mechanism that better matches the brain and GI tract, reduced hunger and prolonging satiety, is the best and perhaps only treatment to provide long-term control of metabolic syndrome,” Roslin told Medical News Today. “While obesity makes metabolic [disease] more common, there are many with smaller BMI who have metabolic disease. Additionally, as people age, metabolic disease increases.”
+“Thus, [I have] no reluctance to offer bariatric surgery to low BMI patients with metabolic syndrome,” he added. “Like any therapy, [some] things will be prevented and others, more likely. The advantage is a lower risk of heart disease and cancer and [but] an increased risk of osteoporosis and anemia. In my mind, this risk can be mitigated with follow-up after surgery, diet, and exercise.”
+The researchers did not find differences in mortality or major cardiovascular events in different weight class groups.
+Insurance payments for weight loss surgery
+In many cases, the final word on having bariatric surgery is not with the doctor or the patient.
+“The decision is up to their health insurance company,” Mir told Medical News Today. “Many times, the insurance companies are quite strict with approvals. People with a BMI of under 35 often do not get approved. Sometimes, if there are other health conditions, such as diabetes, we can ask them to approve payment. More often, they deny the claim.”
+Ali said he has been working with other physicians to try to get the insurance companies to lower the BMI threshold for weight loss surgery, but so far has not had any luck.
+
+https://www.medicalnewstoday.com/articles/eating-healthy-plant-based-diet-may-make-sleep-apnea-less-likely
+Eating a healthy plant-based diet may make sleep apnea less likely
+Obstructive sleep apnea is a sleep-related breathing disorder that has been linked directly to cardiovascular issues, and indirectly to cancer, diabetes, and dementia due to loss of healthy sleep.
+A new study finds that eating a healthy plant-based diet can significantly reduce the risk of developing obstructive sleep apnea.
+The study also indicates that consuming an unhealthy plant-based diet heavy in refined grains, sugar, and salt, as well as too many animal-based foods, significantly raises the chances of developing obstructive sleep apnea.
+Obstructive sleep apnea (OSA) occurs at a time least likely to be detected by a person who has it — while they are sleeping. Nonetheless, it is a serious condition. There is a range of factors that may cause it. A new study investigates the effect of a plant-based diet on the likelihood of developing OSA.
+While the study finds eating a plant-centric diet can help one avoid OSA, it also finds that the quality of that diet is critically important.
+The study found that people who adhered most closely to a healthy plant-based diet (hPDI) lowered their risk of OSA by 19%, and people who were pro-vegetarian (largely vegetarian) also saw a significant reduction in risk. However, eating an unhealthy plant-based diet (uHPDI) can significantly raise one’s risk of OSA, by 22%.
+The culprits in an unhealthy plant diet are the usual suspects that have been linked to a range of health issues: refined grains, high sugar, and salt, as well as heavily processed foods, which often contain all three.
+The study is the first to investigate plant-based diets of different qualities as they might affect the likelihood of developing OSA. The Australian study analyzed cross-sectional data from 14,210 participants of the National Health and Nutrition Examination Survey. All participants reported the foods they consumed over the previous 24 hours.
+To assess the risk of OSA, the researchers used the STOP-BANG questionnaire, an acronym for Snoring, Tired, Observed (Snort), Pressure (blood pressure), body mass index (BMI), Age, Neck, Gender).
+The study is published in ERJ Open Research, a publication of the European Respiratory Society.
+What happens at night when you have sleep apnea?
+OSA is a sleep-related breathing disorder in which a physical obstruction blocks the intake of oxygen through the nose or throat, explained neuroscientist and sleep expert, Dr. Chelsie Rohrscheib, who was not involved in the study.
+“OSA is primarily due to anatomical issues in the upper airways. A person with OSA may have abnormally small airways, a small, or narrow jaw, large soft tissues in the throat such as a large tongue or tonsils, or an obstructed nasal passage,” she told Medical News Today.
+“These features make the airways more prone to blockage during sleep and restrict the flow of oxygen,” said Dr. Rohrscheib.
+She noted as well that excess weight can result in fat deposits around the neck and face, placing pressure on one’s airways. Losing weight may help, but if the basic reasons for OSA are anatomical, the condition may nonetheless persist.
+“A person with OSA stops breathing many times per hour, which causes a drop in their blood oxygen levels,” said Dr. Rohrscheib. “When the brain detects that oxygen levels are too low, it will wake the individual up briefly to start breathing again.”
+At a minimum, this start-and-stop breathing and sleeping can be exhausting, ruining the deep sleep one needs for health. OSA, said Dr. Rohrscheib, is associated with an increased risk of many serious chronic conditions including cardiovascular disease, diabetes, and cancer.
+“Hypoxia, the frequent drops in blood oxygen levels, places a large strain on the body, which can lead to damage over time. Hypoxia is especially hard on the cardiovascular system,” said Dr. Rohrscheib.
+It also increases a person’s risk of chronic inflammation, which has been tied to various metabolic illnesses.
+Can a plant-based diet help sleep apnea?
+The study’s first author, Dr. Yohannes Melaku, said “OSA is known to be influenced by genetic, metabolic, and behavioral factors, with diet emerging as a crucial risk factor. Previous research primarily focused on various dietary behaviors, but less so on the link with a plant-based diet specifically.”
+Not all plant-based or pro-vegetarian diets are the same, nor are they all equally healthy.
+”Our research indicates a clear correlation: a higher score in the hPDI is linked with a lower risk of OSA, whereas a high score in the uPDI has an inverse relationship,” said Dr. Melaku.
+This supports the general idea of integrating healthier, plant-sourced foods into one’s daily diet, even when other non-plant foods may also be consumed.
+However, said Dr. Melaku, “The key is to limit the intake of processed and animal-based foods like refined grains, sweets, desserts, and meat while increasing consumption of whole plant foods like grains, vegetables, and nuts.”
+“Occasional indulgence,” he said, “may be acceptable, but regular consumption could be detrimental.”
+Michelle Routhenstein, cardiology dietician and preventive cardiology nutritionist at EntirelyNourished.com, who was also not involved in the study, and listed some ill effects of an unhealthy plant diet:
+“Consuming a diet high in ultra-processed foods may increase the risk of obstructive sleep apnea due to factors such as obesity, inflammation, insulin resistance, poor sleep quality, and exacerbation of gastroesophageal reflux disease (GERD).”
+For people who prefer to complement a plant-based diet with some animal-based foods, Routhenstein suggested: “Foods rich in unsaturated fats from fatty fish like salmon or sardines can improve the overall nutritional profile and contribute to a positive PVDI [pro-vegetarian diet index] score.
+This is “because they provide essential omega-3 fatty acids, specifically EPA and DHA, which are associated with numerous health benefits, including reduced risk of heart disease, improved brain function, and anti-inflammatory effects,” Routhenstein said.
+This menu may sound familiar.
+“Indeed, the PVDI shares similarities with the Mediterranean diet, particularly in its emphasis on whole, plant-sourced foods,” said Dr. Melaku.
+
+https://www.medicalnewstoday.com/articles/how-does-psoriasis-spread-througout-the-body-study-helps-explain
+How does psoriasis spread throughout the body? Study helps explain
+A new study investigates gene expression in the skin tissue of people with psoriasis.
+The researchers used a relatively new technique called spatial transcriptomics.
+This approach helps map differences in gene expression in healthy and affected skin.
+The researchers said they identified immune cell changes between healthy and diseased skin.
+Psoriasis is one of the most common immune-mediated inflammatory diseases, affecting up to 3% of people worldwide.
+Aside from its familiar dermatological symptoms, psoriasis also affects other organs and systems.
+People with the condition have an increased risk of metabolic syndrome, mental health conditions, and cardiovascular problems.
+In addition, about 1 in 3 people with psoriasis develop psoriatic arthritis.
+How psoriasis spreads throughout the body
+While scientists have made headway in understanding and treating psoriasis, it is not yet clear why there are variations in symptoms between individuals.
+Some people with psoriasis have plaques on just a small part of the body while others experience them over much larger sections of skin. Also, these plaques can vary substantially in thickness, scaliness, and redness.
+Evidence shows that the risk of developing cardiovascular disease and psoriatic arthritis increases with skin symptom severity.
+Therefore, it is vital to explore the mechanisms involved in symptom severity and how localized skin inflammation leads to systemic disease.
+A recent study in the journal Science Immunology helps fill in some missing pieces by employing spatial transcriptomics.
+“Our initial goal was to find measurable molecular signals that could tell us who is more likely to develop severe psoriasis as well as who is at higher risk of developing related disorders that often accompany psoriasis, such as arthritis and cardiovascular disease,” Dr. Jose Scher, a study co-senior investigator and a specialist in psoriatic disease at NYU Langone Health in New York, said in a press statement.
+What is spatial transcriptomics?
+Spatial transcriptomics is a relatively new technology that allows scientists to map cellular activity within human tissues precisely.
+Standard techniques to measure gene expression often involve homogenizing tissue samples. This means that spatial information is lost.
+With spatial transcriptomics, however, scientists can analyze gene expression in intact tissue. This provides detailed information about how gene expression varies in different regions of the sample.
+In the current study, this technique allowed researchers to assess immune activity in different regions and layers of skin.
+Results from the study on psoriasis spread
+In the recent study, the scientists collected tissue biopsies from the flank, forearm, or buttocks of three healthy participants as well as 11 participants with psoriasis.
+In total, the researchers analyzed 25 biopsies.
+The researchers reported that in more severe cases of psoriasis certain cells were in different positions within the skin’s layers.
+Immune cells in samples from healthy participants were particularly prevalent around follicles and blood vessels. However, these cells were closer to the skin’s surface in samples from people with psoriasis.
+In particular, fibroblasts — a key source of inflammatory cytokines — and macrophages were more common in the upper layers of skin in severe disease.
+In moderate-to-severe cases of psoriasis, the researchers noted increased gene expression in molecular pathways associated with the control of lipid levels and metabolism.
+These pathways play a role in various metabolic dysfunctions, including type 1 diabetes, nonalcoholic fatty liver disease, cholesterol metabolism, and lipolysis in adipocytes.
+The researchers identified this uptick in expression in both psoriatic lesion tissue and unaffected tissue from participants with psoriasis. This underlines one of the challenges in studying psoriasis — even if drugs successfully treat the more obvious external physical symptoms, molecular mechanisms may still be working against overall health.
+These metabolic pathways, the authors suggest, may play some part in the increased risk of diseases such as type 2 diabetes. However, researchers will need to carry out more work to understand how this plays out.
+The skin microbiome and psoriasis
+Follicles are rich with commensal bacteria. They also act as a gateway for the entry of allergens and pathogens. Follicular regions also richly express cytokines and immune activation factors.
+As the authors explain, animal studies show that bacteria living in follicles are important for immune surveillance. As an immune-mediated disease, these bacteria could provide another piece of the psoriasis puzzle.
+This study demonstrated how immune cells are situated more distantly from follicles in psoriatic samples, which could interrupt the healthy interaction between commensals and the immune system.
+Researchers said understanding which microbes reside in follicular regions within healthy and diseased skin might provide more insight.
+Future study on the spread of psoriasis
+Researchers said this study adds an important new tool for dermatology research because spatial transcriptomics effectively defined biologically relevant, distinct cellular “neighborhoods” in healthy skin.
+“Our study serves as a valuable resource for the scientific community, offering the most comprehensive archive of cellular and molecular features involved in both diseased and healthy skin,” said Shruti Naik, PhD, a study senior co-investigator and an assistant professor in the departments of pathology and medicine as well as the Ronald O. Perelman Department of Dermatology at NYU Langone, in a press statement.
+Medical News Today spoke with Axel Svedbom, PhD, a researcher at the Karolinska Institutet in Sweden who was not involved in the study.
+One of the challenges of studying psoriasis, he explained, is that the condition “is quite heterogenous and it is possible that grouping all patients with psoriasis together masks important mechanisms that would be found if patients were more carefully phenotyped.”
+He added that techniques, such as spatial transcriptomics, might help scientists move toward this goal and build more specific treatment plans for individuals.
+“I think the next step is to move toward precision medicine. Combining data from clinicians, patients, and the lab will help us to identify the right treatment for the right patient and at the right time,” Svedbom said.
+As technology advances and spatial transcriptomics gains higher resolution, the study authors said they hope to gather increasingly detailed information about skin in healthy and diseased states.
+“Collectively, our findings underscore the value of spatially-resolved gene profiling in understanding emergent cellular ecosystems underlying health and disease,” they wrote.
+
+https://www.medicalnewstoday.com/articles/sun-exposure-may-improve-female-fertility
+Sunlight exposure linked to improved fertility outcomes, study finds
+Results from a recent study suggest that moderate exposure to solar radiation during autumn and spring may help improve ovarian reserve in women ages 30–40.
+It’s too soon to determine the effects of solar radiation on fertility outcomes, particularly in younger age groups.
+Research is ongoing about which factors affect female fertility and how women can modify these factors.
+Many people face fertility challenges, particularly those who are over 35.
+Researchers are exploring various potential causes of infertility, such as environmental factors, and whether modifying these factors could have any affect on fertility outcomes.
+A recent study published in Steroids examined how exposure to solar radiation influences female fertility. Researchers examined levels of a specific hormone called anti-Müllerian hormone (AMH) and how levels of this hormone varied during different times of the year.
+The results were significant for women over 30 who experienced higher levels of AMH in the spring and autumn when there were moderate levels of solar radiation intensity.
+However, researchers did not observe this effect in women under 30, indicating that solar radiation may affect female fertility more with age. More research is required to understand these factors and the potential clinical implications.
+Sun exposure boosts female fertility
+Researchers looked at how sun exposure influenced fertility among women of younger and older maternal age. This study was conducted in Israel and included 2,235 women mainly between 20 and 40 years old.
+Researchers wanted to better understand the relationship between solar radiation exposure and anti-Müllerian hormone (AMH), an indicator of female fertility.
+“When evaluating the fertility status of a patient, often, an anti mullerian hormone level is obtained. This level correlates to ovarian reserve. Studies have revealed that AMH declines with age, and therefore also does fertility,” non-study author Dr. Kelli V. Burroughs, a national media women’s health medical expert and department chair of OB-GYN at Memorial Hermann Sugar Land in Texas, explained to Medical News Today.
+However, researchers of the current study note that AMH doesn’t necessarily reflect the quality of oocytes.
+The study authors looked at participant data for 4 years. Researchers measured solar radiation in the central district of Israel using data from the Israeli Meteorological Service website.
+Researchers found that AMH levels declined with age, so they divided participants into two groups: aged 20-29 years and 30-40 years. For women in the 20–29-year category, researchers did not find an association between AMH levels and the seasons or solar radiation intensity.
+However, the results differed for women in the 30–40 year group. Researchers found that AMH levels increased for these women in the spring and autumn when there were moderate solar radiation intensity levels compared to the winter months when there were low solar radiation intensity levels.
+The levels of AMH during months of moderate solar radiation exposure were overall higher than months that had high or low-intensity solar radiation levels.
+They also found that participants in the 30–40-year group who had AMH levels collected during the summer months had much higher AMH levels than participants who had AMH levels collected during the winter months.
+Researchers further divided participants into 30–35-year and 36-40-year groups. In the 30–35-year group, they did not find a significant correlation between solar radiation intensity or season and AMH levels. In the 36–40 group, they discovered that AMH levels were higher in the months of moderate solar intensity and higher in the summer compared to winter.
+The results indicate that exposure to moderate solar radiation may be helpful for women in their 30s who are trying to get pregnant.
+Dr. Burroughs noted the following:
+“This study is interesting because it suggests for women between ages 30-40 there is a possible seasonal influence on the AMH driven by the amount of sunlight or UV exposure. The mechanism behind the correlation of AMH and seasonal UV light exposure is unknown, but the study revealed higher levels of AMH with moderate UV exposure during spring and fall. It was also noted that low and high levels of UV exposure had the opposite effect on AMH levels.”
+Factors that influence female fertility
+Fertility is complex and affected by many components. Sometimes, it’s possible to modify certain factors that may contribute to infertility.
+For example, both obesity and being underweight can increase the risk of infertility. Smoking or heavy drinking can decrease fertility. Certain health conditions can also impact female fertility, such as:
+Non-study author Dr. Kecia Gaither, MPH, double board-certified OB-GYN and maternal-fetal medicine specialist and director of Perinatal Services/Maternal Fetal Medicine at NYC Health in New York, told MNT:
+“There are many factors which impact fertility — drugs, stress, female factors (endometriosis, fibroids, polyps, hormonal imbalances, PCOS etc) [and] male factors (i.e., low sperm counts). It’s important to note the environmental aspect — (i.e., plain sunlight exposure) as a factor correlating with positive reproductive health [or] outcomes.”
+One non-modifiable factor that affects female fertility is advanced maternal age as the chances of successful conception begin to decline after 35.
+“More women than ever are delaying childbirth until their 30s and 40s for a variety of reasons including education, employment obligations, career-goals and increase[d] access to contraception. The result of delayed childbearing until the 3rd or 4th decade in life can impact fertility, because as a woman ages the ovarian reserve or number of eggs starts to decline. After the age of 35, a woman is considered advanced maternal age (AMA). This terminology reflects the correlation between age and declining fertility status.”
+More research on the effects of sunlight on fertility needed
+This study does have limitations. First, it doesn’t establish any causal relationship between the observed components.
+Researchers also acknowledge that the lack of any significant association between AMH and seasons and participants between 20–29 years could be because of the difference in sample size between this group and the older group.
+Researchers also acknowledge that they did not analyze luteinizing hormone (LH) and follicular stimulating hormone (FSH) hormone levels in women aged 26–30, and this could have impacted their findings in this area.
+Researchers also note the possibility of confounding related to things like skin tone and cultural distinctions. Other factors like lifestyle and personal choices of participants could have also impacted the results.
+The research also focused on one area of the world, so the results could be different if conducted in other countries. Researchers did not take into account the origin of participants in their analysis. Finally, researchers did not have access to certain clinical information, like reproductive history.
+As research continues, study authors note that the potential benefits should be balanced with the possible risks of sun exposure, such as cancer or skin damage.
+
+https://www.medicalnewstoday.com/articles/female-ginseng-dong-quai-new-osteoporosis-treatments
+Female ginseng could hold the key to new osteoporosis treatments
+In the female ginseng (dong quai) plant, researchers have discovered a unique compound that may lead to new treatments for osteoporosis.
+Osteoporosis is a bone condition that causes bones to become more porous, weakening them.
+It affects women more frequently than men, but both sexes are at risk.
+The authors of the new study have synthesized the ginseng compound in the lab and found that, in cells, it inhibits the action of osteoclasts that cause osteoporosis to develop and progress.
+A new study announces the discovery of a new compound that shows promise for treating osteoporosis. The authors of the study found the compound in female ginseng — the plant is referred to as “dong quai” or “dang-gui” in China.
+The compound, which the researchers have since synthesized in their lab, inhibited the in vitro generation of osteoclasts that promote bone loss, suggesting a new pathway toward treatment of the condition.
+The researchers discovered two phthalide compounds in dong quai, Falcarinphthalide A–B, with carbon skeleton structures unlike any that have been seen before in the plant Angelica sinensis. Falcarinphthalide A is the compound with anti-osteoporosis promise.
+Osteoporosis is a condition that weakens bones, causing them to become less solid and more porous, increasing the risk of fractures and breaks. It is a condition that becomes more likely with age, and strikes women in far greater numbers than men.
+According to the U.S. Centers For Disease Control (CDC), the prevalence of its precursor low bone mass has held steady over the last few decades. However, with the aging of the U.S. population, the incidence of osteoporosis in women is on the rise.
+In data from 2017-2018, the prevalence of osteoporosis at either the femur neck — the hip — or lumbar spine, or both, among adults 50 and older was 12.6% on average. Its occurrence was higher, 19.6%, for women than it was for men, 4.4%.
+The study is published in ACS Central Science.
+Better osteoporosis treatments needed
+Study co-author Dr. Xin-Luan Wang explained the current treatment landscape for the condition. She cited bisphosphonates as the first line of treatment for osteoporosis. They have been used for preventing and treating the condition for over two decades by reducing osteoclast function, and typical adverse effects are not serious: stomach upset or heartburn.
+Another widely used medication for osteoporosis is denosumab. However, there can be complications from both drugs.
+“Reported complications of bisphosphonates and denosumab include a break or crack in the middle of the thigh bone, known as atypical femoral fracture, and osteonecrosis of the jaw,” Dr. Wang told Medical News Today.
+Estrogen, sometimes paired with progestin, was also frequently used for osteoporosis. However, Dr. Wang said that “This treatment can increase the risk of blood clots, endometrial cancer, breast cancer, and possibly heart disease.”
+How osteoclasts cause osteoporosis
+Osteoporosis medications typically inhibit the activity of osteoclasts.
+Dr. Wang said this is a desirable effect, explaining, “Osteoclasts promote bone loss through a process called ‘bone resorption.’”
+Specifically, she said, “They attach to the surface of bone and release hydrochloric acid and proteases — such as cathepsin K —to dissolve the mineral and matrix components of bone tissue simultaneously. This activity can mediate bone loss and contribute to conditions such as osteoporosis.”
+Using phthalides in female ginseng against osteoporosis
+Phthalides “are a widely studied class of natural products with a history of over 100 years in chemical research. They have gained increasing importance due to their diverse pharmacological activities and complex chemical structures, exemplified by drugs like mycophenolic acid and n-butylphthalide,” said Dr. Wang.
+She noted that roughly 180 natural phthalides have been identified.
+However, “The Falcarinphthalide A-B compounds represent an entirely new class of phthalides, distinct from any previously reported types,” said Dr. Wang.
+A remarkable aspect of Falcarinphthalide A-B is that they are the first examples of phthalide heteropolymers, a novel phthalide category in natural substances.
+What appears to be special about phthalide heteropolymers is their unique structure and mechanism of action.
+“This novel structure opens up possibilities for identifying new target sites and mechanisms, offering potential solutions for addressing the significant challenge of osteoporosis,” said Dr. Wang.
+How to avoid osteoporosis
+The U.S. National Institutes of Health (NIH), while noting the condition can strike anyone, listed a few groups at exceptional risk.
+For women, non-Hispanic white women and Asian women are most frequently affected by osteoporosis.
+The NIH adds that African American and Hispanic women are at a lower risk of developing osteoporosis, but their risk remains significant.
+Among men, osteoporosis is most likely to occur in non-Hispanic whites.
+Dr. Amber Robins, board certified family physician and author, who was not involved in the study, suggested the following to avoid osteoporosis:
+“Weight-bearing exercises like walking and dancing can be helpful in reducing the likelihood of osteoporosis. Also, eating foods that are rich in calcium can be helpful, too. If you have a vitamin D deficiency, it can be helpful to take vitamin D supplements to keep your bones strong.”
+The NIH also recommends drinking alcohol only in moderation, not smoking, and faithfully taking prescribed osteoporosis medications.
+Spotting signs of osteoporosis
+Dr. Robins described how one might know they have or are developing osteoporosis.
+“There are some who first learn they have osteoporosis if they have a fracture in their spine or hip after having a minor accident,” said Dr. Robins.
+There are externally visible indicators of osteoporosis as well.
+“Other signs of osteoporosis that are considered telltale symptoms are having a hump-shaped curvature of your back. The medical term for this is ‘kyphosis,’” said Dr. Robins.
+For people diagnosed with osteoporosis, Dr. Robins also endorsed caution and medication.
+“Taking the time to do exercises to improve your balance and flexibility can help prevent falls that could cause bone injury,” she said.
+It is also a good idea to ask one’s physician about drugs that can help the worsening of osteoporosis, such as Fosamax and Prolia, which Dr. Robins noted can help strengthen bones.
