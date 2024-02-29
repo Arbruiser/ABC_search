@@ -13,11 +13,14 @@ model = AutoModelForTokenClassification.from_pretrained("Clinical-AI-Apollo/Medi
 
 
 # import the documents
-with open("Site/NER_and_plotting/recent_medical_documents.txt", "r", encoding="utf-8") as f:
-    content = f.read()
+with open("Site/medical_document.txt", "r", encoding="utf-8") as f:
+    articles = f.read()
+articles = articles.split("\n\n")  # split by two new lines
+articles = articles[-50:] # takes only last 50 articles
+articles = str(articles)
 
 # process in chunks so that it doesn't blow up because it needs too much memory
-chunks = [content[i:i + 1000] for i in range(0, len(content), 1000)] 
+chunks = [articles[i:i + 1000] for i in range(0, len(articles), 1000)] 
 
 results = []
 for chunk in chunks:

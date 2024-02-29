@@ -2,13 +2,9 @@
 import matplotlib.pyplot as plt
 import json
 
-with open(
-    "Site/NER_and_plotting/NERed_recent_medical_documents.json", "r", encoding="utf-8"
-) as f:
+with open("Site/NER_and_plotting/NERed_recent_medical_documents.json", "r", encoding="utf-8") as f:
     results = json.load(f)
-with open(
-    "Site/NER_and_plotting/recent_medical_documents.txt", "r", encoding="utf-8"
-) as f:
+with open("Site/NER_and_plotting/recent_medical_documents.txt", "r", encoding="utf-8") as f:
     articles = f.read()
 
 
@@ -16,14 +12,10 @@ with open(
 categories = ["DISEASE_DISORDER", "SIGN_SYMPTOM", "MEDICATION", "BIOLOGICAL_STRUCTURE"]
 
 # Separate results for different categories
-filtered_results_categories = {
-    category: {} for category in categories
-}  # makes a list where keys are the categories and
+filtered_results_categories = {category: {} for category in categories}  # makes a list where keys are the categories and
 
 for result in results:
-    if (
-        float(result["score"]) > 0.5
-    ):  # only add word if the model is relatively confident
+    if (float(result["score"]) > 0.5):  # only add word if the model is relatively confident
         key = result["word"]
         if result["entity_group"] in categories:
             if key in filtered_results_categories[result["entity_group"]]:
@@ -34,25 +26,12 @@ for result in results:
 number_of_articles = len(articles.split("\n\n"))
 for category in categories:
     # Get the n most common words and their frequencies
-    most_common_filtered = {
-        k: v
-        for k, v in sorted(
-            filtered_results_categories[category].items(),
-            key=lambda item: item[1],
-            reverse=True,
-        )[:10]
-    }
-    formatted_category = category.lower().replace(
-        "_", " "
-    )  # lowercases the NER categories and replaces underscore with space
+    most_common_filtered = {k: v for k, v in sorted(filtered_results_categories[category].items(), key=lambda item: item[1], reverse=True)[:10]}
+    formatted_category = category.lower().replace("_", " ")  # lowercases the NER categories and replaces underscore with space
     # Create bar plot
     plt.figure(figsize=(10, 5))
-    plt.bar(
-        most_common_filtered.keys(), most_common_filtered.values(), color="darkorchid"
-    )
-    plt.title(
-        f'Entity Frequency for "{formatted_category}" over the last {number_of_articles} articles'
-    )
+    plt.bar(most_common_filtered.keys(), most_common_filtered.values(), color="darkorchid")
+    plt.title(f'Entity Frequency for "{formatted_category}" over the last {number_of_articles} articles')
     plt.grid(axis="y", linestyle="-", linewidth=0.2)  # Adds thin horizontal gridlines
     plt.ylabel("Frequency")
     plt.xticks(rotation=45, ha="right", fontsize=12)
@@ -61,17 +40,9 @@ for category in categories:
 
     # vertical bar plots
     plt.figure(figsize=(10, 8))
-    plt.barh(
-        list(most_common_filtered.keys()),
-        list(most_common_filtered.values()),
-        color="darkorchid",
-    )
-    plt.title(
-        f'Entity Frequency for "{formatted_category}" over the last {number_of_articles} articles'
-    )
-    plt.grid(
-        axis="x", linestyle="-", linewidth=0.2, alpha=0.6
-    )  # Adds thin horizontal gridlines, zorder - grid lines don't appear on top of bars
+    plt.barh(list(most_common_filtered.keys()), list(most_common_filtered.values()), color="darkorchid")
+    plt.title(f'Entity Frequency for "{formatted_category}" over the last {number_of_articles} articles')
+    plt.grid(axis="x", linestyle="-", linewidth=0.2, alpha=0.6)  # Adds thin horizontal gridlines, zorder - grid lines don't appear on top of bars
     plt.ylabel("Frequency")
     plt.xticks(ha="right", fontsize=12)
     plt.gca().invert_yaxis()  # Inverts the order
