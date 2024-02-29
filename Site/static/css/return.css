@@ -52,12 +52,18 @@ body {
   margin-bottom: 2%;
 }
 
-/* will define as needed */
+  /* Add padding directly to the table element */
+table {
+  margin: 0 auto; /* This will horizontally center the table */
+  /* padding-left: 40px; Adjust the value as needed */
+}
 
-/* tr {}
-
-td {} */
-
+/* Allow content to wrap to the next line */
+td {
+  max-width: 500px; /* Adjust the width as needed */
+  word-wrap: break-word; /* Wrap long words */
+  white-space: normal; /* Allow text to wrap */
+}
 /* .spacer {
   margin-bottom: 30px;
 } */

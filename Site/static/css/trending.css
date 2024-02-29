@@ -23,6 +23,21 @@ h1 {
     font-weight: bold;
 }
 
+.button {
+  padding: 5px 15px; /* Adjust padding to make the button smaller */
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  appearance: none; /* Remove default button appearance */
+  width: fit-content; /* Adjust width based on content */
+}
+
 .image-container {
   display: flex;
   justify-content: center; /* Horizontally center the images */

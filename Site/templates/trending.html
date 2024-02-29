@@ -8,12 +8,31 @@
   </head>
   <body>
     <h1> Recent trends based on the last X documents </h1>
-    <!-- <p> </p> -->
+    <div>
+      <a href="/">
+        <input
+        type="submit"
+        value="Return"
+        class="button"
+        />
+      </a>
+    </div>
     <div class="image-container">
     <img src="{{ url_for('static', filename='Plots/trending_BIOLOGICAL_STRUCTURE_vertical.png') }}" alt="Trending biological structures" class="trending-image">
     <img src="{{ url_for('static', filename='Plots/trending_DISEASE_DISORDER_vertical.png') }}" alt="Trending disease disorders" class="trending-image">
     <img src="{{ url_for('static', filename='Plots/trending_MEDICATION_vertical.png') }}" alt="Trending medications" class="trending-image">
     <img src="{{ url_for('static', filename='Plots/trending_SIGN_SYMPTOM_vertical.png') }}" alt="Trending sign symptoms" class="trending-image">
     </div>
+    <div>
+      <input type="button" value="Go to Top" class="button" onclick="scrollToTop()">
+    </div>
+    <script>
+      function scrollToTop() {
+          window.scrollTo({
+              top: 0,
+              behavior: "smooth" // Optional: Smooth scrolling animation
+          });
+      }
+    </script>
   </body>
 </html>
