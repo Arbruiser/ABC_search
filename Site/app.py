@@ -30,7 +30,7 @@ def search():
         # Process the query using TFIDF
 
         results = function_query(bort="t", user_query=query)
-    elif search_method == "Fuzzy Search":
+    elif search_method == "Semantic Search":
         # Process the query using Fuzzy search
         # results = f"Fuzzy search for '{query}'"
         results = function_query(bort="s", user_query=query)
