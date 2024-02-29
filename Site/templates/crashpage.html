@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>ABC NOT Search</title>
-    <link rel="stylesheet" href="../static/css/crash_page.css" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/crash_page.css') }}" />
   </head>
   <body>
     <div class="caption">
@@ -14,7 +14,7 @@
     </div>
     <div class="logo-container">
       <a href="javascript:history.back()">
-        <img src="../static/css/Crash_animals/{{animal_image}}" alt="Return" />
+        <img src="{{ url_for('static', filename='css/Crash_animals/' + animal_image) }}" alt="Return" />
       </a>
     </div>
   </body>
