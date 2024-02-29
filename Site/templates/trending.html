@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/trending.css') }}"/>
   </head>
   <body>
-    <h1> Recent trends based on the last X documents </h1>
+    <h1> Recent trends based on the last 50 documents </h1>
     <div>
       <a href="/">
         <input
@@ -22,6 +22,7 @@
     <img src="{{ url_for('static', filename='Plots/trending_DISEASE_DISORDER_vertical.png') }}" alt="Trending disease disorders" class="trending-image">
     <img src="{{ url_for('static', filename='Plots/trending_MEDICATION_vertical.png') }}" alt="Trending medications" class="trending-image">
     <img src="{{ url_for('static', filename='Plots/trending_SIGN_SYMPTOM_vertical.png') }}" alt="Trending sign symptoms" class="trending-image">
+    <img src="{{ url_for('static', filename='Plots/word_freq_with_NER_horizontal.png') }}" alt="Trending NER entities" class="trending-image">
     </div>
     <div>
       <input type="button" value="Go to Top" class="button" onclick="scrollToTop()">
