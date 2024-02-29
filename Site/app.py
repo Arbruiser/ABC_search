@@ -57,8 +57,8 @@ def search():
         selected_image = random.choice(funny_animals)
 
         # Rest of the code remains the same
-        random_number = random.randint(1, 3)
-        if random_number == 2:
+        random_number = random.randint(1, 100)
+        if random_number == 42:
             selected_image = "RARE/rare_lucky_golden_cat.jpg"
         return render_template("crashpage.html", animal_image=selected_image)
 
