@@ -10,20 +10,38 @@
     <div class="caption">
       <h1>Uh Oh...</h1>
       <p class="result">The page is not found...</p>
-      <p class="instruction">Click the image back to search</p>
+      <p class="instruction">Click the image back to search something else</p>
     </div>
     <div class="logo-container">
       <a href="javascript:history.back()">
-        <img src="../static/css/crash_cat.png" alt="Return" />
+        <img id="random-image" src="../static/css/crash_cat.png" alt="Return" />
       </a>
     </div>
-    <!-- <div>
-            <input
-            type="submit"
-            name="search_method"
-            value="Return"
-            class="return-button"
-            />
-        </div> -->
+    <!-- Belows is Javascript used to select images randomly -->
+    <script>
+      // Array of image URLs
+      var imageUrls = [
+        "../static/css/cat2.webp",
+        "../static/css/cat3.webp",
+        "../static/css/cat4.webp",
+        "../static/css/cat5.webp",
+        "../static/css/cat6.webp",
+        "../static/css/cat7.webp",
+        "../static/css/cat8.webp",
+        "../static/css/cat9.webp",
+        "../static/css/cat10.webp",
+        "../static/css/cat11.webp",
+        // Add more image URLs as needed
+      ];
+    
+      // Get a random index to select a random image URL
+      var randomIndex = Math.floor(Math.random() * imageUrls.length);
+    
+      // Get the <img> element by its ID
+      var imgElement = document.getElementById("random-image");
+    
+      // Set the src attribute of the <img> element to the randomly selected image URL
+      imgElement.src = imageUrls[randomIndex];
+    </script>
   </body>
 </html>
