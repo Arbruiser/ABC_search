@@ -156,7 +156,7 @@ def boolean_return(user_query):
         hits_list = list(hits_matrix.nonzero()[1])
 
         result = [f"Query: {user_query}"]
-        for doc_idx in hits_list[:10]:
+        for doc_idx in hits_list[:3]:
             doc_result = {
                 "title": titles[doc_idx],
                 "url": httplinks[doc_idx],
@@ -174,13 +174,13 @@ tfidf = TfidfVectorizer(lowercase=True, sublinear_tf=True, use_idf=True, norm="l
 tf_idf_matrix = tfidf.fit_transform(stemmed_documents).T.tocsr()  # using stemmed docs!
 
 
-def search_with_TFIDF(user_query,query_string, exact_match=False):
+def search_with_TFIDF(user_query, query_string, exact_match=False):
     # Vectorize query string
     query_vec = tfidf.transform([query_string]).tocsc()
-
+    # print((query_vec))
     # Cosine similarity
     hits = np.dot(query_vec, tf_idf_matrix)
-
+    # print(len(hits))
     # Rank hits
     ranked_scores_and_doc_ids = sorted(
         zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True
@@ -226,9 +226,9 @@ def search_with_TFIDF(user_query,query_string, exact_match=False):
 
         seen_doc_indices.add(doc_idx)
         unique_docs_found += 1
-        if unique_docs_found == 10:  # Stop after finding 3 unique documents
+        if unique_docs_found == 3:  # Stop after finding 3 unique documents
             break
-
+    print(results)
     return results
 
 
@@ -275,7 +275,7 @@ def search_with_embeddings(query):
 
             seen_doc_indices.add(idx)
             unique_docs_found += 1
-            if unique_docs_found == 10:  # Stop after finding 3 unique documents
+            if unique_docs_found == 3:  # Stop after finding 3 unique documents
                 break
 
     return results
@@ -292,15 +292,18 @@ def function_query(bort, user_query):
     # using TF-IDF search
     elif bort == "t":
 
-        if '"' in user_query:  # if the query contains quotes, skip the stemming
+        if '"' in user_query or "'" in user_query:    # if the query contains quotes, skip the stemming
             # replace " with space
-            user_query = user_query.replace('"', " ")
-            search_with_TFIDF(user_query, exact_match=True)
+            quoted_query = user_query
+            user_query = user_query.replace('"', "")
+            stemmed_query = user_query
+            # print(stemmed_query)
+            return search_with_TFIDF(quoted_query, stemmed_query, exact_match=True)
         else:
             stemmed_query = " ".join(stemmer.stem(word) for word in user_query.split())
             # print("stemmed query:", stemmed_query)
             try:
-                return search_with_TFIDF(user_query,stemmed_query, exact_match=False)
+                return search_with_TFIDF(user_query, stemmed_query, exact_match=False)
             except:
                 print("Invalid query, please try again.")
 
