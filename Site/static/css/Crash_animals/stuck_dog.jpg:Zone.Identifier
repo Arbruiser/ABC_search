@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/0451f751-10c5-46e8-abe2-7481bbeb00a0/stuck_dog.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240229%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240229T091424Z&X-Amz-Expires=86400&X-Amz-Signature=43e36910c7b21e46f3613244431f5a37e121852bb594039d1f6935d4d1db2574&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22stuck_dog.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject
