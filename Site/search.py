@@ -174,7 +174,7 @@ tfidf = TfidfVectorizer(lowercase=True, sublinear_tf=True, use_idf=True, norm="l
 tf_idf_matrix = tfidf.fit_transform(stemmed_documents).T.tocsr()  # using stemmed docs!
 
 
-def search_with_TFIDF(query_string, exact_match=False):
+def search_with_TFIDF(user_query,query_string, exact_match=False):
     # Vectorize query string
     query_vec = tfidf.transform([query_string]).tocsc()
 
@@ -188,7 +188,7 @@ def search_with_TFIDF(query_string, exact_match=False):
 
     results = []  # Initialize an empty list to store results
     results.append(
-        f"Query: {query_string}"
+        f"Query: {user_query}"
     )  # Append the query to the results list as the first element
 
     seen_doc_indices = set()
@@ -298,9 +298,9 @@ def function_query(bort, user_query):
             search_with_TFIDF(user_query, exact_match=True)
         else:
             stemmed_query = " ".join(stemmer.stem(word) for word in user_query.split())
-            print("stemmed query:", stemmed_query)
+            # print("stemmed query:", stemmed_query)
             try:
-                return search_with_TFIDF(stemmed_query, exact_match=False)
+                return search_with_TFIDF(user_query,stemmed_query, exact_match=False)
             except:
                 print("Invalid query, please try again.")
 
