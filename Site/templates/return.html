@@ -5,11 +5,13 @@
 <!-- Add the logo in the top -->
 <div class="container">
   <div>
-    <img
+    <a href="/">
+      <img
       src="{{ url_for('static', filename='css/UI_image.jpg') }}"
       alt="ABC_search"
       class="logo-image"
-    />
+      />
+    </a>
   </div>
     <!-- Search bar with buttons for different search methods -->
     <form action="/search" method="post">
@@ -42,10 +44,10 @@
       <button
         type="submit"
         name="search_method"
-        value="Fuzzy Search"
+        value="Semantic Search"
         class="search-button"
       >
-        Fuzzy Search
+        Semantic Search
       </button>
       </div>
     </form>
