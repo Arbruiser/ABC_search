@@ -156,7 +156,7 @@ def boolean_return(user_query):
         hits_list = list(hits_matrix.nonzero()[1])
 
         result = [f"Query: {user_query}"]
-        for doc_idx in hits_list[:3]:
+        for doc_idx in hits_list[:10]:
             doc_result = {
                 "title": titles[doc_idx],
                 "url": httplinks[doc_idx],
@@ -226,7 +226,7 @@ def search_with_TFIDF(user_query,query_string, exact_match=False):
 
         seen_doc_indices.add(doc_idx)
         unique_docs_found += 1
-        if unique_docs_found == 3:  # Stop after finding 3 unique documents
+        if unique_docs_found == 10:  # Stop after finding 3 unique documents
             break
 
     return results
@@ -275,7 +275,7 @@ def search_with_embeddings(query):
 
             seen_doc_indices.add(idx)
             unique_docs_found += 1
-            if unique_docs_found == 3:  # Stop after finding 3 unique documents
+            if unique_docs_found == 10:  # Stop after finding 3 unique documents
                 break
 
     return results
