@@ -1,6 +1,7 @@
 from flask import Flask, render_template, url_for, request, redirect
 from search import function_query
 import random
+import os
 
 app = Flask(__name__)
 
@@ -41,12 +42,24 @@ def search():
         # return results
         return render_template("return.html", results=results)
     else:
-        funny_animals = ['funny_chameleon.jpg', 'funny_chihuahua.jpg', 'funny_dog.jpg', 'funny_dogchicken.jpg', 'funny_fish.jpg', 'funny_llama.jpg', 'funny_meercat.jpg', 'funny_penguins.jpg', 'funny_seals.jpg', 'funny_sloth.jpg', 'funny_squirrel.jpeg', 'seductive_chimp.jpg', 'stuck_dog.jpg', 'cozy_chihuahua.jpg', 'crash_cat.png', 'danger_cats.jpg', 'funny_bear.jpg',     "also_her.jpg", "bad_worse.jpg",  "bober.jpg", "casowary.jpg", "fish.jpg", "fox.jpg", "headless_penguin.jpg", "heart_attack.jpg", "huge_eyes.jpg", "human_wolf.jpg",
-        "into_parrot.jpg", "look_natural.jpg", "lose_weight_cat.jpg", "loved_seal.jpg", "mean_me.jpg", "monkey_mum.jpg", "moose.jpg", "no_taxes.jpg", "owl.jpg", "panda_meme.jpg", "parents_meme.jpg", "patient_pigeons.jpg", "places_to_be.jpg", "positive_possum.jpg", "puppy.jpg", "raccoon.jpg", "sealed_door.jpg", "smiley_fish.jpg", "smiley_owl.jpg", "someone_hey.jpg", "squirrel.jpg", "start_drama.jpg", "stronger_rat.jpg", "the_hard_way.jpg", "tiger.jpg", "touches_foot.jpg", "winged_cow.jpg", "winter_dog.jpg", "worried.jpg", "money.jpg"]
+
+        # Get the path to the folder containing the funny animal images
+        folder_path = "Site/static/css/Crash_animals"
+
+        # Get a list of all the image files in the folder
+        funny_animals = [
+            file
+            for file in os.listdir(folder_path)
+            if file.endswith((".jpg", ".jpeg", ".png", "avif"))
+        ]
+
+        # Select a random image from the list
         selected_image = random.choice(funny_animals)
+
+        # Rest of the code remains the same
         random_number = random.randint(0, 100)
-        if random_number==42:
-            selected_image="rare_lucky_golden_cat.jpg"
+        if random_number == 42:
+            selected_image = "rare_lucky_golden_cat.jpg"
         return render_template("crashpage.html", animal_image=selected_image)
 
 
