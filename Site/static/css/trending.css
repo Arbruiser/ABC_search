@@ -17,14 +17,20 @@ body {
 
 h1 {
     text-align: center;
-    margin-top: 140px;
+    margin-top: 50px;
     font-size: 48px;
     color: #3e148d; /* Default color - dark gray */
     font-weight: bold;
 }
 
+.image-container {
+  display: flex;
+  justify-content: center; /* Horizontally center the images */
+  align-items: center; /* Vertically center the images */
+  flex-wrap: wrap; /* Allow images to wrap to the next line if necessary */
+}
+
 .trending-image {
-    /* display: block; Ensures the image behaves as a block element */
-    margin: 0 auto; /* Sets the left and right margins to auto, centering the image horizontally */
-    width: 35%;
+  max-width: 100%; /* Ensure images don't exceed their container's width */
+  margin: 10px; /* Add some margin between images */
 }
