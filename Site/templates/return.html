@@ -1,6 +1,6 @@
 {% extends 'returnpage.html' %} {% block head %}
 <title>Search Results</title>
-<link rel="stylesheet" href="../static/css/return.css" />
+<link rel="stylesheet" href="{{ url_for('static', filename='css/return.css') }}" />
 {% endblock %} {% block body %}
 <!-- Add the logo in the top -->
 <div class="container">

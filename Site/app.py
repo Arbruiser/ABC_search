@@ -10,17 +10,15 @@ app = Flask(__name__)
 def index():
     return render_template("search_UI.html")
 
-
-@app.route(
-    "/search", methods=["POST"]
-)  # Please complete the method, Baiyi will synchronize the layout of the return page.
-def search():
-    # Get the search query from the form
+@app.route("/search", methods=["POST"])
+def search_redirect():
+    search_method = request.form["search_method"]
     query = request.form["query"]
-    search_method = request.form[
-        "search_method"
-    ]  # This tells you which button was clicked
 
+    return redirect(url_for('search', search_method=search_method, query=query))
+
+@app.route("/search/<search_method>/<query>", methods=["GET"])
+def search(query, search_method):
     # You can now use the search_method value to determine how to process the query
     if search_method == "Boolean Search":
         # Process the query using Boolean search
