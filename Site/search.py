@@ -151,30 +151,18 @@ sparse_td_matrix = (
 
 
 def boolean_return(user_query):
-    hits_list = []
     try:
         hits_matrix = eval(rewrite_query(user_query))  # the query
         hits_list = list(hits_matrix.nonzero()[1])
 
-        if len(hits_list) > 3:
-            hits_list = hits_list[:3]
-
-        result = []
-        result.append(f"Query: {user_query}")
-        for doc_idx in hits_list:
-            doc_result = {}
-            doc_result["Title"] = titles[doc_idx]
-            doc_result["Link"] = httplinks[doc_idx]
-
-            # Boolean match is exact match
-            for j, sentence in enumerate(documents_lists[doc_idx]):
-                query_words = set(user_query.split())
-                sentence_words = set(sentence.split())
-
-                if query_words.intersection(sentence_words):
-                    doc_result["Preview"] = documents_lists[doc_idx][j]
-                    break
-
+        result = [f"Query: {user_query}"]
+        for doc_idx in hits_list[:3]:
+            doc_result = {
+                "title": titles[doc_idx],
+                "url": httplinks[doc_idx],
+                "score": "N/A",
+                "preview": documents[doc_idx][:150] + "...",
+            }
             result.append(doc_result)
         return result
     except:
@@ -328,5 +316,5 @@ def function_query(bort, user_query):
 
 
 if __name__ == "__main__":
-    
+
     function_query()
