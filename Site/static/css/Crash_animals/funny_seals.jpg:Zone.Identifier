@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/af7a82c1-f795-4031-aade-93c5a55dff02/funny_seals.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240229%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240229T091424Z&X-Amz-Expires=86400&X-Amz-Signature=52ea841cfd861bfcec5c9650a9198b71f835418a3cccc6a68d67b799605d8113&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22funny_seals.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject

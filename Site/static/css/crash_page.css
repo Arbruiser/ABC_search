@@ -33,7 +33,7 @@ h1 {
     text-align: center;
     margin-top: 10px;
     color: rgb(192, 157, 224);
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .logo-container {
@@ -42,5 +42,6 @@ h1 {
 }
 
 .logo-container img {
-    max-width: 300px;
+    max-height: 800px;
+    max-width: 800px;
 }
