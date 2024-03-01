@@ -13,12 +13,28 @@ Contributed by Artur, Baiyi and Chao (ABC are our initials).
 4. Open http://127.0.0.1:8000 in your browser
 
 # Description of files:
-### **ABC_search/** :  
-_run_site.sh_ - automatically runs the website in debugging mode  
-_medical_document.txt_ - our collection of scraped articles which are separated by double new lines. Each article consists of link to the original, the title and the body of the article. Each sentence is its own line. 
+### **ABC_search/** :   
+_de_duplicate.ipynb_ -  
+_medical_document.txt_ - our collection of scraped articles which are separated by double new lines. Each article consists of link to the original, the title and the body of the article. Each sentence is its own line.  
+_run_site.sh_ - automatically runs the website in debugging mode   
+_scraper.ipynb_ - 
+_setup.py_ - Stores all the necessary dependencies for you to easily install  
 
-## **ABC_search/Site** :
 
+### **ABC_search/Site** :
+_app.py_ - Our Flask script that runs the website
+_search.py_ - Our search algorithm with Boolean, TF-IDF and semantic searches. 
+
+### **ABC_search/Site/all-MiniLM-L6-v2** :
+Our sBERT model 
+
+### **ABC_search/Site/NER_and_plotting** :
+
+
+### **ABC_search/Site/static** :
+
+
+### **ABC_search/Site/templates** :
 
 **Major updates:**
 
