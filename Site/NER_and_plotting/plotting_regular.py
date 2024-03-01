@@ -35,7 +35,7 @@ plt.grid(axis="y", linestyle="-", linewidth=0.2)  # Adds thin horizontal gridlin
 plt.ylabel("Frequency")
 plt.xticks(rotation=45, ha="right")
 plt.subplots_adjust(bottom=0.25)
-plt.savefig(f"Site/NER_and_plotting/Plots/word_freq_no_NER_horizontal.png")
+plt.savefig(f"Site/static/Plots/word_freq_no_NER_horizontal.png")
 
 # vertical bar plot
 plt.figure(figsize=(10, 8))
@@ -46,4 +46,4 @@ plt.ylabel("Frequency")
 plt.xticks(rotation=45, ha="right")
 plt.gca().invert_yaxis()  # Inverts the order
 plt.subplots_adjust(bottom=0.1)
-plt.savefig(f"Site/NER_and_plotting/Plots/word_freq_no_NER_vertical.png")
+plt.savefig(f"Site/static/Plots/word_freq_no_NER_vertical.png")
