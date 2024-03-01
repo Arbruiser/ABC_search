@@ -3,3 +3,4 @@ medical_document_no_dup.txt
 .DS_Store
 Site/.DS_Store
 Site/__pycache__/search.cpython-311.pyc
+.vscode/settings.json
