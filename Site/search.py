@@ -93,7 +93,8 @@ for document in documents:
         for i in range(0, len(temp_sentences_unstemmed), 2)
     ]
     documents_lists.append(sub_doc)
-    document = document.split()  # split the doc into words to prepare it for stemming
+    #TODO: need to split the words with punctuation
+    document = document.split()  # split the doc into words to prepare it for stemming 
     stemmed_document = " ".join(
         [stemmer.stem(word) for word in document]
     )  # stem and join the text back
@@ -228,7 +229,7 @@ def search_with_TFIDF(user_query, query_string, exact_match=False):
         unique_docs_found += 1
         if unique_docs_found == 10:  # Stop after finding 3 unique documents
             break
-    print(results)
+
     return results
 
 
@@ -297,15 +298,15 @@ def function_query(bort, user_query):
             quoted_query = user_query
             user_query = user_query.replace('"', "")
             stemmed_query = user_query
-            # print(stemmed_query)
+
             return search_with_TFIDF(quoted_query, stemmed_query, exact_match=True)
         else:
             stemmed_query = " ".join(stemmer.stem(word) for word in user_query.split())
-            # print("stemmed query:", stemmed_query)
+
             try:
                 return search_with_TFIDF(user_query, stemmed_query, exact_match=False)
             except:
-                print("Invalid query, please try again.")
+                pass
 
     # using fuzzy search
     elif bort == "s":
