@@ -1,16 +1,24 @@
 # ABC_search
-Our insanely cool group working on a search engine in medical field.
+This search engine is able to perform Boolean search, TF-IDF search or semantic search with sBERT, retrieving medical text data from [MedicalNewsToday](https://www.medicalnewstoday.com/).
 
-This search engine is able to perform Boolean search (for higher precison) or TF-IDF search (for higher recall), retrieving   medical text data from [MedicalNewsToday](https://www.medicalnewstoday.com/).
+Besides the search engine, our project also contains a scraper, which performs automatic scrapping on [MedicalNewsToday](https://www.medicalnewstoday.com/) and medical NER that we use for plotting. 
 
-Besides the search program, the project also consists of a scraper, which performs automatic scrapping on [MedicalNewsToday](https://www.medicalnewstoday.com/).
+Contributed by Artur, Baiyi and Chao (ABC are our initials).
 
-Contributed by Artur, Baiyi and Chao.
+**Use instructions:**
 
-**Use instruction:**
+1. Git clone "git clone https://github.com/Arbruiser/ABC_search.git"
+2. In the venv run "pip3 install ." to install all the necessary dependencies automatically.
+3. Run the command ./run_site from the root of the repository to automatically get the website running.
+4. Open http://127.0.0.1:8000 in your browser
 
-1. Git clone "git clone https://github.com/Arbruiser/BACoN.git"
-2. In the venv run "pip3 install ." to install all the dependencies.
+# Description of files:
+### **ABC_search/** :  
+_run_site.sh_ - automatically runs the website in debugging mode  
+_medical_document.txt_ - our collection of scraped articles which are separated by double new lines. Each article consists of link to the original, the title and the body of the article. Each sentence is its own line. 
+
+## **ABC_search/Site** :
+
 
 **Major updates:**
 
