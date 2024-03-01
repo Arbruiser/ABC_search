@@ -29,10 +29,15 @@ _search.py_ - Our search algorithm with Boolean, TF-IDF and semantic searches.
 Our sBERT model 
 
 ### **ABC_search/Site/NER_and_plotting** :
+_NER.py_ -
+_NERed_recent_medical_documents.json - 
+_plotting_regular.py_ - 
+_plotting_regular_NER.py_ - 
+_plotting_trending.py_ -
 
 
 ### **ABC_search/Site/static** :
-
+Contains 
 
 ### **ABC_search/Site/templates** :
 
