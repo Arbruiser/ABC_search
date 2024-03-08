@@ -19,8 +19,8 @@ _medical_document.txt_ - our collection of scraped articles which are separated 
 _run_site.sh_ - automatically runs the website in debugging mode.   
 _scraper.ipynb_ - scrapes the aforementioned website which publishes medical articles. 
 _setup.py_ - Stores all the necessary dependencies for you to easily install.    
-
-
+    
+    
 ### **ABC_search/Site** :
 _app.py_ - Flask script that runs the website.
 _search.py_ - the main search algorithm with Boolean, TF-IDF and semantic searches. 
