@@ -12,7 +12,7 @@ Contributed by Artur, Baiyi and Chao (ABC are our initials).
 3. Run the command ./run_site from the root of the repository to automatically get the website running.
 4. Open http://127.0.0.1:8000 in your browser.
   
-# Description of files:
+## Description of files:
 ### **ABC_search/** :   
 _de_duplicate.ipynb_ -  deletes duplicate lines and removes or adds new lines where necessary.  
 _medical_document.txt_ - our collection of scraped articles which are separated by double new lines. Each article consists of link to the original, the title and the body of the article. Each sentence is its own line.  
