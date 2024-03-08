@@ -41,9 +41,9 @@ _plotting_trending.py_ - plots NER entity frequency for 4 categories: "disease d
 Contains our CSS, background and images of funny animals that are used when the query doesn't match anything.  
 
 ### **ABC_search/Site/templates** :
-Contains html files.  
-
-
+Contains html files.       
+     
+     
 **Major updates:**
 
 Major updates: Update: 2024-02-22
