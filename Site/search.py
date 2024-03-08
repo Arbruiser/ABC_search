@@ -233,7 +233,7 @@ def search_with_embeddings(query):
         else:
             doc_result = {
                 "title": titles[idx],
-                "score": f"{cosine_scores[idx].item():.4f}",
+                "score": f"{cosine_scores[idx].item():.2f}",
                 "url": httplinks[idx],
                 "preview": f"{documents[idx][:150]}...",  # Display first 150 characters as a preview
             }
