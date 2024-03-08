@@ -3,12 +3,9 @@
 import matplotlib.pyplot as plt
 import matplotlib as mlp
 import nltk
-
-# nltk.download('stopwords') # uncomment these if you don't yet have them
 from nltk.corpus import stopwords
 
 stop_words = set(stopwords.words("english"))
-# nltk.download('punkt')
 
 mlp.use("Agg")
 fpath = "medical_document.txt"
