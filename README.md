@@ -1,13 +1,12 @@
 # ABC_search
-This search engine is able to perform Boolean search, TF-IDF search or semantic search with sBERT, retrieving medical text data from [MedicalNewsToday](https://www.medicalnewstoday.com/).
+This search engine is able to perform Boolean search, TF-IDF search or semantic search with sBERT, retrieving medical text data from [MedicalNewsToday](https://www.medicalnewstoday.com/).  
 
 Besides the search engine, our project also contains a scraper, which performs automatic scrapping on [MedicalNewsToday](https://www.medicalnewstoday.com/) and medical NER that we use for plotting.  
-All the code also contains comments about what it does, so you can easily find out how how exactly everything works if you wish so.
+All the code also contains comments about what it does, so you can easily find out how how exactly everything works if you wish so.  
 
-Contributed by Artur, Baiyi and Chao (ABC are our initials).
+Contributed by Artur, Baiyi and Chao (ABC are our initials).  
 
 **Use instructions:**
-
 1. Git clone "git clone https://github.com/Arbruiser/ABC_search.git".
 2. In the venv run "pip3 install ." to install all the necessary dependencies automatically.
 3. Run the command ./run_site from the root of the repository to automatically get the website running.
@@ -44,7 +43,7 @@ Contains our CSS, background and images of funny animals that are used when the 
 Contains html files.       
      
      
-**Major updates:**
+### **Major updates:**
 
 Major updates: Update: 2024-02-22
 1. Inplement the search with Medical NER model.
