@@ -58,15 +58,11 @@
       {% for item in results[1:] %}
       <tr>
         <th>Title</th>
-        <td>{{ item.title }}</td>
+        <td><a href="{{ item.url }}">{{ item.title }}</a></td>
       </tr>
       <tr>
         <th>Preview</th>
         <td>{{ item.preview }}</td>
-      </tr>
-      <tr>
-        <th>URL</th>
-        <td><a href="{{ item.url }}">{{ item.url }}</a></td>
       </tr>
       <!-- Adding more space between each block of output -->
       <tr class="spacer">
