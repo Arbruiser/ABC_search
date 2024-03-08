@@ -1,7 +1,8 @@
 # ABC_search
 This search engine is able to perform Boolean search, TF-IDF search or semantic search with sBERT, retrieving medical text data from [MedicalNewsToday](https://www.medicalnewstoday.com/).
 
-Besides the search engine, our project also contains a scraper, which performs automatic scrapping on [MedicalNewsToday](https://www.medicalnewstoday.com/) and medical NER that we use for plotting. 
+Besides the search engine, our project also contains a scraper, which performs automatic scrapping on [MedicalNewsToday](https://www.medicalnewstoday.com/) and medical NER that we use for plotting.  
+All the code also contains comments about what it does, so you can easily find out how how exactly everything works if you wish so.
 
 Contributed by Artur, Baiyi and Chao (ABC are our initials).
 
@@ -14,10 +15,10 @@ Contributed by Artur, Baiyi and Chao (ABC are our initials).
 
 # Description of files:
 ### **ABC_search/** :   
-_de_duplicate.ipynb_ -  
+_de_duplicate.ipynb_ -  deletes duplicate documents
 _medical_document.txt_ - our collection of scraped articles which are separated by double new lines. Each article consists of link to the original, the title and the body of the article. Each sentence is its own line.  
 _run_site.sh_ - automatically runs the website in debugging mode   
-_scraper.ipynb_ - 
+_scraper.ipynb_ - scrapes the aforementioned website which publishes medical articles 
 _setup.py_ - Stores all the necessary dependencies for you to easily install  
 
 
@@ -29,7 +30,7 @@ _search.py_ - Our search algorithm with Boolean, TF-IDF and semantic searches.
 Our sBERT model 
 
 ### **ABC_search/Site/NER_and_plotting** :
-_NER.py_ -
+_NER.py_ - runs Medical NER from HuggingFace. [Clinical-AI-Apollo/Medical-NER](https://huggingface.co/Clinical-AI-Apollo/Medical-NER)
 _NERed_recent_medical_documents.json - 
 _plotting_regular.py_ - 
 _plotting_regular_NER.py_ - 
