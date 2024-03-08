@@ -12,7 +12,7 @@ Contributed by Artur, Baiyi and Chao (ABC are our initials).
 2. In the venv run "pip3 install ." to install all the necessary dependencies automatically.
 3. Run the command ./run_site from the root of the repository to automatically get the website running.
 4. Open http://127.0.0.1:8000 in your browser.
-
+  
 # Description of files:
 ### **ABC_search/** :   
 _de_duplicate.ipynb_ -  deletes duplicate lines and removes or adds new lines where necessary.  
@@ -25,10 +25,10 @@ _setup.py_ - Stores all the necessary dependencies for you to easily install.
 ### **ABC_search/Site** :
 _app.py_ - Flask script that runs the website.
 _search.py_ - the main search algorithm with Boolean, TF-IDF and semantic searches. 
-
+  
 ### **ABC_search/Site/all-MiniLM-L6-v2** :
-Our sBERT model 
-
+Our sBERT model  
+  
 ### **ABC_search/Site/NER_and_plotting** :
 _NER.py_ - runs Medical NER from HuggingFace. [Clinical-AI-Apollo/Medical-NER](https://huggingface.co/Clinical-AI-Apollo/Medical-NER). It runs over 50 latest articles and stores the output in _NERed_recent_medical_documents.json_  
 _NERed_recent_medical_documents.json_ - serialised output of _NER.py_ used for plotting.  
