@@ -11,7 +11,7 @@ stop_words = set(stopwords.words("english"))
 # nltk.download('punkt')
 
 mlp.use("Agg")
-fpath = "Site/medical_document.txt"
+fpath = "medical_document.txt"
 with open(fpath, "r", encoding="utf-8") as f:
     text = f.read()
 
@@ -30,7 +30,7 @@ most_common_all = dict(all_words_freq.most_common(30))
 # Create horizontal bar plot
 plt.figure(figsize=(10, 5))
 plt.bar(most_common_all.keys(), most_common_all.values(), color="darkorchid")
-plt.title("Word Frequency for All Documents")
+plt.title("Simple word frequency, no NER")
 plt.grid(axis="y", linestyle="-", linewidth=0.2)  # Adds thin horizontal gridlines
 plt.ylabel("Frequency")
 plt.xticks(rotation=45, ha="right")
@@ -40,7 +40,7 @@ plt.savefig(f"Site/static/Plots/word_freq_no_NER_horizontal.png")
 # vertical bar plot
 plt.figure(figsize=(10, 8))
 plt.barh(list(most_common_all.keys()), list(most_common_all.values()), color="darkorchid")  # can change it to vertical plot
-plt.title("Word Frequency for All Documents")
+plt.title("Simple word frequency, no NER")
 plt.grid(axis="x", linestyle="-", linewidth=0.2)  # Adds thin horizontal gridlines
 plt.ylabel("Frequency")
 plt.xticks(rotation=45, ha="right")

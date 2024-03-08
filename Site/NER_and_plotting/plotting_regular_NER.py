@@ -1,15 +1,12 @@
 #!/usr/bin/python3
-# this script plots the frequency over our recent medical documents excluding stop words
+# this script plots NER entity frequency over our recent medical documents excluding stop words
 import matplotlib.pyplot as plt
 import matplotlib as mlp
 import nltk
 import json
-
-# nltk.download('stopwords') # uncomment these if you don't yet have them
 from nltk.corpus import stopwords
 
 stop_words = set(stopwords.words("english"))
-# nltk.download('punkt')
 
 mlp.use("Agg")
 fpath = "Site/NER_and_plotting/NERed_recent_medical_documents.json"

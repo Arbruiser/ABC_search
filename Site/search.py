@@ -44,6 +44,7 @@ import numpy as np
 import re
 import nltk
 from nltk.stem import PorterStemmer
+from nltk.tokenize import word_tokenize
 from colorama import Fore, Style
 
 stemmer = PorterStemmer()  # let's use the basic stemmer
@@ -63,12 +64,8 @@ for i in range(len(documents)):
 
 # Remove the httplinks and titles from the documents. Also delete the new lines.
 for i in range(len(documents)):
-    documents[i] = (
-        documents[i].replace(httplinks[i], "").replace("\n", " ").strip()
-    )  # replace remaining newline characters with space.
-    documents[i] = (
-        documents[i].replace(titles[i], "").replace("\n", " ").strip()
-    )  # replace remaining newline characters with space.
+    documents[i] = (documents[i].replace(httplinks[i], "").replace("\n", " ").strip())  # replace remaining newline characters with space.
+    documents[i] = (documents[i].replace(titles[i], "").replace("\n", " ").strip())  # replace remaining newline characters with space.
 
 
 # Segment the documents into sentences
@@ -77,41 +74,17 @@ stemmed_documents_lists = []  # list of lists
 stemmed_documents = []  # list of strings
 documents_lists = []  # again list of lists
 
-
 for document in documents:
-    temp_sentences_unstemmed = re.split(
-        "([.!?])\s+", document
-    )  # here we split the sentences with delimiters being their own elements in the list. However, that's unnecessary now because in our doc each line is a sentence. We don't know if it stays that way, so let's keep it.
+    temp_sentences_unstemmed = re.split("([.!?])\s+", document)  # here we split the sentences with delimiters being their own elements in the list. However, that's unnecessary now because in our doc each line is a sentence. We don't know if it stays that way, so let's keep it.
     # next line joins the delimiters with the previous sentence (don't worry about it)
-    sub_doc = [
-        temp_sentences_unstemmed[i]
-        + (
-            temp_sentences_unstemmed[i + 1]
-            if i + 1 < len(temp_sentences_unstemmed)
-            else ""
-        )
-        for i in range(0, len(temp_sentences_unstemmed), 2)
-    ]
+    sub_doc = [temp_sentences_unstemmed[i]+ (temp_sentences_unstemmed[i + 1] if i + 1 < len(temp_sentences_unstemmed) else "") for i in range(0, len(temp_sentences_unstemmed), 2)]
     documents_lists.append(sub_doc)
-    #TODO: need to split the words with punctuation
-    document = document.split()  # split the doc into words to prepare it for stemming 
-    stemmed_document = " ".join(
-        [stemmer.stem(word) for word in document]
-    )  # stem and join the text back
-    stemmed_documents.append(
-        stemmed_document
-    )  # this produces a list of strings that we use for TF-IDF
-    temp_sentences_stemmed = re.split(
-        "([.!?])\s+", stemmed_document
-    )  # the same splitting with .!? as delimiters
-    sub_stemmed_doc = [
-        temp_sentences_stemmed[i]
-        + (temp_sentences_stemmed[i + 1] if i + 1 < len(temp_sentences_stemmed) else "")
-        for i in range(0, len(temp_sentences_stemmed), 2)
-    ]
-    stemmed_documents_lists.append(
-        sub_stemmed_doc
-    )  # this now produces a list of our docs, where each doc is a list of sentences. This is only for context.
+    document = word_tokenize(document)    # split the doc into words to prepare it for stemming 
+    stemmed_document = " ".join([stemmer.stem(word) for word in document])  # stem and join the text back
+    stemmed_documents.append(stemmed_document)  # this produces a list of strings that we use for TF-IDF
+    temp_sentences_stemmed = re.split("([.!?])\s+", stemmed_document)  # the same splitting with .!? as delimiters
+    sub_stemmed_doc = [temp_sentences_stemmed[i] + (temp_sentences_stemmed[i + 1] if i + 1 < len(temp_sentences_stemmed) else "") for i in range(0, len(temp_sentences_stemmed), 2)]
+    stemmed_documents_lists.append(sub_stemmed_doc)  # this now produces a list of our docs, where each doc is a list of sentences. This is only for context.
 
 
 # Boolean search
@@ -146,9 +119,7 @@ def rewrite_query(query):  # rewrite every token in the query
     return " ".join(rewrite_token(t) for t in query.split())
 
 
-sparse_td_matrix = (
-    sparse_matrix.T.tocsr()
-)  # makes the matrix ordered by terms, not documents
+sparse_td_matrix = (sparse_matrix.T.tocsr())  # makes the matrix ordered by terms, not documents
 
 
 def boolean_return(user_query):
@@ -183,14 +154,10 @@ def search_with_TFIDF(user_query, query_string, exact_match=False):
     hits = np.dot(query_vec, tf_idf_matrix)
     # print(len(hits))
     # Rank hits
-    ranked_scores_and_doc_ids = sorted(
-        zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True
-    )
+    ranked_scores_and_doc_ids = sorted(zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True)
 
     results = []  # Initialize an empty list to store results
-    results.append(
-        f"Query: {user_query}"
-    )  # Append the query to the results list as the first element
+    results.append(f"Query: {user_query}")  # Append the query to the results list as the first element
 
     seen_doc_indices = set()
     unique_docs_found = 0
@@ -256,9 +223,7 @@ def search_with_embeddings(query):
     ranked_doc_indices = np.argsort(-cosine_scores.cpu().numpy())
 
     results = []  # Initialize an empty list to store results
-    results.append(
-        f"Query: {query}"
-    )  # Append the query to the results list as the first element
+    results.append(f"Query: {query}")  # Append the query to the results list as the first element
     # Display top 3 similar documents, do not show the duplicates
     unique_docs_found = 0
     seen_doc_indices = set()
