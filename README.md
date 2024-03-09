@@ -15,7 +15,6 @@ Contributed by Artur, Baiyi and Chao (ABC are our initials).
 ## Description of files:
 ### **ABC_search/** :   
 _de_duplicate.ipynb_ -  raw text processing
-
 _medical_document.txt_ - our collection of scraped articles which are separated by double new lines. Each article consists of link to the original, the title and the body of the article. Each sentence is its own line.  
 _run_site.sh_ - automatically runs the website in debugging mode.   
 _scraper.ipynb_ - scrapes the aforementioned website which publishes medical articles. 
