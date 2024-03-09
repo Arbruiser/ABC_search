@@ -14,5 +14,6 @@ setup(
         "flask>=3.0.0",
         "matplotlib>=3.7.0",
         "transformers>=4.37.2",
+        "torch>=2.0.0",
     ],
 )
