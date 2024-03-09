@@ -51,6 +51,15 @@ body {
   margin-right: 5px;
   margin-bottom: 2%;
 }
+.search-results-count {
+  text-align: center; /* Centers the text horizontally */
+  margin-top: 10px; /* Adds some space above the results count */
+  margin-bottom: 10px; /* Adds some space below the results count */
+  padding: 5px;
+  font-size: 18px; /* Adjusts the font size */
+  color: #333; /* Sets the text color */
+}
+
 
   /* Add padding directly to the table element */
 table {

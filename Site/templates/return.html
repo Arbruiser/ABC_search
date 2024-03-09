@@ -52,13 +52,20 @@
       </div>
     </form>
     <!-- need more space here. Will define it in CSS -->
-</div>  
+</div>
+
+<!-- Display total number of search results -->
+<div class="search-results-count">
+  Total results found: {{ result_num }} (about {{ time_taken }} seconds)
+</div>
+
     <table>
       <!-- Adjusted loop to skip the first item (query) -->
       {% for item in results[1:] %}
       <tr>
         <th>Title</th>
-        <td><a href="{{ item.url }}">{{ item.title }}</a>&emsp; Score: {{ item.score }}</td>
+        <td><a href="{{ item.url }}">{{ item.title }}</a>&emsp; Score: {{ item.score }}
+        </td>
       </tr>
       <tr>
         <th>Preview</th>

@@ -2,7 +2,7 @@ from flask import Flask, render_template, url_for, request, redirect
 from search import function_query
 import random
 import os
-
+import time
 app = Flask(__name__)
 
 
@@ -24,26 +24,27 @@ def search(query, search_method):
     # You can now use the search_method value to determine how to process the query
     if search_method == "Boolean Search":
         # Process the query using Boolean search
+        start_time = time.time()
+        results,result_num= function_query(bort="b", user_query=query)
+        end_time = time.time()
 
-        results = function_query(bort="b", user_query=query)
     elif search_method == "TF-IDF Search":
         # Process the query using TFIDF
-    
-        results = function_query(bort="t", user_query=query)
-        print(results)
+        start_time = time.time()
+        results,result_num = function_query(bort="t", user_query=query)
+        end_time = time.time()
+
     elif search_method == "Semantic Search":
         # Process the query using Fuzzy search
         # results = f"Fuzzy search for '{query}'"
-        results = function_query(bort="s", user_query=query)
+        start_time = time.time()
+        results,result_num = function_query(bort="s", user_query=query)
+        end_time = time.time()
         
-        
-    else:  # apparently this does nothing now and can be deleted
-        # Default case or error handling
-        results = "Invalid search method selected."
-
     if results:
         # return results
-        return render_template("return.html", results=results)
+        time_taken = round(end_time - start_time,2)
+        return render_template("return.html", results=results,result_num=result_num,time_taken=time_taken)
     else:
         # Get the path to the folder containing the funny animal images
         folder_path = "Site/static/css/Crash_animals"

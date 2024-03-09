@@ -1,42 +1,5 @@
 #!/usr/bin/env python3
-"""
-Major updates: Update: 2024-02-22
-1. Inplement the search with Medical NER model.
-2. Add a new page to display the plots of the NER model.
-3. Now flask is correctly rendering the results from the search function.
-4. Make the front end more user friendly and appealing.
-5. Added more documents to the medical_document.txt file.
 
-Future work:
-1. Keep improving the front end.(Add back buttons, plots, etc.)
-2. Fix the bug that the TF-IDF search cannot handle the query with quotes (IMPORTANT).
-
-Major updates: Update: 2024-02-15
-1. Integrate the search with flask so we have a web interface.
-
-Future work:
-Improve the return format. Use flask to return the results in a better format.(Done)
-
-Update: 2024-02-08
-1. Added the fuzzy search using sentence-transformers. Now the user can choose between Boolean, TF-IDF, and fuzzy search.
-2. When user's query contains quotes, the program will not stem the word in the quotes. 
-
-Bug fixed:
-The top 3 results now will be unique.
-
-Future work:
-Improve the exact match logic. Now it only checks if there are any quote symbols in the query.
-We need the program to match the word between quotes exactly rather than just checking if there are quotes in the query.
-
-Update: 2024-02-07
-1. Integrate the query function, now the query will ask user to choose between Boolean and TF-IDF search.
-2. Added colorama to highlight the context of the query (only on boolean search result for testing).
-
-Future work:
-- If the word in the query is between quotes, do not stem the word. 
-
-Please refer to Readme.md for ancient update logs.
-"""
 # import dependencies
 from sentence_transformers import SentenceTransformer, util
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
@@ -45,7 +8,9 @@ import re
 import nltk
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
-from colorama import Fore, Style
+
+
+
 
 stemmer = PorterStemmer()  # let's use the basic stemmer
 
@@ -88,14 +53,21 @@ for document in documents:
 
 
 # Boolean search
+# The boolean search will prioritize the titles
 # Make a boolean matrix of our terms and convert it to dense
-cv = CountVectorizer(lowercase=True, binary=True)
-sparse_matrix = cv.fit_transform(documents)
-dense_matrix = sparse_matrix.todense()
+cv_titles = CountVectorizer(lowercase=True, binary=True)
+sparse_matrix_titles = cv_titles.fit_transform(titles) 
+dense_matrix_titles = sparse_matrix_titles.todense()
+td_matrix_titles = dense_matrix_titles.T
+t2i_titles = cv_titles.vocabulary_  # The dictionary for query
 
-td_matrix = dense_matrix.T  # .T transposes the matrix
+# if the query is not in the titles, it will search in the documents
+cv_documents = CountVectorizer(lowercase=True, binary=True)
+sparse_matrix_documents = cv_documents.fit_transform(documents)
+dense_matrix_documents = sparse_matrix_documents.todense()
+td_matrix_documents = dense_matrix_documents.T  # .T transposes the matrix
+t2i_documents = cv_documents.vocabulary_ # The dictionary for query
 
-t2i = cv.vocabulary_  # The dictionary for query
 
 # Boolean operands
 d = {
@@ -111,15 +83,24 @@ d = {
 
 
 def rewrite_token(t):
-    # when we detect and/or/not we replace them with our operands
-    return d.get(t, 'td_matrix[t2i["{:s}"]]'.format(t))
+    # Attempt to find the term in titles or documents
+    term_in_titles = f'td_matrix_titles[t2i_titles.get("{t}", -1)]' if t in t2i_titles else None
+    term_in_documents = f'td_matrix_documents[t2i_documents.get("{t}", -1)]' if t in t2i_documents else None
+    
+    if term_in_titles:
+        return term_in_titles
+    elif term_in_documents:
+        return term_in_documents
+    else:
+        # Handle case where term is not found in either titles or documents
+        return "np.zeros_like(td_matrix_documents[0])"  # Return a zero matrix of the same shape
 
 
 def rewrite_query(query):  # rewrite every token in the query
     return " ".join(rewrite_token(t) for t in query.split())
 
-
-sparse_td_matrix = (sparse_matrix.T.tocsr())  # makes the matrix ordered by terms, not documents
+sparse_td_matrix_titles = (sparse_matrix_titles.T.tocsr())
+sparse_td_matrix_documents = (sparse_matrix_documents.T.tocsr()) 
 
 
 def boolean_return(user_query):
@@ -128,7 +109,7 @@ def boolean_return(user_query):
         hits_list = list(hits_matrix.nonzero()[1])
 
         result = [f"Query: {user_query}"]
-        for doc_idx in hits_list[:10]:
+        for doc_idx in hits_list[:99]:
             doc_result = {
                 "title": titles[doc_idx],
                 "url": httplinks[doc_idx],
@@ -136,9 +117,9 @@ def boolean_return(user_query):
                 "preview": documents[doc_idx][:150] + "...",
             }
             result.append(doc_result)
-        return result
+        return result, len(hits_list)
     except:
-        print("Invalid query, please try again.")
+        pass
 
 
 # TF-IDF search
@@ -152,10 +133,9 @@ def search_with_TFIDF(user_query, query_string, exact_match=False):
     # print((query_vec))
     # Cosine similarity
     hits = np.dot(query_vec, tf_idf_matrix)
-    # print(len(hits))
     # Rank hits
     ranked_scores_and_doc_ids = sorted(zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True)
-
+    # print(ranked_scores_and_doc_ids)
     results = []  # Initialize an empty list to store results
     results.append(f"Query: {user_query}")  # Append the query to the results list as the first element
 
@@ -174,13 +154,16 @@ def search_with_TFIDF(user_query, query_string, exact_match=False):
             "url": httplinks[doc_idx],
             "preview": "",
         }
-
+        # print(doc_result)
         # Check for sentence matches
         if not exact_match:  # if the query is not an exact match
             for j, stemmed_sentence in enumerate(stemmed_documents_lists[doc_idx]):
                 if any(word in stemmed_sentence for word in query_string.split()):
-                    doc_result["preview"] = documents_lists[doc_idx][j]
-                    break  # Break after the first match to avoid printing multiple sentences from the same document
+                    try:
+                        doc_result["preview"] = documents_lists[doc_idx][j]
+                        break  # Break after the first match to avoid printing multiple sentences from the same document
+                    except:
+                        pass
         else:  # if the query is an exact match
             for j, sentence in enumerate(documents_lists[doc_idx]):
                 query_words = set(query_string.split())
@@ -191,13 +174,13 @@ def search_with_TFIDF(user_query, query_string, exact_match=False):
                     break  # Break after the first match to avoid printing multiple sentences from the same document
 
         results.append(doc_result)  # Append the result dict to the results list
-
+        # print(results)
         seen_doc_indices.add(doc_idx)
         unique_docs_found += 1
-        if unique_docs_found == 10:  # Stop after finding 3 unique documents
+        if unique_docs_found == 99:  # Stop after finding 99 unique documents
             break
-
-    return results
+    # print([results, unique_docs_found])
+    return [results, unique_docs_found]
 
 
 # Sentence Bert
@@ -230,6 +213,8 @@ def search_with_embeddings(query):
     for idx in ranked_doc_indices:
         if idx in seen_doc_indices:
             continue
+        elif cosine_scores[idx].item() < 0.2:  # Stop searching when the score is below 0.2
+            break
         else:
             doc_result = {
                 "title": titles[idx],
@@ -241,10 +226,10 @@ def search_with_embeddings(query):
 
             seen_doc_indices.add(idx)
             unique_docs_found += 1
-            if unique_docs_found == 10:  # Stop after finding 3 unique documents
+            if unique_docs_found == 99:  # Stop after finding 99 unique documents
                 break
 
-    return results
+    return results,unique_docs_found
 
 
 # QUERY
@@ -253,6 +238,7 @@ def search_with_embeddings(query):
 def function_query(bort, user_query):
 
     if bort == "b":
+        
         return boolean_return(user_query)
 
     # using TF-IDF search
@@ -263,15 +249,16 @@ def function_query(bort, user_query):
             quoted_query = user_query
             user_query = user_query.replace('"', "")
             stemmed_query = user_query
-
             return search_with_TFIDF(quoted_query, stemmed_query, exact_match=True)
         else:
             stemmed_query = " ".join(stemmer.stem(word) for word in user_query.split())
-
-            try:
+            # print(stemmed_query)
+            
+            if search_with_TFIDF(user_query, stemmed_query, exact_match=False) is None:
+                print("No results found.")
+                
+            else:
                 return search_with_TFIDF(user_query, stemmed_query, exact_match=False)
-            except:
-                pass
 
     # using fuzzy search
     elif bort == "s":
