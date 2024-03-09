@@ -8,6 +8,8 @@ import re
 import nltk
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
+import os
+import torch
 
 
 
@@ -192,39 +194,63 @@ model = SentenceTransformer("Site/all-MiniLM-L6-v2")
 
 # Assuming `documents` is a list of your document texts
 # Compute embeddings for all documents (ideally done once and cached)
-document_embeddings = model.encode(documents_lists, convert_to_tensor=True)
+# document_embeddings = model.encode(documents_lists, convert_to_tensor=True)
 
+# Flatten the list of lists into a single list of sentences
+all_sentences = [sentence for document in documents_lists for sentence in document]
+
+# Compute embeddings for all sentences
+# try to load the embeddings from a file if it exists to save time
+file_path = "Site/all-MiniLM-L6-v2/sentence_embeddings.pt"
+
+if os.path.exists(file_path):
+    sentence_embeddings = torch.load(file_path)
+else: # if the file doesn't exist, then compute
+    sentence_embeddings = model.encode(all_sentences, convert_to_tensor=True)
+    torch.save(sentence_embeddings, "Site/all-MiniLM-L6-v2/sentence_embeddings.pt")
+
+# Create a mapping of sentences to their parent document index    
+sentence_to_doc_index = []
+for doc_index, document in enumerate(documents_lists):
+    for sentence in document:
+        sentence_to_doc_index.append(doc_index)
 
 def search_with_embeddings(query):
     # Encode the query to get its embedding
     query_embedding = model.encode(query, convert_to_tensor=True)
-
+    # print(f"query_embedding shape: {query_embedding.shape}")
+    # print(f"sentence_embeddings shape: {sentence_embeddings.shape}")
     # Compute cosine similarities
-    cosine_scores = util.pytorch_cos_sim(query_embedding, document_embeddings)[0]
 
-    # Rank documents based on the cosine similarity
-    ranked_doc_indices = np.argsort(-cosine_scores.cpu().numpy())
+    cosine_scores = util.pytorch_cos_sim(query_embedding, sentence_embeddings)[0]
+
+    # Rank sentences based on the cosine similarity
+    ranked_sentences_indices = np.argsort(-cosine_scores.cpu().numpy())
 
     results = []  # Initialize an empty list to store results
     results.append(f"Query: {query}")  # Append the query to the results list as the first element
     # Display top 3 similar documents, do not show the duplicates
     unique_docs_found = 0
     seen_doc_indices = set()
-    for idx in ranked_doc_indices:
-        if idx in seen_doc_indices:
+    for idx in ranked_sentences_indices:
+        doc_index = sentence_to_doc_index[idx]
+        if doc_index in seen_doc_indices:
             continue
-        elif cosine_scores[idx].item() < 0.2:  # Stop searching when the score is below 0.2
+        # if the matched sentence is too short, skip it
+        if len(all_sentences[idx]) < 25:
+            continue
+        elif cosine_scores[idx].item() < 0.25:  # Stop searching when the score is below 0.2
             break
         else:
             doc_result = {
-                "title": titles[idx],
+                "title": titles[doc_index],
                 "score": f"{cosine_scores[idx].item():.2f}",
-                "url": httplinks[idx],
-                "preview": f"{documents[idx][:150]}...",  # Display first 150 characters as a preview
+                "url": httplinks[doc_index],
+                "preview": f"{all_sentences[idx]}",  # Display first 150 characters as a preview
             }
             results.append(doc_result)  # Append the result dict to the results list
 
-            seen_doc_indices.add(idx)
+            seen_doc_indices.add(doc_index)
             unique_docs_found += 1
             if unique_docs_found == 99:  # Stop after finding 99 unique documents
                 break
