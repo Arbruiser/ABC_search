@@ -14,15 +14,15 @@ Contributed by Artur, Baiyi and Chao (ABC are our initials).
   
 ## Description of files:
 ### **ABC_search/** :   
-_de_duplicate.ipynb_ -  raw text processing
+_de_duplicate.ipynb_ -  raw text processing  
 _medical_document.txt_ - our collection of scraped articles which are separated by double new lines. Each article consists of link to the original, the title and the body of the article. Each sentence is its own line.  
 _run_site.sh_ - automatically runs the website in debugging mode.   
-_scraper.ipynb_ - scrapes the aforementioned website which publishes medical articles. 
+_scraper.ipynb_ - scrapes the aforementioned website which publishes medical articles.  
 _setup.py_ - Stores all the necessary dependencies for you to easily install.    
     
     
 ### **ABC_search/Site** :
-_app.py_ - Flask script that runs the website.
+_app.py_ - Flask script that runs the website.  
 _search.py_ - the main search algorithm with Boolean, TF-IDF and semantic searches. 
   
 ### **ABC_search/Site/all-MiniLM-L6-v2** :
