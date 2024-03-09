@@ -25,7 +25,7 @@ def search(query, search_method):
     if search_method == "Boolean Search":
         # Process the query using Boolean search
         start_time = time.time()
-        results,result_num= function_query(bort="b", user_query=query)
+        results,result_num = function_query(bort="b", user_query=query)
         end_time = time.time()
 
     elif search_method == "TF-IDF Search":

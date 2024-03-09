@@ -121,7 +121,7 @@ def boolean_return(user_query):
             result.append(doc_result)
         return result, len(hits_list)
     except:
-        pass
+        return [None,None]
 
 
 # TF-IDF search
@@ -131,58 +131,61 @@ tf_idf_matrix = tfidf.fit_transform(stemmed_documents).T.tocsr()  # using stemme
 
 def search_with_TFIDF(user_query, query_string, exact_match=False):
     # Vectorize query string
-    query_vec = tfidf.transform([query_string]).tocsc()
-    # print((query_vec))
-    # Cosine similarity
-    hits = np.dot(query_vec, tf_idf_matrix)
-    # Rank hits
-    ranked_scores_and_doc_ids = sorted(zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True)
-    # print(ranked_scores_and_doc_ids)
-    results = []  # Initialize an empty list to store results
-    results.append(f"Query: {user_query}")  # Append the query to the results list as the first element
+    try:
+        query_vec = tfidf.transform([query_string]).tocsc()
+        # Cosine similarity
+        # if np.dot(query_vec, tf_idf_matrix):
+        hits = np.dot(query_vec, tf_idf_matrix)
+        # Rank hits
+        ranked_scores_and_doc_ids = sorted(zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True)
+        # print(ranked_scores_and_doc_ids)
+        results = []  # Initialize an empty list to store results
+        results.append(f"Query: {user_query}")  # Append the query to the results list as the first element
 
-    seen_doc_indices = set()
-    unique_docs_found = 0
+        seen_doc_indices = set()
+        unique_docs_found = 0
 
-    # Loop through ranked documents
-    for i, (score, doc_idx) in enumerate(ranked_scores_and_doc_ids):
-        # Skip if we've already seen this document
-        if doc_idx in seen_doc_indices:
-            continue
+        # Loop through ranked documents
+        for i, (score, doc_idx) in enumerate(ranked_scores_and_doc_ids):
+            # Skip if we've already seen this document
+            if doc_idx in seen_doc_indices:
+                continue
 
-        doc_result = {
-            "title": titles[doc_idx],
-            "score": round(score, 2),
-            "url": httplinks[doc_idx],
-            "preview": "",
-        }
-        # print(doc_result)
-        # Check for sentence matches
-        if not exact_match:  # if the query is not an exact match
-            for j, stemmed_sentence in enumerate(stemmed_documents_lists[doc_idx]):
-                if any(word in stemmed_sentence for word in query_string.split()):
-                    try:
+            doc_result = {
+                "title": titles[doc_idx],
+                "score": round(score, 2),
+                "url": httplinks[doc_idx],
+                "preview": "",
+            }
+            # print(doc_result)
+            # Check for sentence matches
+            if not exact_match:  # if the query is not an exact match
+                for j, stemmed_sentence in enumerate(stemmed_documents_lists[doc_idx]):
+                    if any(word in stemmed_sentence for word in query_string.split()):
+                        try:
+                            doc_result["preview"] = documents_lists[doc_idx][j]
+                            break  # Break after the first match to avoid printing multiple sentences from the same document
+                        except:
+                            pass
+            else:  # if the query is an exact match
+                for j, sentence in enumerate(documents_lists[doc_idx]):
+                    query_words = set(query_string.split())
+                    sentence_words = set(sentence.split())
+
+                    if query_words.intersection(sentence_words):
                         doc_result["preview"] = documents_lists[doc_idx][j]
                         break  # Break after the first match to avoid printing multiple sentences from the same document
-                    except:
-                        pass
-        else:  # if the query is an exact match
-            for j, sentence in enumerate(documents_lists[doc_idx]):
-                query_words = set(query_string.split())
-                sentence_words = set(sentence.split())
 
-                if query_words.intersection(sentence_words):
-                    doc_result["preview"] = documents_lists[doc_idx][j]
-                    break  # Break after the first match to avoid printing multiple sentences from the same document
+            results.append(doc_result)  # Append the result dict to the results list
+            # print(results)
+            seen_doc_indices.add(doc_idx)
+            unique_docs_found += 1
+            if unique_docs_found == 99:  # Stop after finding 99 unique documents
+                break
 
-        results.append(doc_result)  # Append the result dict to the results list
-        # print(results)
-        seen_doc_indices.add(doc_idx)
-        unique_docs_found += 1
-        if unique_docs_found == 99:  # Stop after finding 99 unique documents
-            break
-    # print([results, unique_docs_found])
-    return [results, unique_docs_found]
+        return [results, unique_docs_found]
+    except:
+        return [None,None]
 
 
 # Sentence Bert
@@ -190,11 +193,6 @@ def search_with_TFIDF(user_query, query_string, exact_match=False):
 # model.save(path="all-MiniLM-L6-v2")
 # Load Sentence-BERT model
 model = SentenceTransformer("Site/all-MiniLM-L6-v2")
-
-
-# Assuming `documents` is a list of your document texts
-# Compute embeddings for all documents (ideally done once and cached)
-# document_embeddings = model.encode(documents_lists, convert_to_tensor=True)
 
 # Flatten the list of lists into a single list of sentences
 all_sentences = [sentence for document in documents_lists for sentence in document]
@@ -269,7 +267,6 @@ def function_query(bort, user_query):
 
     # using TF-IDF search
     elif bort == "t":
-
         if '"' in user_query or "'" in user_query:    # if the query contains quotes, skip the stemming
             # replace " with space
             quoted_query = user_query
@@ -278,13 +275,8 @@ def function_query(bort, user_query):
             return search_with_TFIDF(quoted_query, stemmed_query, exact_match=True)
         else:
             stemmed_query = " ".join(stemmer.stem(word) for word in user_query.split())
-            # print(stemmed_query)
-            
-            if search_with_TFIDF(user_query, stemmed_query, exact_match=False) is None:
-                print("No results found.")
-                
-            else:
-                return search_with_TFIDF(user_query, stemmed_query, exact_match=False)
+            print(stemmed_query)
+            return search_with_TFIDF(user_query, stemmed_query, exact_match=False)
 
     # using fuzzy search
     elif bort == "s":
@@ -293,8 +285,7 @@ def function_query(bort, user_query):
     # elif bort == "":
     #     break
     else:
-        print("Invalid input. Please try again.")
-        print()  # if the user hits enter, the program will exit
+        pass
 
 
 if __name__ == "__main__":
