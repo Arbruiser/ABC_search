@@ -68,10 +68,11 @@ table {
 
 /* Allow content to wrap to the next line */
 td {
-  max-width: 650px; /* Adjust the width as needed */
+  max-width: 350px; /* Adjust the width as needed */
   word-wrap: break-word; /* Wrap long words */
   white-space: normal; /* Allow text to wrap */
 }
+
 /* .spacer {
   margin-bottom: 30px;
 } */
